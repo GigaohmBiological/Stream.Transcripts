@@ -1,0 +1,1856 @@
+WEBVTT
+
+00:00.000 --> 00:05.880
+Okay, we're going to try something here.
+
+00:05.880 --> 00:10.560
+I may have figured it out.
+
+00:10.560 --> 00:13.720
+Something may have happened with the monitor.
+
+00:13.720 --> 00:14.720
+How are we looking?
+
+00:14.720 --> 00:15.720
+Is that okay?
+
+00:15.720 --> 00:17.360
+Talk to me, Goose.
+
+00:17.360 --> 00:18.360
+Yeah?
+
+00:18.360 --> 00:20.720
+Did we figure it out?
+
+00:20.720 --> 00:23.320
+Oh, bless your heart.
+
+00:23.320 --> 00:24.880
+Thank you, sir.
+
+00:24.880 --> 00:25.880
+All right.
+
+00:26.880 --> 00:30.760
+I'm just going to run in a quick introduction here then.
+
+00:30.760 --> 00:32.880
+That's great.
+
+00:32.880 --> 00:50.880
+What do you mean no video?
+
+00:50.880 --> 01:04.880
+The family says it's perfect.
+
+01:04.880 --> 01:08.960
+I know this start, no one's kind of lame, but I like the video to be okay for the next
+
+01:08.960 --> 01:12.000
+person that falls on and I'll do a real quick intro, I promise.
+
+01:20.880 --> 01:26.880
+Still looking good?
+
+01:26.880 --> 01:30.880
+Still looking good?
+
+01:30.880 --> 01:33.440
+All right.
+
+01:33.440 --> 01:35.240
+Sweet.
+
+01:35.240 --> 01:37.440
+I figured it out.
+
+01:37.440 --> 01:44.880
+I think that might have been a problem for longer than all of you people have been telling
+
+01:44.880 --> 01:45.880
+me.
+
+01:45.880 --> 01:47.880
+What kind of chumps are you?
+
+01:47.880 --> 01:51.120
+You were telling me that it was out of sync.
+
+01:51.120 --> 01:54.760
+You should have been telling me a long time ago, I think.
+
+01:54.760 --> 01:55.760
+Darn it.
+
+01:55.760 --> 02:02.800
+Maybe not a long time ago, but a little while ago I changed settings on my big monitor and
+
+02:02.800 --> 02:10.840
+I didn't realize that that was challenging OBS to render it at a greater resolution on
+
+02:10.840 --> 02:11.840
+my screen.
+
+02:11.840 --> 02:22.560
+So that was actually taxing OBS just for this, just for me to see it, which is really funny.
+
+02:22.560 --> 02:24.960
+I totally built.
+
+02:24.960 --> 02:27.960
+So that was what it was.
+
+02:27.960 --> 02:28.960
+Zoinks.
+
+02:28.960 --> 02:34.120
+I used to be able to do that before my voice was destroying my mic.
+
+02:34.120 --> 02:40.120
+Well, thanks for coming back.
+
+02:40.120 --> 02:47.840
+Rodney Mullen recently had some surgery and is recovering and feeling like a million dollars
+
+02:47.840 --> 02:52.520
+and has had less pain in his legs and hips than he's had in years.
+
+02:52.520 --> 02:56.080
+I don't know if I'm allowed to tell you that, but I'm telling you anyway.
+
+02:56.080 --> 02:59.000
+I love that man.
+
+02:59.000 --> 03:05.120
+Hello, ladies and gentlemen, welcome to GIGO and biological.
+
+03:05.120 --> 03:10.480
+This is take three.
+
+03:10.480 --> 03:15.840
+Take three on the 12th of October, 2023.
+
+03:15.840 --> 03:20.960
+And yeah, I do sound different from JC on a bike because my voice is destroyed.
+
+03:20.960 --> 03:26.240
+I don't have the voice that I had when I was JC on a bike.
+
+03:26.240 --> 03:29.040
+It was deeper and louder and more powerful.
+
+03:29.040 --> 03:34.080
+I could blow the windows out of a car and now I can barely talk.
+
+03:34.080 --> 03:40.240
+I'm pretty sure it happened after I shook hands with Andrew Huff, but I don't know.
+
+03:40.240 --> 03:43.480
+I'm not going to blame it on anybody.
+
+03:43.480 --> 03:50.760
+But they are misleading the young.
+
+03:50.760 --> 03:55.760
+It was all that shouting in the corridors, perhaps indeed.
+
+03:56.760 --> 03:58.560
+Learn your history, ladies and gentlemen.
+
+03:58.560 --> 04:05.400
+Learn your biology is really important because the bricks at the back of the theater are
+
+04:05.400 --> 04:16.360
+visible and these things are true and I'm just going to flip through these real quick
+
+04:16.360 --> 04:20.640
+because, you know, I made a mistake a couple of times with this setup.
+
+04:20.640 --> 04:25.200
+It takes a while to learn how to do all this stuff.
+
+04:25.200 --> 04:32.480
+I don't want to, you know, toot anybody's horn for streaming.
+
+04:32.480 --> 04:38.600
+But you know, there's a little bit of finesse, there's a little bit of power point, there's
+
+04:38.600 --> 04:41.440
+a little bit of this, there's a little bit of that.
+
+04:41.440 --> 04:47.320
+It's an investment in time and energy that not everybody tends to put in.
+
+04:47.320 --> 04:50.360
+And I had it a little bit here and a little bit there.
+
+04:50.360 --> 04:54.400
+Thanks to my friend Hunter, I've been able to get a bunch of stuff out of the garbage
+
+04:54.400 --> 04:59.840
+can and that has really led to me having a pretty decent setup, but it acts funny
+
+04:59.840 --> 05:05.400
+because these items are not supposed to sing together the way they're singing together.
+
+05:05.400 --> 05:10.840
+And I keep making little changes that make it necessary to for me to relearn the thing
+
+05:10.840 --> 05:11.840
+a little bit.
+
+05:11.840 --> 05:20.240
+But don't take the bait on social media and on TV, the bait is, of course, this enticing
+
+05:20.240 --> 05:22.760
+mystery that we need to solve.
+
+05:22.800 --> 05:32.480
+And it is really, it is something that we have been lured into by a very elaborate theater.
+
+05:32.480 --> 05:39.320
+And so it is this elaborate theater that once we have identified it, once you see the bricks
+
+05:39.320 --> 05:45.400
+at the back of the theater, it's our job to take apart the scenery and try to argue for
+
+05:45.400 --> 05:46.400
+a refund, right?
+
+05:46.400 --> 05:52.200
+I mean, that's really where we should be thinking we are.
+
+05:52.200 --> 06:03.520
+And I started the previous two untimed streams with this idea that there were influencers
+
+06:03.520 --> 06:14.080
+on both sides of the narrative that were courting and coercing and cajoling people to believe
+
+06:14.080 --> 06:20.360
+what they wanted them to believe, not just on our side, not just the people that I've
+
+06:20.400 --> 06:22.800
+been talking about over here.
+
+06:22.800 --> 06:28.280
+But there are also people on the Fauci side who got into arguments.
+
+06:28.280 --> 06:34.280
+And on the Fauci side with with with Z dog that got into arguments about who's right
+
+06:34.280 --> 06:37.920
+and who's wrong and who's extreme and who isn't.
+
+06:37.920 --> 06:43.080
+And those people, as they argued, agreed that those people over there who are arguing are
+
+06:43.080 --> 06:45.800
+really crazy.
+
+06:45.800 --> 06:50.120
+And so when I show this illusion of consensus about gain of function viruses and about a
+
+06:50.120 --> 06:56.800
+lab leak, I'm really only showing you half of the, of the, in a cartoon, it would be
+
+06:56.800 --> 07:02.840
+this cloud of smoke and dust with like spiraling things going around it.
+
+07:02.840 --> 07:07.560
+It's this argument over here and then an argument over here and the agreement that you were
+
+07:07.560 --> 07:11.800
+in the right argument there in the wrong argument.
+
+07:11.800 --> 07:17.440
+So it's much more enticing than even just natural virus or lab leak, but it's the argument
+
+07:17.440 --> 07:21.240
+that occurred over here that was different than the argument that occurred over on our
+
+07:21.240 --> 07:24.520
+side.
+
+07:24.520 --> 07:30.000
+And parts of this illusion have been revealed as we've, we've tried to push through the
+
+07:30.000 --> 07:32.120
+weeds here.
+
+07:32.120 --> 07:39.200
+And you know, it, it, it happens that we've made very good friends with Denny Rancour
+
+07:39.200 --> 07:46.440
+and that he's doing a really good job of dispelling this mythology of a spreading viral
+
+07:46.440 --> 07:49.600
+pathogen.
+
+07:49.600 --> 07:53.880
+And we've had him on the show a couple times and more recently he was actually on Kim
+
+07:53.880 --> 07:54.880
+Iverson's show.
+
+07:54.880 --> 07:56.560
+And so I just wanted to play this again.
+
+07:56.560 --> 08:00.480
+I know if you've seen it, I apologize, I won't play much.
+
+08:00.480 --> 08:02.480
+It's only like four minutes.
+
+08:02.480 --> 08:08.240
+But it's really important to get it on here because Kim really does push back and actually
+
+08:08.240 --> 08:13.640
+does try to bait him about, you know, is there a virus or not and to get him to defend
+
+08:13.640 --> 08:15.560
+that position.
+
+08:15.560 --> 08:21.200
+And almost like an a keto master like Steven Segal, Kim Iverson is just on the mat.
+
+08:21.200 --> 08:23.800
+You don't even really know how it happened.
+
+08:23.800 --> 08:25.320
+And I am making a little joke there.
+
+08:25.320 --> 08:31.520
+Of course, I don't think Steven Segal and his I keto are, I don't know what they are.
+
+08:31.520 --> 08:33.000
+But anyway, I just started throwing it in there.
+
+08:33.000 --> 08:34.440
+I want to debate about that.
+
+08:34.440 --> 08:35.440
+I love a keto.
+
+08:36.200 --> 08:40.800
+Were there areas that had massive spikes of the virus the same as let's say Northern
+
+08:40.800 --> 08:45.360
+Italy or New York, but who did not use any of those treatment protocols, but stuck with
+
+08:45.360 --> 08:48.880
+the tried and true of how you deal with the respiratory illness.
+
+08:48.880 --> 08:56.840
+And yeah, okay, so that spike that initial spike you caused it due to the virus.
+
+08:56.840 --> 08:59.600
+You understand I'm arguing it's not due to a virus at all.
+
+08:59.600 --> 09:02.600
+It's due to the what with the measures that were applied.
+
+09:02.600 --> 09:04.400
+That's what killed people.
+
+09:04.840 --> 09:08.160
+What I'm saying though is that but but we did see a spot.
+
+09:08.160 --> 09:13.960
+I mean, are you I guess first we have to ask, do you believe that COVID-19 as a virus exists
+
+09:13.960 --> 09:17.680
+at all that SARS-CoV-2 exists?
+
+09:17.680 --> 09:19.240
+I think that question is irrelevant.
+
+09:19.240 --> 09:26.040
+What I'm trying to say is all the data that is a firm hard all-cause mortality data is
+
+09:26.040 --> 09:31.120
+inconsistent with the idea of a particularly virulent at the gym that spreads.
+
+09:31.120 --> 09:33.200
+It's inconsistent with that.
+
+09:33.200 --> 09:38.080
+So you can believe that there's a whole spectrum of viruses and bacteria, whatever
+
+09:38.080 --> 09:44.320
+you want, but there was nothing special or new in terms of these pathogens that did anything
+
+09:44.320 --> 09:47.440
+that spreads that the data is inconsistent with that.
+
+09:47.440 --> 09:52.400
+So you don't have to get into the question of whether or not viruses exist and all these
+
+09:52.400 --> 09:53.400
+exotic things.
+
+09:53.400 --> 09:54.640
+I don't even want to touch that.
+
+09:54.640 --> 10:02.800
+I'm just saying my view of the data is that this is not a spreading pathogen period.
+
+10:02.800 --> 10:03.800
+It's inconsistent with that.
+
+10:03.800 --> 10:06.960
+It's disproved by the data.
+
+10:06.960 --> 10:12.800
+But you asked the question, well, were there places where they weren't applying these these
+
+10:12.800 --> 10:16.480
+these very horrendous protocols and that still had spikes?
+
+10:16.480 --> 10:22.440
+Well, our data we've done studies about this and for example, Germany did not apply these
+
+10:22.440 --> 10:23.840
+fancy protocols.
+
+10:23.840 --> 10:28.760
+Germany did business as usual and had zero peak at the beginning of the pandemic.
+
+10:29.240 --> 10:33.840
+There is no signal there whatsoever in the entire territory of Germany.
+
+10:33.840 --> 10:40.520
+So when you make a map of Europe and you put colors on for the intensity of that peak,
+
+10:40.520 --> 10:46.560
+it's red in northern France, for example, around London, around Madrid.
+
+10:46.560 --> 10:52.440
+There's these horrible red spots and it does not cross the border into Germany whatsoever.
+
+10:52.440 --> 10:54.440
+Germany stays white on the map, if you like.
+
+10:54.440 --> 11:00.080
+But I guess what I'm saying is that, you know, as they were tracking the virus itself
+
+11:00.080 --> 11:04.920
+and the spread of the virus, they were saying then that the answer to that would be, well,
+
+11:04.920 --> 11:08.440
+because Germany had taken all these measures that they weren't getting the virus into their
+
+11:08.440 --> 11:11.000
+country yet, that it hadn't spread into Germany.
+
+11:11.000 --> 11:15.480
+So if it was spreading in Italy, but not in Germany, then of course, Italy would see the
+
+11:15.480 --> 11:18.800
+spikes in Germany, wouldn't you can wave your hands like that.
+
+11:18.800 --> 11:23.840
+Okay, first of all, I don't believe that they were they weren't tracking mortality.
+
+11:23.840 --> 11:30.800
+They may have been tracking something that they call, you know, cases of COVID or whatever
+
+11:30.800 --> 11:35.480
+with these very suspicious tests that they were using and so on.
+
+11:35.480 --> 11:37.880
+They can do all of that and they can count cases.
+
+11:37.880 --> 11:42.440
+I put all that aside and I look at mortality because it's the only thing that I'm sure
+
+11:42.440 --> 11:48.040
+of and it's something you can measure and be certain of and all the jurisdictions do it.
+
+11:48.040 --> 11:52.680
+And when I look at mortality, there is no evidence of any spread.
+
+11:52.680 --> 11:57.880
+There's evidence of bursts of mortality when you start doing something.
+
+11:57.880 --> 12:03.360
+So right right at the beginning, when you started applying these aggressive protocols,
+
+12:03.360 --> 12:08.920
+you had certain hotspots that had peaks, that mortality did not spread.
+
+12:08.920 --> 12:12.280
+It didn't then spread throughout the end.
+
+12:12.280 --> 12:16.680
+So you're saying it doesn't matter if there was a virus or not circulating because you're
+
+12:16.680 --> 12:20.280
+not even looking at that you're looking at deaths and only deaths.
+
+12:20.280 --> 12:25.200
+And when you look at mortality and the deaths in areas, you're not seeing deaths spread
+
+12:25.200 --> 12:30.080
+from one region to a next to a next that would indicate that something was spreading around
+
+12:30.080 --> 12:31.080
+killing people.
+
+12:31.080 --> 12:32.080
+That's right.
+
+12:32.080 --> 12:35.200
+Now, Kim, in fact, I see the opposite.
+
+12:35.200 --> 12:36.200
+That's what's important.
+
+12:36.200 --> 12:37.280
+I see the opposite.
+
+12:37.280 --> 12:44.720
+I see the US, which has a very large number of very vulnerable people that did die in
+
+12:44.720 --> 12:53.400
+the US, the excess mortality during the COVID period correlates perfectly with the poverty,
+
+12:53.400 --> 12:55.520
+the number of people living in poverty in the state.
+
+12:55.520 --> 13:00.360
+You get this incredible correlation line that goes through the origin of Pearson correlation
+
+13:00.360 --> 13:05.720
+coefficient of 0.86, which is unheard of.
+
+13:05.720 --> 13:09.400
+And so it was poor people who died, and especially in the southern states.
+
+13:09.400 --> 13:14.720
+Now, you cross this thousand kilometers of border between Canada and the US, and there
+
+13:14.720 --> 13:18.520
+were no deaths in Canada in that whole period, virtually none.
+
+13:18.520 --> 13:23.440
+You can hardly detect the excess mortality in Canada compared to the United States.
+
+13:23.440 --> 13:24.440
+That's impossible.
+
+13:24.440 --> 13:26.960
+These are two of the biggest trading partners in the world.
+
+13:26.960 --> 13:29.280
+The highways were open.
+
+13:29.280 --> 13:34.800
+It's impossible that a virus that is said to have been spreading did not want to cross
+
+13:34.800 --> 13:36.200
+the border to Canada.
+
+13:36.200 --> 13:37.200
+Same thing.
+
+13:38.200 --> 13:41.960
+You'll have the Trudeau's of the world and all the Trudeau's supporters saying, well,
+
+13:41.960 --> 13:47.120
+that's because we implemented some serious protocols that prevented people from traveling.
+
+13:47.120 --> 13:48.640
+You couldn't even travel in Canada.
+
+13:48.640 --> 13:53.400
+You guys were in major lockdown, unlike what we were here in the United States.
+
+13:53.400 --> 13:56.200
+Lockdown levels that you guys experienced was much harsher.
+
+13:56.200 --> 14:00.680
+So they would say, I would think that you can always wave your hands and say that kind
+
+14:00.680 --> 14:01.680
+of thing.
+
+14:02.000 --> 14:08.560
+If you believe that it is a pandemic causing virus, you cannot believe that it will refuse
+
+14:08.560 --> 14:10.440
+across a border like that.
+
+14:10.440 --> 14:11.440
+That's just incredible.
+
+14:11.440 --> 14:15.000
+There's no signs that makes any sense if you want to believe that.
+
+14:15.000 --> 14:21.480
+But also, in one of our studies, which I co-authored, the lead author was John Johnson from Harvard
+
+14:21.480 --> 14:26.520
+University, and we authored a paper where we looked at states in the United States and
+
+14:26.520 --> 14:30.720
+we compared neighboring states that share a border, one that locked down and the other
+
+14:30.720 --> 14:32.200
+didn't.
+
+14:32.200 --> 14:34.080
+And they were comparable otherwise.
+
+14:34.080 --> 14:39.760
+We found 12 pairs of states like that that you could directly compare, and we found unambiguously
+
+14:39.760 --> 14:45.040
+that the lockdowns states have these large excess mortalities, which were not present
+
+14:45.040 --> 14:50.400
+in the non-lockdown neighbor that shared a border with it, and that was republished.
+
+14:51.400 --> 14:56.960
+So that makes sense to me, except how do you explain that my guess is the hospitals were
+
+14:56.960 --> 14:58.720
+not overwhelmed in Canada, right?
+
+14:58.720 --> 15:05.120
+So it's like, the people still have to show up, I mean, they don't magically, they can't
+
+15:05.120 --> 15:07.960
+magically use a ventilator, right?
+
+15:07.960 --> 15:13.240
+Canada has large cities and large hospitals, and they were claiming the same kinds of problems
+
+15:13.240 --> 15:18.400
+of overwork and over this and over that in Canada as anywhere, any other major city in
+
+15:18.400 --> 15:19.400
+the world.
+
+15:20.400 --> 15:25.240
+So, just because it's a big country and a relatively small population doesn't mean
+
+15:25.240 --> 15:29.280
+still, but the population is concentrated in cities, right?
+
+15:29.280 --> 15:34.440
+So there's no way to explain.
+
+15:34.440 --> 15:37.240
+He goes on there to explain further, you can find that.
+
+15:37.240 --> 15:45.080
+Maybe I should just drop this quickly in the chatty chat here for you, or did somebody
+
+15:45.080 --> 15:46.080
+already do that?
+
+15:46.080 --> 15:55.600
+I didn't see anybody had done that yet, so let me see if I can do that.
+
+15:55.600 --> 16:03.040
+There you go, that's the rumble we just watched.
+
+16:03.040 --> 16:06.760
+So another thing happened that I thought was really cool, yesterday you will recall that
+
+16:06.760 --> 16:17.560
+I did a second video of Campbell and Gleesh that was talking more about the immunology,
+
+16:17.560 --> 16:22.440
+but more about the origins of the virus and how they were locked dead Scooby-Doo mystery
+
+16:22.440 --> 16:29.920
+100% dead on balls accurate, to the point where actually he admitted the other guest
+
+16:29.920 --> 16:36.320
+of Campbell that he had been on board with Dr. Quay for a very long time early on.
+
+16:36.320 --> 16:46.520
+And I can't express adequately how it is that I am skeptical of everybody who zeroed
+
+16:46.520 --> 16:52.040
+in on a fear and cleavage site in February or even January of 2020.
+
+16:52.040 --> 16:54.200
+It's just absurd.
+
+16:54.200 --> 17:02.800
+And what I also said in that video yesterday was that there were a few parts of that video
+
+17:02.800 --> 17:12.520
+that these two people would cue in on and not even 24 hours later, Dan Wilson releases
+
+17:12.520 --> 17:17.400
+a video, what went wrong with John Campbell with none other than Susan Oliver.
+
+17:17.400 --> 17:22.920
+Now, you can actually see a conspiracy here because it's almost impossible for him to
+
+17:22.920 --> 17:26.400
+have produced this yesterday.
+
+17:26.400 --> 17:33.320
+I guess he could have, but it's almost like we communicated like he it's crazy and I just
+
+17:33.320 --> 17:37.000
+want to play a little bit of Susan Oliver's story.
+
+17:37.000 --> 17:44.480
+I don't know how much we can take, but it's really instructive that all of these people
+
+17:44.480 --> 17:49.440
+basically have the same story.
+
+17:49.440 --> 17:54.520
+They wandered into biology with no good idea of what they were going to do.
+
+17:54.520 --> 18:00.080
+They wandered into biology with the idea of making money and they learned very quickly
+
+18:00.080 --> 18:06.000
+that you can't make money as a postdoc and so neither of them did a postdoc.
+
+18:06.000 --> 18:12.040
+And they went on to work in some industry and Susan Oliver will at the end of this video
+
+18:12.040 --> 18:17.880
+even admit that she saved up so much money during her time and industry that she's able
+
+18:17.880 --> 18:22.120
+to sell fund her YouTube escapades.
+
+18:22.120 --> 18:28.000
+I think it's instructive to listen to this because again, these two are two that might
+
+18:28.000 --> 18:33.880
+have a disagreement about Ibermectin and yet because they agree that everybody should be
+
+18:33.880 --> 18:38.720
+vaccinated and then Australia should have locked down and that's why they saved so many lives
+
+18:38.720 --> 18:40.880
+and yada yada yada.
+
+18:40.880 --> 18:45.160
+They can disagree about something in order to make it seem as though there's a healthy
+
+18:45.160 --> 18:49.080
+debate going on even on YouTube.
+
+18:49.080 --> 18:50.080
+Even carefully.
+
+18:50.080 --> 18:57.640
+The internet was or on YouTube I should say was this week in virology, this week in virology
+
+18:57.640 --> 19:01.640
+and I'd actually got that via Facebook and so it started.
+
+19:01.640 --> 19:06.920
+So she's saying that the first people that she found during the pandemic on YouTube was
+
+19:06.920 --> 19:12.720
+this week in virology which is already sketchy and then she's going to go on to say how she
+
+19:12.720 --> 19:18.120
+got mixed up with John Campbell and then eventually decided to make her own YouTube channel.
+
+19:18.120 --> 19:19.960
+It's really compelling.
+
+19:19.960 --> 19:23.120
+I subscribed to that and started watching it and prior to that I'd never watched YouTube
+
+19:23.120 --> 19:27.880
+at all and then slowly YouTube started recommending other channels.
+
+19:27.880 --> 19:33.240
+One of them of course was yours which I also started watching but the other one was Dr.
+
+19:33.240 --> 19:39.640
+John Campbell and at the time he was being quite reasonable.
+
+19:39.640 --> 19:43.400
+He was pretty much just presenting stats from around the world.
+
+19:43.400 --> 19:48.800
+It wasn't particularly technical but it was a fairly good way to keep up to date with
+
+19:48.800 --> 19:49.800
+exactly what was happening.
+
+19:49.800 --> 19:55.320
+So I started watching his channel and he said something about Australia and he just got
+
+19:55.320 --> 19:56.320
+it completely wrong.
+
+19:56.320 --> 20:00.760
+It wasn't intentional, he just didn't understand basically.
+
+20:00.760 --> 20:05.680
+So I thought why don't I just send him a little email and let him know what he got wrong.
+
+20:05.680 --> 20:10.600
+So I sent him an email explaining that what he said wasn't actually correct.
+
+20:10.600 --> 20:15.000
+And sort of misinterpreted what our chief medical officer had said and I said no he
+
+20:15.000 --> 20:17.800
+didn't actually mean this, explain what he meant.
+
+20:17.800 --> 20:25.240
+And then at the time Dr. Campbell was also, he'd been sort of showing us a photo of people
+
+20:25.240 --> 20:29.000
+wearing masks at the end of his video site that they sent him.
+
+20:29.000 --> 20:33.200
+So I'd also sent him a photo of me in the lab, I had a pig lab coat on and I was wearing
+
+20:33.200 --> 20:37.200
+a pig mask and I said look I'm not sure if you're still showing photos of people but
+
+20:37.200 --> 20:39.080
+if you are he's one of me.
+
+20:39.080 --> 20:45.000
+So anyway the next day he did correct himself, he did show the photo of me in the mask.
+
+20:45.000 --> 20:49.960
+So I don't know why it's breaking up, maybe the recording didn't go very well but here
+
+20:49.960 --> 20:57.800
+you see her tell the story that she actually became interested in being an internet personality
+
+20:57.800 --> 21:05.480
+upon interacting with John Campbell and sending him a picture of her with a mask on so that
+
+21:05.480 --> 21:08.640
+he could use it in his stream.
+
+21:08.640 --> 21:12.000
+Here you're going to find that he made some mistakes and then she realized that he was
+
+21:12.000 --> 21:19.360
+an idiot but at first it was kind of her idol, she was excited and here at the end maybe
+
+21:19.360 --> 21:24.240
+if it's not too horrible we can hear the end of this video.
+
+21:24.240 --> 21:31.840
+Many many videos have been removed by YouTube, many men were actually debunking it so I thought
+
+21:31.840 --> 21:37.440
+this time I'll because I think I sort of think it was something like calm, the initial title
+
+21:37.440 --> 21:42.800
+was something like effective being monkey kidney cells or something so I think maybe
+
+21:42.800 --> 21:47.280
+they probably read the title and said oh she's saying it's effective without actually realizing
+
+21:47.280 --> 21:51.920
+this is her first YouTube video I got pulled from YouTube and I did quite a few more and they
+
+21:51.920 --> 21:57.920
+all stayed up and here we are although obviously during that time many many videos have been
+
+21:57.920 --> 21:59.760
+removed by YouTube.
+
+21:59.760 --> 22:03.920
+So what a weird story right many many videos have been removed from YouTube, her first
+
+22:03.920 --> 22:08.480
+YouTube video which is about Ibermectin was removed and then she did many videos that
+
+22:08.480 --> 22:13.840
+didn't get removed so she kept doing it but in the meantime many many videos got removed.
+
+22:14.720 --> 22:19.360
+It's such a weird story that it almost sounds like a lie.
+
+22:20.480 --> 22:25.200
+So I thought this time I'll because I think I sort of think it was something like calm,
+
+22:25.840 --> 22:31.440
+the initial title was something like effective being monkey kidney cells or something so I
+
+22:31.440 --> 22:36.000
+think maybe they probably read the title and said oh she's saying it's effective without actually
+
+22:36.000 --> 22:40.480
+realizing what else what I was doing so the next one stayed up and I did quite a few more
+
+22:40.480 --> 22:46.960
+and they all stayed up and here we are although obviously during that time many many videos have
+
+22:46.960 --> 22:54.400
+been removed by YouTube. Many many appeals have been rejected but luckily the...
+
+22:54.400 --> 23:02.720
+Do you see it? It's this illusion that even she has suffered from the censorship even he has
+
+23:02.720 --> 23:08.240
+suffered from the censorship. It's not like the censorship was just applied to one side.
+
+23:08.240 --> 23:16.320
+We these people also got censored because they're part of this healthy debate and the evidence for
+
+23:16.320 --> 23:25.680
+it is their censorship. Don't you see? It's the same evidence that we have. It's the same evidence
+
+23:25.680 --> 23:32.720
+that we have that Robert Malone is obviously correct because of his censorship. The reason why
+
+23:32.720 --> 23:40.320
+Steve Kirsch is obviously correct is because he gets censored and labeled as the biggest misinformation
+
+23:40.320 --> 23:49.280
+spreader on the internet. Do you see it? They're all playing the same cards and it doesn't matter
+
+23:49.280 --> 23:55.600
+whether they're playing to the MSNBC crowd or the Fox News crowd or the Glenn Beck crowd.
+
+23:55.600 --> 24:03.920
+It's the same crowd. You should believe in me because I was censored. You should understand
+
+24:03.920 --> 24:09.280
+that I'm a critical thinker because critical thinking is censored and believe it or not
+
+24:09.280 --> 24:15.120
+the people that watch the view are being fooled by the same narrative as the people who watch
+
+24:15.120 --> 24:23.040
+Tucker Carlson. Censorship points to the answer. Do you see it? It's extraordinary.
+
+24:24.720 --> 24:29.520
+Such a media team on Twitter seemed to be reasonably booked now at getting them reinstated and they
+
+24:29.520 --> 24:34.720
+did eventually even reinstate the whole other marketing video that was my best video so that's
+
+24:34.720 --> 24:42.720
+now back after all this and so that's a rather long story to as to how I did it and I wanted to
+
+24:42.720 --> 24:49.360
+why I ended up not getting another job when Australia reopened again was I realized how much I love
+
+24:49.360 --> 24:57.040
+not working. That is true to be fair I was also censored but I believe the trick is to see what
+
+24:57.040 --> 25:03.840
+was censored because YouTube never ever ever and still hasn't censored any of my stuff.
+
+25:05.520 --> 25:10.640
+We're gone the bike. All the stuff about gain of function on the bike all the stuff about a
+
+25:10.640 --> 25:16.960
+lab leak on the bike it's still there. Never once did I get a strike on that stuff. What I got a
+
+25:16.960 --> 25:22.720
+strike on was when I started teaching immunology in my backyard what I got a strike on is when I
+
+25:22.720 --> 25:28.400
+started walking through the park here in Pittsburgh talking about the New World Order
+
+25:28.560 --> 25:38.480
+but definitely when I started talking about the biology on my back in my backyard on my table
+
+25:39.680 --> 25:44.080
+that that's when I got censored and I started taking a lot of things down because I wasn't
+
+25:44.080 --> 25:49.280
+sure what was going to get my next strike and if you get three you're done and that's why I
+
+25:49.280 --> 25:56.400
+pretty much have left JC on a bike the channel alone it's the only evidence I've got of where I
+
+25:56.480 --> 26:06.960
+was in March or February of 2020 so yeah you're right but I was being censored once I started
+
+26:06.960 --> 26:13.120
+speaking out about certain things and then I sort was led to believe that that censorship
+
+26:13.120 --> 26:18.640
+might be because I was speaking out about a lab leak but I kind of knew in my gut it was because
+
+26:18.640 --> 26:25.520
+I was speaking out about the the irrelevance of a lab leak and the fact that immunology says
+
+26:25.600 --> 26:29.680
+that we're going to be fine because RNA viruses are RNA viruses let's listen to her finish because
+
+26:29.680 --> 26:36.400
+it's really comical I just love the fact that I no longer set my alarm in the morning I do actually
+
+26:36.400 --> 26:41.280
+have it said it's seven thirty as I could fail say so that I don't just waste too much time in
+
+26:41.280 --> 26:46.160
+Ben but I used to get up when I was working like about ten to six every morning and I was away
+
+26:48.160 --> 26:54.480
+and so I'm really loving the fact that I just don't have to do that anymore and so yes I thought
+
+26:54.480 --> 27:00.320
+I don't actually I sort of when when I was working I was fairly smart we're investing my
+
+27:00.320 --> 27:04.720
+money and everything so which is obviously why I could afford to go back and get a PhD because
+
+27:04.720 --> 27:10.320
+as you know you don't want to get paid a lot of money when you're doing a PhD so I didn't need
+
+27:10.320 --> 27:16.000
+to work for money like even so the last three years when I was on the contract everything I
+
+27:16.000 --> 27:22.800
+learned is in the back I didn't spend any of it so I figured I don't actually need the money so
+
+27:22.800 --> 27:29.040
+I'm really enjoying not working so I'm not gonna work anymore that's totally understandable and
+
+27:29.040 --> 27:36.880
+that's all great I mean so so she's not working anymore she's just uh just making sure that they
+
+27:37.200 --> 27:40.240
+stay on narrative right that's what she does
+
+27:53.120 --> 28:02.560
+we're gonna go um we're gonna go into the archives of jc on a bike and we're gonna open up a video
+
+28:02.560 --> 28:12.000
+that I put on private in march of 2020 and we're gonna watch where I was this is taxi in case you
+
+28:12.000 --> 28:27.920
+care
+
+28:32.240 --> 28:37.040
+now you guys are all talking about the taxi song so I got to let it play out
+
+28:42.880 --> 28:52.800
+so let's bring this window up over here and this window and we'll go to
+
+28:54.400 --> 29:00.560
+I'll just float over here quick bring this up I don't know what I'm gonna reveal if I do that but
+
+29:00.560 --> 29:08.880
+I'm gonna do it anyway and we'll go over here and we'll go to youtube studio and we'll go to content
+
+29:09.840 --> 29:16.640
+and we'll go down here and we're gonna look for jc in the woods episode one
+
+29:24.880 --> 29:32.240
+now this is not going to be a typical show um because jc on jc in the woods episode one is not
+
+29:32.240 --> 29:38.800
+about biology but it's just you know where was I what was I doing besides this and this is
+
+29:40.000 --> 29:46.240
+what day is this I believe this is march let's just look at this on youtube here
+
+29:48.160 --> 29:50.080
+I believe this is
+
+29:55.920 --> 30:01.520
+march 18th 2020 now the first thing we're gonna do is we're gonna go back to youtube studio
+
+30:02.400 --> 30:09.920
+we're gonna go back to channel content and we're gonna take this youtube jc on a bike and we're
+
+30:09.920 --> 30:23.680
+gonna take it from private and we're gonna make it public public public publish and now we're
+
+30:23.680 --> 30:27.920
+gonna go back over here and we're gonna take this and we're gonna copy it out and we're gonna put
+
+30:27.920 --> 30:35.920
+it down here so that you guys can share it and here we go let's see what this video is all about
+
+30:40.240 --> 30:46.560
+hi this is jc on a bike oh you're fast start a new series holy crap look at how fatty is this
+
+30:46.560 --> 30:51.040
+series is going to be a storytelling series it's a little bit of american history and a little bit
+
+30:51.040 --> 30:56.800
+of modern history and the idea is to try and relay some of the things that I've been studying and
+
+30:56.800 --> 31:02.640
+reading about since I was a teenager a lot of these things in history are called conspiracy
+
+31:02.640 --> 31:07.440
+theories but actually what they are a real history so what does the new world order want
+
+31:07.440 --> 31:12.480
+they want to end nation states they've always wanted to end nation states and bring in one world
+
+31:12.480 --> 31:19.520
+government that one world government has always been spookily attached to the united nations and
+
+31:19.520 --> 31:24.560
+so it wouldn't surprise me if that's in the end the way that we go we will crash the euro a fiat
+
+31:24.560 --> 31:31.440
+currency newly instituted about 20 years ago we will crash the american dollar because that's
+
+31:31.440 --> 31:37.360
+also a fiat currency and then we will have most of the population of the western world asking for
+
+31:37.360 --> 31:42.160
+a solution and that solution will be a one world government with a new one world currency
+
+31:42.960 --> 31:48.400
+let's talk about it in the woods holy crap there's my little boy
+
+31:49.360 --> 31:54.240
+I can almost start crying if I see him that small
+
+31:59.760 --> 32:03.760
+so I want to tell you this story about my roommate the conspiracy theorist
+
+32:05.760 --> 32:11.600
+he told me a story about the new world order the new world order is a cabal of loosely organized
+
+32:11.600 --> 32:17.600
+groups which use the power of fractional reserve banking to control governments around the world
+
+32:18.160 --> 32:22.640
+fractional reserve banking is the idea that a bank only needs to have x amount of money
+
+32:22.640 --> 32:28.800
+in its vaults in order to loan out x times 10 amount of money to people in charge interest
+
+32:28.800 --> 32:32.800
+if you're not familiar with how fractional reserve banking works I suggest you google it
+
+32:32.800 --> 32:38.240
+before you watch the rest of this film simply because the whole story that I'm about to tell
+
+32:38.240 --> 32:43.680
+you is based on the idea that governments around the world are controlled by fractional reserve
+
+32:44.160 --> 32:49.920
+I want to tell you guys a story and it's a story about a roommate of mine that I had in college
+
+32:50.560 --> 32:56.880
+in the early 90s I graduated from high school in 1990 and so I met this guy in Chicago when I
+
+32:56.880 --> 33:04.720
+went to university there and this guy was already a very big conspiracy theorist at 18 years old
+
+33:04.720 --> 33:11.840
+and he got me really into trying to read about alternative interpretations of modern political
+
+33:11.840 --> 33:19.120
+events he got me into JFK into the Oklahoma City bombing he introduced me to Ted Gunderson
+
+33:19.120 --> 33:24.800
+and guys like Mike Rupert who were guys that seemed pretty credible sources that had either
+
+33:24.800 --> 33:31.120
+worked for the FBI or in Mike Rupert's case had worked for the LAPD for a long time and had come
+
+33:31.120 --> 33:37.440
+out as sort of anti-government conspiracy people that were suggesting that law enforcement and
+
+33:37.440 --> 33:45.360
+the FBI and the government were working together to sort of control society by alternative means
+
+33:45.360 --> 33:53.840
+mostly by using fractional reserve banking and other means of control like drugs and sex and this
+
+33:53.840 --> 34:00.000
+kind of thing to control Congress and to control the government where this story begins is with
+
+34:00.000 --> 34:06.160
+things like the Bilderberg group and the Bohemian Grove these kinds of conspiracy theories that
+
+34:06.160 --> 34:11.440
+revolved around a pyramid of groups that a lot of times ended with the Illuminati at the top
+
+34:11.440 --> 34:17.840
+these groups the council on foreign relations these the trilateral commission these groups exist
+
+34:17.840 --> 34:25.120
+and they exist in some sort of organizational structure which has for a long time been documented
+
+34:25.120 --> 34:29.520
+by a number of different people in a number of different books and these have always been labeled
+
+34:29.520 --> 34:34.480
+as kind of crazy but the interesting thing is and through all of these conspiracy theories
+
+34:34.560 --> 34:41.120
+it's a cabal of people that are controlling the left and the right and so all the conspiracy
+
+34:41.120 --> 34:46.560
+theories that I knew when I was younger and including the one that this roommate of mine told me about
+
+34:46.560 --> 34:52.240
+were conspiracy theories that involved a group of people controlling the left and the right
+
+34:52.240 --> 34:57.360
+and so conspiracy theorists were outside of the dichotomy that was the functioning
+
+34:57.360 --> 35:02.480
+you know United States government theater that we all are sort of bamboozled by at the moment
+
+35:05.120 --> 35:12.640
+how would these things get me thinking about you know what would my old roommate have said
+
+35:12.640 --> 35:18.560
+what's going on right now if he were experiencing the coronavirus quarantine
+
+35:22.960 --> 35:28.320
+and I think it has to come back to the NWO what is the new world order what was the new world order
+
+35:28.880 --> 35:34.960
+and by the new world order we're talking about the thing that George H.W. Bush spoke about in
+
+35:34.960 --> 35:39.360
+front of the United Nations way back when it might have been 1996 already
+
+35:47.840 --> 35:53.600
+and as we think about this stuff you really need to remember your history if you don't remember
+
+35:53.680 --> 35:58.480
+your history then none of this stuff will make sense but if you remember your history
+
+35:59.440 --> 36:03.680
+and you go back piece by piece this stuff just falls together and the most
+
+36:03.680 --> 36:09.520
+parsimonious explanation is that the theater is still in business and it's the same theater
+
+36:10.240 --> 36:30.240
+now you can go back 20 or 40 years and find books which talk about the step-by-step process
+
+36:30.240 --> 36:35.040
+by which they were going to introduce the new world order and it started a long time ago
+
+36:35.600 --> 36:39.760
+with putting the dollar as a fiat currency rather than having it tied to gold
+
+36:41.600 --> 36:46.560
+one of the parts of this story that's really interesting is that for a long time people have
+
+36:46.560 --> 36:51.920
+claimed that one of the reasons why Kennedy was shot was because he was trying to put the dollar
+
+36:51.920 --> 36:56.080
+back on a silver standard and they didn't want that
+
+37:04.800 --> 37:09.440
+anyway the point is is that back in the 90s they were telling all kinds of stories about how
+
+37:09.440 --> 37:15.520
+this cabal of rich people connected people were controlling governments using a combination of
+
+37:15.520 --> 37:23.280
+pedophilia sex drugs and money and that through bribery and blackmail most of the
+
+37:23.280 --> 37:29.360
+US congress was controlled this was the conspiracy theory that was going around in the 1990s
+
+37:29.360 --> 37:35.760
+and this was tied together with the Oklahoma City bombing as being largely staged and later on
+
+37:35.760 --> 37:42.560
+has 9-11 being largely staged number of people don't know some of those details about 9-11 that
+
+37:42.560 --> 37:48.000
+still strike us all as odd to this day because we don't talk about them anymore there's no footage
+
+37:48.000 --> 37:52.240
+of the plane that hit the Pentagon there's no evidence that a plane did hit the Pentagon because
+
+37:52.240 --> 37:57.280
+there were no seats or no engines removed from the crash even though these are things that usually
+
+37:57.280 --> 38:02.640
+don't get destroyed when a plane hits the ground and furthermore there was this building 7 problem
+
+38:02.640 --> 38:06.960
+that no one ever really talks about anymore but building 7 is one of the best examples
+
+38:06.960 --> 38:11.600
+of a part of a story that gets eliminated the moment that it doesn't really jive
+
+38:11.600 --> 38:16.560
+with the intended narrative and building 7 is probably one of the more interesting structural
+
+38:16.560 --> 38:20.320
+failures ever caught on film so if you haven't seen it google it it's really fun
+
+38:21.440 --> 38:25.360
+if you're not really familiar with the 9-11 conspiracy theories i'm not really gonna
+
+38:25.920 --> 38:30.720
+rehash those here but if you want to get started with it you want to look for the plane listen to
+
+38:30.720 --> 38:36.880
+that voice like he's not even trying he's just talking and it comes out like that isn't that
+
+38:36.880 --> 38:44.000
+crazy at the Pentagon and you want to look for what happened with building 7 most of the current
+
+38:44.000 --> 38:49.120
+accounts of 9-11 don't really talk about building 7 anymore and building 7 is the one where really
+
+38:49.120 --> 38:55.280
+the laws of physics are broken if you want to search it specifically look for the size of the
+
+38:55.280 --> 38:59.840
+steel beams that were used in that building and why they were used and what was underneath that
+
+38:59.840 --> 39:06.960
+building and why that building was so strongly built like it or not the effects of 9-11 were
+
+39:06.960 --> 39:13.440
+a very big boon for all of those industries that Eisenhower warned us about all those years ago
+
+39:18.560 --> 39:22.960
+then you say to yourself well jay come on that's not a very scary conspiracy
+
+39:23.760 --> 39:30.320
+that rich people use money to control politicians that's no big deal but it's not just controlling
+
+39:30.320 --> 39:34.960
+politicians the story and the conspiracy theory is that they control governments
+
+39:35.680 --> 39:43.680
+and by governments then they control society societies are the world so global governance
+
+39:43.680 --> 39:50.320
+in this NWO conspiracy model has a group of people not connected to the democrats or the
+
+39:50.320 --> 39:56.640
+republicans or the labor party or the Tories but that work above and beyond these silly divisions
+
+39:56.640 --> 40:03.440
+that we fight about and the thing that is really creepy about this is that the new world order
+
+40:04.320 --> 40:11.680
+as it was codified in the 80s and 90s when i was into this when i was younger the new world order
+
+40:11.680 --> 40:17.440
+wanted a few things already back then i think one of the things that you can really look up
+
+40:17.440 --> 40:23.840
+if you haven't seen it is Aaron Russo's movie if you don't know who Aaron Russo is he's a director
+
+40:23.840 --> 40:29.600
+from the 90s and made a lot of movies he directed trading places with Eddie Murphy friends with
+
+40:29.600 --> 40:39.600
+one of the Rockefellers and the Rockefellers boy told him the plan and that plan is to chip us all
+
+40:39.600 --> 40:45.840
+to get rid of cash and to have us have a chip under our skin that is our identification chip
+
+40:46.400 --> 40:52.000
+it also has our money on it with the idea that if they wanted to make us drop out of society if
+
+40:52.000 --> 41:01.360
+they wanted to turn us off they could this is in that movie i can't remember what it's called america
+
+41:02.880 --> 41:08.160
+i'm flashing it up on the freedom to fascism not before i posted america freedom to fascism in
+
+41:08.160 --> 41:16.000
+the case you forgot and coronavirus easily fits into this narrative it's one of the things that
+
+41:16.000 --> 41:24.480
+was suggested already ten years ago as a method of ushering in the last two bits of the new world
+
+41:24.480 --> 41:33.680
+order the last two bits of the new world order are the craziest ones the last two bits are a cashless
+
+41:33.680 --> 41:39.200
+economy and of course they want to get rid of end-to-end encryption that's what the earn
+
+41:39.200 --> 41:45.680
+and act is if you look up the earn it act right now you already find that congress is working on
+
+41:45.680 --> 41:53.440
+it right now to get rid of end-to-end encryption on our phones so that they can read and monitor
+
+41:53.440 --> 41:59.920
+your messages all the time but the other thing that the new world order wants is a cashless economy
+
+42:00.880 --> 42:07.680
+and they want to get rid of nation states whoa wait now you're talking about the united nations
+
+42:07.680 --> 42:12.960
+conspiracy yeah yeah that's the same one the one that we've been talking about for 40 years
+
+42:13.600 --> 42:19.760
+that the united nations was going to be called in to take over america and we would surrender our
+
+42:19.760 --> 42:26.800
+sovereignty to the united nations will imagine a scenario where a global pandemic takes down the
+
+42:26.800 --> 42:35.600
+EU and america all at once and we're begging them for a global government led by the united nations
+
+42:37.680 --> 42:43.840
+they're going to get rid of the elections because of course we can't have an election now it's
+
+42:43.840 --> 42:56.320
+already happening the primaries are being canceled and so i think it started i mean
+
+42:56.800 --> 43:02.080
+what a wonderful exciting time to be in america when this kind of stuff when everything aligns
+
+43:02.080 --> 43:09.600
+so well with the history conspiracy theory that people have been telling for 40 or 80 years
+
+43:11.440 --> 43:17.040
+about how the federal reserve bank is just actually a cabal of privately owned banks
+
+43:18.000 --> 43:28.320
+controlled by privately owned banks and these private owners of our banks control all the world's
+
+43:28.320 --> 43:39.680
+governments with a combination of money drugs and women now they've let out a nice convenient
+
+43:39.680 --> 43:46.960
+bio contagion and they are amplifying the panic of it as much as they possibly can
+
+43:50.560 --> 43:56.400
+and we will be left with china and russia against the rest of the world
+
+43:58.080 --> 44:03.280
+if you don't think it's happening just watch and make sure it doesn't i hope it doesn't happen
+
+44:03.280 --> 44:08.480
+but i'm telling you that's what they want to happen they want to chip you they want to put
+
+44:08.480 --> 44:13.360
+a chip in your hand so that they can scan you whenever they want to scan you and your medical
+
+44:13.360 --> 44:18.800
+records will be there your behavior records will be there they will be able to track where you go
+
+44:18.800 --> 44:24.080
+follow your movements and turn off your money in contact with society whenever they want to
+
+44:24.960 --> 44:31.520
+and that's their plan that's the big scary part of the nwo now if you don't think that's happening
+
+44:31.520 --> 44:36.640
+then you don't have to worry about the coronavirus being a hoax it's probably just a virus and we
+
+44:36.720 --> 44:45.680
+need to be terrified but what if it's not what if this is a plan what if this is the final
+
+44:45.680 --> 44:53.200
+stage of that plan the plan that people have been talking about since the 50s and 60s oh my gosh
+
+44:53.200 --> 44:58.800
+i remember that plan that people have been talking about since i remember that i got stung by a bug
+
+44:58.800 --> 45:04.400
+on my bike it got when that helmet and stung my ear and it's swollen there i remember that wow
+
+45:04.480 --> 45:10.800
+that's so weird entity was shot the plan that people have been talking about sorry i'll go back
+
+45:10.800 --> 45:18.400
+about that plan the plan that people have been talking about since the 50s and 60s the plan that
+
+45:18.400 --> 45:24.160
+people have been talking about since Kennedy was shot the plan that people have been talking about
+
+45:24.160 --> 45:29.920
+since the oklahoma city bombing the plan that people have been talking about since the league of
+
+45:29.920 --> 45:34.480
+of nations was instituted followed by the United Nations.
+
+45:34.480 --> 45:36.640
+The plan that people have been talking about
+
+45:36.640 --> 45:41.640
+since the IMF was first instituted, and the World Bank.
+
+45:42.280 --> 45:44.880
+Plan that everybody's been talking about
+
+45:44.880 --> 45:47.220
+that originated with the Rothschilds.
+
+45:49.000 --> 45:50.800
+What if this plan is real?
+
+45:51.880 --> 45:54.800
+And what if the coronavirus is a part of it?
+
+45:54.800 --> 45:59.160
+That's the scary story of real human history.
+
+46:00.360 --> 46:02.000
+Holy crap.
+
+46:02.000 --> 46:06.880
+Can you believe that J.C. on a bike was actually doing that?
+
+46:06.880 --> 46:09.880
+In March of, and look it, we can show you the date.
+
+46:09.880 --> 46:12.720
+We'll show you the real date on that video.
+
+46:14.760 --> 46:17.760
+Is March 18th, 2020.
+
+46:17.760 --> 46:20.120
+And so there were five in that video series.
+
+46:20.120 --> 46:22.460
+So we'll watch them on successive Thursdays,
+
+46:22.460 --> 46:26.040
+but we also have to catch up on a few other things,
+
+46:26.040 --> 46:27.840
+including America Freedom to Fascism,
+
+46:27.840 --> 46:29.480
+which I mentioned in this video.
+
+46:30.920 --> 46:32.560
+I don't want to keep you too much longer.
+
+46:32.560 --> 46:36.520
+I actually was looking forward to going upstairs
+
+46:36.520 --> 46:39.040
+and hanging out with my fam Damilly tonight.
+
+46:40.200 --> 46:45.200
+I did end up deciding to coach basketball for the sixth grade.
+
+46:45.280 --> 46:47.280
+And that means that I am going to try and shift
+
+46:47.280 --> 46:50.080
+my show forward in time.
+
+46:50.080 --> 46:51.320
+I don't know how far forward
+
+46:51.320 --> 46:52.760
+if it's going to go all the way to the morning
+
+46:52.760 --> 46:55.080
+and then I'm going to work in the afternoons,
+
+46:55.080 --> 46:57.120
+or if I'm going to start getting up early in the morning
+
+46:57.160 --> 46:59.960
+to work so that I can fulfill my obligations
+
+46:59.960 --> 47:03.800
+and get stuff done in stills three before dinner
+
+47:03.800 --> 47:07.600
+or during dinner, as you saw my best friend
+
+47:07.600 --> 47:09.200
+brought me some gnocchi for dinner,
+
+47:09.200 --> 47:11.160
+which is just like, what, are you kidding me?
+
+47:11.160 --> 47:12.000
+I win.
+
+47:12.920 --> 47:16.040
+Anyway, ladies and gentlemen,
+
+47:16.040 --> 47:18.640
+I think we have an emergency on our hands
+
+47:18.640 --> 47:21.800
+that we all understand very well.
+
+47:21.800 --> 47:25.160
+And that is that all cause mortality was converted
+
+47:25.200 --> 47:28.320
+to some kind of mythology on the basis
+
+47:28.320 --> 47:29.880
+that there was a novel virus,
+
+47:29.880 --> 47:32.760
+a novel virus in and of itself was a mythology.
+
+47:32.760 --> 47:35.440
+The way that we detected it was a mythology
+
+47:35.440 --> 47:37.120
+and the way that we forced people to change
+
+47:37.120 --> 47:39.800
+the way that they treat respiratory disease
+
+47:39.800 --> 47:43.640
+resulted in deaths that reinforced
+
+47:43.640 --> 47:45.720
+the mythology of a novel virus.
+
+47:45.720 --> 47:49.520
+It may be that an infectious RNA clone was used
+
+47:49.520 --> 47:52.080
+in order to seed the sequence around the world,
+
+47:52.080 --> 47:55.120
+but it's likely that those clones didn't spread very far.
+
+47:55.120 --> 47:58.040
+And if they were resulting in disease,
+
+47:58.040 --> 48:00.200
+they still didn't result in spread
+
+48:00.200 --> 48:04.280
+as Denny Rancor and others have shown with their data
+
+48:04.280 --> 48:07.360
+or the analysis of all cause mortality around the world.
+
+48:07.360 --> 48:10.360
+And it is the idea of inverting your kids
+
+48:10.360 --> 48:14.840
+and your grandchildren's sovereignty to that of permissions.
+
+48:14.840 --> 48:18.800
+They want to bring in from freedom to fascism.
+
+48:18.800 --> 48:21.040
+That's why we got to watch that movie.
+
+48:21.040 --> 48:23.880
+It is about the diversity that's on the planet,
+
+48:23.880 --> 48:25.160
+but they don't need everybody.
+
+48:25.160 --> 48:27.400
+They just really need the inversion
+
+48:27.400 --> 48:30.040
+of how you think about yourself,
+
+48:30.040 --> 48:32.040
+how you see your biology,
+
+48:32.040 --> 48:34.960
+so that when they decide to start sampling it
+
+48:34.960 --> 48:37.960
+or tell you how it works, you'll believe them.
+
+48:37.960 --> 48:41.400
+Just like we all believe that antibodies were the thing,
+
+48:41.400 --> 48:43.800
+and just like we believe that the virus was novel
+
+48:43.800 --> 48:45.520
+and that everybody was vulnerable.
+
+48:47.120 --> 48:48.680
+I have redone the website.
+
+48:48.680 --> 48:51.280
+It actually doesn't look quite like this anymore.
+
+48:51.280 --> 48:53.400
+I got rid of the support link at the front.
+
+48:53.400 --> 48:57.160
+I got rid of the brief, sorry, there's my arrow.
+
+48:57.160 --> 48:58.840
+I got rid of the brief link here.
+
+48:58.840 --> 49:00.920
+I got rid of the support link here.
+
+49:00.920 --> 49:03.360
+You can scroll down and if you click on this link,
+
+49:03.360 --> 49:04.560
+instead of going to support,
+
+49:04.560 --> 49:08.520
+you go to the last episode that needed correction.
+
+49:09.720 --> 49:12.760
+And so hopefully, is the timing still good?
+
+49:12.760 --> 49:15.200
+Are we still good here with the timing?
+
+49:15.200 --> 49:16.680
+That would be spectacular.
+
+49:19.880 --> 49:22.200
+Anyway, so you can now scroll down
+
+49:22.200 --> 49:24.560
+to become a supporter if you'd like.
+
+49:24.560 --> 49:27.320
+You can also join us on soapbox still.
+
+49:27.320 --> 49:29.720
+And not supporting my work there anymore,
+
+49:29.720 --> 49:31.240
+but you're just finding the last stream
+
+49:31.240 --> 49:33.240
+that I put on the archive.
+
+49:33.240 --> 49:35.640
+And I'm gonna try and be a little better about that,
+
+49:35.640 --> 49:38.800
+I promise, because I do think it's valuable
+
+49:38.800 --> 49:41.160
+to have those things permanently on Vimeo.
+
+49:41.160 --> 49:42.120
+And once they're on Vimeo,
+
+49:42.120 --> 49:44.680
+you can actually download them as well from the link.
+
+49:45.920 --> 49:47.360
+Transfection is not immunization.
+
+49:47.360 --> 49:48.560
+If you wanna say it with more words,
+
+49:48.560 --> 49:50.720
+you can say the intramuscular injection
+
+49:50.720 --> 49:52.200
+of any combination of substances
+
+49:52.200 --> 49:55.760
+with the intent of augmenting the immune system is dumb.
+
+49:57.280 --> 50:00.320
+Hey, anyway, stop transfections in humans
+
+50:00.320 --> 50:01.960
+because they're trying to eliminate the control group
+
+50:01.960 --> 50:02.800
+by any means.
+
+50:02.800 --> 50:04.440
+And necessary, don't forget to go to the
+
+50:04.440 --> 50:06.960
+Broken Science Initiative and share their work.
+
+50:06.960 --> 50:09.040
+You can see my friend Matt Briggs
+
+50:09.040 --> 50:11.760
+also discussing the recent lampooning
+
+50:11.760 --> 50:14.440
+of the transfection by giving them
+
+50:14.440 --> 50:16.360
+a Nobel Prize tongue and cheek.
+
+50:16.360 --> 50:18.080
+This has been gig ombiological,
+
+50:18.080 --> 50:20.040
+and you guys like this song,
+
+50:20.040 --> 50:22.560
+so I'm definitely gonna play it.
+
+50:22.560 --> 50:23.960
+Thanks, guys.
+
+50:23.960 --> 50:27.040
+I'll see you again tomorrow night, as usual.
+
+50:27.040 --> 50:28.560
+The streak will continue.
+
+50:29.600 --> 50:32.000
+Weak voice or not, thanks for joining me.
+
+51:02.000 --> 51:27.600
+BEY car
+
+51:27.600 --> 51:30.160
+I can't believe we fixed this bit ray thing.
+
+51:30.160 --> 51:33.160
+I didn't drop a single frame now.
+
+51:33.160 --> 51:34.800
+It's crazy.
+
+51:34.800 --> 51:36.080
+I mean, I really was blowing it.
+
+51:36.080 --> 51:39.560
+I totally changed the resolution on the monitor
+
+51:39.560 --> 51:42.800
+that I was monitoring the show from.
+
+51:42.800 --> 51:47.800
+And then it made OBS completely barfed up all the time
+
+51:48.320 --> 51:51.520
+because it couldn't render that many pixels fast
+
+51:51.520 --> 51:53.400
+and it'll be something like that.
+
+51:53.400 --> 51:57.400
+I'm an idiot, but you know, you make a...
+
+52:00.240 --> 52:01.320
+You can make a deal with what you got.
+
+52:01.320 --> 52:03.160
+Eventually you figure it out.
+
+52:03.160 --> 52:05.320
+At least I didn't bump my head or something.
+
+52:05.320 --> 52:06.160
+Thanks guys.
+

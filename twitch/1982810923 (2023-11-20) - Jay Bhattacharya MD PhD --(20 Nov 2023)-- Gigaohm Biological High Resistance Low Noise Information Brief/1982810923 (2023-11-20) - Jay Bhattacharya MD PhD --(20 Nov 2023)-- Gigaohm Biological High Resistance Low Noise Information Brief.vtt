@@ -1,0 +1,3374 @@
+WEBVTT
+
+00:00.000 --> 00:14.520
+Go test 1-2, testing 1-2, finally have a little show here, I hope this sound is all
+
+00:14.520 --> 00:15.520
+coming through.
+
+00:15.520 --> 00:22.480
+If you're in the chat it would be great for a little help on the audio visual.
+
+00:22.480 --> 00:28.120
+You can also check this, if you don't mind, see if we're all kind of in sync on the live
+
+00:28.120 --> 00:33.800
+stream, that would be really handy, perfect says Pamela, good to see you, good to see you.
+
+00:33.800 --> 00:37.440
+I'm going to do this without headphones today too, so if you can give me any feedback on
+
+00:37.440 --> 00:41.000
+my volume that would be great, or Jay's volume for that matter.
+
+00:41.000 --> 00:47.120
+In case you're unaware, and Jay is definitely unaware, I was a patch plant physiologist
+
+00:47.120 --> 00:52.520
+who was raised to make slices of animals brains, and I had Vivo, I scored them for
+
+00:52.520 --> 00:58.720
+a few hours, and while I did that I would record pairs or groups of neurons under the
+
+00:58.720 --> 01:04.920
+microscope, and also use transfection to control surrounding neurons with optogenetics.
+
+01:04.920 --> 01:10.520
+So I'm pretty familiar with how transfection can be used in academic medicine, academic
+
+01:10.520 --> 01:16.960
+investigation, how you can manipulate individual neurons, drive it by genes, you can look
+
+01:16.960 --> 01:22.680
+me up on the internet, Jonathan, who you are, PubMed.
+
+01:22.680 --> 01:27.360
+So today we have a special guest, Jay Bhattacharya.
+
+01:27.360 --> 01:32.680
+The bifurcation of Earth is, he's a very special guy with regard to that.
+
+01:32.680 --> 01:38.760
+Remember that if you're not familiar with him, he is a professor of health policy at
+
+01:38.760 --> 01:43.080
+Stanford University, and a research associate at the National Bureau of Economics Research.
+
+01:43.080 --> 01:49.080
+He directs Stanford's Center for Demography and Economics of Health and Aging.
+
+01:49.080 --> 01:53.280
+His research focuses on the health and well-being of vulnerable populations, with a particular
+
+01:53.280 --> 01:59.400
+emphasis on the role of government programs, biomedical innovation, and economics.
+
+01:59.400 --> 02:07.760
+Recent research also focuses on the epidemiology of COVID-19, as well as an evaluation of policy
+
+02:07.760 --> 02:10.000
+responses to the epidemic.
+
+02:10.000 --> 02:14.680
+His broader research interests encompass the implications of population aging for future
+
+02:14.680 --> 02:19.240
+population health, which I have listed as a must-ask question.
+
+02:19.240 --> 02:24.480
+The medical spending in developed countries, the measurement of physician performance tied
+
+02:24.480 --> 02:27.880
+to physician payment by insurers, that's a crazy one.
+
+02:27.880 --> 02:33.320
+The role played by biomedical innovation on health, he has published 135 articles, and
+
+02:33.320 --> 02:38.520
+top peer-reviewed scientific journals in medicine, oh, I can be over here, can I, yes, I can.
+
+02:38.520 --> 02:44.280
+He published that, yes, scientific journals in medicine, economics, health policy, epidemiology,
+
+02:44.280 --> 02:50.080
+statistics, law, and public health, among other fields, he holds an MD and a PhD in economics
+
+02:50.080 --> 02:51.080
+and book.
+
+02:51.080 --> 02:56.200
+MD and a PhD in economics, I almost thought it was an MD in economics for a minute there,
+
+02:56.200 --> 03:03.120
+and both earned at Stanford University, so let me see if I can cut this out like that.
+
+03:03.120 --> 03:05.760
+Oh, there you are, hello, sir.
+
+03:05.760 --> 03:07.400
+Thank you very much for joining me.
+
+03:08.400 --> 03:15.120
+I hope that introduction wasn't too, that's like 2-2-2-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-2-2-2-2-2-2-2-3-2-2.
+
+03:15.120 --> 03:18.360
+You left a community, which is I'm a fringe epidemiologist, that's what I thought.
+
+03:18.360 --> 03:19.520
+That's right.
+
+03:19.520 --> 03:21.280
+That's right.
+
+03:21.280 --> 03:24.520
+Fringe epidemiologist, he says.
+
+03:24.520 --> 03:27.640
+So, let's talk about being a fringe epidemiologist.
+
+03:27.640 --> 03:33.300
+That first question kind of peels right into that, so how did this great Barrington declaration
+
+03:33.300 --> 03:40.180
+inform was it from a poker group or are you guys all aficionados of the same dog breed or how did
+
+03:40.180 --> 03:49.140
+that happen? So it's a it's it's it's a little bit of a random thing like I got to know Martin
+
+03:49.140 --> 03:57.220
+Koldorf in the summer of 2020 because my friend Scott Atlas who was also at Stanford had been
+
+03:57.220 --> 04:05.220
+invited by by President Trump to be his COVID advisor. Scott tried to like organize a meeting
+
+04:05.220 --> 04:10.260
+inside the White House with me Martin and a few other scientists to try to talk to Trump about
+
+04:10.260 --> 04:17.380
+lockdowns, school closures, Debbie Birx and and Tony Fauci tried to block that. It took for and
+
+04:17.380 --> 04:22.500
+it took a like basically finally at the end of August, middle of August, I think,
+
+04:23.300 --> 04:28.820
+we he got permissioned for us to go visit the White House and that's why I met Martin Koldorf
+
+04:28.820 --> 04:34.740
+at the at the footsteps of the White House. Wow. Martin had been a guy known about him because
+
+04:34.740 --> 04:40.020
+he is an amazing statistician. I work on I've been working on vaccine safety actually with the FDA
+
+04:40.020 --> 04:45.060
+and he Martin had developed the statistical infrastructure for how to track vaccine
+
+04:45.060 --> 04:52.020
+vaccine injuries in with with a real time surveillance. Anyway, so I met Martin, we hit it off
+
+04:52.020 --> 04:59.860
+immediately at the foot first up the White House and I mean we started writing we wrote a couple
+
+04:59.860 --> 05:06.740
+op-eds together. One day in late September, Martin calls me up and says, Jay, do you want to come
+
+05:06.740 --> 05:12.980
+to have a little conference? What we'll do is we'll we'll invite some journalists and we'll invite
+
+05:12.980 --> 05:18.980
+Sinatra Gupta from Oxford who I I mean I've been mired her forever and I never met her before
+
+05:20.420 --> 05:24.100
+we'll invite the three of us will go meet with some journalists and try to tell them about the
+
+05:24.100 --> 05:29.220
+epidemiology of of lockdowns the harms of lockdowns. In fact, that's exactly what we told President
+
+05:29.220 --> 05:33.140
+Trump. We told that the President Trump that closing schools was a really bad idea was hurting
+
+05:33.140 --> 05:38.100
+children that the evidence from Sweden was that it wasn't particularly effective at stopping this
+
+05:38.100 --> 05:43.380
+rather than whatever the disease was and so like that there was a really bad idea to close schools
+
+05:43.380 --> 05:47.220
+and that you needed to protect older people better like the basically the idea of a great
+
+05:47.220 --> 05:54.340
+branch decoration and so we met in western Massachusetts very close to where Martin lives
+
+05:54.340 --> 06:00.500
+and it's a town I never heard of before so when we when I arrived I it was like you know actually
+
+06:00.500 --> 06:06.420
+this was like in the middle of a crazy lockdown in New York and and it felt it felt really illicit
+
+06:06.420 --> 06:13.140
+like I got to fly across country and and on the drive-in I asked the the the the driver was
+
+06:13.140 --> 06:16.740
+driving you what the name of the town was never heard of it before because it said Great Barrington
+
+06:16.740 --> 06:21.460
+and so when we met we just we weren't like actually thinking about writing we were going to write
+
+06:21.460 --> 06:25.540
+like a declaration we were just going to talk to people talk to journalists that have invited
+
+06:25.540 --> 06:29.860
+there that when we met we really cleared that we derived basically at the same place I mean
+
+06:29.860 --> 06:34.980
+I thought it was like particularly novel idea like the idea that you protect vulnerable older people
+
+06:34.980 --> 06:39.060
+and you don't lock down that's the way we managed every other viral pandemic last
+
+06:39.060 --> 06:43.460
+respiratory viral pandemic of the last century we arrived at the same place we thought okay well
+
+06:43.460 --> 06:49.940
+why don't we put out a little short statement about what we think and I came up with the name
+
+06:49.940 --> 06:53.700
+Jay I've stabbed quite proud of myself because I remembered the word Great Barrington I'm like
+
+06:53.700 --> 06:58.740
+that would be a great title for the declaration you know I was thinking like port here in statement
+
+06:58.740 --> 07:04.180
+you know from the like the 60s or whatever I see yes and so and you know you can't tell if the
+
+07:04.340 --> 07:08.580
+word Great applies to the the city or to the or to the declaration which is that I'm being
+
+07:08.580 --> 07:14.420
+really fantastic and so I yeah anyways it got a lot of attention I mean almost immediately
+
+07:14.420 --> 07:19.860
+it was it got a tremendous amount of attention almost a million people signed it tens of thousands
+
+07:19.860 --> 07:26.980
+of doctors and scientists signed it and you know what I think the reason why it got that
+
+07:26.980 --> 07:32.580
+attention was that at that point oh sorry Jake no I signed it I just wanted to say oh thank
+
+07:32.580 --> 07:37.460
+I'm really grateful you are grateful to do that I mean I think that the reason why it got
+
+07:37.460 --> 07:43.620
+attention is because people understood like most people really understood deep in their heart that
+
+07:43.620 --> 07:47.620
+there was that what we were doing was absolute nonsense it was hurting kids it was hurting poor
+
+07:47.620 --> 07:52.100
+people it was hurting vast numbers if you all these lockdowns were and it wasn't like you know
+
+07:52.100 --> 07:55.780
+if the promise was it was gonna get rid of the disease well how come it was coming back in
+
+07:55.780 --> 08:02.340
+October 2020 right it wasn't working and it was hurting people and it was violated civil
+
+08:02.340 --> 08:07.780
+rights at scale and it was and especially the harm to kids was was pretty close to the top of my
+
+08:07.780 --> 08:15.220
+mind and I have three kids and all three of them you know basically they didn't see my two of them
+
+08:15.220 --> 08:18.580
+didn't see the inside of a classroom for a year and a half and the third one was in college it
+
+08:18.580 --> 08:24.420
+took a long time I mean basically it felt to me like we were robbing our kids of their childhood
+
+08:24.420 --> 08:29.380
+for no real purpose well imagine quite frankly this is the one thing that really scared me is
+
+08:29.460 --> 08:35.940
+that imagine not having you as a father instead having somebody who can't grasp it or understand
+
+08:35.940 --> 08:42.820
+the limitations or the you know explain anything and just has to go from what they get on television
+
+08:42.820 --> 08:48.660
+it could bend much much what scares me the most is the idea that the children seem to watch the
+
+08:48.660 --> 08:55.380
+parents lose control and that's a real dangerous sort of blanket effect of what they did with the
+
+08:55.380 --> 08:59.460
+lockdown I mean you were still seeing the aftermath of that and that you're seeing like levels of
+
+08:59.460 --> 09:03.940
+anxiety and depression and kids like you scare the living daylight out of them tell them that
+
+09:03.940 --> 09:08.500
+they are going to kill if they just lead normal childhoods they're going to kill mom and dad or
+
+09:08.500 --> 09:14.500
+grandpa grandma and so they better treat everybody as biohazard or else I mean that's going to have
+
+09:14.500 --> 09:20.180
+consequences and it just has had consequences really negative ones it's just heartbreaking to go
+
+09:20.180 --> 09:25.060
+watch it anyway so that's how would the great grandpa question happen we we put this out and I
+
+09:25.060 --> 09:29.700
+think people were just ready to hear that that wasn't needed like I I call it the least original
+
+09:29.700 --> 09:36.580
+thing I've erode j I mean I it's not like I I mean it was we were saying obvious things right
+
+09:38.180 --> 09:43.300
+and and yet if people were interested because it shattered the idea that there was a consensus
+
+09:43.300 --> 09:48.100
+around the lockdowns I mean that's how you impose a lockdown or or or the kinds of like
+
+09:49.060 --> 09:55.460
+policies you have to like get the population to agree to be scared and to have this sense that
+
+09:55.460 --> 10:01.300
+all the scientists all the wise people agree that you have to do this or else and what the great
+
+10:01.300 --> 10:05.780
+branch of decoration is it shattered that consensus shattered the idea that there was a consensus
+
+10:05.780 --> 10:10.660
+it because you know the consensus wasn't there right you know this right I mean I from from from
+
+10:10.660 --> 10:14.340
+the beginning of the pandemic you've been you've been saying counter counter consensus things
+
+10:15.220 --> 10:21.300
+and scientists if you talk to scientists you know you get a hundred opinions if you have 100
+
+10:21.300 --> 10:26.660
+scientists you get 150 opinions sometimes right and so you just it was it was it was really clear
+
+10:26.660 --> 10:31.700
+that to me talking to other scientists that that there wasn't a consensus and so when we put the
+
+10:31.700 --> 10:38.980
+the Declaration out I think that's why it got so much attention both from the public but also from
+
+10:39.620 --> 10:45.620
+scientific authorities you know scientific bureaucrats like Tony Fauci and Francis Collins
+
+10:46.660 --> 10:52.500
+or Jeremy Farron in the UK they were they were for them it was a threat to their power
+
+10:54.180 --> 10:58.500
+it was a threat to the idea that they that they knew best what to do and everyone better
+
+10:58.500 --> 11:02.420
+listen to them or else everyone's gonna die I mean that was essentially I mean like they you know
+
+11:02.420 --> 11:05.540
+they didn't say it that way but that's essentially what they were they were implying
+
+11:06.180 --> 11:12.420
+and the great branch and declaration said no look other scientists have a different view or
+
+11:12.420 --> 11:18.020
+proposed or thinking of different policies is better and it was a call for a conversation
+
+11:18.020 --> 11:21.380
+like we were calling for focus protection it's called for conversation how best to do that
+
+11:21.380 --> 11:26.580
+how do you how really do you protect older people because the idea up to then was like the
+
+11:26.580 --> 11:30.580
+lockdowns were going to protect them but it didn't protect them you know lots and the older people
+
+11:30.660 --> 11:36.340
+have died on the basis of the idea that lockdowns can protect them we've done really stupid things
+
+11:36.900 --> 11:42.580
+right like why do we send covid why did why did New York send covid infected patients back to
+
+11:42.580 --> 11:47.060
+nursing homes this happened lots of places by the way not just New York it's because the the
+
+11:47.060 --> 11:51.940
+premise was that keeping hospital beds empty was more important than protecting vulnerable people
+
+11:53.060 --> 11:57.380
+why did we close schools like because somehow kids were even even despite the fact that
+
+11:57.380 --> 12:01.220
+Sweden you had evidence from Sweden for the spring that not closing schools didn't result
+
+12:01.220 --> 12:07.860
+in a worse epidemic really I just for the especially for the teachers the the rates of death for
+
+12:07.860 --> 12:14.340
+teachers was was lower than the average of the rest of the population yeah it was it was really
+
+12:14.340 --> 12:23.140
+shocking oh what is this what that's ridiculous now I get they're saying my zoom meeting is going
+
+12:23.220 --> 12:28.740
+to end well we can we can you know I'm signed in under the wrong account then dog on it
+
+12:33.060 --> 12:38.020
+I'm gonna have to sign in different than I guess okay well we can we start though we we've recorded
+
+12:38.020 --> 12:44.420
+this right so we can yeah yeah I mean it's it's this is uh it's it's fine I just him in a little
+
+12:44.420 --> 12:48.100
+annoyed that I could have seen that coming I guess I thought I had longer in this don't worry
+
+12:49.060 --> 12:53.060
+um I'll send you a link in like 30 seconds okay see shortly okay
+
+12:56.900 --> 13:01.620
+dumb d-dum d-dum d-dum d-dum d-dum d-dum d-dum d-dum d-dum d-dum d-dum
+
+13:03.300 --> 13:06.260
+dumb d-dum d-dum d-dum d-dum d-dum
+
+13:08.020 --> 13:12.020
+this one is the one I paid for open zoom
+
+13:12.740 --> 13:14.740
+um
+
+13:14.740 --> 13:16.660
+um-d-dum d-dum d-dum d-dum
+
+13:17.220 --> 13:20.340
+sorry guys I'm gonna fix this right now and then it'll be dumb
+
+13:23.220 --> 13:28.500
+save and now that we've got him he said I've got a lot of time so I'm actually gonna probably
+
+13:28.500 --> 13:34.180
+have to cut him short and then uh what will happen is uh
+
+13:34.580 --> 13:43.140
+I'll have to switch right away for Peter McCullough which is crazy but there it goes
+
+13:43.140 --> 13:48.580
+hopefully he'll be up very shortly I'm gonna start this meeting and then uh hopefully he'll be here
+
+13:50.740 --> 13:56.820
+at least all the settings are right now I hope the sound is all right are we good sound is all right
+
+13:56.820 --> 14:06.740
+I think this is gonna be a fun conversation um I might have to keep him here all the way till
+
+14:06.740 --> 14:11.220
+six o'clock but uh I think it's gonna be a good conversation here he comes he's already back
+
+14:11.220 --> 14:18.820
+see how quick we are now we're back Jedi master level stuff there thank you sir for tolerating my
+
+14:18.820 --> 14:27.460
+IT uh sure better rather than I am Jay so just uh no worries um so where were we we were I was
+
+14:27.460 --> 14:33.380
+about to ask you I sort of pair up a general question that kind of segway's well in in what we
+
+14:33.380 --> 14:38.820
+were talking about about the Great Bearing Declaration and where it evolved from and where it got you
+
+14:39.460 --> 14:45.140
+um oh Jay can you can you can you allow me to or of course I can yes there we can
+
+14:46.100 --> 14:52.420
+and so if you if that helps you at all to pick up where you left off or recording in progress
+
+14:52.420 --> 14:58.420
+gotcha otherwise um so we were just talking about the Great Bearington Declaration you were
+
+14:58.420 --> 15:05.140
+finishing kind of saying um how it evolved and and why it was important because because it gave
+
+15:05.140 --> 15:12.580
+people first time this this clear uh message that there isn't a consensus that something is
+
+15:12.660 --> 15:16.260
+isn't right so it's a pretty incongruent message relative to the television
+
+15:16.980 --> 15:25.460
+um what was the in that time what was the the most common way of them trying to dismiss you
+
+15:25.460 --> 15:29.060
+was it just that they don't know what they're talking about even though that was part of the
+
+15:29.060 --> 15:35.860
+reason why you chose you three right as you you realize that you're let's say professional
+
+15:35.860 --> 15:40.820
+standing should bring some weight so that people would be less likely to be able to dismiss you
+
+15:40.820 --> 15:45.380
+well how did you how did that come out in reality versus what you expected
+
+15:46.740 --> 15:52.500
+well so uh the four days after we wrote the declaration we learned this uh from foyer
+
+15:52.500 --> 15:57.940
+request four days after we wrote the declaration the head of the NIH Francis Collins wrote to Tony
+
+15:57.940 --> 16:03.780
+Fauci an email where he called me Martin and Sinatra of Martin Coldoff of Harvard University
+
+16:03.780 --> 16:08.580
+Sinatra Gupta of Oxford University the three of us fringe epidemiologists uh that's that's
+
+16:08.660 --> 16:13.860
+I got a book I got a little uh i'll see if i have like card that has the fringe epidemiologists
+
+16:13.860 --> 16:17.780
+i can't find it it's a fringe epidemiologists somewhat friend of mine made a fringe epidemiology
+
+16:17.780 --> 16:22.980
+card i i think i will go to my grade with that title well don't give them all the way i want one
+
+16:22.980 --> 16:27.140
+of those i definitely will the next time we'll next time we meet you i will give you what i promise
+
+16:27.700 --> 16:34.820
+um but yeah so so uh he called us fringe epidemiology then he called for devastating takedown literally
+
+16:34.900 --> 16:39.300
+in an email devastating takedown the premises of the the declaration and then what started
+
+16:39.300 --> 16:44.740
+happening was hit pieces hit pieces by the washing and post uh in fact Francis uh Tony Fauci shared
+
+16:44.740 --> 16:51.700
+it and a hit piece almost immediately by wired magazine where Fauci showed up accusing us of
+
+16:51.700 --> 16:57.140
+wanting to let the virus rip when we were calling for focus protection of vulnerable people um i
+
+16:57.140 --> 17:04.100
+mean it was basically a propaganda campaign um in in in the uk parliament a conservative
+
+17:04.900 --> 17:12.740
+member parliament denounced uh cenetra uh there was a website that came up uh all of a sudden
+
+17:12.740 --> 17:18.500
+accusing us of like saying all being you know all kinds of nasty attacks and in the British
+
+17:18.500 --> 17:24.020
+medical journal the British medical journal published a false attack on us claiming that we
+
+17:24.100 --> 17:30.820
+had financial conflicts of interest it was insane i paid my own way to great parenthood mass
+
+17:30.820 --> 17:36.580
+uses for the flight i didn't accept any money in fact jay i've taken zero dollars for any of my
+
+17:36.580 --> 17:42.500
+covid work to date i've lost money on covid um because i just don't feel right taking money in the
+
+17:42.500 --> 17:47.540
+middle for when people are suffering in this way so i just i the whole thing was just they
+
+17:47.540 --> 17:51.540
+and the British medical journal published it claiming that somehow that we were coke funded
+
+17:52.260 --> 17:58.020
+when in fact that it was the it was like the imperial college model that led to the panic in
+
+17:58.020 --> 18:03.380
+march of 2020 that was coke funded um the whole thing was just it was it was it was an absolutely
+
+18:03.380 --> 18:10.580
+disgusting ad hominem attack based on lies because the problem was they couldn't actually engage with
+
+18:10.580 --> 18:17.380
+us honestly in a discussion it's not like that is if we had all the the ideas i mean i i i you know
+
+18:17.620 --> 18:21.460
+it's just where if you're a scientist you know you make a mistake let me you you're wrong a lot
+
+18:21.460 --> 18:27.300
+of the time and it's the it's the process of like uh seeing what other people think looking at data
+
+18:27.300 --> 18:32.100
+doing experiments that's how you learn as scientists right they didn't treat us that way they treated
+
+18:32.100 --> 18:38.260
+us as if we were heretics to be expelled and excommunicated um i'd say this this wasn't it wasn't
+
+18:38.260 --> 18:45.300
+even the first time like in the pandemic um in april of 2020 i had done a study in Santa Clara
+
+18:45.300 --> 18:49.140
+county california um i don't know if you've seen it maybe you've seen it was it was it was a
+
+18:49.140 --> 18:54.980
+study measuring antibody levels in the population a seroprevalence study and it was we done one in
+
+18:54.980 --> 19:00.180
+Santa Clara county and another one in LA county shortly after that and uh you know we we used this
+
+19:00.180 --> 19:07.060
+uh this test kit that we'd gotten from a a guy who runs uh made testing in major league baseball
+
+19:07.940 --> 19:11.780
+he had ordered it um we did a lot of work to try to figure out what the false laws and
+
+19:11.780 --> 19:17.220
+false negative rates were uh we were we put out a paper which i thought was a pretty careful paper
+
+19:17.220 --> 19:21.300
+that there was some uh some some comments that folks folks had on twitter and elsewhere that
+
+19:21.300 --> 19:27.140
+made it then we released an updated version of it in a in a in in the pre-print ultimately the
+
+19:27.140 --> 19:30.900
+paper was published in the international level of epidemiology right so it's like we got the math
+
+19:30.900 --> 19:37.140
+right um the hunch line for the paper from the beginning was that the disease had had spread to
+
+19:37.140 --> 19:41.940
+about three percent of the population in LA county for in LA county four percent three percent
+
+19:41.940 --> 19:48.420
+in in Santa Clara county um it was uh it was something like it was April early April 2020 and
+
+19:48.420 --> 19:53.780
+that meant that you know there were a thousand official cases then in in in Santa Clara county
+
+19:53.780 --> 19:59.860
+but our estimates implied 50,000 people had already been infected or at least had antibodies to the
+
+19:59.860 --> 20:05.620
+to the there were specific to the SARS-CoV-2 um that meant that infections how do you rate was
+
+20:05.620 --> 20:11.940
+not you know the the you know was the World Health Organization said 3.4 percent case fatality
+
+20:11.940 --> 20:17.460
+rate our estimate was that that implied something like 0.2 percent infection fatality rate um for
+
+20:17.460 --> 20:21.300
+people especially for and there was this massive age gradient with older people having much higher
+
+20:21.300 --> 20:28.660
+risk um that led to hit pieces on me and on my wife and my family it led to i wasn't ready for
+
+20:28.660 --> 20:33.060
+that my face skin wasn't this i thought my skin was thick after you know two decades in academics
+
+20:33.060 --> 20:38.260
+but it turns out what i wasn't used to uh attacks on me death threats constantly for two straight
+
+20:38.260 --> 20:43.220
+years jay every time i appear in public every time i'd write something they there was just like
+
+20:43.220 --> 20:48.740
+uh assumptions of bad faith accusations of false accusations of conflicts of money complex of
+
+20:48.740 --> 20:57.620
+interest um essentially everything but actually engage with the scientific results right i i i
+
+20:57.780 --> 21:04.820
+can only imagine i mean i i remember this paper um and i remember i might have even still been
+
+21:04.820 --> 21:09.940
+on my bike when that paper came out so there might even be a later bike ride on my youtube
+
+21:09.940 --> 21:18.340
+channel where i did it um but the the what my narrative would be on that or what my question
+
+21:18.340 --> 21:23.620
+would be on that is um just taking notes on it so we that whole study would be on a testing kit that
+
+21:23.700 --> 21:29.620
+at that time um part of the illusion of consensus i would say was that these testing kits were
+
+21:29.620 --> 21:36.420
+very high fidelity with almost no false positives and appropriate to apply to anybody that was
+
+21:36.420 --> 21:43.700
+suspicious of having a test or i mean having an infection and at the same time overlapping with
+
+21:43.700 --> 21:50.340
+this i think biologically incorrect concept of asymptomatic spread being a very widespread
+
+21:50.340 --> 21:56.820
+phenomenon and i know that at that time i couldn't iron it out i couldn't figure it out but i know
+
+21:56.820 --> 22:03.220
+that there was a very concerted effort to establish the idea that you can't know if you're infected
+
+22:03.220 --> 22:09.300
+and even if you test negative on a test you could still be positive and just not know it and this
+
+22:09.300 --> 22:14.260
+goes back to the you know testing before you leave campus to make sure you don't infect your
+
+22:14.260 --> 22:21.540
+grandparents it was really uh a wicked web they wove um and so i think this was really important
+
+22:22.180 --> 22:26.260
+evidence that again even if you don't interpret the evidence the way that i would
+
+22:26.980 --> 22:32.820
+its evidence for this illusion of consensus about well there's a new virus and it's just got here
+
+22:33.380 --> 22:40.580
+and we're accurately tracking it when it that clearly brought that into question yeah i mean i
+
+22:40.660 --> 22:45.620
+think um so just a couple of things like at the time there were those test kits um these were
+
+22:45.620 --> 22:52.580
+for antibody test kits not the PCR test kits um and uh like on the on the PCR absolutely grew
+
+22:52.580 --> 22:58.180
+with you that the PCR was was vastly like misinterpreted and misused i don't even know what the right
+
+22:58.180 --> 23:06.500
+word is um they they they tuned the PCR test so that it was hypersensitive right so even if you had
+
+23:07.460 --> 23:13.620
+uh like just fragments of dead dead virus in you it would turn positive because they they did
+
+23:13.620 --> 23:18.340
+you know 40 doublings or whatever but a lot of 40 doublings for you a lot positive and then
+
+23:18.340 --> 23:24.980
+they tied that to quarantining uh to contact tracing it was it was a it was guaranteed to create
+
+23:24.980 --> 23:30.740
+this the idea that the virus is is everywhere and that you are at risk of spreading it from to
+
+23:30.820 --> 23:36.100
+everyone and um and you better you know and and essentially create panic and fear i wrote a piece
+
+23:36.100 --> 23:42.420
+in uh in the summer of 2020 arguing against contact tracing on basically with that as the main premise
+
+23:43.300 --> 23:49.620
+the premise being that the contact tracing um was identifying many people who are not really at
+
+23:49.620 --> 23:56.740
+risk of spreading the disease causing untold harm to the especially the children um and uh the
+
+23:57.220 --> 24:02.660
+that and that it was an inappropriate tool for trying to control the spread of a of a of a
+
+24:02.660 --> 24:07.300
+respiratory virus i mean a contact tracing maybe could work for HIV because you know who you had
+
+24:07.300 --> 24:11.300
+sex with but you don't you're really hard to tell who you breathe next to breathe near or
+
+24:11.300 --> 24:17.540
+breathe in the same room as um and so the idea that you could you could like get uh you could stop
+
+24:17.540 --> 24:21.940
+the spread of the disease this way with this testing was insane but i just a quick thing
+
+24:21.940 --> 24:26.260
+about the antibody test at the time in april 2020 it's basically impossible to get the antibody
+
+24:26.260 --> 24:31.220
+test um it was kind of a unique thing that we were wondering about that actually you said major
+
+24:31.220 --> 24:35.140
+league baseball so you had some kind of hookup otherwise you wouldn't have been i mean it was
+
+24:35.140 --> 24:39.060
+it was actually just completely serendipitous jay so like what happened was that i wrote an
+
+24:39.060 --> 24:44.900
+op-ed in march of 2020 in the waltz v journal saying that we didn't know how deadly the disease
+
+24:44.900 --> 24:50.100
+was we didn't know how widespread it was and effectively calling for a sera prevalent study i
+
+24:50.100 --> 24:56.180
+figured the cdc would run it um the cdc didn't run it so much later uh what happened instead
+
+24:56.340 --> 25:01.220
+was that there was a man who runs uh testing for for uh you know steroid testing for major league
+
+25:01.220 --> 25:05.860
+baseball he had had the foresight to order a bunch of antibody tests from this chinese company
+
+25:06.740 --> 25:11.940
+and uh he when he saw that op-ed he called me up or called me and my colleagues up and said look
+
+25:11.940 --> 25:17.380
+i i don't want to use this to make money i'd rather use it for science and so he offered up those
+
+25:17.380 --> 25:23.140
+tests which i never would i would have access to to run this study we we organized that study
+
+25:23.140 --> 25:27.540
+within the matter of a couple of weeks um it was it was it was it would normally it would take
+
+25:27.540 --> 25:31.620
+a year to organize a study like right just getting everything in place it was it was really just it
+
+25:31.620 --> 25:36.420
+was it was quite something to get uh like quite a feat of of like logistics to like get everything
+
+25:36.420 --> 25:43.140
+together um and the results were right like a hundred other groups then replicated the result
+
+25:43.140 --> 25:48.340
+that we got uh that as far as the false positive rate for that test the way we measured it was first
+
+25:48.820 --> 25:52.420
+that the the manufacturer had done some rest asked him as the false positive but they've
+
+25:52.420 --> 25:58.740
+done is they've taken blood stored blood from 2018 or something and run the the blood the blood on
+
+25:58.740 --> 26:04.980
+the uh run the run the test on that stored blood from 2018 and they found a false positive rate of
+
+26:04.980 --> 26:10.980
+like point oh five percent very very small false false positive rate um we of course we didn't
+
+26:10.980 --> 26:15.060
+believe them because it's the manufacturer so you have to like get it independent so we got when we
+
+26:15.460 --> 26:19.060
+went and found some some colleagues to run some independent studies here at Stanford
+
+26:20.020 --> 26:23.780
+for a small group then when we released the study it turned out there were like dozen
+
+26:23.780 --> 26:28.420
+laboratories around the on the world that were also playing with the same antibody test kit
+
+26:28.420 --> 26:34.580
+and they basically got the point oh five percent same the same we we gotten um it was actually a
+
+26:34.580 --> 26:39.460
+major scandal around those antibody test kits right around then Jay um a lot of the test kits
+
+26:39.460 --> 26:43.460
+turned out to be fraudulent the UK for instance had bought a bunch of like test kits from Chinese
+
+26:43.460 --> 26:49.540
+companies that had been which is terrible test yes um like you know with like lots of cross
+
+26:49.540 --> 26:55.460
+positivity to other SARS-CoV-2 viruses and so on um uh I'm sorry SARS-CoV-2 to other coronaviruses
+
+26:55.460 --> 27:01.220
+and so on um and so like it was it was it was but there are like fortuitously our test kit
+
+27:01.220 --> 27:05.220
+turned out to be good the one of the few good ones it was actually approved by the FDA for uh
+
+27:05.220 --> 27:13.060
+for EUA later that summer um and uh yeah so I think we actually got the number right and I said a
+
+27:13.060 --> 27:22.740
+hundred other uh independent uh groups confirmed uh pretty widespread uh antibody levels uh use
+
+27:22.740 --> 27:27.540
+you're using different test kits basically all around the world that summer and into that fall
+
+27:27.540 --> 27:33.140
+there was um the best paper that I've been using to teach was a cell article actually
+
+27:34.660 --> 27:42.020
+and uh I don't know if I can flash this up there and show it to you but um the the paper actually
+
+27:42.020 --> 27:51.300
+looks at um in this column in the dark blue is actually uh people that were just blood donors um
+
+27:51.300 --> 27:57.700
+in 2020 and even there they can find uh T cells that are specific for the S protein the M protein
+
+27:57.700 --> 28:04.820
+and the N protein of SARS-CoV-2 already in 2019 in blood donors um and they also confirmed the B
+
+28:04.820 --> 28:11.620
+cells um and they showed that actually more people converted T cells than converted B cells which
+
+28:11.700 --> 28:18.260
+also makes sense from the sorry I don't have you on the screen um making uh makes sense from the
+
+28:18.260 --> 28:23.540
+the perspective of how the immunology activates itself and sequence like that so there were some
+
+28:23.540 --> 28:29.700
+really giant confirmations of there being a signal before the pandemic started I mean I think um
+
+28:29.700 --> 28:34.660
+it's quite likely that the the disease was here in 2019 there's no there's I mean it's just it's
+
+28:34.660 --> 28:40.100
+inconceivable to get from like the official start day of the pandemic is what like late January 2020
+
+28:40.100 --> 28:46.020
+2020 in the US and by early April that's like a month and a half and you know three weeks of
+
+28:46.020 --> 28:50.580
+lockdown it had already spread to three percent like you already antibodies in three percent of
+
+28:50.580 --> 28:55.940
+the poverty that the antibodies of course fade right so as you as you as you well know um so the
+
+28:55.940 --> 29:01.780
+idea that uh three percent of the population have antibodies there's no way if the start date is
+
+29:01.780 --> 29:07.460
+January late January 2020 to get to April 20 early April 2020 and say oh well three it's spread to
+
+29:07.540 --> 29:13.700
+three percent um you know in the middle of a lockdown it had to have been here earlier um there
+
+29:13.700 --> 29:20.420
+was a couple of studies really interesting ones from September 2019 like looking at stored blood in
+
+29:20.420 --> 29:26.900
+and goal in Angola I think was the and then another one in northern Italy looking at stored blood
+
+29:27.540 --> 29:35.220
+in um uh in from blood banks from September 2019 October 2019 that found positive antibodies um
+
+29:35.300 --> 29:39.460
+and I think some of those T cells results that you're you're pointing to Jay I think that also
+
+29:40.340 --> 29:46.340
+says something really important about cross immunity right you you might have had immunity
+
+29:46.340 --> 29:51.540
+because you were exposed to other coronaviruses um and there were some really interesting uh
+
+29:51.540 --> 29:58.660
+studies that I remember reading in 2020 of of like preschool teachers and what happens when they
+
+29:58.660 --> 30:03.860
+got infected like they they basically had different like a different disease course in part because
+
+30:03.860 --> 30:10.500
+they've been exposed to you know you have small kids I know I've had small kids you get sick all
+
+30:10.500 --> 30:16.980
+the time with presumably the other coronaviruses um and so they had some cross immunity uh so just
+
+30:16.980 --> 30:22.260
+it's uh so what I got a I got a really sharp question for this part of the discussion if
+
+30:23.060 --> 30:30.420
+if we agree that this seroprevalence data is real um and we look at at what was happening
+
+30:31.060 --> 30:37.220
+in 2019 we don't even we don't see any peaks in all cause mortality we don't see any peaks
+
+30:37.220 --> 30:42.900
+in pneumonia we don't see any peaks in some kind of signal that would indicate that something
+
+30:42.900 --> 30:49.700
+especially deadly was spreading in the background and then suddenly in in certain places at certain
+
+30:49.700 --> 30:56.820
+times we have these giant spikes which which they sold to us as evidence of instantaneous spread
+
+30:56.820 --> 31:02.820
+but your data suggests that's not the case but there's no signal before that so how do I
+
+31:02.820 --> 31:08.580
+reconcile those two things? Well I think um you know you could you could like so I talked to
+
+31:08.580 --> 31:12.580
+Synetra Gupta for instance about this you know she's she's a theoretical epidemiographer professor
+
+31:12.580 --> 31:17.460
+of theoretical epidemiology um what she tells me is that these are consistent with s these are
+
+31:17.460 --> 31:21.620
+consistent with sIR models with particular sIR models are these compartment models I'm sure
+
+31:21.620 --> 31:27.540
+your audience knows uh that they're used to forecast forecast and track uh like the the
+
+31:28.180 --> 31:34.660
+spread of diseases um that there are formulations of sIR model consistent with the patterns that
+
+31:34.660 --> 31:41.860
+we've seen um so like for instance imagine it's it starts in september august 2019 or something
+
+31:41.860 --> 31:47.140
+like there's a it's the path of these sIR models there's flat flat flat flat and then a big
+
+31:47.300 --> 31:51.780
+spread because it's like there's this like early it's not exponential but like it's exponential
+
+31:51.780 --> 31:57.940
+like growth um very very early because you just you know one two four it's very small until you
+
+31:57.940 --> 32:04.580
+get to you know two to the 15th or something and then you get then you have to get big numbers um and
+
+32:04.580 --> 32:11.140
+the how how fast that spreads uh you know it's it's possible that that that it's it's that uh
+
+32:11.140 --> 32:15.300
+let me give you one other data point that I that I've seen that most people don't know about um
+
+32:15.860 --> 32:22.980
+there was a paper by two uh two economists at the ohio state who she had done and uh
+
+32:23.780 --> 32:27.540
+blanking on the uh the second author's name and what they found was that there was
+
+32:27.540 --> 32:33.780
+cremation data from china from muhan in october 2020 a big spike in cremation
+
+32:34.900 --> 32:41.380
+in muhan china uh so it's not that there was no signal earlier it's that the signals were kind of
+
+32:41.380 --> 32:48.340
+hidden um suppressed uh and you can you can look and see some they they apparently got uh they
+
+32:48.340 --> 32:52.580
+they got these data leaked to them uh and they actually couldn't they they tried to get the paper
+
+32:52.580 --> 32:57.300
+published and uh they even the pre-print servers wouldn't put it they finally I think they got
+
+32:57.300 --> 33:02.420
+SSR on or some pre-print server to put it up so you can go find the paper um who she had done
+
+33:02.420 --> 33:07.220
+so there there is there may be uh the other thing it's a curious it's a curious observation
+
+33:07.220 --> 33:12.500
+because um are you aware of andrew huff do you know that that guy is from eco-health alliance
+
+33:12.500 --> 33:18.180
+actually he in his uh story about the pandemic also mentions that he was searching data on the
+
+33:18.180 --> 33:24.820
+internet and found uh some signal that was related to crematoriums in china I don't know if it was a
+
+33:24.820 --> 33:32.500
+signal from a satellite or some other information he had uh which is interesting you said the last
+
+33:32.500 --> 33:41.860
+name was done on that paper d-u-n-n-l-u-c-i-a-d-u-n-n um cool but yeah so it was uh I'll send you the
+
+33:41.860 --> 33:45.460
+paper afterwards I don't have the technology you have of like bringing papers up which is
+
+33:45.460 --> 33:52.260
+very very cool I'd say um uh but yeah I think um I think I think that that it's I mean there
+
+33:52.260 --> 33:57.460
+are still quite a lot we don't know there are also people there are interests of great powers that we
+
+33:57.460 --> 34:04.740
+keep some of this you know like I mean like you know some of this uh like if the full story gets
+
+34:04.740 --> 34:09.380
+out uh about exactly how it I mean I I mean just one of these things were like there's lots of
+
+34:09.380 --> 34:14.740
+people having interest in not having the full story completely get out um as you know as you
+
+34:14.740 --> 34:20.340
+can tell from the the the cover up around uh the support of the NIH for getting to function research
+
+34:20.340 --> 34:27.460
+that's there's a lot of like people who just their reputations will get harmed um uh so anyway
+
+34:27.460 --> 34:33.300
+so like the the point is that uh that it's it's possible that it's not possible likely that it was
+
+34:33.300 --> 34:38.820
+he it was spreading before 2019 I don't see how you can and what you said I agree with uh I don't
+
+34:38.820 --> 34:44.500
+see how you can explain it as it arrives in late January 2020 and then all of a sudden pops up
+
+34:44.500 --> 34:51.940
+everywhere Iran, Italy, UK, Sweden, New York uh all of a sudden pops up everywhere
+
+34:53.060 --> 34:58.980
+without it either uh yeah I mean I think the most likely explanation is it was here earlier it was
+
+34:58.980 --> 35:05.940
+here in 2019 and then you had like exponential spread flat flat flat and then you notice the
+
+35:05.940 --> 35:09.700
+oh I remember what I was gonna say this is one other thing if you're not if you don't you don't
+
+35:09.700 --> 35:15.540
+have a test to look for it before what like January 2020 and in the US we don't really have a test
+
+35:15.540 --> 35:23.780
+a PCR test to look for it until really available to like March 2020 um that is true there was a paper
+
+35:23.780 --> 35:31.700
+by Alex Washburn um early in the pandemic looking at ILI spikes uh it uh influenza like illness spikes
+
+35:32.260 --> 35:38.820
+that it would show up something like that right like an ILI spike um he also was arguing for
+
+35:38.820 --> 35:45.700
+an early spread based on the ILI spikes um so I think I think it's it's going to be a complicated
+
+35:45.700 --> 35:50.420
+story partly because it it matters what you can see in what you don't see oh sorry Jacob no no I
+
+35:50.420 --> 35:58.340
+was just I'm trying to find another piece here but um there's a interesting uh theory on the
+
+35:58.340 --> 36:03.460
+internet that circulates around that flu actually disappeared at the start of the pandemic but then
+
+36:03.460 --> 36:08.180
+people say they stop testing and that's why it disappeared so it's interesting that's that
+
+36:08.180 --> 36:12.660
+actually if you look it did it did actually disappear there was no there was almost no flu
+
+36:12.660 --> 36:19.140
+for for two years so then how did so what signal did he see an ILI then what's he looking for if
+
+36:19.140 --> 36:25.220
+he's not looking so see he was looking for like ILI is not like flu testing data so this ILI is
+
+36:25.220 --> 36:31.700
+like you it's clinical uh your admissions for uh but they weren't giving any money for ILI cases
+
+36:31.700 --> 36:37.460
+so there was no impetus for anybody to record any ILI when they could get 35 000 for calling
+
+36:37.460 --> 36:42.740
+the same thing so um the flu disappearing is like uh there's a what's the name of the group I think
+
+36:42.740 --> 36:49.300
+I'll biofire that the tests um test for like and there's the sentinel labs that the CDC has to test
+
+36:49.300 --> 36:54.820
+for flu and the flu did disappear I mean just it absolutely disappeared for two years like you
+
+36:54.820 --> 36:58.580
+could find almost none of it but either in the southern hemisphere or the northern hemisphere
+
+36:58.580 --> 37:06.740
+almost in any country um it was gone um the okay so what could explain that uh there's two theories
+
+37:06.820 --> 37:10.980
+that I've seen that that's might work I'm not I'm not sure I convinced by either theory but I'll
+
+37:10.980 --> 37:19.300
+tell you what the theories are um one is that the flu and the and the and the covid virus
+
+37:19.300 --> 37:26.260
+I compete in the same evolutionary space in the same niche and so and it just the
+
+37:26.260 --> 37:31.620
+covid just outcompeted the flu in the in our in our noses I've seen a couple of papers that
+
+37:31.620 --> 37:36.740
+suggest that that's not true that in fact that you can have both so I don't I'm not I once for a
+
+37:36.740 --> 37:40.260
+long time I believe that was true but once I saw those papers I was not sure that's true
+
+37:40.820 --> 37:46.500
+um the other theory that I've seen that's possible imagine you have a disease like the flu that is
+
+37:46.500 --> 37:53.540
+in endemic equilibrium right so you you're it's a it's it's hovering around the herd immunity
+
+37:53.620 --> 38:00.500
+threshold uh in the population at large right uh so so you you're you're you're if you whenever
+
+38:00.500 --> 38:05.380
+the immunity level goes above it the flu rates go low whenever it goes below it you see a little
+
+38:05.380 --> 38:12.580
+up you see some uptick like in the in the winter season or whatever um versus a disease that's
+
+38:12.580 --> 38:16.500
+like relatively new in the population you have some cross immunity like we talked about but not
+
+38:16.500 --> 38:22.820
+but but it's not in endemic equilibrium covid is not in endemic equilibrium and then imagine that
+
+38:22.820 --> 38:29.220
+you have a panic or fear or even lockdowns or something uh that what what that will do is it
+
+38:29.220 --> 38:36.340
+will raise the herd it will lower the herd immunity threshold of both the flu and the and for covid
+
+38:38.100 --> 38:44.420
+and that will now if the flu already has immunity in the population that is near the endemic
+
+38:44.420 --> 38:50.580
+threshold right hovering around the herd immunity threshold then the lowering the herd immunity
+
+38:50.580 --> 38:57.780
+threshold by again by panic by panic or by uh lockdown will will cause the flu to disappear
+
+38:58.580 --> 39:03.060
+because you'll have a lot more people that are above that herd immunity threshold but for covid
+
+39:03.060 --> 39:08.740
+it won't because uh the relative fraction of the population that's immune is still well below the
+
+39:08.740 --> 39:13.620
+herd immunity threshold i'm just talking like april 2020 or whatever it's generated whatever
+
+39:13.780 --> 39:21.220
+2020 um and so you could have policies have different effects on different viruses depending on how
+
+39:21.220 --> 39:28.660
+close they are to their own herd immunity thresholds i'd see um that's a theory i i've not that's a
+
+39:28.660 --> 39:33.940
+theory that uh cenetra told me actually i've not seen a paper that's documented whether it's or
+
+39:33.940 --> 39:39.140
+you're tested whether this is this works or doesn't work but the fact is about the sentinel labs in
+
+39:39.140 --> 39:43.940
+the cdc looking for the flu it what they went away like they found nothing for two years
+
+39:46.020 --> 39:49.540
+i'm going to make this over here for a second so i can put you
+
+39:51.300 --> 39:58.900
+up on top so this is this is the one issue that i keep bringing up on my slide stream all the time
+
+40:01.540 --> 40:07.140
+is that if you look at the data from oh what oh that's right i can't do that shoot that doesn't
+
+40:07.140 --> 40:13.780
+work i gotta leave you up where you were um so how do i get that off if i do this sorry i'm trying
+
+40:13.780 --> 40:22.980
+to get too fancy um so if i just show it like this if you take the cdc data and this graph
+
+40:22.980 --> 40:29.220
+unfortunately stops in somewhere in 22 so i don't i haven't updated it in a while but the point
+
+40:29.220 --> 40:37.700
+still gets well made is that if we start at 2000 if we start at 2014 over here and we follow the
+
+40:37.700 --> 40:47.540
+seasonal variation between you know 68,000 and 55,000 deaths per week there's no real signal until
+
+40:47.540 --> 40:56.500
+right there smack dab in february or or march of 2020 and then this this is not anything that a
+
+40:56.500 --> 41:01.700
+normal model fits and then in new york and many other places it goes right back down to baseline
+
+41:02.660 --> 41:08.500
+and that's not what that's still it's still about baseline but um but yeah okay yeah yeah okay but
+
+41:08.500 --> 41:15.780
+but in this case we have a signal in the form of uh pneumonia we have a drop in the signal due to
+
+41:15.780 --> 41:22.260
+flu that you can't see here in yellow and so i'm still stuck on the idea that pneumonia went up to
+
+41:22.260 --> 41:27.380
+two or three times normal death that we used to be able to handle pneumonia pretty well and
+
+41:27.380 --> 41:33.620
+it's a pretty consistent number across the last let's say eight years and then suddenly we we lost
+
+41:33.620 --> 41:39.620
+the plot and we couldn't care for pneumonia anymore um i mean i i think uh what what this
+
+41:39.620 --> 41:45.060
+points to and i i think this is the point you're making at which i agree with this is a complicated
+
+41:45.060 --> 41:50.020
+situation it's not just that covid came in and killed people although i do think that covid
+
+41:50.180 --> 41:56.020
+came and killed people but i i also think that it let the the the policy response
+
+41:56.820 --> 42:02.580
+distorted how we managed respiratory disease generally and actually just disease more generally
+
+42:03.540 --> 42:08.740
+i mean there are incredible reports of people dying at home with heart attacks yes and then
+
+42:08.740 --> 42:15.940
+reported as covid and then reported on the news as covid i mean you know that we uh i think it was
+
+42:16.420 --> 42:22.740
+CARES Act uh that that put in the uh the ten thousand dollar funeral benefit or
+
+42:22.740 --> 42:26.580
+nine thousand dollar funeral benefit if you have covid on your death certificate
+
+42:27.140 --> 42:30.500
+um it doesn't have to be the primary cause just to be on our death certificate in fact if you go
+
+42:30.500 --> 42:35.460
+to the FEMA page it'll tell you how to request that they make sure the check for covid
+
+42:35.460 --> 42:39.780
+so that it shows up on the death certificate that's correct so you can get the benefit
+
+42:39.780 --> 42:44.020
+if you die of cancer without covid on the death certificate you get zero dollars from federal
+
+42:44.020 --> 42:48.180
+funeral benefit so there are definitely incentives to oh i i did a study
+
+42:50.020 --> 42:54.100
+in uh well actually since i didn't publish it i'm not going to talk about that let me just
+
+42:54.100 --> 43:01.140
+talk about that uh something that is published a study done by the Santa Clara county public health
+
+43:01.140 --> 43:08.260
+authorities in 2020 looking at autopsy reports and then going back and do and do like checking
+
+43:08.260 --> 43:13.140
+to see what fraction of the patients that were diagnosed sort of designated as dead from covid
+
+43:13.140 --> 43:18.260
+actually actually had covid as the primary cause of death and it's like you know it's
+
+43:18.260 --> 43:24.900
+not i mean i think like at least 25 over counting in in summer of 2020 at least for older people
+
+43:24.900 --> 43:29.860
+in that autopsy studies with what they found alameda county in california also had a similar
+
+43:29.860 --> 43:35.700
+finding there's definitely over counting um in that sense uh john e and medius has a really
+
+43:35.700 --> 43:39.940
+interesting sort of modeling study looking at trying to find or trying to figure out how much
+
+43:39.940 --> 43:44.980
+over counting there was and he finds i mean something on that order for in in western countries
+
+43:44.980 --> 43:51.380
+of 25 to could be higher uh percent uh over counting probably under counting in in poor countries
+
+43:52.500 --> 43:58.820
+um and so it's it's it's so there's that the the lockdowns themselves cause a lot of death
+
+43:58.820 --> 44:07.620
+there's also iatrogenic harm right so we used a protocol for managing patients in a hospital
+
+44:07.620 --> 44:12.820
+with ventilators that the wall tout organization promulgated based on the chinese authorities
+
+44:13.700 --> 44:18.420
+that uh that was dropped i think sometime in early summer 2020 after people started to
+
+44:18.420 --> 44:24.340
+realize we were killing patients on that we using that ventilator protocol right uh we
+
+44:24.340 --> 44:30.740
+so and and so you and and you're you're a lot of a lot of the uh the rhetoric around the time
+
+44:30.740 --> 44:36.500
+is that you know you if you and actually still uh to for a long time was if you get covid stay at
+
+44:36.500 --> 44:41.220
+home until you're so sick then come to the hospital what if you had pneumonia then right
+
+44:41.220 --> 44:45.780
+pneumonia still is still is a deadly killer um you probably should have gone to the hospital earlier
+
+44:46.340 --> 44:54.020
+to get uh to get an antibiotic treatment um a lot of the a lot of that spike that you showed
+
+44:54.020 --> 44:59.300
+it's got to be complicated it's got to be partly covid partly by atrogenic harm partly just
+
+44:59.300 --> 45:04.340
+disruptions in basic services for for basic things that otherwise could be treatable
+
+45:04.820 --> 45:10.980
+a lot it could be i mean essentially general panic i haven't seen a great decomposition of
+
+45:10.980 --> 45:17.860
+that and i think we really need one like we need to understand uh what what you know each of these
+
+45:17.860 --> 45:24.260
+items are important i've seen people say that it's not consistent with epidemic spread of a disease
+
+45:24.260 --> 45:27.780
+and that i'm not sure about i mean like i said i talked with sineptor Gupta and she says that
+
+45:27.780 --> 45:34.580
+it's consistent with um with sIR models uh with the right parameterization and there are very
+
+45:34.580 --> 45:41.700
+flexible models so it's it's it's still possible but so flexible model makes it weaker in a way
+
+45:41.700 --> 45:46.020
+right because flexible model means you can make the model say whatever you wanted to say including
+
+45:46.020 --> 45:50.500
+what they made it say at the beginning of the pandemic so i always would take that with a grain
+
+45:50.500 --> 45:55.780
+of salt well i think i think the the question is like if you want to say it's not consistent with
+
+45:55.780 --> 46:01.380
+epidemic spread uh the way that you understand what epidemic spread is is these sIR models
+
+46:01.380 --> 46:05.540
+and they are flexible that is that in a sense that you're right i agree with and that is that
+
+46:06.260 --> 46:11.940
+it when you have a very flexible model essentially what you have is uh it's not falsifiable or much
+
+46:11.940 --> 46:17.940
+a very difficult to falsify um i'm not sure that's true for the sIR models i think it is falsifiable
+
+46:17.940 --> 46:24.580
+but but it does encompass a very wide range of viral spread uh patterns uh depending on the
+
+46:25.460 --> 46:31.140
+the parameterization of it so i don't i i guess i'd say i don't
+
+46:32.500 --> 46:37.060
+like the the pattern that you showed i've seen other folks put that up and say look that's not
+
+46:37.060 --> 46:42.340
+consistent with epidemic spread i don't i don't know that's true but i also i also think that the
+
+46:42.340 --> 46:49.860
+general point which is that there was a lot of panic and that that panic itself caused a lot
+
+46:49.860 --> 46:57.620
+of harm deaths even that is that's indisputably true uh are you familiar with denny rancor's work
+
+46:57.620 --> 47:04.420
+this guy uh in canada yeah i think one of the main observations that he makes that's very compelling
+
+47:04.500 --> 47:12.740
+to me is that even in counties in america you can see the lack of spread like an event and then
+
+47:12.740 --> 47:19.780
+it's over and then another event and it's over and it doesn't cross borders for example germany has
+
+47:19.780 --> 47:26.740
+no signal in the first uh first year of the pandemic almost a year and a half um which can't be
+
+47:26.740 --> 47:31.860
+attributed to lockdowns because that's of course one of those things that we've been arguing from
+
+47:31.860 --> 47:37.220
+the beginning that lockdowns can't do that so it's tricky i think it's i mean it's there's a
+
+47:37.220 --> 47:42.660
+there's a study i don't know i'm sure you've seen it uh from um mumbai a colleague of mine at the
+
+47:42.660 --> 47:49.380
+university of chicago a nuke malani conducted a sera prevalence study in in mumbai in uh july
+
+47:49.380 --> 47:54.020
+of twenty twenty i think i think it was the date um and we found it was then the slum areas of
+
+47:54.020 --> 47:58.340
+mumbai the sera prevalence was seventy percent and then the richer areas is twenty percent
+
+47:58.980 --> 48:03.940
+so i think i think like i've done i did a study look trying to measure the effect of lockdowns
+
+48:03.940 --> 48:08.740
+uh comparing sweden and south korea versus other countries um that that did lock down
+
+48:08.740 --> 48:14.900
+the close schools and close businesses and found very little average effect of lockdowns on disease
+
+48:14.900 --> 48:20.100
+spread and i think the key i don't know i mean i didn't like this is how i'm thinking about now
+
+48:20.660 --> 48:28.500
+the main hypothesis i have now right is that is that um is that lockdowns worked for a certain
+
+48:28.500 --> 48:35.620
+class of people right a class of people who didn't lose their jobs essentially was like the laptop
+
+48:35.620 --> 48:43.220
+class right so lockdowns are lockdowns are luxury of the laptop class um and for the rest of the
+
+48:43.220 --> 48:50.020
+population it didn't work and so you could have populated places that have a larger fraction
+
+48:50.020 --> 48:58.100
+of the population that that isolate themselves for whom it works even as the disease spreads in
+
+48:58.100 --> 49:03.460
+among among people who can't isolate themselves for economic reasons or other reasons um so you're
+
+49:03.460 --> 49:08.660
+gonna have heterogeneous spread and just looking at the average spread is not the key thing um
+
+49:08.660 --> 49:13.860
+germany was like pretty i mean germany was really interesting right that like they they had they
+
+49:13.860 --> 49:18.660
+they basically declared victory over the virus before before like to spread everywhere uh
+
+49:18.660 --> 49:25.460
+china did the same thing country after country uh so it's possible then that lockdowns temporarily
+
+49:26.500 --> 49:30.180
+protected certain groups of certain classes of the population
+
+49:31.620 --> 49:38.100
+um you know you know another great example for this is like peru i don't know if you ever
+
+49:38.100 --> 49:44.820
+looked at the peruvian data j um the per in peru they had like they had one of the worst lockdowns
+
+49:44.820 --> 49:48.980
+in the world like the most raponium and of course there's vast numbers of poor people in peru
+
+49:49.860 --> 49:57.860
+and there was huge numbers of deaths during the lockdown um the at one point in the pandemic
+
+49:57.860 --> 50:04.340
+per the peruvian authorities reclassified all of those deaths as covid deaths when they were like
+
+50:04.340 --> 50:09.860
+you know people starving um people like and so and the disease i mean of course disease
+
+50:09.860 --> 50:14.020
+probably also spread to those folks too um despite the lockdowns i think that
+
+50:14.020 --> 50:19.060
+it's such a complicated thing like if you have unequal societies you're going to have different
+
+50:19.060 --> 50:24.740
+impacts of lockdowns on different parts of those those societies um a lot of those disease spread
+
+50:24.740 --> 50:31.860
+models are pretty bad and though it's going as associated with socioeconomic realities um
+
+50:31.860 --> 50:38.420
+and so yeah i think there's a lot to learn um i guess i'm not ready to like uh discard the disease
+
+50:38.420 --> 50:42.820
+spread hypothesis based on it's still quite possible that's that's part of the story
+
+50:43.780 --> 50:48.820
+yeah in fact it's like i mean i say it go further i say it's likely that's a part of the story
+
+50:48.820 --> 50:56.580
+but the panic is really a major part of it as well yeah i think um the the three-year
+
+50:57.380 --> 51:04.420
+odyssey that i've been on has led me to conclude that that there might have been
+
+51:05.220 --> 51:12.100
+let's say for example you had this plan and you knew that when you executed the plan that
+
+51:12.100 --> 51:18.500
+trillions of dollars would shift and power would shift um and so the question is would
+
+51:18.500 --> 51:25.220
+a national security state leave that up to chance or would they kind of tip the scales to be ready
+
+51:25.220 --> 51:32.260
+and and and control that thing and so for me that's what that's how it adds up if we go back to this
+
+51:32.660 --> 51:37.780
+atrogenic harm uh comments that you were making earlier about the ventilators actually being a
+
+51:37.780 --> 51:44.180
+bad idea do you find it spooky then how it was such a illusion of consensus about the fact that
+
+51:44.180 --> 51:49.540
+we would run out of ventilators the elon musk had to shift his production to ventilators because
+
+51:49.540 --> 51:55.300
+this was thought to be the cure it's almost impossible for that to have been organic um
+
+51:57.140 --> 52:01.860
+i think i uh so like the ventilators are really curious thing right so first of all i remember
+
+52:01.860 --> 52:07.300
+seeing the earlier reports out of china like case reports out of china from early january 2020
+
+52:08.100 --> 52:14.980
+suggesting ventilators as a way to and and uh it was almost like it wasn't just for the patient
+
+52:14.980 --> 52:21.780
+it was for the doctors like the idea was that if you put a patient on a ventilator uh it was not
+
+52:22.660 --> 52:28.980
+yeah yeah like you reduce the risk to the to doctors and so um you could very easily
+
+52:28.980 --> 52:32.740
+imagine an organic phenomenon wouldn't have to be a plan it would just be
+
+52:33.460 --> 52:38.100
+doctors don't want to expose themselves to risk they have this technology that think would help
+
+52:38.100 --> 52:44.900
+patients and help them and they just adopt it and the WHO basically endorses it um and so it's like
+
+52:44.900 --> 52:50.260
+it just spread like i i guess my model uh is a little different than yours in that sense like i
+
+52:50.260 --> 52:57.060
+think a lot of the a lot of the the like just take the the pharmaceutical companies making
+
+52:57.060 --> 53:02.420
+gadsillions of dollars a lot of it is a lot of this opportunistic like once you start to see
+
+53:03.060 --> 53:09.620
+the panic happening you have got you have like uh media organizations that all of a sudden are
+
+53:09.620 --> 53:15.300
+seeing up increases in in their huge increases in the interest in their publications and their money
+
+53:16.020 --> 53:20.260
+and so they they want to keep augmenting the panic because that's that's what their bottom line is
+
+53:20.740 --> 53:27.540
+that they as soon as the governments some governments see that they can take control over over like
+
+53:27.540 --> 53:32.740
+you you know impose things that they've never otherwise would be able to do uh run run uh early
+
+53:32.740 --> 53:40.180
+elections like in in um in like what happened in uh for instance in uh in Canada so uh work
+
+53:40.180 --> 53:49.860
+or uh to to like establish that uh a long-term uh you know long-term staying power in the you
+
+53:49.860 --> 53:55.380
+know like i remember after 9-11 there was huge huge support for the for the bush administration
+
+53:55.940 --> 53:59.940
+like unprecedented levels like it's kind of a rally around the flag thing and so like if
+
+53:59.940 --> 54:05.460
+governments of course uh you know it'd be almost malpractice political malpractice not to like take
+
+54:05.460 --> 54:10.980
+advantage of it i think a lot my model for a lot of this jay is that um you once you've caused
+
+54:10.980 --> 54:16.340
+panic in the population at large once that has happened for through whatever process uh we can
+
+54:16.340 --> 54:22.740
+talk about that i do think that there was some deliberate uh desire to spread panic uh uh but
+
+54:22.740 --> 54:29.300
+once that started once that it's it's it creates all kinds of opportunities for act for various
+
+54:29.300 --> 54:33.860
+actors many of whom thinking that they're doing good but they're actually ended up doing harm
+
+54:33.860 --> 54:40.660
+to try to take advantage that is definitely close to how i have interpreted this and now it's just
+
+54:41.700 --> 54:48.260
+in in pessimism or an optimism looking at it as uh how much of it was nefarious and i i definitely
+
+54:48.260 --> 54:57.940
+agree that that there is this uh potential for it i just am frightened because um i i was so moved
+
+54:58.020 --> 55:04.180
+by this uh there was a chatham house talk in 2011 that was given by the by a guy by the name of
+
+55:04.180 --> 55:12.340
+mark von ronst um he's a a belgian guy who oversaw the flu in uh 2009 the flu epidemic the swine flu
+
+55:12.340 --> 55:19.700
+epidemic and in that presentation he i don't know the exact quote but he he is lamenting
+
+55:20.500 --> 55:26.340
+that in 2009 they didn't have the capability that they do now with twitter and facebook and with
+
+55:26.900 --> 55:32.900
+with media messaging um they could have never achieved um what they really needed to achieve
+
+55:32.900 --> 55:37.140
+back then but he knows how they could do it now and that was with with you know he could see
+
+55:37.140 --> 55:41.700
+that facebook and these things would be really useful and one of the things that he's saying in
+
+55:41.700 --> 55:52.340
+that in that talk is that they publicized seven people dying of the flu and then extrapolated
+
+55:52.340 --> 55:58.980
+what the uk had said and said that we can expect so many hundred people to die in belgian this
+
+55:58.980 --> 56:06.020
+month and it was the exact expectation of every year but they made it sound like because they
+
+56:06.020 --> 56:13.380
+accentuated this seven people had died of the new flu that somehow a new phenomenon was occurring
+
+56:13.380 --> 56:18.980
+and there are other videos where these flu virologists will lament that nobody takes the flu
+
+56:18.980 --> 56:24.900
+seriously anymore and so there's all this anecdotal evidence that their public health
+
+56:26.020 --> 56:33.300
+apparatus has been grasping at straws to try and get something to catch um and you know and it
+
+56:34.260 --> 56:40.100
+Ralph barracks original sort of plan with using coronaviruses was to use them as a vaccine platform
+
+56:40.100 --> 56:45.460
+because they're so innocuous so it's really strange if you go back to barracks originally
+
+56:45.460 --> 56:51.620
+they were trying to blame it all on him now but his overarching motivation for investigating
+
+56:51.620 --> 56:56.340
+coronaviruses was that was that they were innocuous and therefore could be a potential platform for
+
+56:56.900 --> 57:01.300
+genetic technologies and that kind of thing i don't know where i was going with that question
+
+57:01.300 --> 57:07.380
+uh so actually let me just to say i think i've seen that van rans video um i think i think he
+
+57:07.380 --> 57:11.860
+laments if i remember if it's the same video i'm remembering he's he's like lamenting that there
+
+57:11.860 --> 57:17.460
+there are people that might they like to contradict the public health uh fear mongering um that was
+
+57:17.460 --> 57:23.380
+the problem yes but we that that you know if you just needed better control um and you know in the
+
+57:23.380 --> 57:30.420
+uk there's this uh this group that advised the government called spy b spi b behavior or behavioral
+
+57:31.300 --> 57:37.700
+they they embrace this idea of nudges nudges in order to create panic that was like that was like
+
+57:37.700 --> 57:42.740
+that was essentially like uh seen as like a a responsible thing to do to cut to create panic
+
+57:42.740 --> 57:49.700
+in the population during this pandemic um and uh the control of information to the public at large
+
+57:49.700 --> 57:59.060
+was a central i uh central fix uh fixation of of of of of many public health authorities there are
+
+57:59.700 --> 58:07.380
+foyer documents from mark zuckerberg and uh to tatoni fauci from the earliest days of the pandemic
+
+58:07.380 --> 58:14.340
+about how to manage the the perception of the fear or perception of the risk in the public at large
+
+58:15.300 --> 58:21.620
+and uh you know frankly it it was it worked it worked like there are still people who think
+
+58:21.620 --> 58:25.940
+that the if you get covid the like i mean i mean i mean i mean this is i don't know maybe there's
+
+58:26.100 --> 58:29.780
+not still people i hope they're not still people but like they were up until 2022 there are people
+
+58:29.780 --> 58:34.420
+who thought that if you got covid there's one chance and two of of being hospitalized and one chance
+
+58:34.420 --> 58:39.540
+in you know three of dying or something when in fact the truth was orders of magnitude less than that
+
+58:40.900 --> 58:46.820
+um and so the the and the and the what the stories that they told themselves was that you needed
+
+58:46.820 --> 58:54.020
+people to be appropriately scared so a that they complied with the the orders of public health and
+
+58:54.020 --> 58:58.820
+be that so that they didn't they they acted in ways in their private lives that reduced the
+
+58:58.820 --> 59:05.140
+risk of spreading the disease to to to vulnerable people um what the problem with that is that like
+
+59:05.140 --> 59:11.780
+as soon as you unleash fear in the population like that it takes on a life of its own it it creates
+
+59:12.340 --> 59:17.220
+all kinds of harm um that have long standing i mean i think i don't for instance i don't think
+
+59:17.220 --> 59:21.220
+schools close in the united states for as long as they did if you don't have that fear and panic
+
+59:21.220 --> 59:27.140
+like who wants to harm their children by like not letting them have basic a basic childhood
+
+59:27.780 --> 59:31.700
+right no one no one really wants to do that it's only and when you're in the grips of fear that
+
+59:31.700 --> 59:36.900
+you're abnormal that's not it's it's only it's only that that can lead to to some of the crazy
+
+59:36.900 --> 59:42.180
+things we've seen um i think i think i don't think you don't think it's inverted that the fact that
+
+59:42.180 --> 59:47.540
+we couldn't lock down is what frightened everybody that that all these people took it so seriously i
+
+59:47.620 --> 59:53.780
+mean i wasn't afraid of being at home with my kids i hated it but i was and i lamented that
+
+59:53.780 --> 01:00:00.260
+they were not able to hang out but it never occurred to me that the way it did to my neighbors that
+
+01:00:00.260 --> 01:00:05.140
+wow it must be serious if they're closing the schools for the rest of the year oh my gosh
+
+01:00:05.140 --> 01:00:10.260
+they're not gonna they might not open schools in the fall can you believe how serious this is
+
+01:00:10.260 --> 01:00:14.020
+that's the question you ask if you're skillfully watching television at that time
+
+01:00:14.980 --> 01:00:20.340
+no you absolutely right jay i agree with that i think it's it's uh it's it's kind of a feedback loop
+
+01:00:20.340 --> 01:00:25.460
+right you lock down that causes fear and then that causes uh support for lock further lockdowns
+
+01:00:25.460 --> 01:00:30.500
+and other restrictions and so you just have this like this feedback loop that lit plate and i
+
+01:00:30.500 --> 01:00:36.420
+remember the first time i saw uh a uh a poll of how popular the lockdowns were i think it was like
+
+01:00:36.420 --> 01:00:41.380
+april or may 2020 and i was like 80 percent of the population was fully on board i was like i
+
+01:00:41.380 --> 01:00:46.580
+was shocked yep and i thought there would be widespread protests there were some protests but
+
+01:00:46.580 --> 01:00:54.020
+but those protests were seen as like a counter cultural act a heretical act um and uh they were
+
+01:00:54.020 --> 01:00:59.620
+like they were suppressed and uh you know like that was that so it was really funny actually to see
+
+01:00:59.620 --> 01:01:07.700
+the george floyd protests happen in uh early late spring early summer 2020 and the public health
+
+01:01:07.700 --> 01:01:11.940
+authorities sign a letter saying oh yeah we those that's that's good public health
+
+01:01:13.380 --> 01:01:17.780
+actually i kind of interpret that as young people needed some outlet to like
+
+01:01:18.980 --> 01:01:23.940
+express their frustration i mean i so i was like yeah fine like people people should people
+
+01:01:23.940 --> 01:01:28.740
+should be allowed to i think everyone should have been allowed to protest the the fear was used to
+
+01:01:28.740 --> 01:01:33.380
+control people it's going to have consequences they're really hard to like predict up front
+
+01:01:34.100 --> 01:01:38.900
+um it just it plays itself out in in in ways that are just uh damaging to people
+
+01:01:39.460 --> 01:01:44.500
+um and so i think i think i i agree with you that the lockdowns induce the fear but also the other
+
+01:01:44.500 --> 01:01:50.340
+direction um it's a good feedback loop i mean the masks also i mean that was a really outward
+
+01:01:50.340 --> 01:01:54.100
+selling yeah it's it looked that you're in a pandemic you're wearing you see everyone wearing
+
+01:01:54.100 --> 01:01:59.700
+like you know full body suits that you're it's like you're in a movie uh that was part of it and i
+
+01:01:59.780 --> 01:02:04.420
+think part of actually master really interesting in that sense because it it did induce fear
+
+01:02:04.420 --> 01:02:09.700
+like it reminded people to be scared but it was also like i think a lot of public health people
+
+01:02:09.700 --> 01:02:15.220
+thought of it as a way to like give uh uh give people a sense of control false sense of control
+
+01:02:15.220 --> 01:02:21.060
+over their disease risk right so we've caused this fear we want to manage it even though there's
+
+01:02:21.060 --> 01:02:25.940
+no good uh no good randomized evidence suggests masks could could do what we say or they do but
+
+01:02:25.940 --> 01:02:31.300
+let's tell people that so that uh so that it that that they feel like they have some autonomy
+
+01:02:31.300 --> 01:02:38.260
+over the risk they're taking wow it's just crazy what they've done to us i really what i lament
+
+01:02:38.260 --> 01:02:45.540
+the most is that they've they've specifically misled these college age kids who really had to
+
+01:02:46.260 --> 01:02:53.780
+conform in a way that no one else really in america had to conform um and and so i remember jay like
+
+01:02:54.500 --> 01:03:00.740
+there was a the close the air force academy to for uh for like they sent home the freshman
+
+01:03:00.740 --> 01:03:06.500
+sophomores and juniors uh and then they kept they kept the seniors in spring of 2020 and they kept
+
+01:03:06.500 --> 01:03:10.900
+the seniors and they put them in like solitary confinement they were not allowed to leave their
+
+01:03:10.900 --> 01:03:14.820
+dorm rooms they basically brought food to them they didn't have any human contact for months
+
+01:03:15.380 --> 01:03:20.740
+two kids killed themselves two air force cadets killed themselves in spring i remember seeing that
+
+01:03:20.820 --> 01:03:26.420
+going this is this is just cruel it's inhumane um and these are kids that are very very low risk
+
+01:03:26.420 --> 01:03:31.300
+of getting hurt if they get covid and actually even just the clothing of colleges like if you
+
+01:03:31.300 --> 01:03:38.580
+know this disease is risky for old people why would you send young people back home to create
+
+01:03:38.580 --> 01:03:43.700
+multi-generational homes that didn't need to exist for for for several months why not keep them at
+
+01:03:43.700 --> 01:03:52.500
+college um you know i just i it was it was um i mean i i tend to be the kind of person that
+
+01:03:52.500 --> 01:03:58.980
+that like will attribute that to like just intellectual errors um and maybe that's what it was but
+
+01:03:58.980 --> 01:04:03.460
+i think a lot of those intellectual errors come out of panic right the idea that young people are
+
+01:04:03.460 --> 01:04:08.420
+somehow like the the the vector of the disease vector of disease other human beings are simply
+
+01:04:08.420 --> 01:04:13.460
+just bio hazards to be avoided um i mean i'm sure this happened to you like you walked down
+
+01:04:13.460 --> 01:04:19.140
+the street and if you're not wearing a mask uh the a masked person will jump out into the
+
+01:04:19.140 --> 01:04:24.820
+off the sidewalk to get away from you uh i mean that happened how do you how do you get to that
+
+01:04:24.820 --> 01:04:29.380
+point well you get to that point because public health authorities and and uh governments are
+
+01:04:29.380 --> 01:04:36.100
+telling people to treat people like bio hazards yeah the the the only people that are wearing masks
+
+01:04:36.100 --> 01:04:42.180
+in the Pittsburgh area now are between the ages of like 18 and 23 and they'll wear it all day long
+
+01:04:42.260 --> 01:04:46.740
+at work um you have to sometimes depending on the hospital you go to they have a sign that says
+
+01:04:46.740 --> 01:04:52.420
+please wear a mask but not everybody's wearing one um but it they're still very much sustaining
+
+01:04:52.420 --> 01:04:57.860
+this idea that that something about mother nature has changed drastically in the last three years
+
+01:04:57.860 --> 01:05:04.420
+and uh it's a permanent change and it's terrifying because we're really if if the adults don't wake
+
+01:05:04.420 --> 01:05:10.340
+up soon then the the kids will be permanently brainwashed like this i think it's i mean i think
+
+01:05:10.660 --> 01:05:15.140
+those like masks are seen as like we're we're sold as if they were a costless or harmless
+
+01:05:15.140 --> 01:05:19.060
+intervention um you know like there are these there's this psychological syndrome like people
+
+01:05:19.060 --> 01:05:25.460
+were the kids young people wear the mask in order to hide because of their insecurities um that the
+
+01:05:26.500 --> 01:05:31.060
+the masks if they don't work or like the cloth masks certainly don't do anything you tell people
+
+01:05:31.060 --> 01:05:35.540
+to wear it yeah older people will wear cloth masks go into situations that they probably should
+
+01:05:35.540 --> 01:05:41.220
+have stayed away from or during times of high disease spread and take risks that they wouldn't
+
+01:05:41.220 --> 01:05:46.500
+otherwise have taken except for the fact they were wearing a mask um and and you know like i got i
+
+01:05:46.500 --> 01:05:50.420
+got all these heartbreaking emails through the whole pandemic from people but probably among the
+
+01:05:50.420 --> 01:05:55.060
+most heartbreaking we're we're like parents of autistic kids telling me what what the masking was
+
+01:05:55.060 --> 01:06:00.980
+doing to their to their to their kids or hearing impaired kids uh your parents of hearing impaired
+
+01:06:00.980 --> 01:06:05.860
+kids um i just it's the idea that like you could have any intervention with with no good
+
+01:06:05.860 --> 01:06:11.140
+evidence behind it and assume that it's going to have no harm at all because these are medical
+
+01:06:11.140 --> 01:06:15.300
+interventions you have to treat them seriously like you have to have great evidence before you
+
+01:06:15.300 --> 01:06:20.980
+recommend them at scale um and it's just for public health is to act the way it did in the absence
+
+01:06:20.980 --> 01:06:26.980
+of evidence um it was such it i mean i have to say what i was uh we keep talking about the illusion
+
+01:06:27.060 --> 01:06:32.260
+consensus it was such an inversion for me from my expectations after 20 years of working in
+
+01:06:32.820 --> 01:06:38.980
+in academics and public health um to see how people behave they they behave so irresponsibly
+
+01:06:39.700 --> 01:06:44.980
+like that that like fear mongering i thought was like anathema in public health like we we were
+
+01:06:44.980 --> 01:06:51.380
+supposed to uh exclude calmness like to talk to calm pop people down not to treat fear mongering
+
+01:06:51.380 --> 01:07:01.300
+as if it were a virtue right yeah i i i can speak much to that um i had uh i had a lot of uh
+
+01:07:03.060 --> 01:07:09.620
+a lot of run-ins with people trying to calmly objectively in private messaging just say well
+
+01:07:09.620 --> 01:07:16.180
+maybe you can temper this this position a little bit um and and people were willing to go the full
+
+01:07:16.260 --> 01:07:20.100
+distance of saying that you know if you're not going to follow the rules then you shouldn't be
+
+01:07:20.100 --> 01:07:25.060
+in society which is uh that's a pretty extraordinary stance to take
+
+01:07:27.460 --> 01:07:32.180
+yeah well i mean as in academic i said i was like i was let me just talk to about scott atlas because
+
+01:07:33.140 --> 01:07:37.700
+since since the theme is like less like sort of what sort of the mechanisms of control and
+
+01:07:37.700 --> 01:07:44.900
+in the illusions consensus uh like my colleague scott atlas he uh for 20 for for decades he was
+
+01:07:44.900 --> 01:07:51.060
+the head of neuro radiology at stanford a very accomplished doctor wrote uh wrote a textbook
+
+01:07:51.860 --> 01:07:57.300
+and for the last decade or so he's been advising um you know republican president presidential
+
+01:07:57.300 --> 01:08:04.420
+candidate and other politicians about public health and so it wasn't a surprise when um when
+
+01:08:04.420 --> 01:08:10.100
+president trump asked him to be to be his advisor he and i had been talking uh throughout the pandemic
+
+01:08:10.100 --> 01:08:14.020
+talking about paper legal it's like an accident in many ways i'm sure you felt this a pretty exciting
+
+01:08:14.020 --> 01:08:19.380
+time to be a scientist like how many times you get to learn about new brand new things where
+
+01:08:19.380 --> 01:08:25.780
+everyone's learning together i mean that's a real interesting thing right um and uh uh he's
+
+01:08:25.780 --> 01:08:31.540
+said he's come to the view that i i'd come to which is you know we should not be uh we should not be
+
+01:08:31.540 --> 01:08:36.820
+like panic mongering we should not be harming the lives of children we should not be locking down
+
+01:08:36.820 --> 01:08:40.100
+we should be better protecting vulnerable older people that's that's the view he's
+
+01:08:40.180 --> 01:08:47.700
+talking in the he's like uh he's on fox uh trump finds him my colleagues at stanford uh viewed that
+
+01:08:47.700 --> 01:08:57.140
+as a betrayal uh there was a letter written by uh the former dean of the medical school at stanford
+
+01:08:57.140 --> 01:09:03.620
+phil piezo man and phil piezo who then spread that uh sent that letter all around stanford
+
+01:09:04.260 --> 01:09:10.900
+uh young people junior professors without tenure several of them told me that they felt
+
+01:09:11.460 --> 01:09:14.660
+essentially social pressure to sign it because if what if they don't sign it
+
+01:09:14.660 --> 01:09:17.220
+well are they going to get tenured will that be held against them who knows
+
+01:09:18.420 --> 01:09:26.020
+right you and it essentially accused scott of of pseudoscience for the crime of not fully
+
+01:09:26.020 --> 01:09:33.300
+embracing the mask religion right uh he actually accused him weirdly of like i mean it implied that
+
+01:09:33.300 --> 01:09:38.740
+he wasn't in favor of hand washing i mean i defy you to show me anywhere where he said it
+
+01:09:38.740 --> 01:09:43.300
+wasn't favor hand washing and then the faculty sent it at stanford they voted i mean i don't know
+
+01:09:43.300 --> 01:09:49.540
+what to call it other than an excommunication right it was like expel the heretic from the flock
+
+01:09:50.260 --> 01:09:54.580
+right it was a it was a it was a it was a it was a and it was a mechanism of social control
+
+01:09:55.140 --> 01:10:01.860
+of of a of a qualified scientist who didn't agree with with what they were saying rather than have
+
+01:10:01.860 --> 01:10:06.260
+a debate or discussion at a place like stanford with that's our obligation right that's
+
+01:10:06.260 --> 01:10:10.900
+that's what it means to be a university is to allow those debates and discussions to happen
+
+01:10:10.900 --> 01:10:15.780
+platform them uh and keep away from the ad homin and they said they they excommunicated him
+
+01:10:16.420 --> 01:10:20.900
+um i i i think that that happened to so i mean people who signed the great bank directors they're
+
+01:10:20.900 --> 01:10:26.340
+people who told me that they lost their jobs because they signed it i mean i don't know i
+
+01:10:26.340 --> 01:10:30.740
+frankly for a while i felt so bad i mean because i felt like i couldn't protect anybody i mean i
+
+01:10:30.740 --> 01:10:36.820
+felt helpless i i don't know but i i don't know i i i don't know what else to do like it you have
+
+01:10:36.820 --> 01:10:42.500
+to our job is to say what we see as scientists we now always be right and we may disagree but we
+
+01:10:42.500 --> 01:10:47.700
+just to have productive conversations with each other and hopefully learn from each other uh and
+
+01:10:47.700 --> 01:10:52.340
+sometimes it's you know brass knuckles but it's not it's not brass knuckles at the people it's brass
+
+01:10:52.340 --> 01:10:57.860
+knuckles at the ideas um that's what science is supposed to be it it was a complete inversion of that
+
+01:10:58.580 --> 01:11:04.340
+that's a really nice way of explaining it the it's brass knuckles with the ideas and that that's
+
+01:11:04.340 --> 01:11:12.180
+really really important um do you think that the pandemic has made this phenomenon of group think
+
+01:11:12.180 --> 01:11:21.380
+worse or better for us if they driven us more to our corners or i guess i i guess i'm kind of
+
+01:11:21.460 --> 01:11:28.980
+an optimist uh in that in that sense i think um it's exposed the group the propensity to group
+
+01:11:28.980 --> 01:11:34.980
+think that was already there inside science i didn't see it before the pandemic i have to be
+
+01:11:34.980 --> 01:11:40.100
+honest i did not see it before the pandemic i didn't i felt it to sound a little bit i mean in very
+
+01:11:40.100 --> 01:11:44.980
+serious like oh yo i i don't want to work on that because i don't want to you know step on people's
+
+01:11:44.980 --> 01:11:51.940
+toes or whatever i but i didn't think it was like at the heart of of of biomedical sciences
+
+01:11:52.740 --> 01:11:58.260
+and i think a lot of people now in the biomedical sciences have started to see that it's there
+
+01:11:59.060 --> 01:12:06.660
+and now only question is how can we structure the the institutions of biomedical sciences
+
+01:12:06.660 --> 01:12:14.340
+so that uh people will will feel free to to speak people will i think most scientists now
+
+01:12:14.340 --> 01:12:20.260
+understand that that's not there and most scientists want that and so we have an opportunity for reform
+
+01:12:21.620 --> 01:12:27.140
+like a unprecedented once in a generation opportunity reform if we can just figure out how to get the
+
+01:12:27.140 --> 01:12:32.180
+the the sort of the right levers in place to do that um that's what i've been focused on try to
+
+01:12:32.180 --> 01:12:37.700
+work on uh like i think the key thing for me my role has been to try to uh come up with reforms
+
+01:12:37.700 --> 01:12:42.420
+that are very broad number of scientists and and other the populace that large can agree on
+
+01:12:42.420 --> 01:12:47.460
+would be would be and try to build a coalition around that because it's you know science we think
+
+01:12:47.460 --> 01:12:52.820
+of is like this like thing that's separate from the society it's not it's part of society as
+
+01:12:52.820 --> 01:12:59.780
+everyone now knows that every like it's science itself that has been part of the uh the very fabric
+
+01:12:59.780 --> 01:13:04.020
+of how we run our society the last three and a half years right and everyone sees that it's power
+
+01:13:04.020 --> 01:13:09.540
+and that means now everyone has an interest in reforming it so that it it can function the way
+
+01:13:09.540 --> 01:13:13.460
+it's supposed to function not the way it did as a as a tool for authoritarian power
+
+01:13:15.140 --> 01:13:23.300
+um what about just the the legal aspect of the pandemic we talked you talked a little bit about
+
+01:13:23.300 --> 01:13:29.380
+these people making all kinds of money um some lawyers would argue i think a lot of lawyers would
+
+01:13:29.380 --> 01:13:34.420
+argue that the only reason why that money can be made is because there's no strict liability for
+
+01:13:34.420 --> 01:13:41.700
+many of these classes of pharmaceutical products and be that as it may that's compounded by
+
+01:13:41.700 --> 01:13:47.940
+this ability for them to declare an emergency and then basically apparently a lot of these people
+
+01:13:47.940 --> 01:13:55.700
+are more or less acting with without consequence um so it's hard to ask these people to reflect on
+
+01:13:55.700 --> 01:14:00.340
+what they did and then change their behavior where as it almost demands that we have to
+
+01:14:01.060 --> 01:14:04.900
+take these people out of the driver's seats that they're sitting in and put other people
+
+01:14:04.900 --> 01:14:12.100
+there i mean how do we solve this problem i mean the the power of pharma um on our social
+
+01:14:12.100 --> 01:14:17.540
+structures is almost unimaginably great and i think the united states in particular
+
+01:14:18.580 --> 01:14:24.340
+where you have direct consumer advertising there's that's legal and possible um what that means is
+
+01:14:24.340 --> 01:14:30.580
+that pharma controls the uh the purse strings of our media companies the largest media companies
+
+01:14:31.220 --> 01:14:37.220
+they have as you said pharma they have a liability shield for especially for vaccines
+
+01:14:37.780 --> 01:14:43.700
+um that was put in place with the argument for it being put in place was you don't want frivolous
+
+01:14:43.700 --> 01:14:48.980
+suits against the pharmaceutical companies that then send a signal to people that did not be vaccinated
+
+01:14:49.060 --> 01:14:54.180
+but the the flip side of that is a is a is a commitment to responsible behavior by pharma
+
+01:14:54.180 --> 01:15:01.380
+which we didn't have during the pandemic and so so you have like essentially like social
+
+01:15:01.380 --> 01:15:06.500
+contracts have been broken all over the place regarding these things and that's why i think
+
+01:15:06.500 --> 01:15:11.780
+it is a moment for reform you talk about legal action actually i've been one one major legal
+
+01:15:11.780 --> 01:15:16.980
+action i've been involved with is this Missouri versus Biden case which is the case aimed at the
+
+01:15:16.980 --> 01:15:20.980
+Biden administration's uh why call up the ministry of truth there their censorship
+
+01:15:20.980 --> 01:15:26.980
+industrial complex that case which is now sitting in front of the Supreme Court uh it's revealed
+
+01:15:26.980 --> 01:15:34.100
+essentially a vast enterprise by federal government bureaucrats that will go to social media companies
+
+01:15:34.100 --> 01:15:41.860
+and why i say bureaucrats i mean like fbi uh the the the cdc the assertion general's office
+
+01:15:42.260 --> 01:15:46.900
+uh the nih will go to the social and the white house itself will go to social media companies
+
+01:15:46.900 --> 01:15:51.540
+and say here are the people i want censored here are the people here are the ideas i want censored
+
+01:15:51.540 --> 01:15:55.540
+this is probably why you're on twitch i mean if you probably i'm sure i think i saw you on youtube
+
+01:15:55.540 --> 01:16:00.260
+once upon a time it was probably impossible you're on youtube yeah yeah probably a part of list you
+
+01:16:00.260 --> 01:16:05.780
+can't you can't do you can't do this on youtube at least maybe not not definitely not back then i
+
+01:16:05.780 --> 01:16:11.460
+had to move yeah i mean i think you were you were on the i know i was on the list i was put on twitter
+
+01:16:11.460 --> 01:16:17.140
+blacklist the day i joined twitter that is not consistent with the american first amendment
+
+01:16:17.700 --> 01:16:23.700
+like that is a and it's an even more important is a violation of the of our basic civil civil civil
+
+01:16:23.700 --> 01:16:30.900
+rights uh and for science it is anathema you cannot have science without free discussion of ideas
+
+01:16:30.900 --> 01:16:36.100
+we're going to have ideas that we disagree with happen in science it's just part and sometimes
+
+01:16:36.100 --> 01:16:41.220
+those ideas will be uh will be misattributed by others the way that you deal with that is by
+
+01:16:41.220 --> 01:16:47.540
+free speech um so i so i think legal action is very very important uh if you'd ask me before
+
+01:16:47.540 --> 01:16:51.380
+the pandemic whether legal action and political action was important for science i said well
+
+01:16:51.380 --> 01:16:56.660
+those are important maybe but they're secondary now i think um they're actually many they're pretty
+
+01:16:56.660 --> 01:17:01.620
+much at the center like if you really want to reform things you're going to need political action
+
+01:17:01.620 --> 01:17:07.540
+for reform we're going to need legal action to constrain the the excesses of yes pharmaceutical
+
+01:17:07.540 --> 01:17:12.500
+companies but also governments uh and and and other entities that have been that have uh
+
+01:17:12.500 --> 01:17:19.620
+i mean i i just take one um that i just i still can't wrap my mind around um universities mandated
+
+01:17:19.620 --> 01:17:26.020
+vaccines for young people at scale even after credible evidence came out that young men especially
+
+01:17:26.020 --> 01:17:32.100
+had faced i call unacceptably high rates of myocarditis from the vaccine and yet they mandated it in
+
+01:17:32.180 --> 01:17:38.340
+order to go to school uh the the idea that there's no liability shield that applies to
+
+01:17:38.340 --> 01:17:45.140
+pharmaceutical companies doesn't apply to universities um and many of them did it without uh you know
+
+01:17:45.140 --> 01:17:50.660
+they they weren't mandated to mandate it they just did it um i think that there's going to be legal
+
+01:17:50.660 --> 01:17:58.500
+action at scale wow that's exciting in a way i mean it's dark but um i think there's a lot of
+
+01:17:58.580 --> 01:18:03.620
+peripheral malfeasance that went on in universities that could also catch into this like the
+
+01:18:03.620 --> 01:18:09.220
+selling of the remnants of tests and this kind of thing um if this kind of of suit were to catch
+
+01:18:09.220 --> 01:18:17.140
+momentum it would also be a really wonderful opening for us to readdress this age group because i
+
+01:18:17.140 --> 01:18:22.020
+do think that there's a purposefully they're purposefully disconnected from us i don't want
+
+01:18:22.020 --> 01:18:28.340
+to make any parallels to to too many other historical times when these these things happened but
+
+01:18:28.340 --> 01:18:35.780
+it does feel as though these college kids were really challenged um to stand up for themselves
+
+01:18:35.780 --> 01:18:40.900
+and they were really beat down pretty hard um by these universities in a coercive manner i mean
+
+01:18:40.900 --> 01:18:48.900
+in a coordinated manner um i mean i i i i i i have a like uh i i my views we basically robbed the
+
+01:18:48.900 --> 01:18:53.620
+young younger generation it with with the idea that we're going to protect older older generation
+
+01:18:53.700 --> 01:18:58.340
+middle-aged people so it's a generational theft and i don't think that the young people are going
+
+01:18:58.340 --> 01:19:02.660
+to treat us very kindly in there in how they think about us and you know we just we deserve it
+
+01:19:04.180 --> 01:19:10.420
+yeah it's uh well if we can we still have time to write the ship i feel like um
+
+01:19:11.380 --> 01:19:18.420
+i still feel like we have time to uh to i mean but people are all going to have to take their
+
+01:19:18.500 --> 01:19:23.700
+responsibility for what they did and how long it took them to to realize that we were being
+
+01:19:23.700 --> 01:19:31.220
+herded and rushed and uh and coerced i mean i i i i i i i i i i'm like i'm by nature optimistic
+
+01:19:31.220 --> 01:19:34.820
+day but i have to say like i've been watching the uk covid inquiry i don't know if you've been watching
+
+01:19:34.820 --> 01:19:41.940
+it at all not directly no it's a whitewash it's a whitewash and you have like these people who who
+
+01:19:41.940 --> 01:19:46.980
+basically were the architects of the lockdowns giving themselves awards you know tony thought
+
+01:19:46.980 --> 01:19:52.020
+she's a professor at georgetown now you've got uh you have all these like people who were who were
+
+01:19:53.060 --> 01:19:59.940
+basically created a an unprecedented uh authoritarian approach to the pandemic
+
+01:20:00.980 --> 01:20:06.660
+and uh caused harm at such scale and they're they're essentially trying to pretend like like the
+
+01:20:06.660 --> 01:20:13.060
+the the basic idea of the of the basic economic premise of the uk uh covid inquiry that's far seems
+
+01:20:13.060 --> 01:20:17.860
+to be that well we just didn't lock if we'd only locked down harder and earlier it all would have
+
+01:20:17.860 --> 01:20:27.460
+been fine see china did it in january 2020 we could have done it um that i think is rapidly becoming
+
+01:20:27.460 --> 01:20:34.980
+the the the the standard playbook for managing pandemics and so that means that the next time
+
+01:20:34.980 --> 01:20:40.340
+anything like this happens we will do this again and we will lock down the by demonstration has a
+
+01:20:40.340 --> 01:20:46.980
+plan in place that says in the next pandemic we will have a vaccine it available at scale within
+
+01:20:46.980 --> 01:20:54.740
+130 days how do you test a vaccine for long-term consequences within 130 days and they've already
+
+01:20:54.740 --> 01:20:59.860
+done it right they've already tested it in five billion people so all all future vaccines using
+
+01:20:59.860 --> 01:21:06.340
+mr and a are safe by their rationale i mean i just saw uh al experience and highlighted this uh a
+
+01:21:06.420 --> 01:21:13.140
+report that there was a uh what was the vaccine the mr and a platform vaccine for ebv
+
+01:21:13.140 --> 01:21:19.380
+Epstein bar virus that caused myocarditis in this in a in a in an early trial in a young man
+
+01:21:20.580 --> 01:21:28.420
+um and they stopped the trial this is Moderna I think um i think the the so i think that the
+
+01:21:28.420 --> 01:21:35.860
+idea that we the plan is for future pandemics we uh we have a rapid vaccine the consequence of
+
+01:21:35.860 --> 01:21:41.460
+that then is is like just if you take it back one step is what will we do for those 130 days
+
+01:21:41.460 --> 01:21:46.980
+while we're waiting for the test of the vaccine lock down of course we'll lock down essentially
+
+01:21:46.980 --> 01:21:52.100
+that's the plan that is the current template so i think we need a political movement we need a
+
+01:21:52.100 --> 01:21:57.220
+legal movement to undo that and of course this is what the world health organization is creating
+
+01:21:57.300 --> 01:22:05.380
+this like uh this this new uh new new uh pandemic treaty it's an opportunity actually in early in
+
+01:22:05.380 --> 01:22:11.620
+2024 to put put that front and center in the in the presidential debate do we want that if the
+
+01:22:11.620 --> 01:22:16.180
+united states has no to it it'll have it'll send a powerful signal around the world do we want that
+
+01:22:16.180 --> 01:22:22.260
+let's make that into a political issue interesting i'm gonna shift back to data for a second but i'm
+
+01:22:22.340 --> 01:22:26.980
+not gonna i just drew some data and i want to ask you a question um because i've been trying
+
+01:22:26.980 --> 01:22:32.500
+to figure this out and whether it means anything or not but maybe you can help me um so if i
+
+01:22:32.500 --> 01:22:37.700
+reverse this over here and put myself down here this is my really bad drawing can you see that
+
+01:22:37.700 --> 01:22:45.940
+of an age pyramid so um doesn't look like that anymore about nowadays on the on the the x axis
+
+01:22:45.940 --> 01:22:51.540
+going up is age and then this is males and females and so you hear you see a population where there's
+
+01:22:51.540 --> 01:22:56.820
+fewer old people than there are babies and it kind of goes up with a uh a more or less
+
+01:22:56.820 --> 01:23:04.980
+pyramidal distribution what role do you think if any a distribution different than that whatever it
+
+01:23:04.980 --> 01:23:12.260
+would be but with a top heavy distribution could have been seen coming and used as part of the way
+
+01:23:12.260 --> 01:23:17.780
+to create the panic that would you know exaggerate any exercise like this do you do you see that as
+
+01:23:17.780 --> 01:23:22.180
+a possibility i've never seen anybody really look into this and because that could really
+
+01:23:22.180 --> 01:23:29.220
+explain an age vulnerability or it could explain a vulnerability to protocols or or or any number
+
+01:23:29.220 --> 01:23:35.540
+of things this could be used against us that couldn't necessarily wouldn't be present in a
+
+01:23:35.540 --> 01:23:40.500
+country like Peru or a country like or maybe it is in Peru i don't know they're off the top of my
+
+01:23:40.500 --> 01:23:44.660
+head what they look like but uh i think you understand the question i'm asking everyone about
+
+01:23:44.660 --> 01:23:49.860
+so that's a really great question uh i i don't think i've heard anyone no one's asked me
+
+01:23:49.860 --> 01:23:55.220
+this in that way and so it's it's a really interesting question so like i think so first of all um that
+
+01:23:55.220 --> 01:24:00.900
+pen that pyramid you had on the left the age pyramid you had on the left that is the traditional
+
+01:24:00.900 --> 01:24:07.140
+age pyramid that we had through much of the 20th century yeah right right exactly um it's
+
+01:24:08.020 --> 01:24:13.860
+it's not a surprise that we didn't lock down for century respiratory virus pandemics given that
+
+01:24:13.940 --> 01:24:20.660
+age pyramid right we essentially like during in 1968 there was a massive flu pandemic in the
+
+01:24:20.660 --> 01:24:31.300
+united states and we had we had a woodstock happen during it right uh 1968 1957 1976 even
+
+01:24:31.300 --> 01:24:40.900
+2009 we uh the idea was develop uh uh treatments try to repurpose drugs that they're they're already
+
+01:24:41.220 --> 01:24:44.820
+they're focus protection on the most vulnerable people which were that little tiny group at the
+
+01:24:44.820 --> 01:24:49.540
+top um and and for the rest of the population don't you know the idea of a lockdown would be
+
+01:24:49.540 --> 01:24:54.660
+unthinkable um of course also the other thing that played in that is like like zoom and this
+
+01:24:54.660 --> 01:25:00.260
+kind of technology actually allowed uh a certain class of people to think that they could escape
+
+01:25:00.820 --> 01:25:06.580
+the harms of the lockdown so now let's go to the pyramid on the right uh it doesn't quite look
+
+01:25:06.580 --> 01:25:10.980
+like that but like in the united states but it looks a little bit like that um uh where
+
+01:25:10.980 --> 01:25:17.380
+where it's top heavy you have a large a group of people uh in the older population um and uh
+
+01:25:17.380 --> 01:25:23.460
+actually a much smaller younger population the the political power of that population is enormous
+
+01:25:23.460 --> 01:25:28.980
+the the orientation of public health toward that that that that that group up at top is it is
+
+01:25:28.980 --> 01:25:34.820
+enormous um it's then i guess that particularly surprising that you would see public health make
+
+01:25:34.820 --> 01:25:40.580
+decisions with aiming at trying to protect that population at the expense of the population
+
+01:25:41.380 --> 01:25:47.780
+because it's small this is just smaller and less powerful um i i do think that it's i mean the
+
+01:25:47.780 --> 01:25:53.380
+irony is that it ended up they ended up harming old people too like that like there's data that
+
+01:25:53.380 --> 01:25:59.620
+came out uh in 2020 suggesting that there was a like a huge increase in deaths from dementia
+
+01:25:59.700 --> 01:26:04.580
+because you isolate old people you cause all kinds of harm to them i think the irony is like
+
+01:26:04.580 --> 01:26:12.180
+by by by trying to protect older people via a lockdown via these draconian measures you ended
+
+01:26:12.180 --> 01:26:19.620
+up harming them and also alienating and harming the the that uh huge numbers of young people um
+
+01:26:19.620 --> 01:26:24.500
+that population pyramid that you're absolutely right i i hadn't like uh i hadn't thought about
+
+01:26:24.500 --> 01:26:29.060
+bringing that together but i think that played a big big role in especially when you connect
+
+01:26:29.060 --> 01:26:35.860
+it with political power or the various generations um big role in in the the strategies that we
+
+01:26:35.860 --> 01:26:40.980
+follow the and the policies that we follow during during during during covid and potentially the
+
+01:26:40.980 --> 01:26:47.700
+the the outcome right if we if we could see that pyramid accurately and could expect a
+
+01:26:48.660 --> 01:26:53.860
+a two or three year brief increase in all cause mortality because these old people are getting
+
+01:26:53.860 --> 01:27:01.940
+past expected age of death then that could have been empowering or or how's what's the right
+
+01:27:01.940 --> 01:27:08.900
+word it could have facilitated this in in terms of their ability to exaggerate it as much as possible
+
+01:27:09.540 --> 01:27:13.540
+um i want to try and formulate this right but is there any
+
+01:27:16.100 --> 01:27:22.420
+combination of data and testimony or or a specific data set that you would need
+
+01:27:23.300 --> 01:27:30.420
+to see where you would start to consider the possibility that that that there was no more
+
+01:27:30.420 --> 01:27:37.300
+significant spread in 2020 than there was back in 2002 where 10,000 people were supposedly
+
+01:27:37.300 --> 01:27:44.260
+infected and 700 people died and so if we had the data to show that actually just by scaring
+
+01:27:44.260 --> 01:27:51.140
+everybody which we've already acknowledged has a huge effect um and also adding that up right
+
+01:27:51.140 --> 01:27:58.660
+because you in my mind uh one has to factor in not just that we were misled about ventilators
+
+01:27:58.660 --> 01:28:04.500
+and not just that they went crazy on our on our constitutional rights but that that all occurred
+
+01:28:05.060 --> 01:28:09.700
+at the same they decided that all of these things were a good idea at the same time including the
+
+01:28:09.700 --> 01:28:17.460
+line and so the question becomes then at what point are we obligated to take their word or
+
+01:28:18.180 --> 01:28:26.100
+or how do we verify that and in a real bona fide pandemic occurred as opposed to
+
+01:28:26.740 --> 01:28:31.220
+a flash in the pan that they knew already would only be a flash in the pan or a
+
+01:28:32.180 --> 01:28:36.340
+a background signal that they knew they could take advantage of maybe even they put it there
+
+01:28:36.340 --> 01:28:42.740
+i mean that's obviously crazy but it in light of what we know about how we're governed on all
+
+01:28:42.820 --> 01:28:50.420
+other aspects of our reality how often they will lie about political things uh and and funding for
+
+01:28:51.380 --> 01:28:59.380
+for highways and and and whatever else um it just seems to me very difficult to dismiss the
+
+01:28:59.380 --> 01:29:06.900
+possibility that as i said before that that we are not doing an accurate accounting and if we did
+
+01:29:06.980 --> 01:29:10.980
+an accurate accounting especially from the epidemiological perspective we might find
+
+01:29:11.700 --> 01:29:17.780
+that none of these models will fit if you had the real data i mean i question for example we go
+
+01:29:17.780 --> 01:29:24.020
+back to that that the model you know as you extend the variables and change it to fit things um
+
+01:29:25.220 --> 01:29:32.420
+one has to do that in every separate geography then in order to fit an sir model to every outbreak
+
+01:29:32.420 --> 01:29:38.820
+that occurred so you can do that in an isolated place but if you take into account all the timing
+
+01:29:38.820 --> 01:29:45.540
+of those isolated fits then there's no spread between them and there's no additive effect
+
+01:29:45.540 --> 01:29:50.100
+and there there are none of these things that would be expected from again what is supposed to
+
+01:29:50.100 --> 01:29:55.860
+be a relatively uniform pathogen that started at a point and those are the kinds of things that
+
+01:29:56.420 --> 01:30:02.020
+it seems to me aren't accurately reflected on anymore with the idea of just saying well it happened
+
+01:30:02.500 --> 01:30:10.340
+obviously it happened and obviously something happened but i wonder if we're we're giving them
+
+01:30:10.340 --> 01:30:18.340
+too much benefit of the doubt with regard to did they get it right or not i mean i i guess so a
+
+01:30:18.340 --> 01:30:22.340
+couple there's a few elements of that so like first uh the scientific element right so you're
+
+01:30:22.340 --> 01:30:30.500
+asking um if i if i if i can rephrase it a little bit if you're asking what would uh lead to a
+
+01:30:30.580 --> 01:30:37.700
+rejection of uh an sir kind of framework what data set would one need to reject an sir
+
+01:30:37.700 --> 01:30:42.180
+kind of framework i mean i do think that's possible i don't think i don't think that the sir model
+
+01:30:42.180 --> 01:30:51.540
+has zero empirical content like you can you can see uh phenomena like you know just take take
+
+01:30:51.540 --> 01:30:57.460
+the spread of uh take take uh the rise of obesity in a population right it's really hard to fit that
+
+01:30:57.460 --> 01:31:05.940
+in sir framework it just doesn't like the the model it doesn't look like a infectious idea
+
+01:31:07.940 --> 01:31:12.660
+so it's not that that sir framework is devoid of empirical content it's it's but it is a very
+
+01:31:12.660 --> 01:31:21.060
+broad model so that you can get very large very very diverse phenomena that fit under some
+
+01:31:21.060 --> 01:31:25.700
+parameterization of an sir model now of course that's different from saying it's true it just
+
+01:31:25.700 --> 01:31:32.420
+just means it's survived uh of a an attack on it based on a falsification test right so i mean
+
+01:31:32.420 --> 01:31:37.140
+that's i don't i don't know i i think um you know like social science phenomena are funny in this
+
+01:31:37.140 --> 01:31:45.300
+way right it's not like physics they're often multiple stories that explain something that's
+
+01:31:45.300 --> 01:31:51.940
+happening in a social science setting and uh i mean i guess as uh with my background i kind of
+
+01:31:51.940 --> 01:31:59.940
+become very comfortable with the the existence of multiple stories and it's uh but i also become
+
+01:32:00.580 --> 01:32:07.220
+i understand like how challenging it is to try to decompose the phenomena that you see as you
+
+01:32:07.220 --> 01:32:15.220
+said we saw what we saw what we saw it happened um what how much each explanation for the various
+
+01:32:15.940 --> 01:32:21.220
+things that led to that thing that we saw happen are responsible like we're still arguing over the
+
+01:32:21.220 --> 01:32:26.980
+great depression you know uh 80 years later as to the particular like the the various things
+
+01:32:26.980 --> 01:32:32.900
+that we think caused it i think the one it's the one trying to come up with some analogy and the
+
+01:32:32.900 --> 01:32:38.180
+one that keeps coming back to me which is falling short always but it's the best one i got is
+
+01:32:39.060 --> 01:32:45.780
+can you imagine a scenario and where they convinced us that before the pandemic there were no cars
+
+01:32:46.740 --> 01:32:52.180
+and then they told us but there's a real easy test we can sell you a test um and when you
+
+01:32:52.180 --> 01:32:57.940
+swab your garage and you find rubber and it's in the around shape you've got a car
+
+01:32:58.500 --> 01:33:03.060
+and not everybody's going to have you know not everybody's going to smell like gasoline not
+
+01:33:03.060 --> 01:33:07.940
+everybody's going to be driving in a car some people can have a car and be asymptomatic and
+
+01:33:07.940 --> 01:33:13.220
+they take their bike to work all the time but you've got a car in your garage and they could
+
+01:33:13.380 --> 01:33:18.260
+convince us that this is spreading around the world when in fact it was in the background all
+
+01:33:18.260 --> 01:33:23.940
+the time all they have to do is never have any data about cars before this and they don't have
+
+01:33:23.940 --> 01:33:30.020
+any data about SARS-CoV-2 and related viruses before this in a from a global perspective they
+
+01:33:30.020 --> 01:33:36.020
+have it from a few hundred bats in a and a few other places um and it's wherever they look they
+
+01:33:36.020 --> 01:33:42.820
+kind of find a signal um and so i'm really and i'm not trying to beat a dead horse or or push you
+
+01:33:42.900 --> 01:33:46.820
+in a direction you don't want to discuss no no this is i think it's really interesting i feel
+
+01:33:46.820 --> 01:33:51.940
+i feel that there's also this extra portion which we talked about before we turned on the
+
+01:33:51.940 --> 01:33:59.940
+the stream that that um they are especially out on a limb when they imply that this phenomenon
+
+01:33:59.940 --> 01:34:06.180
+is being driven by an RNA molecule um i would actually have a lot harder time biologically
+
+01:34:07.140 --> 01:34:13.860
+uh discussing this if somehow or another there was a high fidelity DNA molecule at the center of
+
+01:34:13.860 --> 01:34:18.900
+this with a whole host of enzymes that we've never seen before and other attributes which could
+
+01:34:18.900 --> 01:34:26.020
+explain how something that was released at a point could then result in a high fidelity spread that
+
+01:34:26.020 --> 01:34:31.780
+you know that if you do some of the funny calculations like how many viruses would be in the wet market
+
+01:34:31.860 --> 01:34:37.700
+and then how many are there now and there's this many cases um it's an extraordinary biological
+
+01:34:37.700 --> 01:34:43.460
+phenomenon that they claim happened um and with no precedence in in previous biology there's no
+
+01:34:43.460 --> 01:34:48.580
+evidence of an RNA molecule that's capable of copying itself to this degree we've never seen
+
+01:34:48.580 --> 01:34:54.100
+a background signal with this degree of fidelity before so it it begs the question of whether
+
+01:34:54.100 --> 01:35:01.460
+that was always there um so a couple of notes um made while you're talking like what for
+
+01:35:01.460 --> 01:35:08.580
+for which you said so one is um it it's not without precedent that there would be uh a
+
+01:35:08.580 --> 01:35:15.380
+test dentic if you will it that has happened and even even in the recent past it was like 2008
+
+01:35:15.940 --> 01:35:24.020
+in Dartmouth there was a there was a huge number of people that were diagnosed with pertussis
+
+01:35:24.980 --> 01:35:32.260
+which should be pretty rare and especially since so many people have had the DPT vaccine
+
+01:35:32.260 --> 01:35:37.780
+at scale that it should if you shouldn't have seen such a massive outbreak of pertussis in a
+
+01:35:37.780 --> 01:35:44.020
+place like Dartmouth New Hampshire um I think it was 2008 I'm trying to blank the blanking on the date
+
+01:35:44.660 --> 01:35:49.380
+if you type in pertussis Dartmouth New York Times you'll find the New York Times story about this
+
+01:35:49.860 --> 01:35:59.860
+um the uh it turned out that it was based on a faulty test that in fact the pertussis uh diagnosis
+
+01:35:59.860 --> 01:36:06.100
+was was which was made on the base of the test and then just some you know coughing symptoms um
+
+01:36:06.100 --> 01:36:10.820
+was actually a false diagnosis the test itself was picking up pertussis that didn't exist that
+
+01:36:10.820 --> 01:36:16.340
+there wasn't there there was a false positive pure false positive and that that that the outbreak
+
+01:36:16.420 --> 01:36:22.420
+then was not actually pertussis but people had panicked around this you know sort of dangerous
+
+01:36:22.420 --> 01:36:28.180
+disease spreading around because of the test so I'm not saying that that's not possible that
+
+01:36:28.180 --> 01:36:34.500
+certainly is possible there what happened was that people found out that the test was faulty uh that
+
+01:36:35.460 --> 01:36:41.700
+and so faulty that it uh that then then they go back into a core correlation it's like okay
+
+01:36:41.700 --> 01:36:50.100
+yeah we were we were misdiagnosing this um so at the end of 2020 just to put a put a uh an anecdotal
+
+01:36:50.100 --> 01:36:58.500
+data point on the field at the end of 2020 the FDA had approved 226 different EUA test products
+
+01:36:59.220 --> 01:37:08.020
+so it wasn't one faulty test there was a possibly over 200 tests with various faulty properties
+
+01:37:08.020 --> 01:37:13.860
+now it all had to be false I think that so like I I mean you're the expert on the biology of this
+
+01:37:13.860 --> 01:37:20.100
+I don't know how to speak to the uh the RNA fidelity um but I will say like I think there's
+
+01:37:20.740 --> 01:37:27.220
+I don't think we've ever tested the uh a virus spreading or a disease spreading at scale the way
+
+01:37:27.220 --> 01:37:34.980
+we've tested this thing huge just I mean unimaginable numbers of tests and not just tests but like
+
+01:37:34.980 --> 01:37:41.300
+genetic sequencing of of of the viruses and I wonder if we if we did this to every single virus
+
+01:37:41.300 --> 01:37:47.700
+what we would find we probably haven't we've not probably we haven't looked like our systems
+
+01:37:47.700 --> 01:37:52.980
+even for flu for instance are these like sentinel labs very little sequencing there's some sequencing
+
+01:37:52.980 --> 01:37:58.100
+but not as much not not nearly as much I want to I want to throw one thing in there just because
+
+01:37:58.100 --> 01:38:03.540
+I feel like it's something you might not be aware of given the discussion we're having now um prior
+
+01:38:03.540 --> 01:38:09.780
+to 2020 if you go back to all these papers where they're looking at coronaviruses um the main
+
+01:38:09.780 --> 01:38:17.540
+strategy using PCR was to target a 350 base pair amplicon of the RNA dependent RNA polymerase the
+
+01:38:17.540 --> 01:38:26.180
+most conserved region of the most vital protein in the viral genome and indeed depending on the
+
+01:38:26.180 --> 01:38:33.940
+country and depending on the the test you're looking at there was an RNA dependent polymerase
+
+01:38:34.900 --> 01:38:41.060
+amplicon there was also an N protein or an E protein amplicon the interesting thing about N and E are
+
+01:38:41.060 --> 01:38:47.620
+also these are proteins that are relatively homologous across coronaviruses so one of the things that I
+
+01:38:47.620 --> 01:38:54.020
+think we have to somehow or another get all the way to the finish line is to resolve this idea that
+
+01:38:54.100 --> 01:39:00.180
+the PCR was specific enough to be used in the way it was used and that's also part of this
+
+01:39:00.740 --> 01:39:07.060
+conflated background signal if you were searching for RNA noise and there's always RNA noise there
+
+01:39:07.060 --> 01:39:13.860
+so you're going to get a certain percentage um of a positive signal this is also why I believe
+
+01:39:14.500 --> 01:39:21.140
+it's dangerous to focus exclusively on the overcycling of the PCR because that dismisses and it limits
+
+01:39:21.140 --> 01:39:27.060
+the debate to where this where this malfeasance could occur and it doesn't have to be with overcycling
+
+01:39:27.060 --> 01:39:32.100
+it could be that there is a conflated background signal and all of these people unwittingly or
+
+01:39:32.100 --> 01:39:38.500
+unwittingly took advantage of that um it's it's confusion frustration and doubt but it's it is
+
+01:39:38.500 --> 01:39:43.060
+something that the precedence of the biology of coronaviruses before the pandemic is that they
+
+01:39:43.060 --> 01:39:49.380
+lamented that there wasn't a pan coronavirus primer set so that they could just find them
+
+01:39:49.380 --> 01:39:57.620
+easier that mark von Ronsky has a paper from 2008 or nine where he is specifically trying to
+
+01:39:57.620 --> 01:40:02.100
+develop a pan coronavirus vaccine and makes the argument that it's easy because there's so many
+
+01:40:02.100 --> 01:40:07.380
+homologous proteins so there's a lot of precedence for the possibility and a lot of biological
+
+01:40:08.180 --> 01:40:12.500
+possibility there with regard to how much is homologous and if they just pull the bait and switch
+
+01:40:12.500 --> 01:40:17.940
+sometimes it could be really specific and other times it might not be and I'm afraid we've lost
+
+01:40:17.940 --> 01:40:23.460
+this huge history of of all of these EUA products many of which are not even available
+
+01:40:23.460 --> 01:40:27.620
+anymore they're totally gone just like I mean a lot of these sequencing labs are totally gone
+
+01:40:28.820 --> 01:40:36.340
+and so it becomes very very tricky now because we I feel like we have a lot of assumptions that we
+
+01:40:36.340 --> 01:40:44.260
+need to re-question and I think that's what this you know lack of spread also has spurred me on
+
+01:40:44.260 --> 01:40:49.620
+to do I'm sorry there's no question there no worries actually it's interesting because I
+
+01:40:49.620 --> 01:40:56.340
+remember when Amacron came the way that they originally diagnosed Amacron at scale versus Delta
+
+01:40:56.340 --> 01:41:03.140
+was that you know there's my now you please correct me Jake because you're the biologist not me but
+
+01:41:03.140 --> 01:41:08.580
+there was three primers that are used and you needed to have matching of all three primers to diagnose
+
+01:41:08.580 --> 01:41:15.300
+COVID diagnosed the SARS-CoV-2 virus when Amacron came the problem was only two of the three primers
+
+01:41:15.300 --> 01:41:22.260
+need matched Amacron and so they inferred Amacron from matching just two of the three primers
+
+01:41:24.100 --> 01:41:29.380
+which strikes me as funny right because but it's so I and I and I hear your point about the the
+
+01:41:29.380 --> 01:41:35.860
+existence of so many PCS I should say like for me the the cycling problem is that is it's such a
+
+01:41:35.860 --> 01:41:39.780
+huge problem I take your point that there's it does it's not sufficient for what you want but
+
+01:41:39.780 --> 01:41:47.540
+for is what for me it was sufficient to make me wonder about the use of the the the test testing
+
+01:41:47.540 --> 01:41:53.380
+the way they had it if if you have like I remember there was a there's a center for evidence-based
+
+01:41:53.380 --> 01:42:00.420
+medicine report by Carl Huntington and Tom Jefferson on the cycling problem and what they what they
+
+01:42:00.820 --> 01:42:05.380
+did was like a literature review pretty high quality literature review looking at
+
+01:42:07.140 --> 01:42:12.500
+the correlation between the number of cycles you needed to get a positive signal and whether the
+
+01:42:12.500 --> 01:42:20.420
+original sample was infectious in in the in vitro and you know what you see is this like just this
+
+01:42:20.420 --> 01:42:26.180
+like you know 20 20 cycles it's 100 percent in fact 100 percent of the samples are infectious
+
+01:42:26.180 --> 01:42:33.060
+by like 27 cycles it's like 50 percent and by 30 cycles it's like you know pretty low by 40
+
+01:42:33.060 --> 01:42:42.820
+cycles at zero right um that has huge implications for the epidemiological policy and clinical use
+
+01:42:42.820 --> 01:42:51.780
+which is my my uh bailiway that should have it should have told people you don't you don't quarantine
+
+01:42:51.780 --> 01:42:58.020
+people if it takes 40 40 cycles to like find a positive in fact you couldn't even have done
+
+01:42:58.020 --> 01:43:01.700
+like like I didn't understand why people weren't doing this like they could have done if they
+
+01:43:01.700 --> 01:43:06.820
+were really serious they said they said they said they want to say okay is the virus replicating in
+
+01:43:06.820 --> 01:43:12.900
+the human well you could do a PCR test one day and let's say it takes 30 cycles to be positive and
+
+01:43:12.900 --> 01:43:18.660
+the next day it takes 26 cycles to be positive well I mean that now you have some evidence that
+
+01:43:18.660 --> 01:43:24.180
+you have two to the fourth uh doublings that have happened right um in the in the person so you
+
+01:43:24.180 --> 01:43:31.300
+could have like used serial PCR's again leaving aside the the false positives which you know you
+
+01:43:31.300 --> 01:43:37.220
+can talk about uh but you know more about than me um but like the serial false positive like the
+
+01:43:37.220 --> 01:43:43.300
+serial test to like see with just the cyclings whether someone is actually becoming infectious
+
+01:43:43.300 --> 01:43:49.540
+or not and use that information epidemiologically from with recommendations to quarantine or not
+
+01:43:49.540 --> 01:43:54.580
+whereas someone who's like 30 cycles 30 cycles 30 cycles left them out of quarantine there are
+
+01:43:54.580 --> 01:44:00.420
+students at Stanford that were putting that were like like athletes that were tested over and over
+
+01:44:00.420 --> 01:44:05.460
+again that were just positive all the time are you sure that there's not a time lapse
+
+01:44:05.460 --> 01:44:10.900
+acute PCR paper because if there isn't that's an actually a really huge insight that you just made
+
+01:44:10.900 --> 01:44:16.420
+there i haven't seen one i mean i i've made a case i've made a case like this in a port document
+
+01:44:16.420 --> 01:44:21.220
+in for a couple of places where i was an expert witness suggesting that this was this would be
+
+01:44:21.220 --> 01:44:27.460
+a reasonable use of the PCR test um but uh but the but the but the lab folks on the other side were
+
+01:44:27.460 --> 01:44:32.740
+just very dismissive of me um my chat is correcting you you're actually a biologist because you're
+
+01:44:32.740 --> 01:44:38.660
+also a professor of medicine sorry well i mean i my my backgrounds at fringe epidemiology and
+
+01:44:38.740 --> 01:44:45.220
+economic stress hey so i want to do one more PCR thing just so that you have it on your radar um
+
+01:44:45.220 --> 01:44:53.300
+so in talking to the the head of the PCR testing in Canada um i don't remember his name off the
+
+01:44:53.300 --> 01:45:00.340
+top of my head so he happens to listen i very much apologize um they did not use nested primers in
+
+01:45:00.420 --> 01:45:08.820
+Canada across the entire country um which which i and i i just want to give you this for from the
+
+01:45:08.820 --> 01:45:12.980
+perspective of cocktail parties or anytime you get to talk to another academic biologist who
+
+01:45:12.980 --> 01:45:21.620
+insists that PCR is highly accurate like insanely accurate um it is very much my understanding that
+
+01:45:22.260 --> 01:45:29.460
+academic biologists are making this assumption that like they do there are positive and negative
+
+01:45:29.460 --> 01:45:36.660
+controls both of which use nested primers and in reality none of the e-way products use nested
+
+01:45:36.660 --> 01:45:41.060
+primers and none of the products that were approved in Canada were using nested primers which
+
+01:45:41.860 --> 01:45:48.740
+is makes it orders of magnitude easier um to have a false positive because remember they're
+
+01:45:48.740 --> 01:45:54.420
+reading fluorescence so with qPCR i i'm just gonna say it in case you are not aware of it but i'm
+
+01:45:54.420 --> 01:46:00.020
+assuming my my readers or my listeners aren't qPCR is a reaction that occurs with some kind of
+
+01:46:00.020 --> 01:46:08.740
+understood reaction uh reaction dynamics and those reaction dynamics can tell you a little bit about
+
+01:46:08.740 --> 01:46:14.740
+how well the PCR primers match because the better that they match the more complete each cycle will
+
+01:46:14.740 --> 01:46:21.380
+be in doubling if they don't match as well then the doubling will not fit the exponential growth
+
+01:46:21.380 --> 01:46:26.660
+curve in it will be more linear and that linear signal in any of these products that just goes
+
+01:46:26.660 --> 01:46:33.140
+on the on the fluorescence won't be visible to anybody that's reading them and so a lot of these
+
+01:46:33.780 --> 01:46:39.220
+products almost have this built-in possibility that if you're not really trying to use them for
+
+01:46:39.220 --> 01:46:44.740
+accuracy but you're trying to use them for mass measurement it will go really terribly wrong
+
+01:46:45.700 --> 01:46:51.700
+and so i i've had a lot of conversations with my former academic colleagues where they're very
+
+01:46:51.700 --> 01:46:57.700
+surprised and actually completely incredulous that of course they use nested primers and i i'm sorry
+
+01:46:57.700 --> 01:47:02.500
+to disappoint you but they didn't i mean i i think um
+
+01:47:05.700 --> 01:47:09.620
+from a policy point of view i mean actually it's just from a clinical point of view let's say
+
+01:47:10.180 --> 01:47:16.740
+uh like what i learned in medical school was that you should never treat a number or test
+
+01:47:16.740 --> 01:47:22.980
+you treat a patient like you want to have a full clinical picture before you make real decisions
+
+01:47:22.980 --> 01:47:30.500
+about about what uh what the right thing to do is um the the um the epidemiologists that were that
+
+01:47:30.500 --> 01:47:36.020
+were like the architects of the policy i think the way they were reasoning was well it doesn't
+
+01:47:36.100 --> 01:47:43.140
+matter if you get a false positive what matters is a false negative that's actually true they
+
+01:47:43.140 --> 01:47:48.740
+probably did convince a lot of people with that argument yes yeah and i think that that's i mean
+
+01:47:48.740 --> 01:47:53.380
+that's my best reading of what happened like they just said there was a virtue to minimize
+
+01:47:53.380 --> 01:47:58.260
+the false negatives to zero and and we've had false positive at a scale it doesn't matter
+
+01:47:58.980 --> 01:48:03.380
+what nothing that we're doing as far as they were concerned none of the policies they were
+
+01:48:03.380 --> 01:48:06.900
+implementing were costly or harmful in any way that was worth taking into account
+
+01:48:08.260 --> 01:48:14.980
+and so if you impose it on somebody on the on a false basis of a false positive that's that's not
+
+01:48:14.980 --> 01:48:20.020
+a big deal it doesn't matter whereas if you have false negative well that person might spread the
+
+01:48:20.020 --> 01:48:24.420
+disease to grandma uh and uh thinking that they're positive that they're that they're actually
+
+01:48:24.420 --> 01:48:30.580
+negative when they're actually positive um so so i i think that that's really the underlying
+
+01:48:30.580 --> 01:48:34.660
+dynamic we saw here with all of the decisions because every single one of these decisions
+
+01:48:34.660 --> 01:48:40.180
+about testing is a is a is a is a there's a lot of technical language but the key thing is
+
+01:48:41.460 --> 01:48:46.340
+what does it do to make the sensitivity and specificity of the test how should we interpret
+
+01:48:46.340 --> 01:48:53.140
+the test what's the prevalence of the disease these are like basic epidemiological ideas that
+
+01:48:53.140 --> 01:49:01.700
+were just essentially tuned to to create panic tuned to create uh you may you see each of these
+
+01:49:01.700 --> 01:49:06.900
+decisions dismissing the possibility of false positive is like because the idea is like well
+
+01:49:06.900 --> 01:49:14.660
+it's it's just a virtue to have almost no false negatives yeah that really makes a lot of sense
+
+01:49:14.660 --> 01:49:20.660
+and it's a frightening um clarity that it sets to that too because um i always make this argument
+
+01:49:20.740 --> 01:49:27.380
+on my stream that so much can be done in a closed meeting um to convince people to behave in
+
+01:49:27.380 --> 01:49:32.660
+concert um if you make them feel important that this is a national security question and we don't
+
+01:49:32.660 --> 01:49:38.100
+know what's going to happen and we need your help um there's lots of ways where i think people
+
+01:49:38.100 --> 01:49:44.660
+could have been influenced to kind of at least keep their head down for a while um and again if
+
+01:49:44.660 --> 01:49:48.980
+you put your head up and you you encountered what you encountered or what i encountered then you
+
+01:49:48.980 --> 01:49:54.740
+probably kept your head down too um we have been talking for one hour and forty six
+
+01:49:54.740 --> 01:49:58.260
+we've been talking for one hour and forty six minutes i don't want to take too much more of your
+
+01:49:58.260 --> 01:50:04.820
+time i i just i want to say thank you i want to give a shout out to um Greg Glassman and Emily
+
+01:50:04.820 --> 01:50:11.700
+Kaplan of the broken science initiative that serendipitous serendipitously brought us together
+
+01:50:11.700 --> 01:50:17.700
+at their gatherings um i have them to thank you for your friendship and i can't thank you enough
+
+01:50:17.700 --> 01:50:21.140
+for taking the time to argue with me and discuss this stuff with me it was been great
+
+01:50:21.700 --> 01:50:25.540
+yeah i've learned a lot from you not just from this podcast but from over the whole
+
+01:50:25.540 --> 01:50:30.100
+whole last three years and grateful for you as well my friend that's really uh way too much
+
+01:50:30.100 --> 01:50:35.460
+praise for me thank you very much though um you're welcome to come back i have a whole four
+
+01:50:35.460 --> 01:50:39.540
+more pages of questions i didn't get to because we discussed everything in too much depth so
+
+01:50:40.260 --> 01:50:43.380
+when you have a spare board moment you can always let me know
+
+01:50:43.940 --> 01:50:47.140
+take care jay okay bye bye
+
+01:50:49.620 --> 01:50:55.380
+wow that was uh that was pretty great i'm not going to belabor it too much because at six o'clock
+
+01:50:55.380 --> 01:51:00.820
+i have uh peter makala again so thank you very much for joining me i will see you guys again soon
+
+01:51:01.460 --> 01:51:05.780
+um and that soon is in like 50 minutes so i'm uh
+
+01:51:05.780 --> 01:51:08.900
+i've been doing it for a long time
+
+01:51:08.900 --> 01:51:10.980
+so i'm going to change the password to my zoom
+
+01:51:10.980 --> 01:51:15.860
+but i'm going to send it to you um so i will see you guys again very soon
+
+01:51:15.860 --> 01:51:19.060
+thank you for having me back in the flash
+
+01:51:20.020 --> 01:51:24.100
+right
+
+01:51:38.180 --> 01:51:48.340
+it's better better music
+
+01:51:49.060 --> 01:52:04.060
+50 minutes, 50 minutes at 6 o'clock.
+
+01:52:19.060 --> 01:52:48.060
+50 minutes, 50 minutes at 6 o'clock.
+
+01:52:49.060 --> 01:52:59.060
+50 minutes, 50 minutes at 6 o'clock.
+
