@@ -21,9 +21,9 @@ done
 
 for ((i = 0; i < ${#files[@]}; i++)); do
     suffix=""
-	file="${files[$i]}"
+    file="${files[$i]}"
 
-	echo processing: $file
+    echo processing: $file
 
     base="${file%.*}"
     [[ "$base" =~ .*"fixed"$ ]] && base="${base%.*}" && suffix=".fixed"
@@ -38,6 +38,7 @@ for ((i = 0; i < ${#files[@]}; i++)); do
 
     [ ! -d "${folder}" ] && mkdir -v "${folder}"
     mv -vi "${file}" "${folder}/${target}"
+    echo
 
     # printf "\n base: $base \n date: $date \n id: $id \n stream: $stream \n"
     # printf " folder: $folder \n target: $target \n\n"
