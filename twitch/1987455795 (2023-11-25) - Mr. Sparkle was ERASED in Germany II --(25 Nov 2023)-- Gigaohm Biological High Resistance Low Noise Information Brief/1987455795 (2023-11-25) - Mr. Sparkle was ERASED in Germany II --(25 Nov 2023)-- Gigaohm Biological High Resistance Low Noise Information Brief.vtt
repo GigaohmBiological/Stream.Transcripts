@@ -1,0 +1,2009 @@
+WEBVTT
+
+00:00.000 --> 00:18.160
+The schedule for 60 minutes next is going on French, British, Italian, Japanese television.
+
+00:18.160 --> 00:22.000
+People everywhere are starting to listen to him, it's embarrassing.
+
+01:30.000 --> 01:57.280
+Test 1-2, testing 1-2, test 1-2, I got a heater on in the background, that'll be
+
+01:57.280 --> 02:21.280
+off in a few, test 1-2, testing 1-2, test, testing, oh, blowing, blowing, blowing.
+
+02:21.280 --> 02:41.400
+Test 1-2, test, testing 1-2, test, testing 1-2, test, testing 1-2, test, testing 1-2, test,
+
+02:41.400 --> 03:01.520
+testing 1-2, test, testing 1-2, test, testing 1-2, test, testing 1-2, test, testing 1-2, test,
+
+03:01.520 --> 03:21.640
+testing 1-2, test, testing 1-2, test, testing 1-2, test, testing 1-2, test, testing 1-2, test,
+
+03:21.640 --> 03:41.280
+testing 1-2, test, testing 1-2, test, testing 1-2, test, testing 1-2, test, testing 1-2,
+
+03:41.280 --> 03:43.160
+Ladies and gentlemen, welcome to the show.
+
+03:43.160 --> 03:46.160
+This is Gigel, biological, a high resistance, low noise,
+
+03:46.160 --> 03:48.680
+information brief brought to you by a biologist.
+
+03:48.680 --> 03:51.420
+It's the 25th of November, 2023,
+
+03:51.420 --> 03:54.700
+coming to you live from the back of my garage in Pittsburgh.
+
+03:55.640 --> 03:58.940
+My name is Jonathan Cooey in case I didn't just say that.
+
+04:00.040 --> 04:02.840
+I was a patch clamp physiologist back in the day
+
+04:02.840 --> 04:06.040
+of my academic career that is in vitro work,
+
+04:06.040 --> 04:08.960
+but it combined a lot of in vivo manipulations
+
+04:09.000 --> 04:11.720
+of the animals to get the microcircuit
+
+04:11.720 --> 04:14.640
+to maybe make a change before we measured it.
+
+04:14.640 --> 04:16.240
+I did it with multiple electrodes.
+
+04:16.240 --> 04:19.800
+I used transfection to use optogenetics
+
+04:19.800 --> 04:23.240
+as a way of manipulating and controlling neuronal behavior
+
+04:23.240 --> 04:27.480
+and even genetically selected subgroups of neurons.
+
+04:27.480 --> 04:32.480
+You can find that work under COUI-JJ on PubMed,
+
+04:33.560 --> 04:36.640
+and that's where this GigaOM biological comes from
+
+04:36.640 --> 04:40.720
+is the seal, the electrical seal that we use
+
+04:40.720 --> 04:45.560
+to make these recordings is of the GigaOM level of resistance
+
+04:45.560 --> 04:47.960
+and that gives it a very high resistance,
+
+04:47.960 --> 04:50.480
+but also a very, very low noise recording,
+
+04:50.480 --> 04:53.440
+and that's what allows you to get these really pretty
+
+04:53.440 --> 04:55.720
+little signals here where you can see
+
+04:55.720 --> 05:00.240
+the individual connections between individual neurons
+
+05:00.240 --> 05:03.360
+where one is firing off action potentials
+
+05:03.360 --> 05:08.360
+and releasing neurotransmitter onto the receiving neuron.
+
+05:09.880 --> 05:12.480
+Anyway, we're trying to break this illusion of consensus,
+
+05:12.480 --> 05:14.960
+this Scooby-Doo where we've been led to believe
+
+05:14.960 --> 05:17.200
+that we've got to solve the mystery of the novel virus
+
+05:17.200 --> 05:19.880
+that killed millions of people and that millions more
+
+05:19.880 --> 05:20.720
+were saved from.
+
+05:20.720 --> 05:23.160
+We've got to solve the mystery of gain of function
+
+05:23.160 --> 05:25.680
+and whether that was the source of this virus.
+
+05:25.680 --> 05:27.960
+And certainly by solving that mystery,
+
+05:27.960 --> 05:30.440
+we've also convinced ourselves that a gain of function virus
+
+05:30.440 --> 05:32.600
+could definitely come in the future.
+
+05:32.600 --> 05:35.520
+And so by being tricked into solving their mystery,
+
+05:35.520 --> 05:39.560
+we've also assumed and accepted the existence
+
+05:39.560 --> 05:40.720
+of all of their monsters.
+
+05:40.720 --> 05:43.800
+That's really the pretense here.
+
+05:43.800 --> 05:46.760
+We've accepted the possibility of pandemics
+
+05:46.760 --> 05:51.680
+coming from bad caves, coming from passage in cell culture,
+
+05:51.680 --> 05:55.400
+passage in animals, especially those that are humanized.
+
+05:55.400 --> 05:57.200
+And then we've also accepted the idea
+
+05:57.200 --> 05:58.920
+that they can stitch these things together
+
+05:58.920 --> 06:02.280
+and get lucky and create a nuclear bomb in a dish.
+
+06:03.200 --> 06:05.160
+And the reason why they're trying to teach us
+
+06:05.160 --> 06:08.760
+this immunology so, so desperately want us
+
+06:08.760 --> 06:13.200
+to believe this immunology, immunomythology,
+
+06:13.200 --> 06:15.240
+is that they want us to surrender
+
+06:15.240 --> 06:19.020
+our individual sovereignty and invert human rights
+
+06:19.020 --> 06:20.360
+to permissions.
+
+06:21.600 --> 06:23.920
+They want to do it with this illusion of consensus
+
+06:23.920 --> 06:26.880
+that the worst case scenario of a global laboratory,
+
+06:26.880 --> 06:29.800
+sorry, a gain of function laboratory bio-weapon,
+
+06:29.800 --> 06:31.880
+is something that's much more dangerous
+
+06:31.880 --> 06:33.000
+than a nuclear weapon.
+
+06:34.200 --> 06:36.600
+And we've heard that theme and not repeated a number
+
+06:36.600 --> 06:38.480
+of times over the last couple years
+
+06:38.480 --> 06:42.320
+as the slow role of this scooby-doo has gone on
+
+06:42.320 --> 06:44.680
+and the mystery has slowly been solved
+
+06:44.680 --> 06:48.800
+by the skilled TV watchers and by the ladies on the view.
+
+06:51.760 --> 06:54.040
+And that's what this new world order is, right?
+
+06:54.040 --> 06:55.760
+It's tricking people into believing
+
+06:55.800 --> 06:57.320
+that they're experiencing something
+
+06:57.320 --> 06:59.560
+and therefore they can't even see the cage they're in
+
+06:59.560 --> 07:02.840
+because they actually walk themselves right into it.
+
+07:02.840 --> 07:04.480
+They convince themselves that, wow,
+
+07:04.480 --> 07:06.480
+I really caught Fauci and a Lyle.
+
+07:06.480 --> 07:09.240
+Oh, I really caught Rand Paul exaggerating.
+
+07:09.240 --> 07:10.960
+Oh, I really caught them trying
+
+07:10.960 --> 07:13.820
+to turn good science into bad lies.
+
+07:15.560 --> 07:17.640
+And depending on what side of the aisle you're on,
+
+07:17.640 --> 07:21.000
+you just have this certainty of the opinion that you have
+
+07:21.000 --> 07:24.280
+and it has all been bamboozled into them.
+
+07:25.100 --> 07:28.600
+But it's much harder to convince people
+
+07:28.600 --> 07:31.640
+that they've been fooled than to fool them in the first place.
+
+07:33.080 --> 07:37.480
+And that's why this illusion of consensus is so damning to us,
+
+07:37.480 --> 07:39.440
+why it's so hard for people to get out.
+
+07:41.680 --> 07:44.400
+And that's what also I think is the reason why I'm starting
+
+07:44.400 --> 07:46.440
+to harp on these different ideas,
+
+07:46.440 --> 07:48.600
+trying to think of it as a card game
+
+07:48.600 --> 07:51.280
+and that there's a fine line between an announcement
+
+07:51.280 --> 07:52.080
+and a warning.
+
+07:54.520 --> 07:56.720
+And I'm starting to see a theme in a lot
+
+07:56.720 --> 08:00.200
+of our dissidents on our side
+
+08:00.200 --> 08:02.960
+where it feels as though they're already trying
+
+08:02.960 --> 08:04.160
+to get us to give up,
+
+08:04.160 --> 08:07.400
+already trying to say don't fight for America anymore.
+
+08:07.400 --> 08:11.560
+Don't think that you can turn this train around.
+
+08:11.560 --> 08:14.560
+You're just gonna have to jump off before it's too late.
+
+08:15.520 --> 08:17.800
+Get ready to bug out, you know,
+
+08:17.800 --> 08:20.520
+buy a farm in the country if you can afford it.
+
+08:21.520 --> 08:24.880
+And otherwise, you know, what can you really do?
+
+08:24.880 --> 08:26.440
+Maybe make a network of people
+
+08:26.440 --> 08:29.000
+that trades in pharmaceuticals
+
+08:29.000 --> 08:30.760
+in the black market or something, I guess?
+
+08:30.760 --> 08:31.600
+I don't know.
+
+08:31.600 --> 08:32.440
+I mean, what's their real plan?
+
+08:32.440 --> 08:33.720
+What's the real solution?
+
+08:34.640 --> 08:36.080
+I don't really hear any.
+
+08:36.080 --> 08:37.720
+I just hear people saying, well, you know,
+
+08:37.720 --> 08:38.760
+everything's screwed up.
+
+08:38.760 --> 08:41.960
+So it's okay if it all falls apart, we'll be all right.
+
+08:46.600 --> 08:47.880
+We have a lousy society.
+
+08:47.880 --> 08:50.040
+Our children have been taught all the wrong values.
+
+08:50.080 --> 08:52.280
+It's gonna be okay that it all comes apart.
+
+08:55.360 --> 08:58.360
+Imagine that that's one of the leaders on our side right now,
+
+08:58.360 --> 09:03.200
+one of the spokespersons of our dissident movement.
+
+09:03.200 --> 09:06.000
+I don't think that's really mischaracterizing
+
+09:06.000 --> 09:07.840
+what she's, what was said.
+
+09:07.840 --> 09:09.840
+I mean, that is exactly what was said
+
+09:11.880 --> 09:14.920
+and not in the context of lament or like, you know,
+
+09:14.920 --> 09:17.160
+this is just the way it is.
+
+09:17.160 --> 09:18.760
+I'm not prepared to give up yet.
+
+09:20.680 --> 09:24.520
+And so then we look back in time to 1985 on Phil Donahue
+
+09:24.520 --> 09:27.480
+where they were fighting this exact fight right now,
+
+09:27.480 --> 09:32.080
+exactly as we are now, one year before the Vaccine Act was passed.
+
+09:33.840 --> 09:38.840
+We fast forward to 2021 and we saw Zeb Zalenko
+
+09:39.360 --> 09:42.640
+succinctly describe how the immune response
+
+09:42.640 --> 09:46.040
+to all single-stranded RNA viruses is united
+
+09:46.040 --> 09:47.520
+by common mechanisms,
+
+09:48.400 --> 09:53.560
+which in a way are the first line of defense,
+
+09:53.560 --> 09:57.040
+cellular defense against general vaccine,
+
+09:57.040 --> 10:00.880
+general viral infection, whatever it is,
+
+10:00.880 --> 10:04.280
+general RNA contamination, whatever it is.
+
+10:07.040 --> 10:08.640
+And so you don't have to take a side
+
+10:08.640 --> 10:11.800
+on exactly what virology is and is not,
+
+10:11.800 --> 10:14.400
+what papers are actually real and not real.
+
+10:15.400 --> 10:19.400
+It is well known that we have a variety of cellular
+
+10:19.400 --> 10:22.400
+and extracellular mechanisms that are designed to cope
+
+10:22.400 --> 10:25.400
+with this idea that there's genetic noise out there.
+
+10:25.400 --> 10:27.400
+And I assure you that those systems,
+
+10:27.400 --> 10:29.400
+even if they're not very well characterized,
+
+10:29.400 --> 10:31.400
+are very robust.
+
+10:33.400 --> 10:35.400
+And so the story that they've told us
+
+10:35.400 --> 10:39.400
+of this extreme vulnerability that we have to RNAs
+
+10:39.400 --> 10:41.400
+that are coded in lipoprotein
+
+10:41.400 --> 10:43.400
+that are floating around in our environment
+
+10:43.400 --> 10:46.400
+is really, it is absurd.
+
+10:50.080 --> 10:53.320
+And that's why there are so many common ways
+
+10:53.320 --> 10:58.320
+with which to sort of optimize or fortify
+
+10:59.520 --> 11:02.280
+your body's immune response to these signals,
+
+11:02.280 --> 11:05.520
+whatever they are, they're not patterned integrities.
+
+11:07.080 --> 11:08.520
+They're not life forms.
+
+11:09.680 --> 11:11.920
+So you wanna argue about whether there are viruses
+
+11:11.920 --> 11:14.000
+or not, let's just have some common agreement here.
+
+11:14.000 --> 11:17.040
+They're not, they don't qualify as species.
+
+11:17.040 --> 11:20.320
+They don't exhibit homeostasis.
+
+11:20.320 --> 11:22.800
+They don't do these things.
+
+11:22.800 --> 11:25.480
+So to call them a pathogen or anything else
+
+11:25.480 --> 11:30.320
+is just, it's attributing and using concepts
+
+11:30.320 --> 11:32.920
+that only apply to patterned integrities
+
+11:32.920 --> 11:35.560
+and their interaction with one another and the environment.
+
+11:35.560 --> 11:39.920
+Then you can't apply it to a chemical surrounded
+
+11:39.920 --> 11:43.680
+in other chemicals, because that's not the sum of us.
+
+11:43.680 --> 11:46.160
+We're not just chemicals surrounded by other chemicals
+
+11:46.160 --> 11:48.120
+or we wouldn't be what we are.
+
+11:48.120 --> 11:50.440
+We don't really understand fully how it is
+
+11:50.440 --> 11:53.280
+that we manifest as patterned integrities as we do.
+
+11:54.400 --> 11:55.640
+That's the issue here.
+
+11:58.120 --> 12:00.120
+People think that just because they haven't read
+
+12:00.120 --> 12:01.960
+enough biology books, they're not aware
+
+12:01.960 --> 12:03.320
+of exactly how everything works.
+
+12:03.320 --> 12:06.520
+But everybody knows, or somebody knows how everything works.
+
+12:06.560 --> 12:08.040
+That's not true at all.
+
+12:08.040 --> 12:11.720
+Not even remotely close in any system.
+
+12:18.080 --> 12:20.280
+And so we told this story yesterday.
+
+12:20.280 --> 12:22.160
+People really wanted me to hone on this again
+
+12:22.160 --> 12:23.880
+and try to be a little bit more precise.
+
+12:23.880 --> 12:27.320
+And so I first tried to let Mike Eden speak
+
+12:27.320 --> 12:29.600
+by giving him, giving you a recording
+
+12:29.600 --> 12:32.560
+from a previous time where he definitively stated,
+
+12:32.560 --> 12:35.120
+clearly stated that he thinks
+
+12:35.120 --> 12:36.880
+that this was definitely planned,
+
+12:36.880 --> 12:39.000
+that the shots are nasty
+
+12:39.000 --> 12:42.440
+and they've got a number of nasty things built into them
+
+12:42.440 --> 12:45.680
+and that he doesn't see anything coming that's good,
+
+12:45.680 --> 12:47.880
+including these IDs and including
+
+12:47.880 --> 12:51.160
+these central bank digital currencies.
+
+12:51.160 --> 12:53.960
+And these are all gonna be things for ultimate control.
+
+12:53.960 --> 12:56.320
+And so he thinks that we all have to check out
+
+12:56.320 --> 12:58.360
+and definitely not go along with it.
+
+12:58.360 --> 12:59.600
+Do not comply.
+
+13:02.000 --> 13:04.960
+And in general, I agree with these sentiments.
+
+13:04.960 --> 13:06.840
+I'm not really sure there are so many people
+
+13:06.840 --> 13:10.160
+who could necessarily just check out to an island
+
+13:10.160 --> 13:13.480
+or put a bunch of gold in a box in a few different houses
+
+13:13.480 --> 13:16.280
+and then hope that they can fly one last time
+
+13:16.280 --> 13:18.080
+and wait out the apocalypse
+
+13:18.080 --> 13:20.320
+or wait out the zombies or whatever.
+
+13:21.800 --> 13:24.160
+And so for those of us who are renting our house
+
+13:24.160 --> 13:26.120
+and are in a semi-urban area,
+
+13:26.120 --> 13:28.200
+I think the only thing to do
+
+13:28.200 --> 13:30.720
+at some point is going to be to organize.
+
+13:31.560 --> 13:35.240
+Very locally and then more locally,
+
+13:35.240 --> 13:39.200
+but I think you gotta know your neighbors again,
+
+13:39.200 --> 13:40.200
+ladies and gentlemen.
+
+13:42.040 --> 13:44.400
+I think you gotta start to approach it from the ground up
+
+13:44.400 --> 13:47.080
+because when the electricity goes off,
+
+13:47.080 --> 13:48.800
+when the cell phone towers go down
+
+13:48.800 --> 13:51.640
+because there was some big solar storm
+
+13:51.640 --> 13:54.080
+or whatever it is, the poles are reversing.
+
+13:55.600 --> 13:57.680
+And you're gonna wanna know who lives in those houses
+
+13:57.680 --> 13:59.280
+and you're already gonna wanna know
+
+13:59.280 --> 14:01.800
+that you don't have to knock on the door and terrify them,
+
+14:03.680 --> 14:04.720
+that if you knock on the door,
+
+14:04.720 --> 14:06.880
+it's gonna open, they're gonna pull you in.
+
+14:09.800 --> 14:12.200
+And so I wanna be very clear what I said here
+
+14:12.200 --> 14:13.000
+about what happened.
+
+14:13.000 --> 14:15.520
+First, we looked at this video and we pointed out
+
+14:15.520 --> 14:19.240
+that this is indeed Dr. Mike Eden here that's on the screen.
+
+14:19.240 --> 14:21.160
+We went back and forth through this video
+
+14:21.160 --> 14:24.000
+and we really couldn't find any place where he was.
+
+14:24.000 --> 14:26.680
+There was no really super clear edit,
+
+14:26.680 --> 14:28.720
+but we listened to this, whoops.
+
+14:29.520 --> 14:31.120
+We listened to this video.
+
+14:35.560 --> 14:36.400
+And...
+
+14:39.960 --> 14:42.040
+I don't speak German.
+
+14:42.040 --> 14:43.480
+My wife doesn't speak German.
+
+14:43.480 --> 14:46.400
+As best we can tell, we can't really decide.
+
+14:47.920 --> 14:50.760
+And it's pretty obvious that he's not talking
+
+14:50.760 --> 14:52.520
+to Mike Eden in general.
+
+14:52.520 --> 14:55.360
+He didn't say that Mike Eden's wrong or anything like that.
+
+14:55.360 --> 14:58.080
+And I didn't say that yesterday either.
+
+14:58.080 --> 15:01.480
+But what he does say is that this is a spontaneous phenomenon
+
+15:01.480 --> 15:04.240
+and that it doesn't have to be planned.
+
+15:06.480 --> 15:09.000
+And that's not necessarily anything
+
+15:09.000 --> 15:13.360
+that we need to argue about right now with respect to Sukhrit.
+
+15:14.400 --> 15:16.920
+Sukhrit was almost put in jail and accused of treason.
+
+15:16.920 --> 15:19.920
+I'm not really sure that he's the guy
+
+15:19.920 --> 15:22.880
+who necessarily needs to be standing up in front of everybody
+
+15:22.880 --> 15:27.320
+at a political meeting saying the absolute
+
+15:28.320 --> 15:30.960
+I mean, he's already brought this political party
+
+15:30.960 --> 15:32.120
+quite far forward.
+
+15:32.120 --> 15:34.280
+I'm not making any excuses for him.
+
+15:36.480 --> 15:41.080
+I'm more suggesting that from the perspective of free speech
+
+15:41.080 --> 15:44.440
+and what AFD should be standing for over there in Germany
+
+15:44.440 --> 15:47.280
+as it's far right, conservative, whatever,
+
+15:47.280 --> 15:51.080
+I would suspect that on many other issues,
+
+15:51.080 --> 15:53.520
+free speech would be something that they would use.
+
+15:55.080 --> 15:56.720
+I think it was Christine Anderson
+
+15:56.720 --> 15:59.200
+who stood in front of the cameras
+
+15:59.200 --> 16:01.800
+that were supposedly at the European Parliament
+
+16:01.800 --> 16:03.640
+and said that she was born free.
+
+16:03.640 --> 16:06.160
+I don't need anybody to tell me that I'm free.
+
+16:06.160 --> 16:07.440
+I was born free.
+
+16:09.680 --> 16:14.240
+And so it's, I would really, really like it
+
+16:14.240 --> 16:19.240
+if Michael Eden's words were not removed from this video.
+
+16:20.480 --> 16:23.960
+But I'm not really sure that we should use it as a way
+
+16:23.960 --> 16:28.960
+of judging who, well, for sure not judging who Sucred is
+
+16:29.120 --> 16:34.120
+because Sucred was speaking out about how the clot shot,
+
+16:34.360 --> 16:37.960
+how the antibodies, how the neutrophils,
+
+16:37.960 --> 16:41.640
+how the endothelial cells are gonna be broken down
+
+16:41.640 --> 16:43.320
+when they get transfected
+
+16:43.320 --> 16:45.360
+and what are the possible calamities
+
+16:45.360 --> 16:48.560
+that occur upon second transfection and third transfection.
+
+16:50.440 --> 16:53.800
+And he's some kind of virologist,
+
+16:53.800 --> 16:55.560
+some kind of molecular biologist.
+
+16:55.560 --> 17:00.560
+So he's also kind of intellectually embedded in the dogma.
+
+17:04.320 --> 17:08.760
+And so for him to, he is going to be very sensitive
+
+17:08.760 --> 17:11.440
+to the idea that there's no virus
+
+17:11.440 --> 17:13.040
+and that he's been already attacked
+
+17:13.040 --> 17:15.080
+by the no virus people several times.
+
+17:15.080 --> 17:16.840
+And what does that do?
+
+17:16.840 --> 17:21.400
+This is the home run that I would like to hit tonight
+
+17:21.400 --> 17:22.440
+and then go to bed.
+
+17:23.440 --> 17:25.200
+This is the perfect example
+
+17:25.200 --> 17:28.840
+of what the no virus people have accomplished in their
+
+17:28.840 --> 17:33.440
+relentless badgering of people behind the scenes.
+
+17:33.440 --> 17:36.720
+They did the same thing to Bobby and CHD
+
+17:36.720 --> 17:39.920
+by sending emails to everybody that they could,
+
+17:39.920 --> 17:44.920
+Mary Holland, Bobby, Merrill, I guess Brian Hooker,
+
+17:46.760 --> 17:48.760
+when I joined and they found out
+
+17:48.760 --> 17:50.960
+that I had written some kind of response
+
+17:50.960 --> 17:53.640
+or helped them write a response to the no virus people,
+
+17:53.640 --> 17:57.960
+then they started sending all kinds of emails about me.
+
+18:01.640 --> 18:04.160
+And what it does is that it drives people
+
+18:04.160 --> 18:09.160
+into this very non-intellectual defensive position
+
+18:10.160 --> 18:11.240
+where they're just like, man,
+
+18:11.240 --> 18:13.600
+just go away with your no virus thing.
+
+18:15.440 --> 18:19.200
+And so all of a sudden, over the last, all of a sudden,
+
+18:19.240 --> 18:21.080
+over the last two years,
+
+18:22.640 --> 18:27.000
+with a combination of those people sticking right to that line
+
+18:27.000 --> 18:29.440
+of do you believe in the purification
+
+18:29.440 --> 18:33.160
+and isolation of coronaviruses or viruses in general
+
+18:34.200 --> 18:37.480
+and always forcing people to open with that,
+
+18:39.600 --> 18:42.640
+always forcing people to open with that.
+
+18:43.600 --> 18:44.880
+Not how did you get here?
+
+18:44.880 --> 18:46.040
+Why were you afraid?
+
+18:46.040 --> 18:47.200
+Why didn't you believe?
+
+18:47.200 --> 18:49.160
+Why do you think this is a bad thing?
+
+18:49.160 --> 18:50.920
+What do we have in common?
+
+18:50.920 --> 18:51.760
+No, no, no.
+
+18:54.000 --> 18:56.360
+There's only one question to cross this bridge
+
+18:56.360 --> 18:58.280
+and the little troll underneath says,
+
+18:58.280 --> 18:59.760
+do you believe in viruses?
+
+19:02.920 --> 19:07.480
+And so what that created was this intellectual block,
+
+19:07.480 --> 19:11.240
+this intellectual sort of third rail
+
+19:11.240 --> 19:14.080
+where anybody ever gets this whiff of,
+
+19:14.080 --> 19:15.880
+oh, is this a no virus person?
+
+19:15.880 --> 19:18.800
+Do you hear me saying it?
+
+19:18.800 --> 19:23.200
+That's how effective this whole operation was
+
+19:23.200 --> 19:26.360
+because they've created this whole little intellectual
+
+19:26.360 --> 19:29.920
+sort of no-go zone, which unfortunately,
+
+19:29.920 --> 19:32.880
+because of the way it has been executed
+
+19:32.880 --> 19:36.320
+over the last three years,
+
+19:36.320 --> 19:41.320
+it has spill over into what I would call very fair play
+
+19:44.000 --> 19:46.720
+intellectual areas, intellectual spaces
+
+19:46.720 --> 19:49.040
+that include infectious clones,
+
+19:49.040 --> 19:50.480
+whether they spread or not,
+
+19:51.360 --> 19:53.000
+that include transfection,
+
+19:53.000 --> 19:55.240
+that include transfectious agents,
+
+19:55.240 --> 20:00.240
+that include all of these sort of biologics
+
+20:00.880 --> 20:04.200
+that don't necessarily have to be self-replicating,
+
+20:04.200 --> 20:09.200
+self-obligated self-replicating pathogens,
+
+20:10.280 --> 20:15.280
+which is of course what I'm trying to get more precise with
+
+20:16.120 --> 20:18.960
+when I say that viruses are not patterned integrities,
+
+20:20.880 --> 20:23.560
+but even that's what they're saying
+
+20:23.560 --> 20:27.000
+when they say that our viruses are supposed to be
+
+20:27.000 --> 20:32.000
+obligate pathogens that can't replicate on their own.
+
+20:35.640 --> 20:38.560
+And so they are questioning the same thing,
+
+20:38.560 --> 20:42.400
+but they aren't questioning in a precise way
+
+20:42.400 --> 20:44.720
+that allows this conversation to go forward.
+
+20:44.720 --> 20:49.120
+It's always isolation, it's always purification.
+
+20:50.400 --> 20:52.720
+And then it's like, yeah, and we have all these foyas
+
+20:52.720 --> 20:55.440
+where we ask people for isolation and purification,
+
+20:55.440 --> 20:57.520
+they say they don't have any proof of it.
+
+20:57.520 --> 21:00.080
+And so it's around in circles all the time.
+
+21:02.880 --> 21:05.600
+And so then when somebody like Sucret
+
+21:05.600 --> 21:08.680
+has encountered that four or five times,
+
+21:09.640 --> 21:13.320
+then when you hear it from another perspective
+
+21:13.320 --> 21:15.280
+like there's no evidence of spread,
+
+21:17.040 --> 21:19.320
+it's almost like you can't hear it correctly
+
+21:19.320 --> 21:23.560
+because you are allergic to the idea
+
+21:23.560 --> 21:26.360
+that there was no virus, no spread.
+
+21:26.360 --> 21:27.480
+That sounds like no virus.
+
+21:27.480 --> 21:29.800
+Whoa, I'm not one of those guys.
+
+21:31.120 --> 21:35.360
+And that's indeed what they tried to do to those of us
+
+21:35.360 --> 21:38.120
+who were legitimately trying to understand
+
+21:38.120 --> 21:39.520
+what infectious clones were
+
+21:39.520 --> 21:43.200
+and how this revelation of understanding
+
+21:43.200 --> 21:46.000
+what infectious clones were to the whole study
+
+21:47.000 --> 21:50.960
+of coronavirus, what does that mean
+
+21:50.960 --> 21:55.960
+from the perspective of a natural RNA phenomenon
+
+21:56.400 --> 21:58.040
+being able to pandemic?
+
+21:58.040 --> 22:01.080
+Essentially a natural RNA phenomenon
+
+22:01.080 --> 22:04.320
+being able to a pandemic is attributing
+
+22:04.320 --> 22:09.320
+a property of high fidelity replication
+
+22:10.200 --> 22:15.200
+and homeostasis despite not being able to do it itself,
+
+22:15.440 --> 22:18.240
+despite not having any of its own enzymes,
+
+22:18.240 --> 22:22.040
+despite it just being a molecule
+
+22:22.040 --> 22:25.240
+inside of a few other molecules.
+
+22:26.120 --> 22:30.600
+No energy, no, you see?
+
+22:32.200 --> 22:36.400
+And so we just were tricked into attributing
+
+22:37.400 --> 22:40.400
+what is most certainly a phenomenon
+
+22:40.400 --> 22:45.400
+that would only be possible with a pattern integrity
+
+22:45.840 --> 22:50.840
+and then limited by the biological attributes
+
+22:51.320 --> 22:52.640
+of that pattern integrity.
+
+22:52.640 --> 22:54.780
+But instead we've been told this story
+
+22:54.780 --> 22:59.780
+that this combination of molecules is capable of a feat
+
+22:59.780 --> 23:04.780
+of biological fidelity that no other pattern integrity
+
+23:08.300 --> 23:09.980
+on earth would be capable of.
+
+23:13.060 --> 23:15.420
+I mean, think about an insect, for example,
+
+23:15.420 --> 23:18.380
+being able to travel around the world in three years
+
+23:18.380 --> 23:21.380
+and be in every place in the world.
+
+23:21.380 --> 23:23.140
+How would that be possible?
+
+23:23.140 --> 23:24.860
+What insect could do that?
+
+23:27.700 --> 23:29.380
+Even if it was an indoor insect
+
+23:29.380 --> 23:32.060
+and it got in in your shoes and in your socks
+
+23:33.420 --> 23:36.100
+and every, and it was super contagious,
+
+23:36.100 --> 23:38.740
+how in the world would it,
+
+23:38.740 --> 23:42.940
+would an insect manage to go from even on an airplane?
+
+23:45.420 --> 23:48.100
+But now we're talking about a molecule
+
+23:48.100 --> 23:51.260
+that can't copy itself, has none of its own enzymes,
+
+23:51.260 --> 23:52.620
+has no energy,
+
+23:55.220 --> 23:56.620
+no reserves,
+
+23:59.620 --> 24:01.300
+but it's just like a dead leaf
+
+24:01.300 --> 24:03.020
+that it rolls into your door
+
+24:03.020 --> 24:06.780
+and then outroles bags and bags of leaves
+
+24:07.980 --> 24:12.020
+and those leaves if they roll into other people's houses
+
+24:12.020 --> 24:14.980
+then they roll right out with more bags and bags of leaves
+
+24:14.980 --> 24:16.420
+and somehow those bags of leaves
+
+24:16.420 --> 24:17.780
+have blown all over the world
+
+24:17.780 --> 24:19.980
+and everybody's got leaves in their house now.
+
+24:22.500 --> 24:27.100
+What pattern integrity is it possible to do that with?
+
+24:27.980 --> 24:30.460
+Ladies and gentlemen, think about that.
+
+24:32.220 --> 24:34.100
+Talk about unprecedented.
+
+24:36.380 --> 24:38.060
+This is where we need to get,
+
+24:38.060 --> 24:39.740
+this is where we need to get
+
+24:41.420 --> 24:43.940
+because this is where, again, people like Sukhrit
+
+24:43.940 --> 24:45.820
+can just keep walking.
+
+24:45.820 --> 24:47.820
+Nope, sorry Sukhrit,
+
+24:47.820 --> 24:50.420
+you're just not out of the cave yet.
+
+24:50.420 --> 24:52.980
+You just gotta keep coming, follow my voice.
+
+24:52.980 --> 24:54.580
+That's all we are.
+
+24:54.580 --> 24:57.700
+These people have been so deep, we,
+
+24:57.700 --> 24:59.460
+we're so deep in the cave
+
+25:00.580 --> 25:03.620
+that when you get closer to the final anti-chambers,
+
+25:03.620 --> 25:05.740
+there's already so much light there
+
+25:06.740 --> 25:09.140
+that it feels like they're already almost outside,
+
+25:09.140 --> 25:12.700
+they can't believe it, they're like shocked, wow.
+
+25:14.380 --> 25:16.580
+I can't believe I thought that way back there,
+
+25:16.580 --> 25:19.740
+miles deep was reality.
+
+25:21.260 --> 25:23.700
+Now it smells different up here
+
+25:23.700 --> 25:28.500
+and there's water dripping and I think that's light up there.
+
+25:29.380 --> 25:30.740
+I feel a breeze.
+
+25:33.580 --> 25:34.780
+That's all this is.
+
+25:36.580 --> 25:38.580
+And we can get through this.
+
+25:38.580 --> 25:40.740
+We definitely can get through this.
+
+25:43.580 --> 25:48.580
+Oh my gosh, stop it, stop it, stop it, stop it.
+
+25:50.060 --> 25:51.340
+Wow, what is that?
+
+25:52.220 --> 25:54.780
+That's the ball of sea, that ball of sea.
+
+25:54.780 --> 25:56.940
+That ball of sea is broken.
+
+25:58.380 --> 26:00.700
+And there, that's terrible.
+
+26:00.700 --> 26:02.460
+I wanna just switch over here.
+
+26:02.460 --> 26:03.740
+Why did it do that?
+
+26:04.620 --> 26:06.140
+Is that really gonna do it again?
+
+26:06.140 --> 26:07.420
+Please tell me it's not.
+
+26:16.860 --> 26:18.340
+Yeah, everybody's awake now.
+
+26:18.340 --> 26:19.940
+Sorry about that.
+
+26:19.980 --> 26:21.700
+That was really my bad.
+
+26:21.700 --> 26:29.380
+So this is a letter that was posted on Michael Yedens Telegram a day ago.
+
+26:29.380 --> 26:32.300
+And so it wasn't an email to me,
+
+26:32.300 --> 26:35.820
+it was an email to all of his fans or all of his telegram, I believe.
+
+26:35.820 --> 26:38.300
+I have mentioned that I have been invited to address
+
+26:38.300 --> 26:41.700
+a sizable gathering in the German Parliament a couple of weekends ago.
+
+26:42.260 --> 26:47.980
+A lengthy session arranged by the party of the admirably feisty MEP,
+
+26:47.980 --> 26:50.580
+Christine Anderson of the AFD.
+
+26:50.580 --> 26:53.100
+They have something like 82 members of Parliament,
+
+26:53.100 --> 26:54.860
+mostly in the former East.
+
+26:55.700 --> 26:58.220
+And nine MEPs, not too shabby.
+
+26:58.220 --> 27:00.820
+I was promised an audience of 90 elected representatives
+
+27:00.820 --> 27:06.020
+and 200 EGLE officials, together possessing a veritable alternative network
+
+27:06.020 --> 27:08.740
+that does not rely on mainstream media for its communication.
+
+27:08.740 --> 27:12.580
+They realized early that they were never going to get a fair shake by their media,
+
+27:12.580 --> 27:16.460
+so they decided not to try and pretend to be like the other parties
+
+27:16.460 --> 27:19.100
+and simply represent with those with no voice.
+
+27:19.100 --> 27:20.100
+Admirable stuff.
+
+27:20.100 --> 27:22.460
+So persuaded it was worth a shot.
+
+27:22.460 --> 27:23.700
+I prepared a short talk.
+
+27:23.700 --> 27:26.580
+I was surprised to find that I had the last slot.
+
+27:26.580 --> 27:28.540
+And looking at the people and topics, I thought,
+
+27:28.540 --> 27:31.820
+wow, I've got a chance to really get an impact.
+
+27:31.820 --> 27:34.860
+I simplified and focused on the alleged vaccines,
+
+27:34.860 --> 27:39.260
+how there could never have been sufficient time to have done what was claimed.
+
+27:39.260 --> 27:42.820
+That even if the narrative was true, virtually nobody would benefit from it
+
+27:42.820 --> 27:44.820
+because they're not at risk.
+
+27:44.820 --> 27:49.020
+That pregnant women have for 60 years never been exposed to new medicines,
+
+27:49.020 --> 27:51.220
+not even once fully approved.
+
+27:51.220 --> 27:55.060
+Then I described rational drug design in my career using it.
+
+27:55.060 --> 27:58.700
+The off a conclusion that toxicity was built into these agents,
+
+27:58.700 --> 28:01.180
+five discrete mechanisms of toxicity.
+
+28:01.180 --> 28:06.420
+By the way, our molecular biology experts find an additional handful of mechanisms
+
+28:06.420 --> 28:09.020
+of harm to do with nuclear entry.
+
+28:09.020 --> 28:15.700
+All superfluous, excuse me, to the notional purpose.
+
+28:15.700 --> 28:19.260
+So what he means there, as far as I can understand,
+
+28:19.260 --> 28:25.220
+is that the latest list of or the latest alarm about certain contaminants
+
+28:25.220 --> 28:30.420
+in the vaccines having to do with nuclear entry and nuclear transport
+
+28:30.420 --> 28:35.700
+are superfluous to the notional purpose, the idea of, again,
+
+28:35.700 --> 28:37.660
+what they were originally designed to do,
+
+28:37.660 --> 28:40.620
+how they were originally designed, is already nasty,
+
+28:40.620 --> 28:45.300
+which is exactly what I've also been saying here on GIGO and biological
+
+28:45.300 --> 28:49.380
+for quite some time, so high five to Mr. Sparkle.
+
+28:49.380 --> 28:51.940
+The conclusion is that we are under intense attack,
+
+28:51.940 --> 28:56.380
+that we can repel these evil people by sufficient of us simply refusing
+
+28:56.380 --> 28:59.580
+to comply with the campaign of fear.
+
+28:59.580 --> 29:02.980
+The economy may be decimated in whatever is coming,
+
+29:02.980 --> 29:06.900
+but that we can recover as free individuals.
+
+29:06.900 --> 29:09.660
+After I'd finished, there was a strange noise.
+
+29:09.660 --> 29:13.540
+It was the usual polite applause, but a roar that simply,
+
+29:13.540 --> 29:18.700
+OK, I think he meant it wasn't the usual polite applause,
+
+29:18.700 --> 29:25.500
+but a roar that simply, whoops, what's that, that did not stop.
+
+29:25.500 --> 29:27.660
+I switched the camera view on my screen.
+
+29:27.660 --> 29:29.100
+The whole place was on its feet.
+
+29:29.100 --> 29:33.020
+They were clapping like mad and went on for an embarrassing two to three minutes.
+
+29:33.100 --> 29:36.620
+And gratified, I mumbled thanks for the opportunity to speak to them
+
+29:36.620 --> 29:37.340
+and end of the link.
+
+29:37.340 --> 29:43.500
+I learned yesterday that dissenting voices in AFD had decided my opinions were too extreme,
+
+29:43.500 --> 29:45.460
+and they've excised my presentation.
+
+29:45.460 --> 29:48.820
+So here you go.
+
+29:48.820 --> 29:51.420
+If anyone knows, connected, whatever's going on there,
+
+29:51.420 --> 29:54.180
+we'd love to hear a perspective from the inside best wishes.
+
+29:54.180 --> 29:57.420
+Mike, someone a legend that there had been a problem with the sound.
+
+29:57.420 --> 29:58.740
+I don't believe that for a moment.
+
+29:58.740 --> 30:03.660
+So this really, I think, is a good way to summarize also
+
+30:03.660 --> 30:07.220
+what I've been trying to point out within this stream.
+
+30:07.220 --> 30:11.580
+And that is that I don't think by any stretch of the imagination
+
+30:11.580 --> 30:14.060
+that this is secret.
+
+30:14.060 --> 30:15.940
+This is definitely not secret.
+
+30:15.940 --> 30:21.020
+What this is, is a political party and operatives within it,
+
+30:21.020 --> 30:23.980
+controlling a narrative.
+
+30:23.980 --> 30:26.980
+And it might not even, if I'm sure it's not all that party,
+
+30:26.980 --> 30:30.780
+I'm sure there are lots of people who were clapping and cheering.
+
+30:30.780 --> 30:34.900
+And that round of applause, I'm sure, was real.
+
+30:34.900 --> 30:37.900
+But how many people really need to be in there to call attention to this,
+
+30:37.900 --> 30:42.180
+to say that they don't want this, they don't want attention for this,
+
+30:42.180 --> 30:47.740
+that they're already making, I mean, Germany went off the deep end.
+
+30:47.740 --> 30:49.340
+These people lost their mind there.
+
+30:49.340 --> 30:52.980
+So if they've got some kind of foothold, they were making some progress,
+
+30:52.980 --> 30:54.220
+maybe they have to be careful.
+
+30:54.220 --> 30:55.860
+I don't know.
+
+30:55.860 --> 30:57.380
+Like I said, I don't speak German.
+
+30:57.380 --> 31:02.380
+I'm not following what's going on over there, but that was a mad house.
+
+31:02.380 --> 31:08.180
+I mean, they have some kind of special interest in Vera Sharav right now for some reason.
+
+31:08.180 --> 31:17.020
+So the Germans are in deep trouble from a democratic crisis perspective.
+
+31:17.020 --> 31:20.100
+You know, their government is very heavy-handed,
+
+31:20.100 --> 31:24.420
+and you would have thought that their history might have left them
+
+31:24.420 --> 31:29.500
+with more trepidation with regards to this type of governance,
+
+31:29.500 --> 31:34.620
+but apparently not.
+
+31:34.620 --> 31:42.500
+So that's really what I wanted to clear up from yesterday.
+
+31:42.500 --> 31:48.500
+I just want to be sure that it's clear that I'm still just trying to sort this out.
+
+31:48.540 --> 31:54.260
+And I don't, I don't, I am not going to stop sorting this out
+
+31:54.260 --> 31:58.180
+because I think it's really vital work.
+
+31:58.180 --> 32:03.500
+I know that not everybody likes it when I'm doing it and gets tired of me doing it.
+
+32:03.500 --> 32:08.700
+But I think it's really important and a number of these people,
+
+32:08.700 --> 32:14.540
+if we just look at this idea of what I believe we're trying to break,
+
+32:14.540 --> 32:20.060
+what I believe we're trying to break is this spontaneous,
+
+32:20.060 --> 32:25.900
+whitting and unwittingly generated consensus
+
+32:25.900 --> 32:30.500
+that everybody just doesn't speak all the time, that there was a novel virus,
+
+32:30.500 --> 32:33.140
+the consensus that a millions of people died from it,
+
+32:33.140 --> 32:36.780
+the consensus that millions more were saved from it.
+
+32:36.780 --> 32:41.100
+And whether you believe that it was Ibermectin and hydroxychloroquine
+
+32:41.100 --> 32:44.700
+that saved people or whether you believe that it was the lockdowns and masks
+
+32:44.700 --> 32:50.100
+and social distancing and closing down schools that saved people,
+
+32:50.100 --> 32:53.900
+whether you think the vaccine saved people
+
+32:53.900 --> 32:59.100
+or whether you think that speaking out against the vaccines has saved people.
+
+32:59.100 --> 33:07.900
+This is all part of the show because in the end, the debate is right here.
+
+33:07.900 --> 33:11.820
+And I'm frustrated at how many people that are on our side
+
+33:11.820 --> 33:15.820
+say that they are on our side fighting for the average Joe
+
+33:15.820 --> 33:22.060
+are not questioning these things and definitely not questioning that this will happen again.
+
+33:22.060 --> 33:26.620
+And it's usually the existence of gain of function
+
+33:26.620 --> 33:35.660
+that is used to tell the story, used to manifest that the virus will come again.
+
+33:35.740 --> 33:42.860
+And that's what frustrate that's the most crucial thread to understand about all of these people
+
+33:44.380 --> 33:50.380
+is that what they really share in common is this belief that nasty gain of function,
+
+33:51.500 --> 33:57.500
+nuclear weapon plus viruses can be created in laboratories.
+
+33:57.500 --> 34:00.700
+Even if this wasn't one of them, they definitely can do it.
+
+34:00.700 --> 34:04.860
+And there's nobody on this on this circle that would disagree with them.
+
+34:04.860 --> 34:09.820
+Nobody. And that to me is the big one.
+
+34:11.740 --> 34:18.700
+That's the one that arguing about the conflated background signal
+
+34:18.700 --> 34:24.300
+could allow for there to be viruses going around or signals going around.
+
+34:24.300 --> 34:26.460
+And so there could a lot of be gray areas there,
+
+34:26.460 --> 34:30.700
+but there's no gray area about gain of function in coronaviruses.
+
+34:30.700 --> 34:31.740
+There's no gray area.
+
+34:35.420 --> 34:41.900
+And so I really find it intriguing who these people are in the middle there.
+
+34:41.900 --> 34:50.060
+Mark Koolack, Nick Hudson, Denny Rancor, Thomas Binder, Peter McCullough, Jonathan Engler,
+
+34:51.260 --> 34:53.260
+Jessica Hockett, and Martin Neal.
+
+34:55.420 --> 35:00.140
+I don't have too many more people to put in the middle because there aren't very many other people with the
+
+35:05.100 --> 35:09.660
+stance that they are questioning that central faith, especially the dogma of gain of function
+
+35:09.660 --> 35:19.340
+research and the idea that an RNA molecule coated in lipoprotein is capable of doing something
+
+35:19.340 --> 35:28.300
+that heretofore we thought only a pattern integrity could do and then not nearly as fast and as
+
+35:29.180 --> 35:35.980
+encompassing as this RNA molecule in a lipid lipoprotein coat seems to have done.
+
+35:40.940 --> 35:47.820
+Now the goal was to convert this graph, this many multi-year pattern of seasonal
+
+35:48.860 --> 35:55.260
+death, this multi-year pattern, this is just from 2014, it goes much farther back than that.
+
+35:55.980 --> 36:02.700
+This multi-year pattern here of pneumonia deaths where so many thousand people died
+
+36:02.700 --> 36:06.540
+every year until BABAM in 2020 that all changed.
+
+36:10.780 --> 36:15.980
+And then they want to explain it and everybody that believes in the mystery virus and the gain
+
+36:15.980 --> 36:22.540
+of function virus believes that this is the mystery virus, these excess deaths.
+
+36:22.540 --> 36:33.580
+And for some reason, all of these people are just not interested in the do not resuscitate
+
+36:33.580 --> 36:40.700
+orders in New York City. The 20,000 people that died in about three and a half weeks in New York
+
+36:40.700 --> 36:47.260
+City ventilators all around the world and in the United States, especially to stop the spread of
+
+36:47.340 --> 36:55.500
+a virus. The absolute disuse of antibiotics because viral pneumonia doesn't respond to it,
+
+36:55.500 --> 37:03.180
+it's just absurd. The poor use of steroids, the introduction of remdesivir as a standard
+
+37:03.180 --> 37:11.820
+treatment, many places including Canada may still be using it, homodazolam in the UK.
+
+37:12.700 --> 37:19.100
+Opioid deaths in America are a source of extra deaths in all age groups, especially those middle
+
+37:19.100 --> 37:29.020
+age groups and young age groups and these under financial incentives were definitely roped in.
+
+37:30.060 --> 37:36.620
+And more importantly, if you show this graph with the light blue, you can't, you don't see
+
+37:37.420 --> 37:44.460
+a 40% rise in opioid deaths. You don't see a hundred thousand opioid deaths a year and a hundred
+
+37:44.460 --> 37:52.460
+thousand opioid deaths here, you don't see them. And so they can shuffle those numbers around,
+
+37:52.460 --> 38:01.420
+you can't shuffle numbers around that aren't extra. If no more people are dying from car accidents
+
+38:01.500 --> 38:07.980
+then shuffling them around and calling them COVID is not going to make this graph go up
+
+38:08.620 --> 38:13.740
+and have excess deaths like this ventilators do not resuscitate orders that will make
+
+38:14.380 --> 38:18.060
+the excess deaths go up. Lack of antibiotics use will make the excess
+
+38:18.060 --> 38:24.540
+desk go up remdesivir. These will make the excess desk go up. Opioid deaths will make the excess
+
+38:24.620 --> 38:33.420
+deaths go up and that certificate fraud. And so that consensus of deciding not to talk about
+
+38:33.420 --> 38:43.900
+that stuff, but instead to do exhaustive analysis of VAERS, instead do exhaustive analysis of the
+
+38:43.900 --> 38:49.900
+spike protein and all of the magical properties that it has depending on how you analyze it and
+
+38:49.980 --> 38:58.220
+what you propose that that analysis reveals endless discussion about the toxicity of the spike protein
+
+38:59.580 --> 39:04.540
+and not in respect to the transfection, but in respect to the virus that's still going around
+
+39:04.540 --> 39:15.420
+the world now, of course. And all that talk does is the train dance. The pulling and the pushing of
+
+39:15.420 --> 39:20.940
+the train is that very thing. Let's argue about the spike protein for two years.
+
+39:24.220 --> 39:30.620
+Oops. Did two years go by already? Did all those people take a transfection to that spike protein?
+
+39:30.620 --> 39:35.500
+Darn it. I didn't, I didn't know that they would all, they would all just rush and take it because
+
+39:35.500 --> 39:42.220
+we were, we just had to figure out how toxic the spike protein to the virus was. We had to,
+
+39:42.220 --> 39:47.740
+we had to figure that out because the virus was again a function by a weapon.
+
+39:49.340 --> 39:53.500
+But we didn't say that because we didn't, we wanted to scare people, we wanted to warn them.
+
+39:55.980 --> 40:00.300
+But none of them talked about the therapeutic that was also putting the spike in.
+
+40:02.620 --> 40:05.340
+And the ones that did talked about it too late,
+
+40:05.980 --> 40:12.860
+came out too late, like a year too late.
+
+40:14.940 --> 40:22.540
+If the vaccine, i.e. the transfection was rolled out in the beginning of 21, and you didn't speak
+
+40:22.540 --> 40:33.980
+out until the September, October of 21, he came out too late. And especially, and this is the thing,
+
+40:34.700 --> 40:41.500
+if you were talking, and that's the whole point, they were talking, they were talking about all
+
+40:41.500 --> 40:51.340
+this stuff. So if you were talking about Ivermectin and hydroxychloroquine and, and prophylactic use
+
+40:51.340 --> 41:00.700
+of Ivermectin, and how many shots that people have had, and you weren't just telling people
+
+41:00.700 --> 41:05.340
+don't do it, because it's not appropriate for healthy humans, then you came out, you were,
+
+41:05.340 --> 41:06.780
+you were doing the push and pull.
+
+41:11.100 --> 41:17.500
+That's why we need to do this, because those people are still doing it. Those people are still
+
+41:17.500 --> 41:25.340
+doing it. Those people are traveling the world, still doing it. The train pulling and pushing exercise,
+
+41:25.820 --> 41:32.220
+because none of them, none of them are saying that there's no evidence of spread. None of them are
+
+41:32.220 --> 41:41.020
+saying that there's no evidence of spread. They're ignoring that part. They're ignoring that part,
+
+41:41.020 --> 41:51.420
+and they kind of have to, because that means that the toxic spike protein wasn't really spreading
+
+41:51.500 --> 41:57.580
+all over the world, because the test said it was. Do you see why that's a great big?
+
+42:00.620 --> 42:03.260
+Do you see why they can't really broach this subject?
+
+42:05.020 --> 42:10.060
+Because we were talking about a toxic spike protein for almost two years straight.
+
+42:10.060 --> 42:22.220
+I got lots of my viewers to support the work of somebody who was talking about only the spike
+
+42:22.220 --> 42:30.700
+protein for almost two years straight. But for some reason needed to be prodded all the time and
+
+42:30.700 --> 42:36.860
+remind it that dude, that spike protein might not be around anymore except in the shot. You do know
+
+42:36.860 --> 42:47.420
+that, right? It should all be coming clearer and clearer every day as we repeat this exercise.
+
+42:49.420 --> 42:53.660
+And we're going to keep doing it. Whether anybody likes it or not, I guess just don't subscribe,
+
+42:53.660 --> 43:00.460
+don't, don't show up anymore. Because this is the work that needs to be done.
+
+43:01.340 --> 43:06.940
+And we're going to keep doing it. I know this wasn't the best study hall, but I really wanted to
+
+43:06.940 --> 43:19.740
+clear up the idea that that in 2018, 2019, the earth wasn't clean. There was a background signal
+
+43:19.740 --> 43:26.060
+that we had no measurements on. No measurements on because we had no commercial products for,
+
+43:26.140 --> 43:31.420
+there was no market demand. Nobody cared, couldn't get a grant for it.
+
+43:32.140 --> 43:38.300
+Grant money wasn't even around from the NIH to get large scale surveys of human coronaviruses.
+
+43:39.980 --> 43:46.140
+Some people, some niche labs were able to get some money to study coronaviruses in badcaves,
+
+43:46.140 --> 43:52.220
+but not everybody could do it. Just a very select few people that got money through
+
+43:52.220 --> 43:54.620
+weird channels and weird grant calls.
+
+43:59.020 --> 44:06.460
+So it wasn't really a big public health priority. So much so that we had zero surveillance.
+
+44:07.580 --> 44:13.980
+And then in 2020, we were told that our surveillance reveals that we're having a pandemic,
+
+44:14.780 --> 44:18.860
+that millions of people are being killed, millions of people need saving.
+
+44:19.820 --> 44:23.420
+But we have no idea what to do. So we almost crashed and burned,
+
+44:25.260 --> 44:29.500
+but it's turned out that this is some kind of gain of function virus likely. And if it wasn't,
+
+44:29.500 --> 44:32.620
+well, holy man, we got lucky then and it probably will be next time.
+
+44:34.380 --> 44:41.580
+And in this faith, we've defeated epidemics and diseases in the past by using vaccines,
+
+44:42.540 --> 44:49.900
+not with nutrition or health or better medicine or antibiotics or sanitation.
+
+44:51.020 --> 44:56.300
+None of those things matter. Novel coronaviruses can jump from other species and can pandemic
+
+44:56.300 --> 45:03.100
+because that's what RNA wrapped in lipoprotein can do apparently. PCR false positives are rare.
+
+45:04.140 --> 45:08.940
+It's really easy to make a product that uses PCR as a diagnostic. That's easy.
+
+45:09.900 --> 45:14.220
+It's really easy to make lateral flow tests that work really well and are very specific.
+
+45:14.220 --> 45:17.740
+It's easy to make millions of those. Those are, that's no problem.
+
+45:19.260 --> 45:22.940
+Millions of some product. It's easy to make millions of some product.
+
+45:24.780 --> 45:29.820
+Variants are evidence of both spread and continuing evolution of a single SARS virus.
+
+45:29.820 --> 45:34.380
+Can't possibly be a background signal that was always there that they're now just measuring
+
+45:35.020 --> 45:40.220
+and then arguing about what order they following. No, no, no, it couldn't be that.
+
+45:41.660 --> 45:47.100
+We spend money studying viruses and get a function research. We need it. These are all lies.
+
+45:47.900 --> 45:51.420
+These are all lies. These are all mythologies.
+
+45:54.220 --> 45:59.420
+Because we don't take flu seriously enough, apparently. They want our children. That's what
+
+45:59.500 --> 46:05.020
+they want. They want our children. When do they want them? Now. That's why that's right.
+
+46:05.020 --> 46:10.780
+A spectacular commitment to lies, my friends. A spectacular commitment to lies. They do want
+
+46:10.780 --> 46:17.180
+to eliminate the control group. So please pay attention to that. I'm going to have some new
+
+46:17.180 --> 46:23.820
+programming for you tomorrow. I think I'm not going to rehash like I did tonight, but I just wanted
+
+46:24.540 --> 46:29.900
+to hit that quick and get off. It's 45 minutes. 99 people watching. Thank you very much.
+
+46:31.900 --> 46:35.500
+Intramuscular injection of any combination of substances with the intent of augmenting
+
+46:35.500 --> 46:41.180
+the immune system is dumb. Transfection and healthy humans is criminally negligent and viruses are
+
+46:41.180 --> 46:48.780
+not patterned integrity. I'm going to be doing, I don't know how many lectures on the idea that
+
+46:48.780 --> 46:53.580
+viruses aren't patterned integrity and what it means as a way of kind of
+
+46:54.860 --> 47:04.780
+buttressing or edifying the farewell to virology of Mark Bailey and also kind of extending it into
+
+47:04.780 --> 47:10.300
+what I would consider where it should go instead of just kind of ending with a shoulder shrug.
+
+47:10.780 --> 47:19.740
+I still believe that even if that in and of itself is a decent scholarly work without too much
+
+47:20.860 --> 47:28.140
+hand waving and it's just a scholarly work that then stops without solving the mystery. So we're
+
+47:28.140 --> 47:35.340
+going to solve the real mystery or at least we're going to try and define where that edge of knowledge
+
+47:35.420 --> 47:44.540
+really is and then work from there. I really think biology is the way forward and so this has been
+
+48:14.540 --> 48:20.780
+very much. I mean it is, viruses don't have a metabolism, viruses can't replicate on their own
+
+48:21.500 --> 48:29.420
+viruses, can't heal themselves, viruses can't correct errors and all of these things would
+
+48:29.420 --> 48:35.820
+in theory be things that a pattern integrity could do and so they don't take in energy and use it
+
+48:35.820 --> 48:42.780
+to make more of themselves and so the idea that something that has no properties of a pattern
+
+48:42.780 --> 48:51.260
+integrity but can then hijack other pattern integrity to make high fidelity copies of itself
+
+48:51.980 --> 48:58.620
+for three years straight is just not happening. I'm going to have a lot of fun with these lectures
+
+48:58.620 --> 49:03.980
+because there are papers and that's the sad part. It just doesn't seem like anybody wants to do
+
+49:03.980 --> 49:12.940
+the work so we'll do it. See you guys soon. Thanks for joining me. Bye-bye.
+
