@@ -1,0 +1,3977 @@
+WEBVTT
+
+00:00.000 --> 00:02.000
+You
+
+00:30.000 --> 00:32.000
+You
+
+01:00.000 --> 01:19.000
+If I could get a sound check here, that would be really great.
+
+01:19.000 --> 01:29.000
+How's that look? Are we alright? Can we align? Yes, great. Thank you very much.
+
+01:29.000 --> 01:42.000
+I went back to render forest to get a little special thing for you today just because it's funny.
+
+01:42.000 --> 01:48.000
+Oh no, it's going by itself.
+
+01:48.000 --> 01:52.000
+Did you miss the basketball? Sorry, that was it. If you missed it, you missed it.
+
+01:53.000 --> 01:58.000
+It'll be there again. The next time we have a practice post practice study hall, it does help.
+
+01:58.000 --> 02:03.000
+It does happen every once in a while that we will have a post practice study hall.
+
+02:03.000 --> 02:08.000
+In this case, we had practice from 7.30 till 9. That's pretty hard for those boys.
+
+02:08.000 --> 02:14.000
+I don't really like the fact that they have pre teenage boys in the gym till 9 p.m.
+
+02:14.000 --> 02:18.000
+But that's the way it is here in hardcore Pittsburgh.
+
+02:18.000 --> 02:23.000
+These things are definitely the main messages of Gigo and biological.
+
+02:23.000 --> 02:28.000
+One, two, three. Welcome to the show.
+
+02:29.000 --> 02:54.000
+And what we are really fighting is really this mythology right here. If we can crack this, we can start to get people to understand that it's possible that this is a mythology, we're going to win.
+
+02:54.000 --> 02:59.000
+And we're really close, ladies and gentlemen, we are really, really close.
+
+02:59.000 --> 03:05.000
+I mean, it's unbelievable how close we are. It's really unbelievable.
+
+03:09.000 --> 03:12.000
+So anyway, good evening, ladies and gentlemen. Welcome to the show.
+
+03:12.000 --> 03:17.000
+This is Gigo and biological, a high resistance, low noise information brief brought to you by a biologist.
+
+03:17.000 --> 03:21.000
+I'm back from practice. It's a little late. I'm going to try and fly through this show.
+
+03:21.000 --> 03:26.000
+Look at a little video with you, which I just think has another one of these slam dunks.
+
+03:26.000 --> 03:31.000
+And take it easy and go to bed. So welcome to the show. This is Gigo and biological.
+
+03:31.000 --> 03:36.000
+My name is Jonathan Cooley. I live in Pittsburgh, Pennsylvania, and I stream from the back of my garage.
+
+03:36.000 --> 03:50.000
+The main message that we have is one of fundamental biology and my fundamental biology where I used to be before the pandemic was I was an academic biologist, which nowadays I'm calling an academy edition.
+
+03:51.000 --> 03:57.000
+Because basically what they do is that they use the pretense of doing experiments.
+
+03:57.000 --> 04:13.000
+And oftentimes the experiments are done in such a way that the statistical difference, which is identified as a significant result, is actually well within the expected range of noise in the experiment that they've designed.
+
+04:13.000 --> 04:31.000
+But because of the way that we use statistics to transform observations into data points and the way that we wield the scientific method, it is wielded incorrectly.
+
+04:32.000 --> 04:47.000
+And so anyway, I descend from a group of people like this. I descend from the neurobiology field. And so many of my mentors, many of the people that I learned to wield the scientific method from actually wielded it in this incorrect way.
+
+04:48.000 --> 05:03.000
+It's not to say that there aren't scientific methods invaluable, but the way that we move forward with it right now is very misguided with p values and very misguided with a semantic war on what results really mean.
+
+05:03.000 --> 05:16.000
+Because there's this push and pull between, you know, I've got to get big results and big grant money and become famous because that's what every professor apparently dreams of being in their own little narrow field.
+
+05:16.000 --> 05:25.000
+And, you know, to try and be a real scientist. And so most of the time the real scientist, the real biologist, the real investigator is lost.
+
+05:25.000 --> 05:33.000
+And they sell out to this reductionist scientific model, which has really reached its useful end.
+
+05:33.000 --> 05:39.000
+I was a patch clamp physiologist, which meant I did a lot of physiology with live animals. I did a lot of surgeries.
+
+05:39.000 --> 05:52.000
+I did a lot of microscopy and all of the measurements that I made that weren't behavioral measurements were made under a microscope with fairly complicated robotic arms attached to it.
+
+05:52.000 --> 06:02.000
+And there's a lot of training that goes into this. You have to apprentice with the right people and you generally speaking need to travel the world to apprentice with those people.
+
+06:02.000 --> 06:12.000
+And then after that, pulling this trick off on your own with your own lab is another level of investigation.
+
+06:12.000 --> 06:16.000
+And how do you take your instrument and use it wisely, let's say.
+
+06:16.000 --> 06:31.000
+So I spent 20 years doing that and the derivative of the name of the show is actually giga ohm biological because giga ohm is the resistance of the seal that is formed when you make the recordings that I made during my academic career.
+
+06:31.000 --> 06:36.000
+And so giga ohm biological high resistance low noise, it all kind of lines up in a very geeky way.
+
+06:36.000 --> 06:58.000
+And just in that same geeky way, I am trying to teach the idea that with an illusion of consensus among geeks, we have been fooled into solving a mystery of a mystery virus and fooled into trying to solve the puzzle of who is responsible for the virus.
+
+06:58.000 --> 07:01.000
+Who let the virus out.
+
+07:01.000 --> 07:17.000
+And this characterization of Scooby-Doo relies on the fact that as an American kid, I really understood this as a funny show because it is cleverly done in the sense of the jokes are all good.
+
+07:18.000 --> 07:21.000
+It's a wholesome show and the same thing always happens.
+
+07:21.000 --> 07:23.000
+The monsters never really a monster.
+
+07:23.000 --> 07:28.000
+It's just somebody dressed up as one to try and scare people away from their scam.
+
+07:28.000 --> 07:38.000
+And so we have been tricked into believing that very simply we have solved the mystery of the origin of the virus simply by watching television.
+
+07:38.000 --> 07:48.000
+Simply by watching people argue simply by catching people in their lives or reading their redacted emails.
+
+07:48.000 --> 07:55.000
+Maybe we should just find a clue on the bottom of a car that was left by a bad guy with a disguise on.
+
+07:55.000 --> 07:57.000
+It's all the same.
+
+07:57.000 --> 08:01.000
+This story was planned. This theater was planned.
+
+08:01.000 --> 08:15.000
+Even if some of the more recent pivots are off script, 2020 and 2021 were highly scripted years.
+
+08:15.000 --> 08:22.000
+And it only takes a few people to lie and the rest of the people just mislead based on this illusion of consensus.
+
+08:23.000 --> 08:31.000
+If you get enough of these leaders to lie, enough of these insiders to lie.
+
+08:31.000 --> 08:41.000
+How many do you really need in key positions to be telling a lie in order for the rest of the dominoes to fall in order for the rest of the plan to be executed?
+
+08:41.000 --> 08:43.000
+And that's really where we are.
+
+08:43.000 --> 08:48.000
+The way that they did it, of course, is that they tried very hard.
+
+08:48.000 --> 08:59.000
+Think about how amazing it is that no matter whether you watch Fox News or MSNBC, you've come to believe that there is pandemic potential in bad caves.
+
+08:59.000 --> 09:17.000
+Think about how amazing it is that your friends who knew Jack squat about biology three years ago can now explain how pandemic potential is accessible in laboratories through cell culture, animal passage and genetic manipulation.
+
+09:18.000 --> 09:26.000
+Think about how magical it is that the old lady down the street and also the young mother across the street and also the the mailman.
+
+09:26.000 --> 09:33.000
+If we stop them all and ask them about this stuff, they wouldn't scratch their head.
+
+09:33.000 --> 09:42.000
+Some of them would reference John Stewart. Some of them would reference Jimmy Fallon, but they would all know the story.
+
+09:42.000 --> 09:54.000
+And they would all have come to the conclusion that, wow, it's a really different world that we live in when this worst case scenario is possible, isn't it? Who would have ever thought?
+
+09:54.000 --> 09:58.000
+That's how amazing this theater was.
+
+09:58.000 --> 10:09.000
+And once you grasp it, you can start to present the idea to anybody, basically, because it's all a theater.
+
+10:09.000 --> 10:28.000
+And the crazy part about it is the part that took me three years to figure out is that not only was the theater on television, not only was the theater at government podiums, not only was the theater at who and Gavi and all these other podiums, but the theater was also on the social media.
+
+10:28.000 --> 10:42.000
+In the back rooms of social media on the rebellion podcasts on social media, on the intellectual dark web, you know, where the heterodoxy is questioned.
+
+10:42.000 --> 10:46.000
+They too were part of the show.
+
+10:46.000 --> 11:01.000
+And they worked so well in concert together to split us up to get us to bounce around from social media platform to social media platform to follow them as they were censored.
+
+11:01.000 --> 11:18.000
+And this whole time we've been led around by our nose and only very recently are we so off script because people are starting to realize that these people are working in concert to establish this.
+
+11:18.000 --> 11:22.000
+They have to be.
+
+11:22.000 --> 11:25.000
+The build back better, the new normal.
+
+11:25.000 --> 11:28.000
+Same team.
+
+11:28.000 --> 11:33.000
+The people at the government podiums and the people on social media same team.
+
+11:33.000 --> 11:44.000
+And if they're not the same team, they're competing interests that are both scamming you with the pull and push of the train.
+
+11:44.000 --> 11:52.000
+That's where it starts to become very intriguing. That's where it starts to become very intriguing to actually know the history.
+
+11:53.000 --> 12:00.000
+To have a friend like Mark Koolak, who is really trying to build an archive of facts.
+
+12:00.000 --> 12:08.000
+And a web of links between these people so we can really look back and decide, okay, really, how has this been coordinated.
+
+12:08.000 --> 12:13.000
+Who has had their fingers in this pie for the longest.
+
+12:13.000 --> 12:19.000
+And you can't know that by having woken up because the pandemic, I knew right away that they were full bull.
+
+12:20.000 --> 12:24.000
+That's not that's not woke yet. That's not woken.
+
+12:24.000 --> 12:26.000
+That's aware.
+
+12:26.000 --> 12:30.000
+That's like you can smell that somebody's baking, but you don't know what's being baked yet.
+
+12:30.000 --> 12:37.000
+You don't know whether they know what they're doing or whether it's fake and you don't know whether it's in your house or the neighbor's house.
+
+12:37.000 --> 12:41.000
+And so we need to wake people up so that they understand what's happening.
+
+12:42.000 --> 12:50.000
+We are being actively misled to believe that this pandemic potential is a permanent threat.
+
+12:50.000 --> 12:56.000
+So that we will actively mislead our children into believing that.
+
+12:56.000 --> 13:00.000
+That's what's so wicked about it.
+
+13:00.000 --> 13:08.000
+I lost a train of thought there for a second and I wanted to say something else so it might come back and I might have to pop through it again but but
+
+13:08.000 --> 13:20.000
+there is something very important to be able to convey about how diabolical it is that the performers are on both sides and they are pretending to antagonize one another.
+
+13:20.000 --> 13:33.000
+It's very likely that Sam Harris and Brett Weinstein actually are fighting and actually do dislike one another but both are on and that's what I wanted to say.
+
+13:33.000 --> 13:36.000
+The competing interest part.
+
+13:36.000 --> 13:45.000
+Remember the train analogy with the guy who's pretending to stop the train and pretending to start the train again and then and we take that analogy farther.
+
+13:45.000 --> 13:58.000
+And we say that while the little kids aren't going to be fooled by that one guy that one skinny guy but the little kids will be fooled if we get 40 big guys and they acted out really well or we give them big machines that make a lot of noise.
+
+13:58.000 --> 14:06.000
+Then it will be more convincing. Now what I want you to understand is that not all 40 of those guys are on the same team.
+
+14:06.000 --> 14:13.000
+Maybe the goal is is that once those kids are fooled.
+
+14:13.000 --> 14:18.000
+Then something will happen you know like I don't know.
+
+14:18.000 --> 14:29.000
+They win a million dollars but only 20 of those guys can win the million dollars so they're competing for something that the kids don't know they're competing for.
+
+14:29.000 --> 14:36.000
+So in the narrative or the analogy of the pandemic we don't yet understand we are the children.
+
+14:37.000 --> 14:48.000
+We don't yet understand the relationship between these people that are pretending to start and stop the train. We don't.
+
+14:48.000 --> 14:57.000
+But unless you have a guy like Mark who's trying to find the links between these people and understand there's collective history.
+
+14:57.000 --> 15:05.000
+We're not going to have any hope of understanding who's related to who and who's working together and who would stab the other ones in the back.
+
+15:05.000 --> 15:19.000
+We're never going to know that because to us it's just 40 people lined up against the train all coordinating coordinatedly pretending to stop and start it.
+
+15:20.000 --> 15:27.000
+For the 67 people that are listening I hope that you already saw the train thing so you know what I'm talking about.
+
+15:27.000 --> 15:30.000
+Because I do think that this nuance is real.
+
+15:30.000 --> 15:38.000
+That in order to understand the pandemic you don't only need to understand that this was a coordinated illusion.
+
+15:38.000 --> 15:46.000
+But you need to understand that it was a coordinated illusion that was agreed upon by competing interests.
+
+15:46.000 --> 15:51.000
+And those competing interests might be China and Russia and you know whatever.
+
+15:51.000 --> 16:03.000
+But I think it's smarter to assume that those groups that we would just default to are not the groups that are really the players.
+
+16:03.000 --> 16:13.000
+We should assume that there's you know like I don't know the East European Mafia and then the West Asian Mafia.
+
+16:13.000 --> 16:15.000
+We should think of it more like that.
+
+16:15.000 --> 16:17.000
+That there are going to be factions.
+
+16:17.000 --> 16:25.000
+But what those factions are they banks are they are they new agers are they futurists you know that that's how you should be thinking of it.
+
+16:25.000 --> 16:29.000
+It's not it's not likely to be nation states.
+
+16:29.000 --> 16:33.000
+Maybe groups of nation states.
+
+16:33.000 --> 16:40.000
+But those are the kinds of groups that are working together to pretend to stop and start the train.
+
+16:40.000 --> 16:43.000
+And that is the theater the pandemic.
+
+16:43.000 --> 16:46.000
+And now if we're really going to win.
+
+16:46.000 --> 16:54.000
+The challenge we have is is going to be to try and flush out the various groups that are within this performance.
+
+16:54.000 --> 17:00.000
+And how they are competing with one another so that we can turn them against one another.
+
+17:00.000 --> 17:09.000
+So that we can understand where those weaknesses are where they're trying to use one another and agree that okay once this is all over and their serfs and we're nobles.
+
+17:10.000 --> 17:13.000
+You know then we'll compete you know in a different way.
+
+17:13.000 --> 17:22.000
+But right now we're going to cooperate because we're going to get out to the other side of this where there's digital ID and central bank digital currencies and then.
+
+17:22.000 --> 17:26.000
+You know it'll be obvious who we are.
+
+17:26.000 --> 17:34.000
+And we have to get ahead of this by breaking these people up into obvious groups based on their connections or.
+
+17:34.000 --> 17:42.000
+Showing how connected some of these players are so that we can see that the two sides are actually controlled it's something like this.
+
+17:42.000 --> 17:43.000
+Wow.
+
+17:43.000 --> 17:45.000
+The last one nobody likes to figure it out right.
+
+17:45.000 --> 17:48.000
+Foreign human and animal DNA.
+
+17:48.000 --> 17:55.000
+So my goal here was actually not to have the sound on these and just to summarize it quick so the first thing that we did.
+
+17:55.000 --> 18:00.000
+Yesterday was we watched this video of Brandy Vaughn who's now dead.
+
+18:00.000 --> 18:03.000
+God resters the whole.
+
+18:04.000 --> 18:06.000
+And she is a.
+
+18:06.000 --> 18:11.000
+A well known activist anti vaccine activist.
+
+18:11.000 --> 18:21.000
+And we watched a very brief clip of her you can already hear from the brief clip how sharp she is and how good of a presenter she is and why she probably need to be eliminated.
+
+18:21.000 --> 18:27.000
+We are at a different stage in the history of America though and it could be that wet work is over.
+
+18:27.000 --> 18:29.000
+It could be that they're not going to.
+
+18:29.000 --> 18:31.000
+They can't.
+
+18:31.000 --> 18:33.000
+And.
+
+18:33.000 --> 18:38.000
+You know maybe maybe she's just unlucky that she was around at a time where.
+
+18:38.000 --> 18:46.000
+They still saw what work is something that they could do and get away with but now with the Internet and with all the people that have.
+
+18:47.000 --> 18:49.000
+Like the larger.
+
+18:49.000 --> 18:59.000
+Collection of video record that you have on the Internet the larger stain you've left than the more likely it is that wet work won't help get rid of you.
+
+18:59.000 --> 19:02.000
+I don't know I'm trying to be optimistic here.
+
+19:02.000 --> 19:06.000
+Then we we looked a year earlier excuse me.
+
+19:06.000 --> 19:10.000
+We looked a year earlier.
+
+19:10.000 --> 19:18.000
+Later rather after the pandemic and we watched this video that I kind of made fun of because the guy is speaking a little funny.
+
+19:18.000 --> 19:25.000
+But in this video I wanted to just run it briefly because I don't think I pointed out and I wanted you to see it.
+
+19:25.000 --> 19:34.000
+This is just a little bit off lineman here.
+
+19:34.000 --> 19:39.000
+Oh it's running through the slide deck darn it. Sorry guys.
+
+19:39.000 --> 19:43.000
+I'm trying to align this image.
+
+19:43.000 --> 19:46.000
+I think I can do that.
+
+19:46.000 --> 19:48.000
+Hey there goes.
+
+19:48.000 --> 19:52.000
+So we then watched.
+
+19:52.000 --> 19:55.000
+Oh now I'm doing it again. See I'm moving this.
+
+19:55.000 --> 19:58.000
+I have a filter over this thing and it gets out of alignment. Sorry.
+
+19:58.000 --> 20:06.000
+So we we watched this guy and the reason why I wanted to watch him again I'm sorry I'm blowing this.
+
+20:06.000 --> 20:10.000
+It's after practice I don't have any of this set up correctly as I'd like it to be.
+
+20:10.000 --> 20:13.000
+I hadn't rehearsed it all. I apologize.
+
+20:13.000 --> 20:17.000
+Normally I give you more attention like a 15 minute quick rehearsal of the slide deck.
+
+20:17.000 --> 20:24.000
+So what I want you to watch is in like one second you're going to notice that they show these other doctors right in the background.
+
+20:24.000 --> 20:29.000
+And look what's that? What's that? What's that? Who's that guy?
+
+20:29.000 --> 20:34.000
+Those are funny looking scrubs aren't they?
+
+20:34.000 --> 20:37.000
+Those are funny looking scrubs.
+
+20:37.000 --> 20:44.000
+Interesting right? I didn't notice that the first time but this is a video from the first rollout of the vaccine.
+
+20:44.000 --> 20:48.000
+I'm not sure where it is but that's interesting.
+
+20:48.000 --> 20:53.000
+Right? That seems to suggest that the DoD was involved in distribution of it.
+
+20:53.000 --> 20:57.000
+That's not it's not that we didn't know that.
+
+20:57.000 --> 21:05.000
+It's a question of does that make them culpable or does that make them part of the machine that was unleashed by a few liars.
+
+21:05.000 --> 21:13.000
+That's the problem here right? If you have a national security plan and a national security threat is declared credible.
+
+21:13.000 --> 21:21.000
+Then the military executing that plan is you know like shoulder shrug like that's what we do.
+
+21:21.000 --> 21:28.000
+And the military is not designed for every person in that hierarchy to question hey is this ethical?
+
+21:28.000 --> 21:37.000
+I'm not sure this is really ethical. Yeah you can you can say that is the way the military should work but when it comes to.
+
+21:37.000 --> 21:42.000
+Orders and emergencies and national security.
+
+21:42.000 --> 21:53.000
+There's not a lot of room for questioning there and you don't climb through the ranks of the military by questioning every order.
+
+21:53.000 --> 22:04.000
+And I've talked to a few retired individuals who were officers in the armed services and they've all been pretty.
+
+22:05.000 --> 22:20.000
+Pretty clear that if they were in that position they would do the same thing because if you're given orders you assume that these people know the risks and have decided that despite whatever those risks are that this.
+
+22:20.000 --> 22:24.000
+Path ahead is the best one for the country.
+
+22:24.000 --> 22:27.000
+That's how the military works.
+
+22:28.000 --> 22:40.000
+And so that's why a lot of me is very resistant to this you know let's blame the DoD because the DoD is directly under the President of the United States.
+
+22:40.000 --> 22:47.000
+So if you're blaming the DoD then you're blaming the executive branch and then there's a whole bunch of other people that are above the DoD in that sense.
+
+22:47.000 --> 22:57.000
+Once the emergency is declared there is a boss structure and that boss structure ends in the executive branch.
+
+22:57.000 --> 22:59.000
+So not to belabor that point very much.
+
+22:59.000 --> 23:07.000
+Then we watch this teen conversations thing from Philadelphia which was just very depressing because again you can see what they're doing.
+
+23:07.000 --> 23:14.000
+They played a game with us in 2021 and they pitted us against each other they even pitted teens against teens.
+
+23:15.000 --> 23:23.000
+And they made teens feel powerful we know what happens in psychological experiments where one group of people is the prison guards for the other.
+
+23:23.000 --> 23:25.000
+How is it that much different.
+
+23:25.000 --> 23:32.000
+How is this not just peer pressure with endorsement.
+
+23:32.000 --> 23:40.000
+We need to reconcile this we need to understand how bad this really was.
+
+23:40.000 --> 24:05.000
+We watch this thing from PBS NewsHour where we watch this guy with a very fluid gender projection talking about using a lot of language that was a little strange like I am created from this technology and commodify ourselves and just a lot of interesting
+
+24:06.000 --> 24:12.000
+language and even language about metamorphosis and the fact that in this three years we've all been transformed.
+
+24:12.000 --> 24:19.000
+Which I connected back to this possibility that COVID is of it.
+
+24:19.000 --> 24:34.000
+Any who then we finally watched a little bit of Twiv and they pulled their usual thing with gain of function with prions and actually the third part of this video is a.
+
+24:35.000 --> 24:39.000
+Homage to Stanley Plotkin and I don't know.
+
+24:39.000 --> 24:46.000
+They're praising him because he wrote a letter to the New England Journal of Medicine about.
+
+24:46.000 --> 24:51.000
+About polio virus and how some.
+
+24:51.000 --> 24:53.000
+And OPV.
+
+24:53.000 --> 25:00.000
+Is no longer ethical to use because it paralyzes kids and yada yada yada.
+
+25:00.000 --> 25:14.000
+It's really comical actually that Stanley Plotkin is still like a hero a working active hero of these individuals in a way it should it should signify to you exactly the sinister nature of the.
+
+25:14.000 --> 25:22.000
+Situation we're in because a guy like that should have retired a long time ago and have a boat in the Bahamas and not give a darn about.
+
+25:23.000 --> 25:35.000
+The industry that he helped establish because it should be flowing forward with great success because it's built on solid biology right.
+
+25:35.000 --> 25:37.000
+Yeah.
+
+25:37.000 --> 25:49.000
+So tonight I wanted to watch a video that I found from the Vancouver nano medicine day 2023 where you will see.
+
+25:50.000 --> 25:52.000
+Let me see if I can do this.
+
+25:52.000 --> 25:53.000
+This is work.
+
+25:53.000 --> 26:03.000
+I think this works where you will see that Peter Colus is actually one of the guys speaking and I thought it would be very interesting to listen to that talk because again.
+
+26:04.000 --> 26:10.000
+Did he learn his lesson you know like would he slip up on anything else and sure enough you're not going to believe.
+
+26:10.000 --> 26:12.000
+What he says.
+
+26:13.000 --> 26:25.000
+And how we hand wave this introduction to the conference it's just it's just something that I think is really extraordinary because again my main point is is that there are.
+
+26:25.000 --> 26:29.000
+Actually probably a quarter million.
+
+26:29.000 --> 26:36.000
+Professional biologists around the world that should have done known better that for whatever reason didn't speak up.
+
+26:36.000 --> 26:47.000
+Actively looked the other way or actively did not inform themselves in time to protect themselves their families and their communities.
+
+26:47.000 --> 26:51.000
+I would say that anyone that works at a medical school.
+
+26:51.000 --> 26:56.000
+Anyone that's a postdoc at a medical school anyone posing as.
+
+26:57.000 --> 27:06.000
+With a legitimate ID that can go into a academic biological laboratory that gets NIH grant funding.
+
+27:06.000 --> 27:13.000
+Should be absolutely ashamed of themselves for what they allowed to happen and going forward.
+
+27:13.000 --> 27:20.000
+That's one of my goals not to shame people but for people to become ashamed of themselves.
+
+27:21.000 --> 27:25.000
+Because teaching this biology if you.
+
+27:26.000 --> 27:36.000
+If you actually comprehend what I'm going to teach over the next couple weeks as a new viewer as an academic biologist if you just follow along.
+
+27:37.000 --> 27:39.000
+And you don't feel.
+
+27:40.000 --> 27:41.000
+A great debt.
+
+27:43.000 --> 27:45.000
+A great void.
+
+27:46.000 --> 27:48.000
+For how badly.
+
+27:49.000 --> 27:54.000
+You made as a mistake how badly you navigated the last three years.
+
+27:57.000 --> 28:04.000
+I mean I have I have very high hopes that we are going to change a lot of people's minds over the next few weeks.
+
+28:05.000 --> 28:09.000
+I think there is going to be a giant giant giant change.
+
+28:10.000 --> 28:18.000
+December 5th is when the book comes out December 5th is when we need to start this full court press.
+
+28:18.000 --> 28:23.000
+Of showing people the truth.
+
+28:23.000 --> 28:26.000
+Of how.
+
+28:26.000 --> 28:30.000
+Gain a function as a mythology was created.
+
+28:30.000 --> 28:38.000
+When it was needed how was it created over several decades at least two if not three or four.
+
+28:39.000 --> 28:46.000
+Certainly the plan that we are currently experiencing has been created over at least a decade and a half.
+
+28:48.000 --> 28:59.000
+And I am telling you the main way out is biology and getting some some fraction of these academic biologists to understand how.
+
+29:00.000 --> 29:03.000
+How horrible of a misnavigation they're guilty of.
+
+29:03.000 --> 29:09.000
+Of an oversight of a lack of responsibility they could have just done sat down and read some papers.
+
+29:10.000 --> 29:12.000
+They had access to all the journals.
+
+29:13.000 --> 29:20.000
+Working at a university you have access to all the journals you have no excuse not to have read some papers.
+
+29:21.000 --> 29:23.000
+And critically thought about them.
+
+29:28.000 --> 29:30.000
+And I mean everybody.
+
+29:31.000 --> 29:33.000
+Don't forget that I sent my review.
+
+29:34.000 --> 29:38.000
+Two and a half years ago I sent it to all the people that I used to work with.
+
+29:38.000 --> 29:45.000
+Those people still haven't called and said I'm sorry or you're right or wow that's crazy and so I'm still interested in that.
+
+29:46.000 --> 29:49.000
+Not so much the apology but the wow you were right.
+
+29:50.000 --> 29:54.000
+And it's not like any of those people didn't know that about me before.
+
+29:55.000 --> 30:01.000
+Now what I want you to do is understand that what we're building right now is a wood pile.
+
+30:02.000 --> 30:05.000
+What we're building right now is the water behind the dam.
+
+30:07.000 --> 30:10.000
+And the water behind the dam is getting really deep.
+
+30:12.000 --> 30:14.000
+And the holes are starting to spring in the concrete.
+
+30:15.000 --> 30:34.000
+These people can't keep plugging the holes especially if people like Peter McCulloughs are still going to just talk and not realize the mistake that they're making as they talk like this.
+
+30:35.000 --> 30:40.000
+Now this is I know I'm making big statements here but this is really going to shock you actually.
+
+30:41.000 --> 30:49.000
+I have several talks that I could use because it is a festival of nanomedicines right.
+
+30:50.000 --> 30:53.000
+But this talk is so shocking.
+
+30:56.000 --> 30:59.000
+And it's a talk that you would imagine.
+
+31:00.000 --> 31:02.000
+You would imagine right that this talk.
+
+31:03.000 --> 31:07.000
+I'm going to put the plate speed down.
+
+31:08.000 --> 31:14.000
+I usually watch it for very fast but I'll watch it at 125 so we can spend some time together before I go to bed.
+
+31:15.000 --> 31:20.000
+So the reason why we're watching this again is because I want to make very clear.
+
+31:21.000 --> 31:31.000
+They know they had to have known and whenever they talk about using nanoparticles lipid nanoparticles in vaccines they hand wave.
+
+31:32.000 --> 31:35.000
+And you will hear it in this introduction.
+
+31:36.000 --> 31:44.000
+He's going to hand wave over it even as when he describes the uses of these things in other contexts their limitations.
+
+31:45.000 --> 31:59.000
+These same limitations should definitely apply to the idea that we can transfect antigen presenting cells which are free moving cells throughout the body.
+
+32:00.000 --> 32:06.000
+And they think that they can put these nanoparticles in your body and find those cells.
+
+32:07.000 --> 32:13.000
+But then in the next breath he'll tell you how they can't target anything in the body.
+
+32:14.000 --> 32:16.000
+Think about how contradictory that is.
+
+32:16.000 --> 32:22.000
+We can target individual antigen presenting cells which we can't even really locate in the body.
+
+32:22.000 --> 32:25.000
+They don't swarm anywhere.
+
+32:26.000 --> 32:30.000
+And we can target those by squirting it in your muscle.
+
+32:31.000 --> 32:40.000
+And usefully augment your immune system but if we wanted to target your spleen or something like that it's a lot more tricky then we can only get like 30%.
+
+32:41.000 --> 32:49.000
+And if we change some of the stuff on the outside then we can get it a little more to your gallbladder and we can get it to like 50%.
+
+32:50.000 --> 32:55.000
+But if we want to target the liver I mean we can get almost 70 or 80% of them to go to the liver. The liver is great.
+
+32:56.000 --> 33:00.000
+So we could just say that most of them target the liver. That's what we usually do when we write grants.
+
+33:02.000 --> 33:12.000
+But when we do a vaccine that's already been approved that worked on a billion people when we put it in the muscle we're really just transfecting antigen presenting cells. That's how it works.
+
+33:13.000 --> 33:24.000
+That's the extent to the biological mastery that is the foundation for 5 billion shots being rolled out around the world.
+
+33:25.000 --> 33:37.000
+The only way to read this is that they want to make genetic therapy like transfection and transformation something that everybody just thinks is safe.
+
+33:38.000 --> 33:59.000
+And you will hear that in this introduction. They are going full tilt on exactly what we said they would go full tilt on three years ago in 2021 when they started to talk about how mRNA and lipid nanoparticles were such a parallel development stream in nature with Scott Gottlieb.
+
+34:00.000 --> 34:02.000
+We already said see they're going to do this.
+
+34:03.000 --> 34:09.000
+And then they're going to blame it on the spike protein and they're going to say well if we wouldn't have chosen the wrong protein then this would have worked out fine.
+
+34:10.000 --> 34:12.000
+It turns out that they've sidestepped that story.
+
+34:13.000 --> 34:15.000
+And now they're pushing the DNA.
+
+34:17.000 --> 34:21.000
+Everybody's pushing the DNA. Everybody says it's the DNA that matters.
+
+34:21.000 --> 34:29.000
+And you're going to see over the next couple of days that when I say everybody says it, I mean everybody says it.
+
+34:32.000 --> 34:42.000
+There are very few people who will acknowledge that the DNA is like an additional layer of ridiculousness on top of already many layers.
+
+34:43.000 --> 34:53.000
+A very, very, very nicely baked thousand layer crust has a little frosting of DNA on top of it.
+
+34:54.000 --> 35:05.000
+Listen to this talk and understand that this is a person who thinks that transfection has been proven safe because of the rollout of the vaccines.
+
+35:06.000 --> 35:11.000
+The investigational vaccines, the transfections after COVID.
+
+35:12.000 --> 35:14.000
+So, just kidding.
+
+35:15.000 --> 35:21.000
+So, what I was going to ask to do today was talk a little bit about the future of nanomesins.
+
+35:22.000 --> 35:28.000
+And so I thought okay, well I'll go through a few things here that have happened over the years and then project forward.
+
+35:29.000 --> 35:33.000
+But, you know, there's that Yogi Berra statements, predictions are difficult, particularly about the future.
+
+35:34.000 --> 35:37.000
+So, I may be wrong, but we'll see how it all pans out.
+
+35:38.000 --> 35:42.000
+The first thing is the first prediction is that my computer is not advancing.
+
+35:43.000 --> 35:44.000
+So, how do I do that?
+
+35:45.000 --> 35:47.000
+So, just to make sure you, oh, why is this not?
+
+35:48.000 --> 35:52.000
+Just to make sure you understand, this was like from November 18th.
+
+35:53.000 --> 35:57.000
+So, this is not even September or whatever it was the last talk was.
+
+35:58.000 --> 35:59.000
+This is like right now.
+
+36:00.000 --> 36:01.000
+It just happened.
+
+36:02.000 --> 36:03.000
+This is ongoing.
+
+36:04.000 --> 36:05.000
+They haven't corrected him.
+
+36:05.000 --> 36:06.000
+They're not stopping this.
+
+36:07.000 --> 36:12.000
+This is just going to go on because the nature of this is exactly what we've said.
+
+36:13.000 --> 36:14.000
+They plan to normalize this.
+
+36:15.000 --> 36:16.000
+This is the new normal.
+
+36:16.000 --> 36:17.000
+Transfection works.
+
+36:19.000 --> 36:25.000
+And we're just going to roll out transfection for lots and lots of things because the FDA is going to let them and they're not going to stop.
+
+36:26.000 --> 36:27.000
+They're not going to stop.
+
+36:34.000 --> 36:35.000
+And we need to stop them.
+
+36:37.000 --> 36:40.000
+We're going to stop them by teaching this biology, the contradiction of it.
+
+36:41.000 --> 36:42.000
+So, listen carefully.
+
+36:42.000 --> 36:43.000
+I'm going to stop it a lot, but I've got to.
+
+36:44.000 --> 36:46.000
+Okay. So, just a little bit about the past.
+
+36:47.000 --> 36:52.000
+And so, we're dealing with what really is a relatively new technology.
+
+36:53.000 --> 36:56.000
+So, going back to 1965 when liposomes were first discovered,
+
+36:57.000 --> 36:59.000
+and ourselves to remember the day, right?
+
+37:00.000 --> 37:02.000
+We've all been in this field for a long time.
+
+37:03.000 --> 37:07.000
+So, in 1987, cateonic lipid nucleic acid complexes were discovered.
+
+37:08.000 --> 37:13.000
+So, this was the first instance where we could actually introduce genetic material into a cell.
+
+37:14.000 --> 37:20.000
+The first liposomal product or the first nanomedicine containing cancer drug docile was approved by the FDA.
+
+37:21.000 --> 37:22.000
+That was 95.
+
+37:23.000 --> 37:26.000
+And then, this was triggered an avalanche of products.
+
+37:27.000 --> 37:33.000
+More than 10 liposomal nanomedicine products were approved by the FDA primarily in the anti-cancer field.
+
+37:34.000 --> 37:45.000
+And so, this actually established a huge body of knowledge that we draw now in terms of what kind of characteristics the systems have to have in order to be potentially one day a therapeutic.
+
+37:46.000 --> 37:52.000
+In 2001, the first ionizable cateonic lipos, that was in contrast to the permanently positive echart.
+
+37:53.000 --> 37:57.000
+So, I'm just going to answer the question in the girl rocks here just because it's a relevant one.
+
+37:58.000 --> 38:01.000
+So, most vaccines are not transfections.
+
+38:02.000 --> 38:05.000
+Most previous vaccines were some combination of recombinant proteins.
+
+38:06.000 --> 38:08.000
+That means proteins that were grown in a bacteria.
+
+38:09.000 --> 38:13.000
+And then, those proteins are combined with a chemical irritant called an adjuvant.
+
+38:14.000 --> 38:16.000
+So, it could have been an aluminum-derived salt.
+
+38:17.000 --> 38:24.000
+It could have been a diphtheria protein that was attached to the antigen of choice.
+
+38:25.000 --> 38:34.000
+So, there's lots of different ways that the vaccines are adjuvanted or that the immune system's attention is grabbed by a vaccine.
+
+38:35.000 --> 38:43.000
+But this is the first time in history that we've transfected people and hoped that their immune system would pay attention to the transfection in the right way.
+
+38:44.000 --> 38:48.000
+So, in that sense, then, look at this list that he's using.
+
+38:49.000 --> 38:56.000
+The 2018 lipid nanoparticle approval by the FDA is actually a small interfering RNA,
+
+38:58.000 --> 39:04.000
+which I've come to recently understand is a small double-stranded RNA derived from a hairpin
+
+39:05.000 --> 39:13.000
+that can downregulate our endogenous RNAs for which it is homologous, or it has overlapping sequence with.
+
+39:14.000 --> 39:22.000
+This was approved as a single treatment for something in 2018, but it's a small interfering RNA.
+
+39:24.000 --> 39:26.000
+It's not expression of a protein.
+
+39:28.000 --> 39:37.000
+And so, you're not challenging your immune system to do anything other than to clear that double-stranded small interfering RNA.
+
+39:38.000 --> 39:47.000
+In this scenario where you start to transfect people to a foreign protein, you are challenging the immune system not to make a mistake
+
+39:48.000 --> 39:57.000
+and build auto-immunity to the cells which express that foreign protein, but to make an immune response to that foreign protein alone,
+
+39:58.000 --> 40:06.000
+and then hope that the immune response that your system chooses to make is relevant when that protein or a derivative of it
+
+40:06.000 --> 40:09.000
+is exposed, you are exposed to it in the wild.
+
+40:10.000 --> 40:18.000
+So, the whole pretense of transfection as a vaccine is already ridiculous, and in fact, as I start the streams all the time,
+
+40:19.000 --> 40:25.000
+any combination of substances that you inject in your muscle with the intent of augmenting the immune system is probably dumb.
+
+40:26.000 --> 40:32.000
+And so, my kids have had more shots than me because I've only had the childhood schedule than it was around in the 70s.
+
+40:33.000 --> 40:35.000
+I'm 51, almost 52.
+
+40:36.000 --> 40:48.000
+And my kids got the same, they're up to date more or less in the United States schedule, even though we came here from Europe because they kind of made us get up to date.
+
+40:49.000 --> 41:01.000
+And we have avoided HPV because we got lucky and finally woke up, and we've always avoided flu, but that's just because I don't, I thought that the flu was a dumb vaccine
+
+41:01.000 --> 41:04.000
+and the other ones were good. You know, I was lost.
+
+41:05.000 --> 41:14.000
+So, just to make sure that you understand where I am and I appreciate the question, that's really the situation.
+
+41:15.000 --> 41:19.000
+I woke up in 22, so I'm not, I don't have a lot of skin in the game.
+
+41:20.000 --> 41:24.000
+I'm actually lucky that my children are as uninjured as they are.
+
+41:25.000 --> 41:31.000
+So, my point is, is that this single-stranded RNA therapy is not even a transfection.
+
+41:32.000 --> 41:47.000
+So, this approval, this sequence of approval that's above my head here is misleading because it's really, it's not the approval of lipid nanoparticles, it's the approval of their combination with other things.
+
+41:48.000 --> 42:00.000
+So, the idea, for example, that maybe this works, maybe these can work, but transfection is a whole other application of it.
+
+42:01.000 --> 42:11.000
+And then worse yet, it's an application that's kind of antithetical to a lot of the other ways that they want to use it, and that's where we're going to, we're going to see where these contradictions become mammoth.
+
+42:12.000 --> 42:23.000
+Large cationic lipids that were devised in 1987, so that was 2001, and obviously that's played a big role in the products that we're currently talking about.
+
+42:24.000 --> 42:38.000
+The first RNA, RNAi product on patro, which uses ionizable lipids are approved by the FDA in 2018, and then, of course, the lipid nanoparticles that enabled the COVID-19 vaccines were approved in 2021.
+
+42:39.000 --> 42:46.000
+So, that was the most, you know, this is the, I guess, the largest or the biggest new drug ever approved in history.
+
+42:46.000 --> 42:53.000
+So, you can say, okay, this isn't bad going, maybe we should just quit here, but there's an awful lot more to come.
+
+42:54.000 --> 43:05.000
+So, I just want to go back to basics a little bit, and all of this success really comes from optimizing a delivery system, and you can put these things down in relatively simplistic forms, and you've seen some of that already this morning.
+
+43:05.000 --> 43:16.000
+But, you know, the liposomal lipid nanoparticles, we can pack in 100,000 molecules of a cancer drug into these 100 nanometer systems, and they're ideal systems for delivery of cancer drugs wherever you want them.
+
+43:16.000 --> 43:21.000
+The trick is we have to get them to deliver their contents there, and I'll say more about that in a moment.
+
+43:21.000 --> 43:37.000
+And then we have the hybrid systems that have not only a core, a hydrophilic core, where, say, the mRNA or sRNA is, but also have a lipid, an oil core that contains these ionizable lipids in the neutral form.
+
+43:37.000 --> 43:39.000
+This is all the pH 7.4.
+
+43:39.000 --> 43:48.000
+So, all of this success, all of what I have to talk about, and we'll talk about a bit more, stems from these readings.
+
+43:48.000 --> 43:54.000
+Small interfering RNA, messenger RNA, small interfering RNA.
+
+43:54.000 --> 43:58.000
+Any simple delivery systems, if we didn't have these, we wouldn't have got anywhere.
+
+43:58.000 --> 44:04.000
+So, there's certain achievements and issues for small molecule drugs, and you'll have to watch the time here.
+
+44:04.000 --> 44:12.000
+We can load essentially any small molecule that we want into a lipid nanoparticle, a liposomal system.
+
+44:12.000 --> 44:17.000
+We can adjust the rate of release. We can achieve long circuits. We can have them circulating around for 24 hours or longer.
+
+44:17.000 --> 44:22.000
+Clinically, and it's accessing most tissues in the body, a clinically validated approach.
+
+44:22.000 --> 44:26.000
+We have some certain issues. We can't target particular cells or tissues.
+
+44:26.000 --> 44:33.000
+And this has all been a bugbear in the liposomal area, and we can't achieve preferential release on arrival in target tissues.
+
+44:33.000 --> 44:41.000
+And so, some potential solutions here are targeting, unfortunately, in 40 years of trying, maybe it's longer than that now.
+
+44:41.000 --> 44:45.000
+And the targeting field has been a tremendous number of efforts.
+
+44:45.000 --> 44:52.000
+But there hasn't yet been a liposomal targeted drug that's got into the clinic and made it through to being...
+
+44:52.000 --> 44:56.000
+This is certainly not for ones of trying. Everybody wants to target.
+
+44:56.000 --> 45:02.000
+It's never made it into the clinic and made it through. It's never made it into the clinic and it made it through.
+
+45:02.000 --> 45:07.000
+They cannot target particular tissues. They can't target particular tissues.
+
+45:07.000 --> 45:15.000
+It's never made it in from the clinic to... It's just never made it. Never, ever made it. It's never made it.
+
+45:15.000 --> 45:23.000
+Cannot achieve preferential drug release on arrival and target tissues. It's never done it.
+
+45:23.000 --> 45:26.000
+They cancer drugs more specifically to where they're supposed to go.
+
+45:26.000 --> 45:29.000
+It's more obvious if you put something on the outside, you should be able to do that.
+
+45:29.000 --> 45:32.000
+But we haven't come close to being able to do that yet.
+
+45:32.000 --> 45:36.000
+And that's for a lot of reasons. But we hate to where they're supposed to go.
+
+45:36.000 --> 45:40.000
+It's more obvious if you put something on the outside, you should be able to do that.
+
+45:40.000 --> 45:44.000
+But we haven't come close to being able to do that yet. And that's for a lot of reasons.
+
+45:44.000 --> 45:51.000
+The other potential solution is triggered release in the region of a tumor, which is kind of the way that we're going.
+
+45:51.000 --> 45:57.000
+And so we've now developed... We're now developing, interestingly, triggered release hybrid systems
+
+45:57.000 --> 46:05.000
+that have a hydrophobic component and a compartment that encapsulates the cancer drug or whatever it is we want to deliver.
+
+46:05.000 --> 46:12.000
+But in the hydrophobic compartment, we have agents that might be susceptible to external radiation or an oxide nanoparticle.
+
+46:12.000 --> 46:21.000
+Now what scares me about this just a little bit is the idea that this could be the source of magnetic business.
+
+46:21.000 --> 46:33.000
+And we have seen video of people saying that there were iron oxide particles in their little jars and stuff like that.
+
+46:33.000 --> 46:39.000
+We have to understand, I think, that if the goal really was to just make this normal,
+
+46:39.000 --> 46:44.000
+if the goal was really to roll a bunch of this stuff out and get some data about it,
+
+46:44.000 --> 46:52.000
+it's very possible that some batches were rolled out with this kind of garbage in it for the exact multiple purpose.
+
+46:52.000 --> 46:59.000
+Of course, to test the tolerance of them and what would happen if we used them in humans,
+
+46:59.000 --> 47:07.000
+whether or not it would bring about immunity, all of these things they were curious about and what better way to do it than this way.
+
+47:07.000 --> 47:11.000
+And then what they did was just even more diabolical.
+
+47:11.000 --> 47:21.000
+They used these stories in these limited places where they saw this stuff and they used it as debunking stuff, debunking stories.
+
+47:21.000 --> 47:37.000
+And lots of people, you will recall lots of people were putting vaccine under the microscope and pretending that they could see stuff or not see stuff.
+
+47:37.000 --> 47:49.000
+Some people saw hydras, other people checked to make sure there weren't hydras, other people looked for, you know,
+
+47:49.000 --> 47:51.000
+and they knew that we would do that.
+
+47:51.000 --> 48:00.000
+More importantly, maybe the better way to say it is was that many of the people who were doing that were doing it because they were part of it, that they were told to do it.
+
+48:00.000 --> 48:09.000
+They were told to report those findings, they were told to debunk those findings.
+
+48:09.000 --> 48:19.000
+And we got distracted by them, we got bamboozled by them into thinking that that was just another mystery to solve, oh my goodness.
+
+48:19.000 --> 48:26.000
+It's really diabolical what they're doing to us, it's really diabolical.
+
+48:26.000 --> 48:28.000
+For gold nanoparticles.
+
+48:28.000 --> 48:37.000
+So the idea here is of course if there's a tumor, this is a CT scan of a tumor in the liver that we know where that is, where the boundaries are.
+
+48:37.000 --> 48:47.000
+We zap that in some way by external RF, X-ray laser, high intensity focused ultrasound, whatever the stimulation is and cause release of the lipid nanoparticles as they flow through that area.
+
+48:47.000 --> 48:50.000
+And so that's the simplistic approach.
+
+48:50.000 --> 48:59.000
+What we've achieved so far are systems where we do have these are these are an oxide nanoparticles or gold nanoparticles together with a drug.
+
+48:59.000 --> 49:02.000
+This is a drug that talks through this and this inside these systems.
+
+49:02.000 --> 49:04.000
+But we haven't gotten to explode yet.
+
+49:04.000 --> 49:06.000
+So it's the explosion part here.
+
+49:06.000 --> 49:09.000
+If anybody has any good ideas, we're certainly game to try them.
+
+49:09.000 --> 49:17.000
+But this will revolutionize cancer chemotherapy if we can actually get the drug released to where we in the area that we want to.
+
+49:17.000 --> 49:21.000
+And this is obviously we have very good ways now detecting where cancers are.
+
+49:21.000 --> 49:24.000
+So we just need to get more drug there.
+
+49:24.000 --> 49:29.000
+Only 0.01% of the drug administered systemically of cancer drugs actually gets to a tumor.
+
+49:29.000 --> 49:31.000
+That's kind of criminal really.
+
+49:32.000 --> 49:35.000
+I'm sorry. What Peter, can you repeat that again for me Peter?
+
+49:35.000 --> 49:38.000
+Because that's a really interesting thing to say out loud.
+
+49:40.000 --> 49:43.000
+It's a really interesting thing to say out loud.
+
+49:43.000 --> 49:51.000
+I've actually been saying this for about 10 years that the whole idea of looking for a cure for cancer is a joke.
+
+49:51.000 --> 49:57.000
+Because almost all the cancers that are caused are caused by multi factorial things.
+
+49:58.000 --> 50:04.000
+And if there are genetic versions of cancer, they're not giving you any insight into how the rest of cancer forms.
+
+50:06.000 --> 50:09.000
+And they spend billions of dollars on it.
+
+50:10.000 --> 50:12.000
+Listen to what Peter Cullis says here.
+
+50:12.000 --> 50:14.000
+Listen carefully.
+
+50:14.000 --> 50:17.000
+I'm going to mute the heater in the background.
+
+50:18.000 --> 50:19.000
+Cancers are.
+
+50:19.000 --> 50:21.000
+So we just need to get more drug there.
+
+50:21.000 --> 50:26.000
+Only 0.01% of the drug administered systemically of cancer drugs actually gets to a tumor.
+
+50:26.000 --> 50:28.000
+That's kind of criminal really.
+
+50:28.000 --> 50:30.000
+I mean you consider how toxic these drugs are.
+
+50:34.000 --> 50:35.000
+Did you hear it?
+
+50:36.000 --> 50:37.000
+Did you hear it?
+
+50:37.000 --> 50:42.000
+Only 0.1% of cancer drugs gets to the tumor.
+
+50:42.000 --> 50:46.000
+And that's actually kind of criminal if you think about it given the toxicity of these drugs.
+
+50:48.000 --> 50:50.000
+And how expensive are these drugs?
+
+50:50.000 --> 50:55.000
+Are these toxins pretty cheap that they give to these cancer patients?
+
+50:55.000 --> 50:57.000
+Oh, they're not cheap.
+
+50:57.000 --> 50:58.000
+Oh, I see.
+
+50:59.000 --> 51:00.000
+So they.
+
+51:02.000 --> 51:04.000
+So how is it?
+
+51:04.000 --> 51:06.000
+Say it again, Peter.
+
+51:06.000 --> 51:08.000
+How do cancer drugs work?
+
+51:08.000 --> 51:12.000
+Obviously we have very good ways now detecting where cancers are.
+
+51:12.000 --> 51:14.000
+So we just need to get more drug there.
+
+51:14.000 --> 51:19.000
+Only 0.01% of the drug administered systemically of cancer drugs actually gets to a tumor.
+
+51:19.000 --> 51:21.000
+That's because it's kind of criminal really.
+
+51:21.000 --> 51:23.000
+I mean you consider how toxic these drugs are.
+
+51:23.000 --> 51:25.000
+And so this is a.
+
+51:25.000 --> 51:28.000
+Despite many people saying this will never work.
+
+51:28.000 --> 51:30.000
+We still keep on working on this in the lab.
+
+51:30.000 --> 51:31.000
+So we'll.
+
+51:31.000 --> 51:34.000
+Until it will continue with this for a while.
+
+51:34.000 --> 51:35.000
+No, he didn't.
+
+51:35.000 --> 51:36.000
+No, he didn't.
+
+51:36.000 --> 51:37.000
+No, no.
+
+51:37.000 --> 51:38.000
+Really.
+
+51:38.000 --> 51:40.000
+I mean you consider how toxic these drugs are actually gets to a tumor.
+
+51:40.000 --> 51:45.000
+That's because kind of the drug administered systemically of cancer drugs actually gets to it there.
+
+51:45.000 --> 51:48.000
+We have very good ways now detecting where cancers are.
+
+51:48.000 --> 51:50.000
+So we just need to get more drug there.
+
+51:50.000 --> 51:53.000
+Only 0.01% of the drug administered system.
+
+51:53.000 --> 51:55.000
+0.01% yes to a tumor.
+
+51:55.000 --> 51:57.000
+That's because kind of criminal really.
+
+51:57.000 --> 51:59.000
+I mean you consider how toxic these drugs are.
+
+51:59.000 --> 52:01.000
+And so this is a.
+
+52:01.000 --> 52:04.000
+Despite many people saying this will never work.
+
+52:04.000 --> 52:06.000
+We still keep on working on this in the lab.
+
+52:06.000 --> 52:07.000
+So we'll.
+
+52:07.000 --> 52:08.000
+We'll.
+
+52:08.000 --> 52:09.000
+Until it.
+
+52:09.000 --> 52:11.000
+We'll continue with this for a while yet.
+
+52:11.000 --> 52:15.000
+Okay, I'm going to have to move along with a bit of more speed here.
+
+52:15.000 --> 52:22.000
+But the hybrid and with the nucleic acid based drugs, obviously we can load pretty much any nucleic acid we want.
+
+52:22.000 --> 52:25.000
+So if you caught this, that these are hybrids.
+
+52:25.000 --> 52:28.000
+So what we were told was that they were lipid nanoparticles and that's it.
+
+52:28.000 --> 52:33.000
+But actually they're using hybrid lipid nanoparticles, which is what he showed in the very beginning here.
+
+52:33.000 --> 52:34.000
+This is at 809.
+
+52:34.000 --> 52:38.000
+So I'm going to go back and show you that slide.
+
+52:38.000 --> 52:41.000
+He is looking at.
+
+52:41.000 --> 52:45.000
+These guys are hybrid oil core lipid nanoparticles.
+
+52:45.000 --> 52:49.000
+So these are the ones they apparently used for MRNA and that's not the shape.
+
+52:49.000 --> 52:53.000
+Of the lipid nanoparticle that we were shown on the news hour.
+
+52:53.000 --> 52:54.000
+That's for sure.
+
+52:54.000 --> 52:57.000
+And so now I'm going to go back to eight.
+
+52:57.000 --> 53:01.000
+And there we are.
+
+53:01.000 --> 53:05.000
+So here, look, just read this for me really quick, just so you know where we are.
+
+53:05.000 --> 53:12.000
+Can transfect immune cells following intramuscular administration for vaccines?
+
+53:12.000 --> 53:14.000
+That's the achievement.
+
+53:14.000 --> 53:22.000
+Can load small interfering RNA, messenger RNA, or plasmid DNA of essentially any size?
+
+53:22.000 --> 53:24.000
+Great.
+
+53:24.000 --> 53:30.000
+We can transfect immune cells following intramuscular administration for vaccines.
+
+53:30.000 --> 53:33.000
+Let's think about how dumb that is.
+
+53:33.000 --> 53:36.000
+Think about how spectacularly dumb that is.
+
+53:36.000 --> 53:40.000
+How many resident immune cells are sitting in your deltoid muscle?
+
+53:40.000 --> 53:43.000
+How many of these lipid nanoparticles stay in your deltoid muscle?
+
+53:43.000 --> 53:45.000
+How long do they stay in your neph...
+
+53:45.000 --> 53:54.000
+They just got through telling you they can't target any tissue.
+
+53:54.000 --> 53:59.000
+They just got through telling you that the lipid nanoparticles won't go where they're told
+
+53:59.000 --> 54:05.000
+that they stay in circulation, that we can put them close on the outside, but we can't
+
+54:05.000 --> 54:06.000
+get them to go.
+
+54:06.000 --> 54:11.000
+Do you understand they say things out of both sides of their mouth?
+
+54:11.000 --> 54:16.000
+You can't say that we can transfect immune cells following intramuscular administration
+
+54:16.000 --> 54:21.000
+for vaccines unless you explain it a little more than that.
+
+54:21.000 --> 54:23.000
+What immune cells are you talking about?
+
+54:23.000 --> 54:24.000
+How many of them are there?
+
+54:24.000 --> 54:28.000
+Where do they migrate back to?
+
+54:29.000 --> 54:36.000
+Like, I don't understand how it is that somebody can take them that we can be here unless this is
+
+54:36.000 --> 54:38.000
+like the result of...
+
+54:42.000 --> 54:46.000
+He can't possibly believe this.
+
+54:46.000 --> 54:48.000
+That they just get lucky and then what?
+
+54:48.000 --> 54:51.000
+The rest of the muscle gets transfected and it just ignores it.
+
+54:51.000 --> 54:53.000
+There's lots of protein produced.
+
+54:53.000 --> 54:55.000
+It only lasts for a few hours.
+
+54:55.000 --> 55:03.000
+What is he telling himself to believe that that is an achievement, but you can't target
+
+55:03.000 --> 55:04.000
+extra hepatic tissues.
+
+55:04.000 --> 55:06.000
+You cannot achieve preferential transfection.
+
+55:06.000 --> 55:09.000
+You cannot access privileged organs.
+
+55:09.000 --> 55:16.000
+Well, you can if somebody already has a perforated blood-brain barrier or a perforated gut, which
+
+55:16.000 --> 55:21.000
+a lot of people do have because of the highly processed foods that they eat and the glyphosate
+
+55:21.000 --> 55:26.000
+and all this other crap.
+
+55:26.000 --> 55:29.000
+So many assumptions are being made here.
+
+55:29.000 --> 55:31.000
+Listen carefully.
+
+55:31.000 --> 55:33.000
+Any size.
+
+55:33.000 --> 55:38.000
+We can transfect immune cells with IM, transfected parasites with IV, clinically validated.
+
+55:38.000 --> 55:40.000
+Extra hepatic tissue is still a problem.
+
+55:40.000 --> 55:41.000
+And it was over.
+
+55:41.000 --> 55:42.000
+That's it.
+
+55:42.000 --> 55:43.000
+That's it.
+
+55:43.000 --> 55:44.000
+That's all you're going to get.
+
+55:44.000 --> 55:50.000
+That's the explanation for how it is that they can put it in your muscle and get those immune cells.
+
+55:50.000 --> 55:51.000
+That's it.
+
+55:51.000 --> 55:55.000
+He barely even said a complete sentence about it.
+
+55:55.000 --> 55:58.000
+Are you kidding me?
+
+55:58.000 --> 56:01.000
+We're done with the nucleic acid based drugs.
+
+56:01.000 --> 56:06.000
+Obviously we can load pretty much any nucleic acid we want of essentially any size.
+
+56:06.000 --> 56:11.000
+We can transfect immune cells with IM, transfected parasites with IV, clinically validated.
+
+56:11.000 --> 56:12.000
+It's already gone.
+
+56:12.000 --> 56:14.000
+Do you see it?
+
+56:14.000 --> 56:17.000
+It's unbelievable.
+
+56:18.000 --> 56:22.000
+What was in the first slide, the greatest achievement, you know, it's like worth a Nobel prize.
+
+56:22.000 --> 56:26.000
+Like, oh my gosh, it's my culmination of my life's work.
+
+56:26.000 --> 56:29.000
+Yeah, we can do that.
+
+56:29.000 --> 56:35.000
+It's gone in a flash because it doesn't work.
+
+56:35.000 --> 56:36.000
+It doesn't work.
+
+56:36.000 --> 56:43.000
+He's transfecting all kinds of other cells that he doesn't know and can't control when he says he's transfecting immune cells.
+
+56:43.000 --> 56:45.000
+That's the way it has to be.
+
+56:45.000 --> 56:48.000
+It can't be any other way.
+
+56:48.000 --> 56:51.000
+Because of everything he's ever said since we've been watching him.
+
+56:51.000 --> 56:55.000
+Thank you, Robert Malone, for showing us the way.
+
+56:55.000 --> 57:01.000
+Without Robert Malone's sub-stack, giving Peter Kullis credit for at least a third of the Nobel prize,
+
+57:01.000 --> 57:07.000
+I would have never watched a video of this guy and found out that he gives talks like this.
+
+57:07.000 --> 57:14.000
+That he's touring around the world giving talks like this where he says they can't control where they go.
+
+57:14.000 --> 57:17.000
+Can't control how they release.
+
+57:17.000 --> 57:23.000
+They've been trying for 40 years, but they can't inject him in your muscle and augment your immune system
+
+57:23.000 --> 57:29.000
+as if those three statements can go together and not clash.
+
+57:34.000 --> 57:38.000
+Extra-epatic tissue is still a problem, preferential expression.
+
+57:38.000 --> 57:41.000
+Extra-epatic tissues are still an issue.
+
+57:41.000 --> 57:47.000
+Privileged organs, we can't access those via the circulation, but of course there's other ways of doing that.
+
+57:47.000 --> 57:53.000
+There's massive opportunities here from a future point of view that remain for these currently available systems.
+
+57:53.000 --> 57:58.000
+This is the cartoon you've already seen from Miffy with the mRNA in one compartment
+
+57:58.000 --> 58:01.000
+and the ionized will lip in the oform into another compartment.
+
+58:01.000 --> 58:10.000
+Very simple systems, but these are the systems that work very well for vaccine and for ephatocyte transfection opportunities.
+
+58:10.000 --> 58:14.000
+So they work for vaccines and they work when you want to hit the liver.
+
+58:14.000 --> 58:16.000
+Do you see how silly that is?
+
+58:16.000 --> 58:24.000
+So basically he's telling you that when they put it in your muscle, they basically hit your liver.
+
+58:24.000 --> 58:28.000
+The liver cleans your blood.
+
+58:28.000 --> 58:31.000
+The liver is a filter for your blood, so surprise, surprise.
+
+58:31.000 --> 58:35.000
+That's where it comes out, but that's not the only place.
+
+58:35.000 --> 58:47.000
+Any capillaries that it gets to, any small vessels it gets to, capillaries in the heart, done.
+
+58:47.000 --> 58:54.000
+Anywhere where the fluid pressure or whatever gets close enough so that these lipid nanoparticles come in very close contact
+
+58:54.000 --> 59:02.000
+with the bilayer membrane of the epithelial cells you've got transfection.
+
+59:02.000 --> 59:06.000
+So it's again like the talk we looked at the other day where they could shift it, you know,
+
+59:06.000 --> 59:13.000
+if they could get it 70% in the liver and 30% in the ovaries or wherever they wanted to go
+
+59:13.000 --> 59:19.000
+and then they could change a fat on the outside and now it's only 50% in the liver and 45% in the ovaries.
+
+59:19.000 --> 59:26.000
+So clearly targeting is possible and so all we need are five more grants and 40 more years
+
+59:26.000 --> 59:30.000
+and we'll be able to put it exactly where we want to put it.
+
+59:30.000 --> 59:34.000
+All we need is five more grants and 40 more years and we'll be able to
+
+59:34.000 --> 59:39.000
+transfect your immune system usefully.
+
+59:39.000 --> 59:47.000
+Just like Robert Malone when he was in his post-docs with Murray Gardner and with Indurma Verma
+
+59:47.000 --> 59:51.000
+or whatever the hell his name was and getting all his patents stolen.
+
+59:51.000 --> 59:57.000
+He was dreaming of curing childhood diseases by being a geneticist in a hospital
+
+59:57.000 --> 01:00:03.000
+and he thought that there would be geneticists in every hospital curing childhood diseases using retroviruses.
+
+01:00:04.000 --> 01:00:09.000
+Just a few more grants and 40 more years and we'll be able to do it.
+
+01:00:09.000 --> 01:00:18.000
+We are still running in this hamster wheel where we are eventually going to become gods
+
+01:00:18.000 --> 01:00:23.000
+and that's just really the evolution of this discussion because if you keep talking smack
+
+01:00:23.000 --> 01:00:28.000
+about what you're going to do but it never comes true then you got to keep talking more smack
+
+01:00:28.000 --> 01:00:33.000
+so that you actually haven't reached the goal that you claimed you were going to reach.
+
+01:00:36.000 --> 01:00:40.000
+And so what started out is the Heunman genome project has morphed into
+
+01:00:40.000 --> 01:00:45.000
+let's just bamboozle the earth and roll out
+
+01:00:45.000 --> 01:00:50.000
+transfection and transformation and screw these people.
+
+01:00:50.000 --> 01:00:54.000
+We're just going to do it whether they like it or not and we're going to force it on them
+
+01:00:54.000 --> 01:01:01.000
+because this is the only way that we're going to get the way we're going to get where we want to go
+
+01:01:01.000 --> 01:01:05.000
+which is becoming masters of our genome I guess.
+
+01:01:09.000 --> 01:01:17.000
+And this guy is probably just an innocent chemist physicist who's assuming with the look away doctrine
+
+01:01:17.000 --> 01:01:21.000
+like they use in the military where you know those people are doing some really unethical things over there
+
+01:01:21.000 --> 01:01:26.000
+and they probably shouldn't be doing that well we just don't look over there then.
+
+01:01:26.000 --> 01:01:35.000
+And so he's just assuming that these biologists are using his technology in a way that is righteous and good
+
+01:01:35.000 --> 01:01:39.000
+and he's not going to look at the details too much he's not going to think about the details too much
+
+01:01:39.000 --> 01:01:43.000
+he's told you very honestly
+
+01:01:43.000 --> 01:01:48.000
+so assuming they figured out how it works or assuming that when it goes other places it doesn't matter
+
+01:01:48.000 --> 01:01:55.000
+that was also something that he's assuming then and you could just probably ask him what happens
+
+01:01:55.000 --> 01:02:04.000
+when you transfect ovary cells or testicle cells or you know cells that aren't in the liver
+
+01:02:04.000 --> 01:02:12.000
+that aren't supposed to be full of toxins right what happens when you transfect those
+
+01:02:12.000 --> 01:02:16.000
+what happens when you transfect the endothelial cells of the heart
+
+01:02:16.000 --> 01:02:21.000
+what happens when you transfect myocardial cells like heart muscle
+
+01:02:21.000 --> 01:02:26.000
+what happens when you transfect breast tissue
+
+01:02:26.000 --> 01:02:32.000
+what happens when you when you transfect I don't know uterine tissue
+
+01:02:32.000 --> 01:02:40.000
+or we just don't know any of these answers and we definitely know from his talk that they're not going to stay in the
+
+01:02:40.000 --> 01:02:46.000
+muscle that they're going to go all kinds of places we know from biorum brittle whistle blowing of the
+
+01:02:46.000 --> 01:02:52.000
+document from Japan that it goes all over the place including the bone marrow for goodness sakes
+
+01:02:55.000 --> 01:03:05.000
+and yet he has the gall to say that they can that they can transfect what did he say they can transfect immune cells
+
+01:03:05.000 --> 01:03:11.000
+that's got to be the most specific target in the body
+
+01:03:11.000 --> 01:03:17.000
+the most distributed target in the body like it's absurd
+
+01:03:17.000 --> 01:03:23.000
+and so we're just starting with this I mean the COVID-19 vaccines are just a start you're going to see vaccines
+
+01:03:23.000 --> 01:03:29.000
+and all these areas including bacterial infections that are starting to come online
+
+01:03:30.000 --> 01:03:37.000
+and so the mRNA revolution in terms of vaccine is just gathering steam similarly in therapeutics
+
+01:03:37.000 --> 01:03:44.000
+but of course you know that's the reason why the clown car was talking about prion disease and amyloidosis
+
+01:03:44.000 --> 01:03:49.000
+for the first three years of the pandemic and trying to blame it on a spike protein
+
+01:03:49.000 --> 01:03:55.000
+you must understand that the whole reason why they were doing that was because they knew that
+
+01:03:56.000 --> 01:04:05.000
+they needed it to be seeded that the virus was capable of doing these fantastic feats of protein misfolding diseases
+
+01:04:05.000 --> 01:04:11.000
+so that when they rolled this stuff out there would already be something to blame it on a virus
+
+01:04:14.000 --> 01:04:20.000
+oh my gosh did you really did you do you have like do you do you have like a prion disease did he die of a prion disease
+
+01:04:20.000 --> 01:04:28.000
+wow it must have been from the COVID must have been from the SARS-CoV-2 couldn't have been from the transfection right
+
+01:04:28.000 --> 01:04:36.000
+and that's the magic of these these people that were set up to say that the spike protein is so bad for you
+
+01:04:36.000 --> 01:04:46.000
+heretofore unprecedented bad protein is on the virus is on the virus is on the virus the virus the virus
+
+01:04:47.000 --> 01:04:52.000
+transfecting you to it is fine apparently because it's codon optimized so it's not even the same protein anyway
+
+01:04:56.000 --> 01:05:02.000
+the contradictions are as big as a woolly mammoth
+
+01:05:04.000 --> 01:05:06.000
+and as rotten
+
+01:05:07.000 --> 01:05:14.000
+and once you start to list them to see them to watch them in real time and to reflect on what these people said
+
+01:05:16.000 --> 01:05:19.000
+and how they said it because how they said it is important
+
+01:05:20.000 --> 01:05:24.000
+you know a humble person that's wrong is not such a big deal
+
+01:05:25.000 --> 01:05:27.000
+a arrogant
+
+01:05:28.000 --> 01:05:30.000
+dismissive
+
+01:05:30.000 --> 01:05:32.000
+racist
+
+01:05:32.000 --> 01:05:33.000
+ugly
+
+01:05:33.000 --> 01:05:34.000
+insulting
+
+01:05:34.000 --> 01:05:37.000
+aggressive person who's also a hundred percent wrong
+
+01:05:38.000 --> 01:05:43.000
+and actually responsible for ceding the worst case scenario narrative
+
+01:05:44.000 --> 01:05:47.000
+despite evidence to the contrary
+
+01:05:48.000 --> 01:05:52.000
+and is still trying to see the worst case scenario narrative about the virus
+
+01:05:53.000 --> 01:06:01.000
+as opposed to just teaching the basic flaws of transfection the basic shortcomings of lipid nanoparticles
+
+01:06:01.000 --> 01:06:05.000
+the basic shortcomings of the biology that they have used to bamboozle us
+
+01:06:07.000 --> 01:06:12.000
+they spend their time talking about bioweapons and ever expanding list of bioweapons
+
+01:06:12.000 --> 01:06:16.000
+and ever expanding list of Scooby-Doo mysteries to solve
+
+01:06:16.000 --> 01:06:20.000
+ever list of Scooby-Doo villains to unmask
+
+01:06:22.000 --> 01:06:27.000
+when it all comes down to a few people telling a lie at the rest of the people going along with it
+
+01:06:27.000 --> 01:06:29.000
+and most of it being murder
+
+01:06:31.000 --> 01:06:33.000
+that's the magic of this
+
+01:06:33.000 --> 01:06:38.000
+and as long as you listen to all these other people shuffling paper around in the back rooms
+
+01:06:38.000 --> 01:06:42.000
+trying to distract us with other news stories
+
+01:06:42.000 --> 01:06:47.000
+or you listen to these people on the fringes of the internet trying to take
+
+01:06:47.000 --> 01:06:51.000
+Mark Coolack's work and turn it into somebody else's
+
+01:06:51.000 --> 01:06:55.000
+or even worse turn it into something that no one can use
+
+01:06:56.000 --> 01:06:59.000
+if you don't see it for what it is
+
+01:06:59.000 --> 01:07:01.000
+I don't know how to help you
+
+01:07:02.000 --> 01:07:07.000
+but every one of these things is lining up now because this is falling apart
+
+01:07:08.000 --> 01:07:13.000
+and because we are continuing to focus steady pressure on what is falling apart
+
+01:07:13.000 --> 01:07:17.000
+what is falling apart is the narrative of a spreading pathogen
+
+01:07:17.000 --> 01:07:21.000
+called a coronavirus that was novel for our immune system
+
+01:07:21.000 --> 01:07:24.000
+that could be detected by a PCR test
+
+01:07:24.000 --> 01:07:29.000
+that could be sequenced over 15,000 times in the first year and a half of the pandemic
+
+01:07:29.000 --> 01:07:33.000
+that could transmit faithfully
+
+01:07:33.000 --> 01:07:37.000
+for almost four years and tracked phylogenetically
+
+01:07:37.000 --> 01:07:40.000
+for almost four years in a way that is unprecedented
+
+01:07:40.000 --> 01:07:45.000
+for any other RNA molecule in history
+
+01:07:45.000 --> 01:07:50.000
+and rather than use your time and energy
+
+01:07:50.000 --> 01:07:54.000
+dismantling that fundamentally ridiculous mythology
+
+01:07:54.000 --> 01:07:58.000
+they want you to chase the mythology of bioweapons
+
+01:07:58.000 --> 01:08:01.000
+they want you to chase the mythology of genocide
+
+01:08:01.000 --> 01:08:05.000
+they want you to chase the mythology of all these other things
+
+01:08:05.000 --> 01:08:08.000
+that may or may not be true but they are not true yet
+
+01:08:10.000 --> 01:08:15.000
+what is true right now is that this has been a great big ball of BS
+
+01:08:15.000 --> 01:08:20.000
+and there is a lot of professional biologists that should know
+
+01:08:20.000 --> 01:08:22.000
+that this is the story
+
+01:08:22.000 --> 01:08:25.000
+the story is not the spike protein
+
+01:08:25.000 --> 01:08:28.000
+the story is not a lab leak
+
+01:08:30.000 --> 01:08:34.000
+the story is a very concerted effort to mislead us into believing
+
+01:08:34.000 --> 01:08:39.000
+that the worst case scenario of a lab leak is possibly happening right now
+
+01:08:39.000 --> 01:08:43.000
+therefore we all must throw everything out the window
+
+01:08:43.000 --> 01:08:47.000
+and follow the orders
+
+01:08:47.000 --> 01:08:51.000
+and many many many many people going along with that
+
+01:08:51.000 --> 01:08:55.000
+created an illusion of consensus that was almost irresistible for everyone
+
+01:08:55.000 --> 01:08:58.000
+including me in you
+
+01:08:58.000 --> 01:09:03.000
+and that illusion of consensus is still being sustained by people who understand
+
+01:09:03.000 --> 01:09:06.000
+that this biology has incredible limitations
+
+01:09:06.000 --> 01:09:11.000
+but shrug their shoulders and say well I guess it's not all I thought it was
+
+01:09:11.000 --> 01:09:16.000
+because we tested it on 3 billion people
+
+01:09:22.000 --> 01:09:26.000
+I'll just give a few examples of this cardiovascular disease heart disease
+
+01:09:26.000 --> 01:09:29.000
+heart failure, cancer, sickle cell anemia
+
+01:09:29.000 --> 01:09:32.000
+the list is going to I mean it's pretty much every disease that you care to name
+
+01:09:32.000 --> 01:09:36.000
+pretty much every disease you care to name
+
+01:09:36.000 --> 01:09:40.000
+will have a vaccine
+
+01:09:40.000 --> 01:09:43.000
+they're not going to call them therapeutics it's going to be a heart failure
+
+01:09:43.000 --> 01:09:45.000
+vaccine it's going to be a cancer vaccine
+
+01:09:45.000 --> 01:09:50.000
+you heard Bruce Gowski talking about this
+
+01:09:50.000 --> 01:09:54.000
+these are not going to be called therapeutics they're going to be called vaccines
+
+01:09:54.000 --> 01:09:59.000
+my ladies and gentlemen my friends my family my my fellow
+
+01:10:02.000 --> 01:10:09.000
+you see where this is going
+
+01:10:09.000 --> 01:10:14.000
+this is from two weeks ago
+
+01:10:14.000 --> 01:10:20.000
+he's still telling the truth and still can't hear himself tell it
+
+01:10:20.000 --> 01:10:26.000
+he's still telling the truth to groups of people who can't hear him tell it
+
+01:10:26.000 --> 01:10:31.000
+because they think that 3 billion people is the largest
+
+01:10:31.000 --> 01:10:35.000
+randomized control trial that's ever been executed
+
+01:10:35.000 --> 01:10:42.000
+and proof beyond a shadow of a doubt that this rapid rollout of therapeutics
+
+01:10:42.000 --> 01:10:48.000
+and vaccines based on transfection is a great idea
+
+01:10:48.000 --> 01:10:53.000
+this is red alert style bad news
+
+01:10:53.000 --> 01:10:57.000
+because we are being distracted by a lot of other things right now
+
+01:10:57.000 --> 01:11:01.000
+a lot of other things right now that have nothing to do with this central thing
+
+01:11:01.000 --> 01:11:06.000
+this central thing
+
+01:11:06.000 --> 01:11:12.000
+the inversion of your children's rights to permissions based on this
+
+01:11:12.000 --> 01:11:19.000
+your children's sovereignty inverted into permissions based on biology
+
+01:11:19.000 --> 01:11:22.000
+that is really lies
+
+01:11:22.000 --> 01:11:24.000
+it's mythology
+
+01:11:24.000 --> 01:11:29.000
+they are misleading us that they have this fundamental understanding
+
+01:11:29.000 --> 01:11:36.000
+and high fidelity understanding at that when they do not
+
+01:11:36.000 --> 01:11:43.000
+and for some reason this physicist chemist seems to admit it without understanding it
+
+01:11:43.000 --> 01:11:48.000
+it really shows how much of a biologist he isn't really
+
+01:11:48.000 --> 01:11:53.000
+that he can give this talk and not understand the implications of it
+
+01:11:53.000 --> 01:11:58.000
+you're augmenting a pattern integrity
+
+01:11:58.000 --> 01:12:03.000
+the homeostatic mechanisms of which you don't understand
+
+01:12:03.000 --> 01:12:07.000
+the immunological mechanisms of which you don't understand
+
+01:12:07.000 --> 01:12:12.000
+and you're attempting to augment this pattern integrity with an RNA
+
+01:12:12.000 --> 01:12:17.000
+that you think will express a protein wherever it goes
+
+01:12:17.000 --> 01:12:20.000
+and you know that you can't control wherever it goes
+
+01:12:20.000 --> 01:12:25.000
+and yet you think that you can augment the immune system usefully with this tool
+
+01:12:25.000 --> 01:12:30.000
+I don't think that he believes that in his heart of hearts
+
+01:12:30.000 --> 01:12:34.000
+I don't think that he can believe that but he's been told that
+
+01:12:34.000 --> 01:12:38.000
+he's been made comfortable because of that if he believes in it
+
+01:12:38.000 --> 01:12:46.000
+his salary success and fame are dependent on him believing that
+
+01:12:46.000 --> 01:12:53.000
+even if he knows in his heart of hearts that it can't be true
+
+01:12:53.000 --> 01:12:57.000
+that's where we are right now ladies and gentlemen there's no other way to characterize this
+
+01:12:57.000 --> 01:13:03.000
+he just told you that isn't it criminal that we basically poison cancer patients
+
+01:13:03.000 --> 01:13:08.000
+and he didn't realize he said it
+
+01:13:08.000 --> 01:13:13.000
+that's criminal if you think about it
+
+01:13:13.000 --> 01:13:17.000
+that's criminal if you think about it so what's the
+
+01:13:17.000 --> 01:13:21.000
+then don't think about it I guess is that the advice
+
+01:13:21.000 --> 01:13:27.000
+ladies and gentlemen wake up they're telling us right to our face
+
+01:13:27.000 --> 01:13:31.000
+and they don't think we're smart enough to hear it
+
+01:13:31.000 --> 01:13:37.000
+this guy's actually not smart enough to hear it I really don't think he is
+
+01:13:37.000 --> 01:13:42.000
+I really think the fame and the fortune and the praise has gone to his head
+
+01:13:42.000 --> 01:13:47.000
+and he's just said you know I'm making some stuff you guys want to use it
+
+01:13:47.000 --> 01:13:52.000
+for whatever you want to use it for that's great maybe that's why he didn't get the Nobel Prize because
+
+01:13:52.000 --> 01:13:57.000
+in the end you know he doesn't know how they're using it biologically
+
+01:13:57.000 --> 01:14:02.000
+he knows how the cartoon looks he knows how the cartoon sounds he knows what the sales pitch is
+
+01:14:02.000 --> 01:14:06.000
+but he doesn't know the depth and the breadth of the simplification that's being done there
+
+01:14:06.000 --> 01:14:11.000
+he doesn't know the depth and the breadth of the pattern integrity that he's trying to
+
+01:14:11.000 --> 01:14:16.000
+augment and if he did then he would feel ashamed
+
+01:14:16.000 --> 01:14:21.000
+and he'd be sad that his technology was used in such a
+
+01:14:21.000 --> 01:14:25.000
+with such hubris that's what I think
+
+01:14:25.000 --> 01:14:29.000
+others obviously but the others that we can't attack through the liver
+
+01:14:29.000 --> 01:14:35.000
+but an amazing number that we can this is the from a vaccine point of view we're going to see a universal flu vaccine
+
+01:14:35.000 --> 01:14:39.000
+very soon this is an example for we have an nanoparticle containing
+
+01:14:39.000 --> 01:14:49.000
+say four proteins from from a given flu influenza virus and that's being challenged with this injected
+
+01:14:49.000 --> 01:14:54.000
+in the mice as a vaccine and being challenged with very different strains of the influenza
+
+01:14:54.000 --> 01:14:59.000
+and you see total protection so this is certainly going to make its way hopefully we're going to be in a situation
+
+01:14:59.000 --> 01:15:03.000
+you don't have to change every year you're certainly going to make its way
+
+01:15:03.000 --> 01:15:05.000
+so what are they doing then?
+
+01:15:06.000 --> 01:15:11.000
+I guess they're challenging these mices mices internationally with some
+
+01:15:15.000 --> 01:15:18.000
+I mean can you read that graph do you do you see how stupid it is?
+
+01:15:21.000 --> 01:15:25.000
+Can anybody put it in the chat how dumb it is what this graph says
+
+01:15:25.000 --> 01:15:28.000
+what is an LD50?
+
+01:15:28.000 --> 01:15:30.000
+Does anybody know what an LD50 is?
+
+01:15:30.000 --> 01:15:37.000
+an LD50 is the lethal dose that kills 50% of the animals in an experiment
+
+01:15:37.000 --> 01:15:45.000
+they're using five times the lethal dose of the virus and they're putting it in somewhere
+
+01:15:45.000 --> 01:15:52.000
+and the what the animals that don't get the injection die
+
+01:15:53.000 --> 01:16:01.000
+I don't they don't lose they don't lose weight what is the dotted line where they sacrifice them
+
+01:16:01.000 --> 01:16:08.000
+are we to believe that those animals die because they sacrifice them at 70 or 85%
+
+01:16:08.000 --> 01:16:10.000
+75% of their body weight
+
+01:16:11.000 --> 01:16:15.000
+what if those animals would just come right back up right after that
+
+01:16:15.000 --> 01:16:19.000
+we would never know because this one is designed not to let them happen
+
+01:16:19.000 --> 01:16:23.000
+look this one goes right down to the dotted line they didn't kill those animals
+
+01:16:30.000 --> 01:16:34.000
+five times the lethal dose 50% lethal dose
+
+01:16:36.000 --> 01:16:43.000
+of what an intranasal injection of something so that it kills 50% of the animals that get it
+
+01:16:44.000 --> 01:16:46.000
+I mean
+
+01:16:49.000 --> 01:16:51.000
+if it's
+
+01:16:54.000 --> 01:16:58.000
+you know what they're doing here right they're using clones that's the other thing that you see here
+
+01:16:58.000 --> 01:17:01.000
+that that's what this whole thing is these are clones
+
+01:17:02.000 --> 01:17:04.000
+that's what they're putting up here these are clones
+
+01:17:05.000 --> 01:17:07.000
+they're not I mean
+
+01:17:13.000 --> 01:17:19.000
+the universal influenza vaccine is coming and it's going to be an mRNA so you're going to be transfected
+
+01:17:19.000 --> 01:17:21.000
+if you take it
+
+01:17:23.000 --> 01:17:25.000
+and so
+
+01:17:25.000 --> 01:17:33.000
+heretofore unknown consequences of repeated transfection to a wide variety of
+
+01:17:33.000 --> 01:17:35.000
+of
+
+01:17:35.000 --> 01:17:37.000
+foreign proteins
+
+01:17:37.000 --> 01:17:39.000
+an ion channel
+
+01:17:40.000 --> 01:17:43.000
+an enzyme
+
+01:17:43.000 --> 01:17:47.000
+a RNA structural protein
+
+01:17:47.000 --> 01:17:50.000
+isn't hemagglutinine also a
+
+01:17:50.000 --> 01:17:52.000
+enzyme I mean
+
+01:17:58.000 --> 01:18:03.000
+how do they know that they've usefully augmented the immune system of these mice
+
+01:18:03.000 --> 01:18:05.000
+how do they know that they don't
+
+01:18:06.000 --> 01:18:11.000
+what they know is that in two weeks these animals didn't die and in two weeks some of these animals
+
+01:18:11.000 --> 01:18:13.000
+were sacrificed at
+
+01:18:14.000 --> 01:18:17.000
+I guess they died I don't know I just don't understand this
+
+01:18:19.000 --> 01:18:21.000
+the push
+
+01:18:21.000 --> 01:18:23.000
+ever forward more vaccines
+
+01:18:23.000 --> 01:18:27.000
+very different strains of the influenza and you see total protection
+
+01:18:27.000 --> 01:18:29.000
+so this is certainly going to make its way
+
+01:18:29.000 --> 01:18:33.000
+hopefully we're going to be in a situation you don't have to change every year
+
+01:18:33.000 --> 01:18:35.000
+your flu vaccine
+
+01:18:35.000 --> 01:18:37.000
+here's a treatment for heart failure using CAR-T approaches
+
+01:18:37.000 --> 01:18:39.000
+this has worked from
+
+01:18:39.000 --> 01:18:41.000
+Andrew Weisman who I say
+
+01:18:41.000 --> 01:18:43.000
+QEDIS is also involved in this
+
+01:18:43.000 --> 01:18:47.000
+and so a QEDIS his company is involved with Weisman
+
+01:18:47.000 --> 01:18:49.000
+running a treatment for heart failure
+
+01:18:49.000 --> 01:18:53.000
+where T cells are apparently
+
+01:18:53.000 --> 01:18:55.000
+controlling activated fibroblasts
+
+01:18:55.000 --> 01:18:59.000
+and this is probably some mouse model of heart failure
+
+01:18:59.000 --> 01:19:01.000
+that you know they can fix with this
+
+01:19:01.000 --> 01:19:03.000
+little it looks like they're putting a little pump
+
+01:19:03.000 --> 01:19:05.000
+inside the animal here
+
+01:19:05.000 --> 01:19:07.000
+they're injecting
+
+01:19:07.000 --> 01:19:09.000
+I don't know what they do here
+
+01:19:09.000 --> 01:19:11.000
+this is probably how they create the
+
+01:19:11.000 --> 01:19:13.000
+the heart problem with this thing
+
+01:19:13.000 --> 01:19:15.000
+and then they they inject the
+
+01:19:15.000 --> 01:19:17.000
+the lipid nanoparticle to fix it
+
+01:19:17.000 --> 01:19:19.000
+and then they come back and it's okay
+
+01:19:19.000 --> 01:19:21.000
+so saline saline
+
+01:19:21.000 --> 01:19:23.000
+angiotens in two
+
+01:19:23.000 --> 01:19:25.000
+I don't know what that does but it probably does something funny
+
+01:19:25.000 --> 01:19:27.000
+we could look that up
+
+01:19:27.000 --> 01:19:29.000
+and
+
+01:19:30.000 --> 01:19:32.000
+so in this case
+
+01:19:32.000 --> 01:19:34.000
+heart injury
+
+01:19:34.000 --> 01:19:36.000
+and then going in with a lipid nanoparticle
+
+01:19:36.000 --> 01:19:38.000
+targeted to T cells
+
+01:19:38.000 --> 01:19:40.000
+with antibodies against a CD5
+
+01:19:40.000 --> 01:19:42.000
+it's just for T cells and they contain
+
+01:19:42.000 --> 01:19:44.000
+mRNA coding for a car
+
+01:19:44.000 --> 01:19:47.000
+against the fibroblast activation protein
+
+01:19:47.000 --> 01:19:49.000
+so they go in there they're removing the scar tissue
+
+01:19:49.000 --> 01:19:51.000
+and you can see regaining
+
+01:19:51.000 --> 01:19:54.000
+or reducing fibrosis and regaining heart function
+
+01:19:54.000 --> 01:19:57.000
+do you see a reduction here
+
+01:19:57.000 --> 01:19:59.000
+between this one and that one
+
+01:19:59.000 --> 01:20:01.000
+it says that it's reduced
+
+01:20:01.000 --> 01:20:03.000
+the bar look but look at the spread here
+
+01:20:03.000 --> 01:20:05.000
+look at the spread here
+
+01:20:05.000 --> 01:20:08.000
+there's animals that are down here
+
+01:20:08.000 --> 01:20:10.000
+right here too
+
+01:20:10.000 --> 01:20:12.000
+is this a real significant result
+
+01:20:12.000 --> 01:20:14.000
+or is this the broken science
+
+01:20:14.000 --> 01:20:16.000
+initiative problem here
+
+01:20:16.000 --> 01:20:19.000
+where because the end numbers are low enough
+
+01:20:19.000 --> 01:20:21.000
+and because the variation is high enough
+
+01:20:21.000 --> 01:20:23.000
+this is not actually a significant result
+
+01:20:23.000 --> 01:20:25.000
+but with statistics
+
+01:20:25.000 --> 01:20:27.000
+we can make it powerful
+
+01:20:27.000 --> 01:20:31.000
+this is the magic that the broken science initiative
+
+01:20:31.000 --> 01:20:33.000
+is trying to dispel
+
+01:20:33.000 --> 01:20:35.000
+this is the spell right here
+
+01:20:35.000 --> 01:20:37.000
+in a nutshell where you measure things
+
+01:20:37.000 --> 01:20:41.000
+and think somehow that these results are
+
+01:20:41.000 --> 01:20:44.000
+collectively represent something
+
+01:20:44.000 --> 01:20:47.000
+that you can characterize using statistics
+
+01:20:47.000 --> 01:20:50.000
+that you have an idea of what the mean value is
+
+01:20:50.000 --> 01:20:52.000
+if you look at these numbers
+
+01:20:52.000 --> 01:20:54.000
+when in reality
+
+01:20:54.000 --> 01:20:56.000
+you're counting on the fact
+
+01:20:56.000 --> 01:20:58.000
+that the inbred mice
+
+01:20:58.000 --> 01:21:01.000
+are really inbred enough
+
+01:21:01.000 --> 01:21:03.000
+to be uniformed
+
+01:21:03.000 --> 01:21:05.000
+so that they're not contributing to this variation
+
+01:21:05.000 --> 01:21:07.000
+you think that your experiment that you ran
+
+01:21:07.000 --> 01:21:09.000
+and how you ran it is uniform enough
+
+01:21:09.000 --> 01:21:12.000
+so that it doesn't contribute to this variation
+
+01:21:12.000 --> 01:21:14.000
+you think that your experimenters
+
+01:21:14.000 --> 01:21:16.000
+and the animal caretakers have not contributed
+
+01:21:16.000 --> 01:21:17.000
+at all to this experiment
+
+01:21:17.000 --> 01:21:19.000
+even though it goes for three weeks
+
+01:21:19.000 --> 01:21:21.000
+and so their day-night cycle
+
+01:21:21.000 --> 01:21:23.000
+they're handling by caretakers
+
+01:21:23.000 --> 01:21:24.000
+the cleaning cages
+
+01:21:24.000 --> 01:21:26.000
+the whole thing matters
+
+01:21:29.000 --> 01:21:32.000
+and so the variation that's in this experiment
+
+01:21:32.000 --> 01:21:36.000
+is assumed to be exclusively from the manipulation that they do
+
+01:21:36.000 --> 01:21:39.000
+but in reality we know that this is biology
+
+01:21:39.000 --> 01:21:41.000
+so that's not possible
+
+01:21:41.000 --> 01:21:45.000
+to get that far down without a really beautiful experiment
+
+01:21:45.000 --> 01:21:47.000
+and it doesn't look like this is that
+
+01:21:49.000 --> 01:21:52.000
+that's the difficulty of this going forward
+
+01:21:52.000 --> 01:21:54.000
+is that we're going to have to accept
+
+01:21:54.000 --> 01:21:56.000
+how much charlatism
+
+01:21:56.000 --> 01:22:02.000
+charlatism is our current state of medicine is based on
+
+01:22:04.000 --> 01:22:06.000
+and also understand that we are up against
+
+01:22:06.000 --> 01:22:08.000
+that charlatism as well as the charlatism
+
+01:22:08.000 --> 01:22:11.000
+of the worst-case scenario of people
+
+01:22:11.000 --> 01:22:13.000
+Team worst-case scenario
+
+01:22:13.000 --> 01:22:18.000
+which has been on duty since the end of 2019 early 2020
+
+01:22:19.000 --> 01:22:21.000
+and is still on duty now
+
+01:22:21.000 --> 01:22:23.000
+pushing more stories
+
+01:22:23.000 --> 01:22:25.000
+ever-expanding list of bioweapons
+
+01:22:25.000 --> 01:22:27.000
+ever-expanding list of possibilities
+
+01:22:27.000 --> 01:22:29.000
+ever-expanding list of predictions
+
+01:22:29.000 --> 01:22:31.000
+that are coming right around the corner
+
+01:22:32.000 --> 01:22:34.000
+and never copying to the fact that
+
+01:22:34.000 --> 01:22:36.000
+there was no evidence of spread
+
+01:22:37.000 --> 01:22:39.000
+never copying to the fact that the biology of RNA
+
+01:22:39.000 --> 01:22:41.000
+doesn't support a pandemic
+
+01:22:41.000 --> 01:22:43.000
+never mind the fact that we've never tracked
+
+01:22:43.000 --> 01:22:46.000
+a single RNA molecule from a spill
+
+01:22:46.000 --> 01:22:48.000
+in a in a wet market
+
+01:22:48.000 --> 01:22:50.000
+around the world for four years
+
+01:22:50.000 --> 01:22:53.000
+with a really high fidelity phylogeny before
+
+01:22:54.000 --> 01:22:56.000
+and so it's pretty remarkable
+
+01:22:56.000 --> 01:22:58.000
+that in the midst of this
+
+01:22:58.000 --> 01:23:01.000
+catastrophic failure of public health systems
+
+01:23:01.000 --> 01:23:04.000
+we managed to get such a beautiful biological data set
+
+01:23:08.000 --> 01:23:10.000
+once you say it out loud it just sounds so absurd
+
+01:23:10.000 --> 01:23:14.000
+I mean the whole story just falls apart on its absurdity
+
+01:23:17.000 --> 01:23:19.000
+so this is kind of a neat thing to be able to do
+
+01:23:20.000 --> 01:23:22.000
+on patro
+
+01:23:22.000 --> 01:23:24.000
+which is a where we're taking sRNA
+
+01:23:24.000 --> 01:23:26.000
+to knock down a pathological protein
+
+01:23:26.000 --> 01:23:28.000
+trans-thyroidin
+
+01:23:28.000 --> 01:23:31.000
+this can be done now using a gene editing approach
+
+01:23:31.000 --> 01:23:33.000
+where we essentially knock out
+
+01:23:33.000 --> 01:23:35.000
+the trans-thyroidin in the liver
+
+01:23:35.000 --> 01:23:36.000
+and you can see here
+
+01:23:36.000 --> 01:23:37.000
+this was a one-and-done therapy
+
+01:23:37.000 --> 01:23:39.000
+for this particular disorder
+
+01:23:39.000 --> 01:23:42.000
+so these are these are huge opportunities
+
+01:23:43.000 --> 01:23:45.000
+so that was CRISPR-Cas9
+
+01:23:45.000 --> 01:23:47.000
+in the liver of monkeys
+
+01:23:47.000 --> 01:23:49.000
+to edit away an enzyme
+
+01:23:49.000 --> 01:23:51.000
+this is actually
+
+01:23:51.000 --> 01:23:54.000
+he's about to talk about glucose 6-phosphate
+
+01:23:54.000 --> 01:23:56.000
+if you remember
+
+01:23:56.000 --> 01:23:58.000
+a little while ago
+
+01:23:58.000 --> 01:24:00.000
+we actually had this lady on
+
+01:24:00.000 --> 01:24:02.000
+and she talked about
+
+01:24:02.000 --> 01:24:04.000
+the glucose 6-phosphate
+
+01:24:04.000 --> 01:24:07.000
+protein circled here in red
+
+01:24:07.000 --> 01:24:09.000
+whose job it is
+
+01:24:09.000 --> 01:24:13.000
+is to
+
+01:24:13.000 --> 01:24:15.000
+to release stored sugars
+
+01:24:15.000 --> 01:24:17.000
+so that you can maintain
+
+01:24:17.000 --> 01:24:19.000
+a healthy blood sugar level
+
+01:24:19.000 --> 01:24:21.000
+while you're fasting
+
+01:24:21.000 --> 01:24:23.000
+so Von Gerge's disease patients
+
+01:24:23.000 --> 01:24:25.000
+can't fast
+
+01:24:25.000 --> 01:24:27.000
+they must constantly eat
+
+01:24:27.000 --> 01:24:29.000
+small amounts of carbohydrates
+
+01:24:29.000 --> 01:24:31.000
+including getting up every one or two hours
+
+01:24:31.000 --> 01:24:32.000
+during the night
+
+01:24:32.000 --> 01:24:34.000
+to eat raw corn starch
+
+01:24:34.000 --> 01:24:37.000
+now imagine the toll that this takes on parents
+
+01:24:37.000 --> 01:24:39.000
+and so this lady told us
+
+01:24:39.000 --> 01:24:40.000
+this story three years ago
+
+01:24:40.000 --> 01:24:42.000
+in reference to
+
+01:24:42.000 --> 01:24:45.000
+how mRNA is going to change the world
+
+01:24:45.000 --> 01:24:48.000
+and now this guy still selling the same story
+
+01:24:48.000 --> 01:24:50.000
+and it's still Moderna
+
+01:24:50.000 --> 01:24:54.000
+so that's kind of interesting right?
+
+01:24:54.000 --> 01:24:56.000
+we're going to tell the same story again
+
+01:24:56.000 --> 01:24:58.000
+how about how we're going to fix this
+
+01:24:58.000 --> 01:24:59.000
+with an mRNA
+
+01:24:59.000 --> 01:25:00.000
+this is the same sales pitch
+
+01:25:00.000 --> 01:25:02.000
+this is the same grant proposal
+
+01:25:02.000 --> 01:25:05.000
+it hasn't gone any farther than this
+
+01:25:05.000 --> 01:25:10.000
+so they're actually running out of schtick too
+
+01:25:10.000 --> 01:25:13.000
+they're running out of sales pitch
+
+01:25:13.000 --> 01:25:16.000
+it's starting to get old already
+
+01:25:16.000 --> 01:25:19.000
+and it's going to start to fray
+
+01:25:19.000 --> 01:25:22.000
+really rapidly over the next few weeks
+
+01:25:22.000 --> 01:25:24.000
+as we approach the new year
+
+01:25:24.000 --> 01:25:26.000
+it's going to fray really rapidly
+
+01:25:26.000 --> 01:25:28.000
+as we just lay it out step by step
+
+01:25:28.000 --> 01:25:31.000
+what's wrong with these things?
+
+01:25:36.000 --> 01:25:39.000
+and it's so fortunate that we have Peter Cullis
+
+01:25:39.000 --> 01:25:41.000
+to tell us exactly what's wrong with these things
+
+01:25:41.000 --> 01:25:44.000
+to exactly lay out the limitations of them
+
+01:25:44.000 --> 01:25:47.000
+to exactly tell us what we need to know
+
+01:25:47.000 --> 01:25:49.000
+and we don't need to prove it anymore
+
+01:25:49.000 --> 01:25:53.000
+with elaborate citations and everything
+
+01:25:53.000 --> 01:25:56.000
+we can just let the master speak
+
+01:25:56.000 --> 01:25:58.000
+and it's just beautiful
+
+01:25:58.000 --> 01:26:00.000
+and the master says things like
+
+01:26:00.000 --> 01:26:02.000
+it's a criminal thing
+
+01:26:02.000 --> 01:26:04.000
+that chemotherapy is used the way
+
+01:26:04.000 --> 01:26:05.000
+it's used
+
+01:26:05.000 --> 01:26:08.000
+I totally agree Dr. Cullis
+
+01:26:08.000 --> 01:26:12.000
+placement and I'm just going to go through these relatively quickly
+
+01:26:12.000 --> 01:26:14.000
+but as soon as a child is born
+
+01:26:14.000 --> 01:26:16.000
+they're not making a particular protein
+
+01:26:16.000 --> 01:26:18.000
+often you get in these situations
+
+01:26:18.000 --> 01:26:19.000
+the child will die
+
+01:26:19.000 --> 01:26:22.000
+if they don't get to get a particular
+
+01:26:22.000 --> 01:26:24.000
+replacement protein for that
+
+01:26:24.000 --> 01:26:26.000
+all of these types of disorders
+
+01:26:26.000 --> 01:26:28.000
+are going to be very rapidly treated
+
+01:26:28.000 --> 01:26:30.000
+using these 7P approach
+
+01:26:30.000 --> 01:26:32.000
+within a couple of months we can devise this medicine
+
+01:26:32.000 --> 01:26:34.000
+as soon as we know what the protein is
+
+01:26:34.000 --> 01:26:35.000
+that the child is not making
+
+01:26:35.000 --> 01:26:37.000
+and so in this case G6P
+
+01:26:37.000 --> 01:26:39.000
+with the now part is containing G6P
+
+01:26:39.000 --> 01:26:40.000
+for glycogen storage disease
+
+01:26:40.000 --> 01:26:43.000
+that is that IV will be made in the liver
+
+01:26:43.000 --> 01:26:45.000
+and this is an example for
+
+01:26:45.000 --> 01:26:48.000
+minus-minus mice with the G6P
+
+01:26:48.000 --> 01:26:50.000
+and you can see that we can then
+
+01:26:50.000 --> 01:26:54.000
+restore the levels of that protein
+
+01:26:54.000 --> 01:26:57.000
+and restore blood sugar levels etc.
+
+01:26:57.000 --> 01:27:00.000
+Propionic anomasodemius
+
+01:27:00.000 --> 01:27:02.000
+is an example where propionylcoic
+
+01:27:02.000 --> 01:27:04.000
+or difarboxylase is not made
+
+01:27:04.000 --> 01:27:06.000
+and again this is a
+
+01:27:06.000 --> 01:27:08.000
+toxic molecule that results
+
+01:27:08.000 --> 01:27:10.000
+from the lack of that protein
+
+01:27:10.000 --> 01:27:12.000
+if you administer the lipid nanoparticle
+
+01:27:12.000 --> 01:27:14.000
+containing mRNA that codes for it
+
+01:27:14.000 --> 01:27:16.000
+so then you basically bring things back to normal
+
+01:27:16.000 --> 01:27:18.000
+if you can't see
+
+01:27:18.000 --> 01:27:20.000
+so there again that's a problem
+
+01:27:20.000 --> 01:27:22.000
+because you can't replace a protein
+
+01:27:22.000 --> 01:27:24.000
+that you don't have it will be a foreign protein
+
+01:27:24.000 --> 01:27:26.000
+your immune system will attack it
+
+01:27:26.000 --> 01:27:28.000
+it won't have tolerance to it
+
+01:27:28.000 --> 01:27:30.000
+so that's a tricky thing
+
+01:27:30.000 --> 01:27:32.000
+you can do that on the short term
+
+01:27:32.000 --> 01:27:34.000
+it's pretty hard for me to imagine
+
+01:27:34.000 --> 01:27:36.000
+how they do it on the longer term
+
+01:27:36.000 --> 01:27:38.000
+if they have to repeatedly inject
+
+01:27:38.000 --> 01:27:40.000
+and here you see something that's really creepy
+
+01:27:40.000 --> 01:27:42.000
+where they have
+
+01:27:42.000 --> 01:27:46.000
+a hybrid kind of antibody that uses
+
+01:27:46.000 --> 01:27:48.000
+well anyway
+
+01:27:48.000 --> 01:27:50.000
+I don't really know how to explain that one too well
+
+01:27:50.000 --> 01:27:52.000
+I would have to read the paper
+
+01:27:52.000 --> 01:27:54.000
+but the mRNA codes for
+
+01:27:54.000 --> 01:27:56.000
+a antibody
+
+01:27:56.000 --> 01:27:58.000
+that ends up doing this
+
+01:27:58.000 --> 01:28:00.000
+so it's a bi-specific antibody
+
+01:28:00.000 --> 01:28:02.000
+which means that it's an antibody
+
+01:28:02.000 --> 01:28:04.000
+which has two different things
+
+01:28:04.000 --> 01:28:06.000
+on its receptor things
+
+01:28:06.000 --> 01:28:08.000
+which is also
+
+01:28:08.000 --> 01:28:10.000
+it's not natural
+
+01:28:10.000 --> 01:28:12.000
+so I don't
+
+01:28:12.000 --> 01:28:14.000
+I'm not saying that this doesn't work
+
+01:28:14.000 --> 01:28:16.000
+in a cancer you know thing
+
+01:28:16.000 --> 01:28:18.000
+or as a cancer therapy I'm just saying that now they're making
+
+01:28:18.000 --> 01:28:20.000
+he's talking about transfecting people with
+
+01:28:20.000 --> 01:28:22.000
+antibodies which are essentially synthetic
+
+01:28:22.000 --> 01:28:24.000
+they're synthetically designed
+
+01:28:24.000 --> 01:28:26.000
+their variable region is designed
+
+01:28:26.000 --> 01:28:28.000
+they are made
+
+01:28:28.000 --> 01:28:30.000
+like any other monoclonal antibody
+
+01:28:30.000 --> 01:28:32.000
+no they're not they're going to be made
+
+01:28:32.000 --> 01:28:34.000
+by mRNA
+
+01:28:34.000 --> 01:28:36.000
+so that's a very
+
+01:28:36.000 --> 01:28:40.000
+tricky added level of complexity
+
+01:28:40.000 --> 01:28:42.000
+if now they're
+
+01:28:42.000 --> 01:28:44.000
+purporting to design novel antibodies
+
+01:28:44.000 --> 01:28:46.000
+which they will then express
+
+01:28:46.000 --> 01:28:48.000
+by lipid nanoparticle
+
+01:28:48.000 --> 01:28:50.000
+now it's just not a protein
+
+01:28:50.000 --> 01:28:52.000
+that your immune system will
+
+01:28:52.000 --> 01:28:54.000
+will process it
+
+01:28:54.000 --> 01:28:56.000
+faithfully but now it's a protein
+
+01:28:56.000 --> 01:28:58.000
+that should have a function
+
+01:28:58.000 --> 01:29:00.000
+that you hope will manifest faithfully
+
+01:29:00.000 --> 01:29:02.000
+and I think we're adding
+
+01:29:02.000 --> 01:29:04.000
+even more complexity to
+
+01:29:04.000 --> 01:29:06.000
+to the unknowns that are
+
+01:29:06.000 --> 01:29:08.000
+transfection when we start
+
+01:29:08.000 --> 01:29:10.000
+transfecting
+
+01:29:10.000 --> 01:29:12.000
+designer antibodies into people with the idea
+
+01:29:12.000 --> 01:29:14.000
+of novel cell interactions
+
+01:29:14.000 --> 01:29:16.000
+being
+
+01:29:16.000 --> 01:29:18.000
+facilitated by these antibodies
+
+01:29:18.000 --> 01:29:20.000
+not saying they won't work
+
+01:29:20.000 --> 01:29:22.000
+I'm just saying that I think a lot of assumptions
+
+01:29:22.000 --> 01:29:24.000
+are being made and we are
+
+01:29:24.000 --> 01:29:26.000
+a bull in a china shop
+
+01:29:26.000 --> 01:29:28.000
+if we think that we can augment a healthy
+
+01:29:28.000 --> 01:29:30.000
+immune system or augment a healthy
+
+01:29:30.000 --> 01:29:32.000
+human with these kinds
+
+01:29:32.000 --> 01:29:34.000
+of technologies so this is probably
+
+01:29:34.000 --> 01:29:36.000
+a cancer thing so great
+
+01:29:36.000 --> 01:29:38.000
+whatever
+
+01:29:38.000 --> 01:29:40.000
+if it's somebody's dying and this is the way
+
+01:29:40.000 --> 01:29:42.000
+you give them eight more years of life
+
+01:29:42.000 --> 01:29:44.000
+perfect but when we talk about
+
+01:29:44.000 --> 01:29:46.000
+and we hand wave
+
+01:29:46.000 --> 01:29:48.000
+when we use this to augment the immune system
+
+01:29:48.000 --> 01:29:50.000
+it drives me bananas
+
+01:29:50.000 --> 01:29:52.000
+because there's plenty of reason
+
+01:29:52.000 --> 01:29:54.000
+to use it on cancer patients that aren't going to survive
+
+01:29:54.000 --> 01:29:56.000
+it's plenty of reason maybe
+
+01:29:56.000 --> 01:29:58.000
+to try and replace
+
+01:29:58.000 --> 01:30:00.000
+or fix people with
+
+01:30:00.000 --> 01:30:02.000
+genetic deficiencies that are
+
+01:30:02.000 --> 01:30:04.000
+debilitating or whatever
+
+01:30:04.000 --> 01:30:06.000
+but Jesse Gelsinger
+
+01:30:06.000 --> 01:30:08.000
+would still be alive
+
+01:30:11.000 --> 01:30:13.000
+maybe he wouldn't be happy
+
+01:30:14.000 --> 01:30:16.000
+but I kind of think his dad
+
+01:30:16.000 --> 01:30:18.000
+and he would be happier than he they are now
+
+01:30:24.000 --> 01:30:26.000
+and so you're
+
+01:30:29.000 --> 01:30:31.000
+we just got to be careful ladies and gentlemen
+
+01:30:31.000 --> 01:30:32.000
+because they really plan to
+
+01:30:32.000 --> 01:30:33.000
+bamboozle us with this
+
+01:30:33.000 --> 01:30:35.000
+and I think it's a good place to stop
+
+01:30:35.000 --> 01:30:37.000
+I know that he says even more
+
+01:30:37.000 --> 01:30:39.000
+nonsense up here
+
+01:30:39.000 --> 01:30:41.000
+but he's already said the stuff that
+
+01:30:41.000 --> 01:30:43.000
+I wanted you to hear him say
+
+01:30:43.000 --> 01:30:45.000
+maybe I'll use this again
+
+01:30:45.000 --> 01:30:47.000
+or I'll cut some clips from the rest of it
+
+01:30:47.000 --> 01:30:49.000
+and if you want to see it I'm going to drop this in the chat
+
+01:30:49.000 --> 01:30:51.000
+so you can maybe watch this
+
+01:30:51.000 --> 01:30:53.000
+on your own
+
+01:30:53.000 --> 01:30:55.000
+this whole
+
+01:30:55.000 --> 01:30:57.000
+symposium is really crazy
+
+01:30:57.000 --> 01:30:59.000
+so there's this one
+
+01:30:59.000 --> 01:31:01.000
+guy that I was going to put on
+
+01:31:01.000 --> 01:31:03.000
+and then I found the
+
+01:31:03.000 --> 01:31:05.000
+the introduction
+
+01:31:05.000 --> 01:31:07.000
+by Peter
+
+01:31:07.000 --> 01:31:09.000
+and this guy is basically talking about
+
+01:31:09.000 --> 01:31:11.000
+how you know they're going to use
+
+01:31:11.000 --> 01:31:13.000
+it for everything
+
+01:31:13.000 --> 01:31:15.000
+and so it's an enthusiastic
+
+01:31:15.000 --> 01:31:17.000
+next step guy
+
+01:31:17.000 --> 01:31:19.000
+and it's
+
+01:31:19.000 --> 01:31:21.000
+it's an incredible talk to
+
+01:31:21.000 --> 01:31:23.000
+I don't know if I'll get around to doing a study hall on it
+
+01:31:23.000 --> 01:31:25.000
+but I would recommend this one as well
+
+01:31:25.000 --> 01:31:27.000
+so I'll drop that in the chat
+
+01:31:29.000 --> 01:31:31.000
+I am really tired though
+
+01:31:31.000 --> 01:31:33.000
+I actually got talked
+
+01:31:33.000 --> 01:31:35.000
+into
+
+01:31:35.000 --> 01:31:37.000
+I got talked into doing
+
+01:31:37.000 --> 01:31:39.000
+all the horses with the boys
+
+01:31:39.000 --> 01:31:41.000
+and then the other coach
+
+01:31:41.000 --> 01:31:43.000
+gave a lot of horses tonight
+
+01:31:43.000 --> 01:31:45.000
+so after I opened my big mouth
+
+01:31:45.000 --> 01:31:47.000
+that said that we're running horses from now
+
+01:31:47.000 --> 01:31:49.000
+I'm because we need to get
+
+01:31:49.000 --> 01:31:51.000
+everybody in shape
+
+01:31:51.000 --> 01:31:53.000
+then Zach put us on the
+
+01:31:53.000 --> 01:31:55.000
+on the baseline and I ran a little more
+
+01:31:55.000 --> 01:31:57.000
+than I wanted to so I'm okay
+
+01:31:57.000 --> 01:31:59.000
+I'm going to be sore tomorrow
+
+01:31:59.000 --> 01:32:01.000
+but the boys ran hard too so that was really fun
+
+01:32:01.000 --> 01:32:03.000
+thank you very much for joining me
+
+01:32:03.000 --> 01:32:05.000
+ladies and gentlemen this has been
+
+01:32:05.000 --> 01:32:07.000
+a very logical
+
+01:32:07.000 --> 01:32:09.000
+a high resistance low noise
+
+01:32:09.000 --> 01:32:11.000
+information brief brought to you
+
+01:32:11.000 --> 01:32:13.000
+by a biologist
+
+01:32:13.000 --> 01:32:15.000
+we are still trying to fight our way through this
+
+01:32:15.000 --> 01:32:17.000
+it's a bunch of people
+
+01:32:17.000 --> 01:32:19.000
+and you might put this slide up and say
+
+01:32:19.000 --> 01:32:21.000
+there was a novel virus
+
+01:32:21.000 --> 01:32:23.000
+millions of people died with millions more were saved
+
+01:32:23.000 --> 01:32:25.000
+it probably came from gain of function
+
+01:32:25.000 --> 01:32:27.000
+but gain of functions real for sure
+
+01:32:27.000 --> 01:32:29.000
+and that's why a virus may come again
+
+01:32:29.000 --> 01:32:31.000
+or you can explain it in more general terms
+
+01:32:31.000 --> 01:32:33.000
+and just say it's a huge
+
+01:32:33.000 --> 01:32:35.000
+chest that's being played
+
+01:32:35.000 --> 01:32:37.000
+all over the world
+
+01:32:39.000 --> 01:32:41.000
+and this huge game of chess
+
+01:32:41.000 --> 01:32:43.000
+is actually this train exercise
+
+01:32:43.000 --> 01:32:45.000
+right?
+
+01:32:45.000 --> 01:32:47.000
+and there are competing interests
+
+01:32:47.000 --> 01:32:49.000
+within this theater
+
+01:32:51.000 --> 01:32:53.000
+there are competing interests
+
+01:32:53.000 --> 01:32:55.000
+but this theater has all agreed
+
+01:32:55.000 --> 01:32:57.000
+they were not going to talk about
+
+01:32:57.000 --> 01:32:59.000
+they do not resuscitate orders
+
+01:32:59.000 --> 01:33:01.000
+they're not going to talk about ventilators
+
+01:33:01.000 --> 01:33:03.000
+or use of steroids
+
+01:33:03.000 --> 01:33:05.000
+or remdesivir, medazolam, or opioid deaths
+
+01:33:05.000 --> 01:33:07.000
+and how they contribute to excess deaths
+
+01:33:07.000 --> 01:33:09.000
+and we're not going to talk about
+
+01:33:09.000 --> 01:33:11.000
+death certificate frauds
+
+01:33:11.000 --> 01:33:13.000
+we're just going to talk about the virus
+
+01:33:13.000 --> 01:33:15.000
+bio-weapons spike protein
+
+01:33:15.000 --> 01:33:17.000
+and mild carditis
+
+01:33:21.000 --> 01:33:23.000
+and this is the train stopping exercise
+
+01:33:23.000 --> 01:33:25.000
+we're just going to talk about
+
+01:33:25.000 --> 01:33:27.000
+how everybody's vulnerable
+
+01:33:27.000 --> 01:33:29.000
+we're just going to talk about PCR testing
+
+01:33:29.000 --> 01:33:31.000
+we're just going to talk about
+
+01:33:31.000 --> 01:33:33.000
+novel treatments
+
+01:33:33.000 --> 01:33:35.000
+and how they're necessary for a novel virus
+
+01:33:35.000 --> 01:33:37.000
+we're just going to talk about
+
+01:33:37.000 --> 01:33:39.000
+protocols
+
+01:33:39.000 --> 01:33:41.000
+and what novel protocols are necessary
+
+01:33:41.000 --> 01:33:43.000
+how remdesivir might work
+
+01:33:43.000 --> 01:33:45.000
+we're just going to talk about
+
+01:33:45.000 --> 01:33:47.000
+everything that doesn't make you
+
+01:33:47.000 --> 01:33:49.000
+solve the puzzle
+
+01:33:51.000 --> 01:33:53.000
+and more importantly
+
+01:33:53.000 --> 01:33:55.000
+we're going to talk about one thing
+
+01:33:55.000 --> 01:33:57.000
+and we're going to coordinate
+
+01:33:57.000 --> 01:33:59.000
+people's thing
+
+01:33:59.000 --> 01:34:01.000
+there's going to be one VAERS expert
+
+01:34:01.000 --> 01:34:03.000
+and one Ivermectin expert
+
+01:34:03.000 --> 01:34:05.000
+and one hydroxychloroquine advocate
+
+01:34:05.000 --> 01:34:07.000
+and one cancer advocate
+
+01:34:07.000 --> 01:34:09.000
+and one mild carditis
+
+01:34:09.000 --> 01:34:11.000
+activist
+
+01:34:11.000 --> 01:34:15.000
+and one claiming
+
+01:34:15.000 --> 01:34:17.000
+the
+
+01:34:17.000 --> 01:34:21.000
+RNA intellectual property
+
+01:34:21.000 --> 01:34:23.000
+and we're all going to stick to our stories
+
+01:34:23.000 --> 01:34:25.000
+and when we move
+
+01:34:25.000 --> 01:34:27.000
+and when we shift to the next story
+
+01:34:27.000 --> 01:34:29.000
+then the other people are going to shift to
+
+01:34:29.000 --> 01:34:31.000
+another story too
+
+01:34:31.000 --> 01:34:33.000
+so that we can all pretend
+
+01:34:33.000 --> 01:34:35.000
+to be working this train at once
+
+01:34:35.000 --> 01:34:37.000
+all the time not getting each other's
+
+01:34:37.000 --> 01:34:39.000
+way all the time not stepping on each other's
+
+01:34:39.000 --> 01:34:41.000
+toes even though we don't
+
+01:34:41.000 --> 01:34:43.000
+have the time to pay attention to what each other
+
+01:34:43.000 --> 01:34:45.000
+is saying
+
+01:34:45.000 --> 01:34:47.000
+as long as we agree that there was a
+
+01:34:47.000 --> 01:34:49.000
+novel virus that millions of people were killed
+
+01:34:49.000 --> 01:34:51.000
+by and millions more were saved from
+
+01:34:51.000 --> 01:34:53.000
+and the gain of function is real
+
+01:34:53.000 --> 01:34:55.000
+and we won't step on each other's toes
+
+01:34:55.000 --> 01:34:57.000
+and you can sell
+
+01:34:57.000 --> 01:34:59.000
+your Ivermectin book and I can sell my
+
+01:34:59.000 --> 01:35:01.000
+lies book and she can sell
+
+01:35:01.000 --> 01:35:03.000
+their bio-weapons book
+
+01:35:03.000 --> 01:35:05.000
+and everybody wins
+
+01:35:07.000 --> 01:35:09.000
+I don't know what the competing interests are
+
+01:35:09.000 --> 01:35:11.000
+I don't know who the teams are
+
+01:35:11.000 --> 01:35:13.000
+but I do
+
+01:35:13.000 --> 01:35:15.000
+know that that's what we need to find out
+
+01:35:15.000 --> 01:35:17.000
+who's on
+
+01:35:17.000 --> 01:35:19.000
+whose team
+
+01:35:19.000 --> 01:35:21.000
+who's the boss of that team
+
+01:35:21.000 --> 01:35:23.000
+who's the underlings of that team
+
+01:35:23.000 --> 01:35:25.000
+how big are the teams
+
+01:35:25.000 --> 01:35:27.000
+that's what we need to find out
+
+01:35:27.000 --> 01:35:29.000
+is there a ranking between the teams?
+
+01:35:29.000 --> 01:35:31.000
+are the oligarchs up here
+
+01:35:31.000 --> 01:35:33.000
+and the social media
+
+01:35:33.000 --> 01:35:35.000
+oligarchs up here
+
+01:35:35.000 --> 01:35:37.000
+and the people in government
+
+01:35:37.000 --> 01:35:39.000
+down here
+
+01:35:39.000 --> 01:35:41.000
+or is it the banks
+
+01:35:41.000 --> 01:35:43.000
+and then the government
+
+01:35:43.000 --> 01:35:45.000
+and then the oligarchs and then
+
+01:35:45.000 --> 01:35:47.000
+we need to find out
+
+01:35:47.000 --> 01:35:49.000
+we need to understand
+
+01:35:49.000 --> 01:35:51.000
+we need to expose
+
+01:35:51.000 --> 01:35:53.000
+the people who performed
+
+01:35:53.000 --> 01:35:55.000
+this theater who misled us
+
+01:35:55.000 --> 01:35:57.000
+and who are attempting
+
+01:35:57.000 --> 01:35:59.000
+to actively mislead
+
+01:35:59.000 --> 01:36:01.000
+our children
+
+01:36:05.000 --> 01:36:07.000
+that's the goal
+
+01:36:07.000 --> 01:36:09.000
+ladies and gentlemen
+
+01:36:09.000 --> 01:36:11.000
+we've got to stop them from
+
+01:36:11.000 --> 01:36:13.000
+misleading our children
+
+01:36:15.000 --> 01:36:17.000
+please stop all
+
+01:36:17.000 --> 01:36:19.000
+because they are trying to eliminate
+
+01:36:19.000 --> 01:36:21.000
+the controlled group by any means
+
+01:36:21.000 --> 01:36:23.000
+necessary please share this stream
+
+01:36:23.000 --> 01:36:25.000
+with everybody that you know
+
+01:36:25.000 --> 01:36:27.000
+because intramuscular injection
+
+01:36:27.000 --> 01:36:29.000
+of any combination of substances
+
+01:36:29.000 --> 01:36:31.000
+with the intent of augmenting
+
+01:36:31.000 --> 01:36:33.000
+the immune system is dumb
+
+01:36:33.000 --> 01:36:35.000
+transfection in healthy humans
+
+01:36:35.000 --> 01:36:37.000
+is criminally negligent
+
+01:36:37.000 --> 01:36:39.000
+and viruses are not patterned
+
+01:36:39.000 --> 01:36:41.000
+integrity
+
+01:36:41.000 --> 01:36:43.000
+this has been a presentation
+
+01:36:43.000 --> 01:36:45.000
+of the independent bright web
+
+01:36:45.000 --> 01:36:47.000
+psychological
+
+01:36:47.000 --> 01:36:49.000
+that's a website
+
+01:36:49.000 --> 01:36:51.000
+and there you can find ways to support the stream
+
+01:36:51.000 --> 01:36:53.000
+including a one-time donation
+
+01:36:53.000 --> 01:36:55.000
+or a regular subscription
+
+01:36:55.000 --> 01:36:57.000
+if you do tend to subscribe
+
+01:36:57.000 --> 01:36:59.000
+and you become like a producer
+
+01:36:59.000 --> 01:37:01.000
+or a collaborator
+
+01:37:01.000 --> 01:37:03.000
+there are other ways that we can make that
+
+01:37:03.000 --> 01:37:05.000
+worth your while including
+
+01:37:05.000 --> 01:37:07.000
+me giving a private zoom
+
+01:37:07.000 --> 01:37:09.000
+conversation to your family and friends
+
+01:37:09.000 --> 01:37:11.000
+your work whenever you want
+
+01:37:11.000 --> 01:37:13.000
+there's lots of ways that we can make that
+
+01:37:13.000 --> 01:37:15.000
+and if you want to give on biologicals
+
+01:37:15.000 --> 01:37:17.000
+my website
+
+01:37:17.000 --> 01:37:19.000
+if you want to support
+
+01:37:19.000 --> 01:37:21.000
+please go there and do it
+
+01:37:21.000 --> 01:37:23.000
+it's not going to go to waste
+
+01:37:23.000 --> 01:37:25.000
+I've got a lot of work planned
+
+01:37:25.000 --> 01:37:27.000
+and 2024 is going to be a new level
+
+01:37:27.000 --> 01:37:29.000
+of giggle and biological
+
+01:37:29.000 --> 01:37:31.000
+I'd love you to be a part of it
+
+01:37:31.000 --> 01:37:33.000
+again you can watch the stream
+
+01:37:33.000 --> 01:37:35.000
+there you can also starting next week
+
+01:37:35.000 --> 01:37:37.000
+you're going to be able to download the
+
+01:37:37.000 --> 01:37:39.000
+stream deck every Thursday
+
+01:37:39.000 --> 01:37:41.000
+and it'll be a deck that corresponds
+
+01:37:41.000 --> 01:37:43.000
+every week
+
+01:37:43.000 --> 01:37:45.000
+the schedule is usually updated
+
+01:37:45.000 --> 01:37:47.000
+and again if you want to subscribe
+
+01:37:47.000 --> 01:37:49.000
+it's down here on the bottom
+
+01:37:49.000 --> 01:37:51.000
+there's also a phone number to call there
+
+01:37:51.000 --> 01:37:53.000
+if you'd like to leave a voice message
+
+01:37:53.000 --> 01:37:55.000
+and I'd love to play it on the air
+
+01:37:55.000 --> 01:37:57.000
+so please do it. Thanks for joining me
+
+01:37:57.000 --> 01:37:59.000
+and I'll see you guys again tomorrow
+
