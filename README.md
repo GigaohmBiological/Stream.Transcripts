@@ -10,7 +10,7 @@ The purpose of this repo is to place AI generate captions in one location for ea
 All transcripts will be
 - [twitch](twitch) - from http://twitch.tv/gigaohmbiological
 - [youtube](youtube) - from [JC on a Bike (channel)](https://www.youtube.com/@JConabike)
-- [guest.speaker](guest.speaker) - from various
+- [guest.speaking](guest.speaking) - from various
 
 Other folders:
 - [tools](tools) - tools and scripts
