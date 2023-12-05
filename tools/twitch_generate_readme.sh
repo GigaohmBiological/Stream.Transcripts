@@ -18,13 +18,13 @@ while (( "$#" )); do
 done
 
 for ((i = 0; i < ${#folders[@]}; i++)); do
-	base="${folders[$i]}"
+    base="${folders[$i]}"
 
-	echo Processing: $base
+    echo Processing: $base
 
     id="$(cut -d' ' -f1 <<< "$base")"
     IFS=',' read -r -a ids <<< "${id}"
-    stream="$(echo $base | cut -d' ' -f4- | cut -d'[' -f1)"
+    stream="$(echo $base | cut -d' ' -f4- | cut -d'[' -f1 | sed 's:/*$::')"
 
     printf "\n id: $id \n stream: $stream \n\n"
 
@@ -37,7 +37,7 @@ for ((i = 0; i < ${#folders[@]}; i++)); do
     printf -v contents "${contents}# $stream\n\n"
     printf -v contents "${contents}## Streams\n"
     for u in ${ids[@]}; do
-        url="- https://twitch.tv/videos/$u"
+        url="https://twitch.tv/videos/$u"
         echo "Generating stream link: $url"
         printf -v contents "${contents}- $url\n"
     done
