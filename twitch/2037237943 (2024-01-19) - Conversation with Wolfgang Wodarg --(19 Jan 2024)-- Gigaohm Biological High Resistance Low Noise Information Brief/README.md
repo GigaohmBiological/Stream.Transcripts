@@ -1,0 +1,5 @@
+# Conversation with Wolfgang Wodarg --(19 Jan 2024)-- Gigaohm Biological High Resistance Low Noise Information Brief
+
+## Streams
+- https://twitch.tv/videos/2037237943
+
