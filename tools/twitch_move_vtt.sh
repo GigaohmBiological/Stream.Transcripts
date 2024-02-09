@@ -31,8 +31,13 @@ for ((i = 0; i < ${#files[@]}; i++)); do
 
     id="$(cut -d' ' -f1 <<< "$base")"
     date="$(echo $base | cut -d'[' -f2 | cut -d']' -f1 | cut -d' ' -f3)"
+    
     stream="$(echo $base | cut -d' ' -f3- | cut -d'[' -f1)"
-    stream="${stream/"Brief "/"Gigaohm Biological High Resistance Low Noise Information Brief"}"
+    # Strip unnecessary dettails.
+    stream="${stream/"-- Brief "/""}"
+    # Trim trailing spaces
+    stream="${stream%"${stream##*[![:space:]]}"}"
+
 	folder="${id} (${date}) - ${stream}"
 	target="${folder}${suffix}.vtt"
 

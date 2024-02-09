@@ -25,6 +25,7 @@ for ((i = 0; i < ${#folders[@]}; i++)); do
     id="$(cut -d' ' -f1 <<< "$base")"
     IFS=',' read -r -a ids <<< "${id}"
     stream="$(echo $base | cut -d' ' -f4- | cut -d'[' -f1 | sed 's:/*$::')"
+    suffix=" -- Gigaohm Biological High Resistance Low Noise Information Brief"
 
     printf "\n id: $id \n stream: $stream \n\n"
 
@@ -34,7 +35,7 @@ for ((i = 0; i < ${#folders[@]}; i++)); do
     fi
 
     contents=""
-    printf -v contents "${contents}# $stream\n\n"
+    printf -v contents "${contents}# ${stream}${suffix}\n\n"
     printf -v contents "${contents}## Streams\n"
     for u in ${ids[@]}; do
         url="https://twitch.tv/videos/$u"
