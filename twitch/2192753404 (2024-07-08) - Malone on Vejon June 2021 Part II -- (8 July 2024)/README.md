@@ -1,4 +1,4 @@
-# Malone on Vejon June 2020 II -- (8 July 2024) -- Gigaohm Biological High Resistance Low Noise Information Brief
+# Malone on Vejon June 2021 Part II -- (8 July 2024) -- Gigaohm Biological High Resistance Low Noise Information Brief
 
 ## Streams
 - https://twitch.tv/videos/2192753404
