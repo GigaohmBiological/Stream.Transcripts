@@ -1,4 +1,4 @@
-# Calling the Shots 2017 (NOVA) -- (8 Aug 2024) -- Gigaohm Biological High Resistance Low Noise Information Brief
+# Calling the Shots 2014 (NOVA) -- (8 Aug 2024) -- Gigaohm Biological High Resistance Low Noise Information Brief
 
 ## Streams
 - https://twitch.tv/videos/2219034688
