@@ -5,3 +5,5 @@
 - https://stream.gigaohm.bio/w/u2YSqxKAdGpLodh7urdkLd
 - https://rumble.com/v5aba1h-gigaohm-biological-high-resistance-low-noise-information-brief.html
 
+_Note: Peertube stream is missing ~8:10 m of video+audio from the 2:20 m mark._
+
