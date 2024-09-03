@@ -1,0 +1,1484 @@
+WEBVTT
+
+00:37.510 --> 00:37.891
+The End
+
+01:04.099 --> 01:05.440
+Good afternoon, it's 1313.
+
+01:05.600 --> 01:10.762
+I think I'm online and I think we're back here for Uncertainty 101.
+
+01:10.823 --> 01:12.924
+We're just going to get started right away.
+
+01:12.984 --> 01:19.387
+This is the second half of understanding life as a pattern, integrity, and understanding how science is broken.
+
+01:20.768 --> 01:26.851
+As I said earlier this morning, I'm going to use the work of William Briggs,
+
+01:27.822 --> 01:45.058
+that is posted on Substack and Rumble and YouTube and elsewhere, a friend of mine who I met over the last couple of years through the Broken Science Initiative, who I think has an excellent take on David Stove's work and this excellent take on the rationality of induction.
+
+01:45.098 --> 01:52.245
+And so I think that's what we're really gonna be focused on on the afternoons and Tuesdays and Thursdays for the coming few weeks.
+
+01:53.524 --> 02:16.128
+I'm very excited to see what I can contribute to sort of distilling these ideas down in parallel with this, again, understanding life as a pattern integrity and how that changes the way that we think about that, about how we teach biology and then how we teach science to our kids, I think is going to be reflected in this combination as well.
+
+02:17.309 --> 02:18.110
+So thanks very much.
+
+02:18.411 --> 02:35.648
+I don't see anybody here, but I'm just gonna keep going and and switch over here See if I can put my that's the wrong one this one and See what we've got here Now I need my head out of the way anyway
+
+02:41.496 --> 02:43.516
+All right, here we go, my friends.
+
+02:43.797 --> 02:53.399
+We're finally going to do this class, which I'm titling Uncertainty, or Uncertainty and Probability Theory.
+
+02:53.859 --> 03:00.220
+The uncertainty comes from my book, and also the probability theory comes from Jane's.
+
+03:00.900 --> 03:05.421
+It's a very heavy book, thick, solid paper.
+
+03:05.561 --> 03:06.802
+You know you're really going to get something.
+
+03:09.549 --> 03:13.111
+We're also going to use the works of David Stove and the Rationality of Induction.
+
+03:13.491 --> 03:15.352
+I'll flash that book up when we come to it.
+
+03:15.993 --> 03:18.054
+Now, how to best do this class, I haven't a clue.
+
+03:18.094 --> 03:21.616
+I thought about it a long time, and I figured out I have no idea.
+
+03:22.817 --> 03:24.277
+So I'm going to run these lectures.
+
+03:24.297 --> 03:25.538
+I'm going to run these videos.
+
+03:26.519 --> 03:37.605
+And it's, you know, I'm talking to a screen, and I don't do as good when I'm not talking to an audience, because when I see the audience, I can see the mystification and the puzzlement
+
+03:38.718 --> 04:07.610
+their faces and I know when I'm saying something too fast too slow or too complex or I'm not making making sense something like this I don't have that ability to do that here so we're gonna have to rely on me guessing what you like you can leave comments to these videos wherever you see the video and I'll look at those comments I'll read them all and I will answer the best ones next week's blog
+
+04:08.539 --> 04:13.303
+And in next week's video, not the best ones, the ones I think are the most compelling or something like this.
+
+04:14.364 --> 04:15.886
+I don't know how else to do it.
+
+04:15.906 --> 04:19.188
+I mean, you can also email me comments, that kind of a thing.
+
+04:20.089 --> 04:25.894
+I simply won't have time to answer every comment individually if there turn out to be a lot of them.
+
+04:25.914 --> 04:27.716
+If there's only one or two, then it's no problem.
+
+04:31.167 --> 04:35.929
+As far as signing up goes to the class, that kind of thing, we'll figure it out.
+
+04:36.249 --> 04:37.750
+There's going to be some homeworks.
+
+04:37.950 --> 04:40.952
+I'm going to give you one at the end of this particular lecture.
+
+04:42.172 --> 04:45.033
+And you have your go at it, see how you do.
+
+04:45.234 --> 04:48.115
+And I'll answer it in the next video.
+
+04:48.495 --> 04:50.676
+Unless it's so easy, I don't think it's worth answering.
+
+04:50.736 --> 04:51.997
+I think that's the case today.
+
+04:52.077 --> 04:52.477
+We'll see.
+
+04:54.175 --> 04:54.936
+And we'll go from there.
+
+04:55.736 --> 04:59.038
+Whether or not there'll be projects and so forth, we'll just have to figure out.
+
+04:59.078 --> 05:06.223
+Whether there can be a sign-up, maybe I can make a sign-up database or something like this, just for your own sake, to make sure you stay on track.
+
+05:06.243 --> 05:07.684
+Well, we'll see.
+
+05:08.045 --> 05:08.265
+All right.
+
+05:08.865 --> 05:09.846
+So we're going to start trivially.
+
+05:09.926 --> 05:11.967
+This is uncertainty.
+
+05:12.027 --> 05:15.230
+If there's uncertainty, well, we must also have certainty, in which there is.
+
+05:15.790 --> 05:17.952
+And that involves matters of truth and all that.
+
+05:18.232 --> 05:19.953
+And we're not going to get into that today.
+
+05:20.013 --> 05:20.754
+We will get into it.
+
+05:21.876 --> 05:23.717
+We're going to let all that kind of stuff float today.
+
+05:23.777 --> 05:25.357
+Today is kind of like a teaser course.
+
+05:25.377 --> 05:28.558
+We're going to start with something very simple, even trivial.
+
+05:29.959 --> 05:30.359
+Logic.
+
+05:31.139 --> 05:37.681
+And because most people think that logic is the epitome of rational thought, but it's not true.
+
+05:38.641 --> 05:39.302
+It's not so.
+
+05:39.402 --> 05:40.762
+Logic is not the epitome.
+
+05:41.082 --> 05:49.365
+In fact, logic, and I'm going to give you some teasers to this today, logic is based on even more fundamental thought.
+
+05:50.393 --> 05:56.859
+which is our intuitions, our inductions, our faith even.
+
+05:56.879 --> 06:05.647
+And it's going to turn out there's at least five different kinds of induction that we use that provide these basic truths.
+
+06:05.687 --> 06:08.890
+And I'm going to prove that to you a little bit today, not entirely, but a little bit.
+
+06:10.211 --> 06:11.913
+Also, we're going to use math eventually.
+
+06:11.993 --> 06:15.656
+I try to keep away from that on the blog, but there's no getting away from it here.
+
+06:15.736 --> 06:16.537
+I'll try to still
+
+06:18.309 --> 06:21.231
+de-emphasize it as I'll explain why in this lecture.
+
+06:21.791 --> 06:23.393
+So today is just to give you a taste.
+
+06:23.693 --> 06:25.354
+Now I want to orient this towards science.
+
+06:25.955 --> 06:31.720
+Our primary interest is in the kind of like a philosophy of science, although the techniques here of course apply anywhere.
+
+06:32.781 --> 06:34.422
+We're primarily interested in science.
+
+06:34.942 --> 06:36.884
+I'm not going to do any science for you.
+
+06:36.924 --> 06:41.748
+You're going to do it on your own in whatever fields or applications that you're interested in.
+
+06:41.928 --> 06:43.870
+I'm going to do these apparatus
+
+06:44.831 --> 06:53.240
+that allow us to think about what we know, about what we're uncertain of, and how to quantify, if we can, that uncertainty, which leads to probability.
+
+06:53.800 --> 06:58.605
+And then the practice of probability models is usually called statistics.
+
+06:59.426 --> 07:01.208
+So we're going to go through all that kind of a thing.
+
+07:03.356 --> 07:04.297
+And let's start simple.
+
+07:04.357 --> 07:05.958
+So I'm gonna start with James.
+
+07:06.638 --> 07:13.222
+I'm gonna start with James We're gonna start in his chapter one and next week or something like this We'll probably move to my book and back and forth.
+
+07:13.262 --> 07:19.766
+We'll jump around and I'll take stuff in order but Which I hope you could follow.
+
+07:20.146 --> 07:28.030
+James you can find online at least some of the chapters because this book was published posthumously by a student of James, E.T.
+
+07:28.091 --> 07:28.351
+James
+
+07:29.862 --> 07:33.384
+He passed these around back in the old Usenet days.
+
+07:34.145 --> 07:41.731
+We used to have postscript files of individual chapters that we passed around back in grad school and so forth.
+
+07:42.431 --> 07:43.973
+But they were never assigned as a course.
+
+07:44.013 --> 07:48.276
+And I don't know how many courses in actual statistics departments.
+
+07:49.892 --> 07:52.073
+Now this damn computer keeps falling asleep on me.
+
+07:52.333 --> 07:54.353
+I've tried every setting there is to keep it awake.
+
+07:54.793 --> 07:55.353
+It won't do it.
+
+07:55.413 --> 08:00.415
+So if I have to dodge over there every five minutes or so, forgive me.
+
+08:00.515 --> 08:03.456
+And I'm not going to edit me dodging out there because I'm too lazy.
+
+08:04.516 --> 08:05.116
+And I don't know how.
+
+08:05.756 --> 08:06.837
+So let's start very simple.
+
+08:07.237 --> 08:08.177
+Let's start very simple.
+
+08:08.477 --> 08:14.439
+In my book, too, you can kind of find online in places, but I'll give you what you need and post excerpts and all that kind of thing.
+
+08:17.657 --> 08:18.599
+Let's start very simply.
+
+08:18.639 --> 08:19.561
+We have a proposition.
+
+08:20.202 --> 08:21.405
+A, I'm going to call it a proposition.
+
+08:21.425 --> 08:25.052
+This is just some sentence in whichever language you prefer.
+
+08:25.072 --> 08:27.497
+You know, this A can be
+
+08:28.322 --> 08:33.244
+the proposition that this chalk is yellow, or it could be that this chalk is black.
+
+08:33.344 --> 08:35.465
+That's a false proposition.
+
+08:35.625 --> 08:37.886
+This one is going to be out of sync, but the rest of them are.
+
+08:37.926 --> 08:40.647
+Remember, he just started and did it just like he described.
+
+08:40.687 --> 08:41.867
+So give him a little credit.
+
+08:41.887 --> 08:44.028
+He gets much better as the videos go on.
+
+08:44.108 --> 08:47.469
+So I'm really thankful that he started.
+
+08:47.509 --> 08:49.090
+I think he's on episode 18 now.
+
+08:49.130 --> 08:55.292
+I just put the link in there so you can get the book and you can find where all these classes are if you want to get ahead or you want to repeat it or whatever.
+
+08:55.852 --> 08:57.274
+You don't have to do it with me.
+
+08:57.334 --> 09:00.777
+You can do it directly on his website or on his sub stack.
+
+09:15.558 --> 09:24.321
+the proposition that this chalk is yellow, or it could be that this chalk is black, and that's a false proposition based on the observation that it's yellow.
+
+09:25.682 --> 09:31.504
+You know, anything we like as a proposition here, that's what we're going to first assume.
+
+09:32.245 --> 09:34.866
+We're going to subjectively choose this proposition.
+
+09:35.406 --> 09:38.647
+Aha, so there's subjectivity coming involved right now.
+
+09:39.207 --> 09:43.209
+Now, what can we conclude from taking this proposition A is true?
+
+09:45.265 --> 09:53.732
+We're going to use this form of logical notation, which means, therefore, we're going to conclude A is true.
+
+09:54.213 --> 09:55.794
+OK, wow, what have we done?
+
+09:56.194 --> 09:57.496
+Well, we've said that A is true.
+
+09:57.516 --> 09:58.436
+And what can we conclude?
+
+09:58.537 --> 09:59.477
+Well, that A is true.
+
+10:00.078 --> 10:02.460
+And we think, how wonderful this is, how simple.
+
+10:02.980 --> 10:05.082
+But how can you prove this?
+
+10:06.123 --> 10:07.024
+You can't prove it.
+
+10:07.244 --> 10:08.065
+You have to assume it.
+
+10:09.422 --> 10:16.050
+It's one of these things that is an axiom of logic we're going to base it on.
+
+10:16.391 --> 10:28.565
+And axioms themselves are based on deeper modes of thought, these inductions, these intellections, these intuitions, these faiths that we have.
+
+10:29.437 --> 10:33.259
+So this very simple thing right here has already proven at least two things.
+
+10:33.619 --> 10:37.260
+That it's partly subjective logic, because we picked this proposition.
+
+10:37.941 --> 10:42.723
+We can use rational thought to conclude that A is itself true because A is true.
+
+10:44.724 --> 10:53.747
+And the reason we know it's true is not based on any proofs other than proofs based on our intuition, which we'll come to again.
+
+10:53.988 --> 10:57.189
+Now also, there's one more thing I forgot to say.
+
+10:58.649 --> 11:03.874
+that A is true, given we assume A is true, is objectively rigorous.
+
+11:04.615 --> 11:05.916
+It's objectively rigorous.
+
+11:06.216 --> 11:07.878
+It is in no way subjective.
+
+11:08.459 --> 11:15.706
+Once we have set this equation up, that's what this is, is an equation, we are forced to conclude that A is true.
+
+11:16.086 --> 11:22.192
+We cannot conclude subjectively that C is true, where C does not equal A.
+
+11:24.056 --> 11:26.738
+All right, so there's subjectivity in the initial parts.
+
+11:27.178 --> 11:39.006
+There's rigorous objectivity in the moves that we make, the logical moves that we make, because logic is only the science of connections of propositions.
+
+11:39.506 --> 11:41.648
+The propositions themselves are subjective.
+
+11:41.688 --> 11:43.709
+The connections are objective.
+
+11:44.349 --> 11:49.133
+And the reason we can work these simple proofs is because of our intuitions.
+
+11:49.453 --> 11:50.714
+So right there, we've done a lot.
+
+11:51.533 --> 11:57.118
+That's kind of a teaser about what we're going to see and we're going to be able to draw a probability from this today.
+
+11:57.378 --> 12:01.982
+So now let's move, this isn't in Janes, I'm going to now move to the simplest one which is in Janes.
+
+12:03.663 --> 12:07.707
+Here is a logical equation if you like.
+
+12:15.233 --> 12:16.775
+Well this is where we'll start with a premise here.
+
+12:21.337 --> 12:22.938
+A premise, I made it up.
+
+12:25.019 --> 12:26.500
+A condition, an assumption.
+
+12:28.241 --> 12:32.983
+It says if the proposition A is true, then the proposition B is true.
+
+12:33.003 --> 12:37.426
+And this is a shorthand way of writing it, so I don't have to write out is true, is true.
+
+12:38.406 --> 12:40.047
+It's just a pain to keep writing out.
+
+12:40.087 --> 12:45.230
+So you, as the watcher and the listener to this, have to keep this in mind.
+
+12:45.811 --> 12:47.311
+If A is true, then B is true.
+
+12:48.112 --> 12:49.593
+Why is this important?
+
+12:49.633 --> 12:50.153
+I made it up.
+
+12:51.240 --> 12:52.961
+That's all I'm saying is I made it up.
+
+12:53.001 --> 12:55.081
+Here's the subjective part of logic right here.
+
+12:55.822 --> 12:57.682
+So I can say one other thing.
+
+12:57.722 --> 12:59.903
+Let's say A is true.
+
+13:01.284 --> 13:02.204
+What can we conclude?
+
+13:03.445 --> 13:08.827
+Well, since Aristotle, we all know we can conclude that B is true.
+
+13:09.187 --> 13:11.408
+Because we said if A is true, then B is true.
+
+13:13.228 --> 13:16.069
+And we assumed, subjectively, that A is true.
+
+13:16.669 --> 13:20.491
+Therefore, we can rigorously, objectively conclude that B is true.
+
+13:21.141 --> 13:24.904
+So we have our subjectivity and our objectivity mixed in here again.
+
+13:26.385 --> 13:27.666
+Now, you could prove this.
+
+13:28.407 --> 13:33.051
+This is something that can be proved based on those initial assumptions that come from our intuition.
+
+13:33.171 --> 13:36.793
+Using rules of logic, we can use things called truth tables.
+
+13:37.314 --> 13:38.515
+Maybe I'll get into those.
+
+13:40.168 --> 13:41.189
+dumb computer anyway.
+
+13:41.709 --> 13:52.255
+Maybe I'll show you some truth tables and there's also this kind of line by line you write all this stuff out in a very formal way and you prove these kind of things and that's all fine.
+
+13:52.475 --> 13:54.036
+There's nothing wrong with those things.
+
+13:54.056 --> 13:57.778
+There's nothing wrong with those methods whatsoever and they can be very useful and in fact are.
+
+13:58.902 --> 14:04.926
+But they can lead to the reification of the symbols themselves.
+
+14:05.166 --> 14:09.088
+This happens all the time, especially in math, and James goes into this later.
+
+14:09.148 --> 14:10.509
+I go into it a little bit too.
+
+14:12.310 --> 14:20.115
+The symbols, because they're so great, become realer than the underlying entities that we originally had an interest in.
+
+14:21.238 --> 14:24.681
+Our original interest was in these propositions A and B. That's it.
+
+14:25.181 --> 14:27.783
+And we wanted to know what relations they had with one another.
+
+14:28.264 --> 14:30.746
+We didn't care about the actual logic itself.
+
+14:30.786 --> 14:33.068
+We wanted to know what they said about the propositions.
+
+14:33.428 --> 14:35.229
+But if we're not careful, we could forget things.
+
+14:35.870 --> 14:39.113
+And I'm going to show you exactly how now.
+
+14:40.013 --> 14:41.394
+So there's other ways we could prove this.
+
+14:41.655 --> 14:44.877
+And I'm going to use a really simple graphical way here.
+
+14:45.198 --> 14:48.100
+And this symbol is also used formally in logic.
+
+14:48.140 --> 14:50.622
+I'm going to expropriate it and show you.
+
+14:51.189 --> 15:07.204
+So we're going to say A, draw this little arrow here, which has a meaning in logic, but I'm going to steal it and overload it, as they say, by writing this little always underneath right there.
+
+15:08.746 --> 15:12.449
+So it's always the case that if A is true, then B is true.
+
+15:13.350 --> 15:14.271
+We're just going to assume that.
+
+15:15.993 --> 15:17.798
+So if A is true, then B is true.
+
+15:17.839 --> 15:18.641
+That's our assumption.
+
+15:18.721 --> 15:19.604
+And then A is true.
+
+15:19.644 --> 15:21.048
+Well, it's always true that B is true.
+
+15:21.248 --> 15:23.214
+So here is our simple graphical proof.
+
+15:24.599 --> 15:25.219
+It's trivial.
+
+15:25.680 --> 15:26.881
+It's nothing.
+
+15:27.181 --> 15:43.832
+We haven't gained much by doing this, except for learning again that there's subjectivity in picking these things, objectivity in the way we formally make our proofs, and the initial proofs are based on axiom which we get from our intuitions.
+
+15:44.473 --> 15:44.793
+Okay.
+
+15:45.093 --> 15:47.575
+And we can use these alternate ways of looking at things.
+
+15:48.755 --> 15:49.056
+Okay.
+
+15:49.376 --> 15:50.397
+Let's look at the second one.
+
+15:50.417 --> 15:53.759
+I'm looking for my eraser, which I stuck here.
+
+15:54.395 --> 15:54.595
+All right.
+
+16:10.059 --> 16:12.740
+We have a sophisticated operation here, only the best.
+
+16:13.140 --> 16:18.082
+I got this sidewalk chalk for the grandkids and I find it works out pretty well for this board.
+
+16:18.122 --> 16:19.282
+I hope you can see it anyway.
+
+16:19.302 --> 16:21.243
+Okay.
+
+16:23.240 --> 16:27.221
+Well, we have our old friendly initial premise that we assumed.
+
+16:27.281 --> 16:28.441
+If A is true, then B is true.
+
+16:28.481 --> 16:29.322
+We haven't changed that.
+
+16:29.902 --> 16:31.482
+Now we're going to assume that B is false.
+
+16:32.883 --> 16:33.483
+What can we say?
+
+16:34.903 --> 16:37.044
+Well, we're going to say that A is false.
+
+16:39.424 --> 16:43.065
+But we've done something else here, even in the first one.
+
+16:43.125 --> 16:44.265
+I didn't show it in the first one.
+
+16:44.626 --> 16:48.066
+But we have all kind of tacit premises that are going on in here.
+
+16:48.467 --> 16:50.067
+There are tacit, implicit premises.
+
+16:53.789 --> 16:57.151
+That's the premises, like, let me write them down here.
+
+16:57.751 --> 17:01.273
+The grammar, the definitions.
+
+17:01.813 --> 17:03.214
+You know what the word if means.
+
+17:03.634 --> 17:05.074
+You know what the word than means.
+
+17:05.094 --> 17:06.435
+You know what the word false means.
+
+17:06.755 --> 17:08.116
+You know what the word therefore means.
+
+17:08.156 --> 17:10.737
+You know what they mean in the order that they're given.
+
+17:11.137 --> 17:14.079
+So we have the definitions of the words, we have the grammar.
+
+17:15.099 --> 17:16.500
+All of that is in this equation.
+
+17:17.625 --> 17:19.286
+although we don't write it in this equation.
+
+17:19.506 --> 17:25.208
+And we can even write it in more compact form by using, you know, there's more compact symbology we could use.
+
+17:25.648 --> 17:29.090
+And all that tacit stuff gets blown away, we forget it's there.
+
+17:29.730 --> 17:37.733
+But when we write it out in full English form, which I didn't here, I wrote a shorthand, James writes it even longer, we forget that those tacit premises are there.
+
+17:38.154 --> 17:38.814
+These are here.
+
+17:40.034 --> 17:43.836
+And these premises are just as important as the ones we wrote here.
+
+17:45.126 --> 17:47.528
+that can't be emphasized too strongly.
+
+17:47.628 --> 17:51.590
+Even though it seems trivial, this is going to play a very huge role.
+
+17:52.310 --> 17:52.691
+All right?
+
+17:52.711 --> 17:53.551
+So all that's there.
+
+17:55.112 --> 18:05.658
+And the reason is, which we're going to learn in just a second, or emphasize again in a second, is because we've made a tacit assumption here that maybe you don't see.
+
+18:06.799 --> 18:09.461
+This is a well-known syllogism.
+
+18:09.521 --> 18:11.542
+I'm not going to bore us with it too much.
+
+18:11.602 --> 18:13.863
+But if A is true, then B is true.
+
+18:13.963 --> 18:14.584
+B is false.
+
+18:14.984 --> 18:15.825
+Therefore a is false.
+
+18:15.865 --> 18:16.945
+Everybody will nod their head.
+
+18:16.985 --> 18:17.205
+Yeah.
+
+18:17.245 --> 18:17.806
+Yeah, that's right.
+
+18:17.826 --> 18:18.186
+That's right.
+
+18:18.406 --> 18:41.839
+But why well, we could go to a truth table But that's not getting us to the reason why that's not getting us to the reason why so pause the video and think about it For a moment without thinking about the formal proofs and everything and then i'll get to it in the next example Okay, so i'm pausing it for you because I don't know the answer to this um, I don't know what the tacit assumption is that b
+
+18:43.300 --> 18:53.602
+is dependent on A. I mean, I guess if A, there might be some interdependency there that's assumed that isn't implied or whatever by the original assumption, something like that.
+
+18:53.662 --> 18:53.962
+I don't know.
+
+18:54.282 --> 18:54.382
+OK.
+
+18:55.862 --> 18:56.462
+I didn't pause.
+
+18:56.522 --> 18:59.323
+I just made it slow motion, stopped it, and make it look like it paused.
+
+18:59.343 --> 18:59.963
+Very dramatic.
+
+19:00.423 --> 19:02.323
+I got only the best special effects here.
+
+19:04.284 --> 19:05.344
+I actually paused here.
+
+19:05.564 --> 19:06.944
+Freeze up every five minutes.
+
+19:07.044 --> 19:08.044
+Piece of junk anyway.
+
+19:08.685 --> 19:08.985
+All right.
+
+19:13.698 --> 19:20.343
+I want to make sure I stick with Jane's because in case you are reading the book, I don't want to jump around too much.
+
+19:21.163 --> 19:21.904
+Okay.
+
+19:28.748 --> 19:30.349
+I wrote an A over there for a purpose.
+
+19:31.470 --> 19:37.834
+Now, if A is true, then B, our friendly premise that we start with, and we're going to assume B is true.
+
+19:39.093 --> 19:42.336
+And we're going to try to conclude that A is true.
+
+19:43.017 --> 19:47.041
+And everybody will say, without any familiarity with this, no, we can't say that.
+
+19:47.061 --> 19:48.883
+And it's true, you can't.
+
+19:49.063 --> 19:49.924
+This is a fallacy.
+
+19:50.625 --> 19:51.126
+But why?
+
+19:51.986 --> 19:58.153
+Well, you'll read some books and everything, and they'll give you an example why A is true, then if B is true, that A
+
+20:00.385 --> 20:02.247
+is true does not follow.
+
+20:02.747 --> 20:11.055
+It may be true in some way or another that A is in fact a true premise, but we can't conclude it using logic from these premises.
+
+20:11.255 --> 20:14.418
+We cannot draw this conclusion from these premises.
+
+20:15.739 --> 20:16.220
+But why?
+
+20:17.120 --> 20:19.663
+Well, we could use a truth table, but that's not going to give us anything.
+
+20:20.672 --> 20:27.658
+It's because we think to ourselves, and when we give an example, or examples are given of this, we think, well, you know what?
+
+20:28.259 --> 20:30.621
+A is not the only way that B can be true.
+
+20:30.961 --> 20:36.085
+It is true that if A, then B, that's our assumption.
+
+20:36.446 --> 20:48.296
+This just means if A, then B. But it also could be that some C is true, and therefore B, or some D is true, or some
+
+20:50.259 --> 20:57.907
+B is true and then B. We reason this way without writing down these tacit.
+
+20:58.487 --> 21:02.051
+These are more tacit premises right here.
+
+21:02.932 --> 21:03.772
+We don't write them down.
+
+21:03.953 --> 21:04.433
+They're there.
+
+21:04.513 --> 21:09.198
+That's how we come up with counter examples to this particular thing to prove it's a fallacy.
+
+21:11.400 --> 21:12.141
+Perfectly fine.
+
+21:13.294 --> 21:16.317
+Except when we get lost, we forget we have some power here.
+
+21:16.657 --> 21:22.342
+We've just given ourselves a lot of boost by writing it down formally like this.
+
+21:24.043 --> 21:30.689
+For one thing, we can say it can't be that A is true, because it could be that C is true, or D is true, or E is true, or one of these other propositions.
+
+21:31.509 --> 21:37.795
+But we could turn this fallacy into a logical syllogism with a true conclusion by doing this.
+
+21:48.092 --> 21:49.113
+A is more plausible.
+
+21:51.394 --> 21:52.715
+So if A is true, B is true.
+
+21:53.556 --> 21:56.017
+We know B is true, now A is not true.
+
+21:56.918 --> 22:00.200
+Can't conclude it, but we can conclude A is more plausible.
+
+22:00.460 --> 22:00.861
+And how?
+
+22:00.941 --> 22:02.222
+What proof can we use for that?
+
+22:02.582 --> 22:04.123
+Well, we just had it right here.
+
+22:05.504 --> 22:08.706
+We know that A is one of the ways that B can be true.
+
+22:09.286 --> 22:11.007
+C is one of the ways that D can be true.
+
+22:11.248 --> 22:15.971
+D or E, whatever the set we have that we're imagining, it's there.
+
+22:16.829 --> 22:17.949
+Now, A is among them.
+
+22:19.270 --> 22:25.531
+So therefore, if B is true, then A is more plausible.
+
+22:27.971 --> 22:33.492
+There's also, if I can write this symbol if you don't mind, there's a whole world of propositions out there.
+
+22:33.512 --> 22:38.033
+There's an infinite number of propositions, which I'll just label W1, W2, W3, YW, words.
+
+22:42.602 --> 22:47.904
+There's all these other propositions that are not in this set that we can apply B from.
+
+22:49.204 --> 22:53.926
+So A is in this set we can apply B from, and that we know B is true.
+
+22:54.466 --> 22:57.507
+Therefore, A is indeed more plausible.
+
+22:58.327 --> 23:02.268
+We have just proved, well, what have we proved?
+
+23:03.029 --> 23:05.149
+What's a synonym for plausible?
+
+23:07.930 --> 23:09.931
+Likely, A is more likely.
+
+23:11.055 --> 23:11.816
+More likely than what?
+
+23:11.876 --> 23:16.681
+More likely than any of these propositions here, this infinite set of propositions here.
+
+23:17.062 --> 23:18.323
+And what's a synonym for likely?
+
+23:19.104 --> 23:20.486
+Well, probability.
+
+23:21.334 --> 23:22.434
+A is more probable.
+
+23:23.035 --> 23:33.339
+In other words, we have just made a probabilistic conclusion, a probabilistic syllogism right here, so probability is a matter of logic.
+
+23:33.699 --> 23:35.020
+Probability is logical.
+
+23:35.560 --> 23:38.461
+It's no different than regular logic at all.
+
+23:39.101 --> 23:44.904
+It's just yet, it's the expansion of logic until we're to conclusions where we're not certain.
+
+23:45.124 --> 23:46.724
+We are uncertain about this.
+
+23:47.505 --> 23:50.266
+We're certain about this conclusion, we're not certain about
+
+23:51.633 --> 23:53.395
+the conclusion A by itself.
+
+23:55.178 --> 23:55.778
+So there we go.
+
+23:56.339 --> 23:56.700
+That's it.
+
+23:57.420 --> 24:00.364
+We've just proved that probability is a matter of logic.
+
+24:00.484 --> 24:01.866
+And of course, it's not a complete proof.
+
+24:01.906 --> 24:03.408
+I'm just teasing this right today.
+
+24:04.369 --> 24:05.551
+Before we get too far into this.
+
+24:06.260 --> 24:09.861
+I want to make sure we understand that this is not causality.
+
+24:09.921 --> 24:11.022
+Logic is not cause.
+
+24:11.482 --> 24:14.743
+Although, when we know cause, we also have logic.
+
+24:14.843 --> 24:16.304
+It doesn't go the other way around, though.
+
+24:16.624 --> 24:21.606
+So, for instance, assume that A is rain.
+
+24:21.726 --> 24:23.186
+This is the example James used.
+
+24:25.907 --> 24:29.669
+Rain, and B is clouds.
+
+24:32.432 --> 24:39.277
+If it's raining, then it's cloudy, lest the devil's beating his wife, if you understand that bit of humor.
+
+24:40.037 --> 24:41.859
+You can laugh, feel free, I can't hear you.
+
+24:43.420 --> 24:44.200
+Rain and clouds.
+
+24:44.721 --> 24:55.288
+Well, obviously, the clouds are part of the causal reason that it's raining, because you get the moisture, the precipitation comes out of the clouds, cloud condensation, nuclei, and all this kind of stuff.
+
+24:56.829 --> 24:59.631
+So, we can get logically true,
+
+25:00.521 --> 25:05.243
+If it's raining and it's cloudy, that's perfectly logically true, but the causality is backwards.
+
+25:05.723 --> 25:11.064
+And we're going to keep this in mind because we've just shown that logic is probability.
+
+25:11.345 --> 25:22.508
+So when we come to conclusions that we're making, probabilistic conclusions, particularly in statistics, and we're making claims of causality, we can get the cause completely backwards or just completely wrong.
+
+25:23.549 --> 25:23.909
+All right.
+
+25:24.169 --> 25:27.730
+So we're not doing causality when we're doing logic.
+
+25:28.604 --> 25:28.884
+At all.
+
+25:29.404 --> 25:29.704
+All right.
+
+25:30.285 --> 25:32.545
+Causes, causes the other way around.
+
+25:32.605 --> 25:35.146
+We think of cause and then we can build logic on top of that.
+
+25:35.746 --> 25:36.146
+All right.
+
+25:37.187 --> 25:37.767
+Ah, okay.
+
+25:38.347 --> 25:40.708
+So we have only a couple of more real brief ones.
+
+25:41.328 --> 25:42.488
+I want to stick with James.
+
+25:42.528 --> 25:43.349
+Where's my eraser?
+
+25:45.709 --> 25:45.989
+Okay.
+
+25:46.029 --> 25:50.631
+So just to expand on that.
+
+25:52.585 --> 26:04.869
+What James kind of expands on that, or the way that it doesn't seem like Matt's going to do it here, is the idea that if you have dark clouds at 945,
+
+26:11.536 --> 26:19.959
+it doesn't give you a logical certainty that rain will follow, but it could increase the probability in your mind, decrease the plausibility that rain will follow.
+
+26:20.600 --> 26:29.003
+And if you obey that weak syllogism, then you might not, you might cancel your plans because you see dark clouds.
+
+26:29.563 --> 26:37.587
+And now the inverse of that would be, of course, not, of course, to me, it's not obvious, but this is why we're doing this together.
+
+26:39.367 --> 26:40.568
+The logical connection
+
+26:41.266 --> 26:48.891
+that he's implying here the other way around is dark clouds, sorry, rain at 10 a.m.
+
+26:49.752 --> 26:54.395
+is the cause of the dark clouds at 9.45, and that's not true.
+
+26:55.215 --> 26:57.757
+It can be the logical consequence in one direction.
+
+26:57.777 --> 27:05.722
+It cannot be the cause of it, and in science, the logical part
+
+27:07.130 --> 27:09.331
+can be confused with the causal part.
+
+27:09.391 --> 27:13.452
+And I'm not sure that I'm getting it exactly right yet.
+
+27:13.492 --> 27:14.713
+And that's why we're auditing it.
+
+27:14.773 --> 27:15.873
+That's why we're doing this.
+
+27:16.233 --> 27:36.021
+But I think we're getting closer to understanding how this logic, if applied willy-nilly incorrectly with null hypotheses and p-values, can very quickly become an illusion of knowledge creation and an illusion of progression and understanding that is really mythology creating.
+
+27:39.124 --> 27:44.669
+We're going to keep our friendly premise up here.
+
+27:50.074 --> 27:51.476
+Now we're going to say A is false.
+
+27:52.276 --> 27:54.238
+And therefore, what can we conclude?
+
+27:55.019 --> 28:03.327
+Well, we can't conclude B by itself.
+
+28:03.867 --> 28:04.208
+And why?
+
+28:05.953 --> 28:07.974
+This is a fallacy by itself, right?
+
+28:08.034 --> 28:11.495
+Without this verbiage I've set up here.
+
+28:11.915 --> 28:13.255
+If A is true, then B is true.
+
+28:13.275 --> 28:14.276
+A is false.
+
+28:14.296 --> 28:19.037
+And then we try to conclude something about B being, whoops, I didn't mean to say B itself.
+
+28:19.097 --> 28:25.059
+I meant to say B false.
+
+28:25.179 --> 28:29.601
+I'll just put that in parentheses there to try to separate this off right there.
+
+28:30.905 --> 28:39.649
+Because why well in counter examples we give and everything because we know there's other ways for B to be true It could be that C is true that therefore B is true.
+
+28:40.109 --> 28:55.076
+There could be one of these other propositions out there that That make B true is true and so B could be true or false We don't know we can't conclude from this but we can we can change it
+
+28:59.056 --> 29:00.816
+I make this conclusion logically.
+
+29:01.237 --> 29:02.457
+B is less plausible.
+
+29:02.617 --> 29:03.097
+And why?
+
+29:03.717 --> 29:19.821
+Because in this world of propositions that say nothing about B, that doesn't mean anything to us, but we've eliminated one reason, one way that we know B can be true from this list of other premises or propositions.
+
+29:20.081 --> 29:24.002
+And so there are many ways that dark clouds can be present at 945 and
+
+29:27.234 --> 29:29.779
+One of them might be that it's going to rain at 10 o'clock.
+
+29:31.522 --> 29:38.314
+But the fact that it doesn't rain at 10 o'clock doesn't mean that there aren't other reasons why there would be clouds at 945.
+
+29:40.154 --> 29:43.295
+And so I think we're getting, I think we're getting there.
+
+29:43.836 --> 29:54.980
+And again, this logic and applying it correctly is not the same as taking those intuitions upon which this logic is being applied and working through them correctly.
+
+29:55.040 --> 30:02.544
+So again, I really think we're going to get to the, to a good explanation, a good way of understanding how science has been broken.
+
+30:02.884 --> 30:03.384
+That we have.
+
+30:04.366 --> 30:15.231
+We've eliminated that, therefore now B, if we take B, we take C, D, E, and all these, along with the world of premises, it's less plausible now that B can be true.
+
+30:15.271 --> 30:22.994
+We've removed one of the logical reasons that B can be true, that rather, not B can be true, not in a causal sense, that we could know B is true.
+
+30:23.634 --> 30:24.595
+Sometimes I slip up.
+
+30:25.964 --> 30:26.644
+It's very bad.
+
+30:26.704 --> 30:30.246
+I'm the one, above all people, who should know better than this.
+
+30:30.766 --> 30:32.567
+Not that causes B to be true.
+
+30:32.907 --> 30:34.987
+That causes us to know that B is true.
+
+30:35.007 --> 30:39.909
+It's a difference between what is and what we know about what is.
+
+30:39.989 --> 30:45.051
+And we make that mistake in probability all the time.
+
+30:45.111 --> 30:47.672
+And I should know better than anybody, so I kick myself for that.
+
+30:47.692 --> 30:49.013
+All right.
+
+30:50.460 --> 30:51.980
+I actually would have to watch that again.
+
+30:52.020 --> 30:55.761
+I'm not really sure what semantic mistake he made there.
+
+30:55.781 --> 30:59.342
+No, or the certainty with which we know something.
+
+30:59.362 --> 31:00.902
+Consider all of that again.
+
+31:01.443 --> 31:03.643
+Consider all of these examples I've just given you.
+
+31:03.663 --> 31:06.024
+I'm going to give you, this is your homework right now, okay?
+
+31:06.364 --> 31:07.064
+This is your homework.
+
+31:07.144 --> 31:09.744
+I'm going to write, what am I going to do?
+
+31:09.784 --> 31:12.805
+I'm going to erase this bits here just so I can write out the homework a little bit.
+
+31:15.766 --> 31:16.506
+Let's see here.
+
+31:22.110 --> 31:23.391
+This is also from James.
+
+31:25.552 --> 31:26.193
+Let's see here.
+
+31:38.861 --> 31:47.847
+We're changing our first premise from if A is true, then B is true, to if A is true, then B is not necessarily true, but more plausible.
+
+31:50.309 --> 31:51.810
+And then we're going to also assume
+
+31:54.551 --> 31:55.472
+B is true.
+
+32:02.136 --> 32:02.397
+Whoops.
+
+32:07.740 --> 32:09.922
+No use cursing the microphone off for hitting me, I guess.
+
+32:10.762 --> 32:10.963
+All right.
+
+32:11.043 --> 32:14.065
+If A is true, then B is more plausible.
+
+32:14.325 --> 32:16.326
+That's something we're going to assume.
+
+32:17.107 --> 32:18.548
+We're also going to assume B is true.
+
+32:19.048 --> 32:22.391
+And then we're going to conclude that A is more plausible.
+
+32:22.411 --> 32:24.012
+This proposition A is more plausible.
+
+32:25.014 --> 32:26.895
+Now, I'm not going to show you how to do this.
+
+32:26.935 --> 32:28.396
+You're going to figure it out on your own.
+
+32:28.436 --> 32:33.199
+I've given you the tools to do that already using the previous two examples.
+
+32:33.920 --> 32:40.524
+This forms the bulk of a lot of uncertain reasoning.
+
+32:41.545 --> 32:49.530
+James gives the example of a cop walking the beat and seeing a man crawling out of a jewelry store window with a bag.
+
+32:50.630 --> 32:52.392
+The cop arrests the man with the bag.
+
+32:52.412 --> 32:52.572
+Why?
+
+32:53.749 --> 32:55.109
+Well, you fill in that yourself.
+
+32:55.849 --> 32:56.870
+You fill in that yourself.
+
+32:56.890 --> 32:57.990
+That's part of your homework.
+
+32:58.330 --> 33:01.030
+Is it absolutely true that the man is a thief?
+
+33:01.490 --> 33:01.651
+No.
+
+33:02.171 --> 33:04.491
+I mean, the guy could be, it could be the owner of the thing.
+
+33:04.691 --> 33:07.252
+He's blocked himself out of the store for whatever reason.
+
+33:07.312 --> 33:07.692
+Who knows?
+
+33:07.732 --> 33:14.413
+There could be all kinds of reasons that the man is not a thief, but the cop arrested him anyway.
+
+33:14.493 --> 33:14.953
+So why?
+
+33:15.013 --> 33:16.013
+So we got to figure that out.
+
+33:16.533 --> 33:19.754
+If we can figure out this form of reasoning, then we're going to move into probability.
+
+33:21.030 --> 33:21.991
+That's it for today.
+
+33:22.732 --> 33:24.193
+Let me know what you think in the comments.
+
+33:24.273 --> 33:27.796
+We did very little, but teased a lot.
+
+33:28.817 --> 33:31.259
+And I was supposed to go 10 minutes.
+
+33:31.279 --> 33:32.640
+I think this is a bit longer.
+
+33:33.100 --> 33:33.741
+So there you have it.
+
+33:34.081 --> 33:34.822
+Thanks for watching.
+
+33:35.943 --> 33:39.285
+Okay, so that was the first episode.
+
+33:40.506 --> 33:41.787
+He's gonna probably disappear.
+
+33:41.828 --> 33:42.268
+There we go.
+
+33:43.809 --> 33:47.953
+What I think we could do now is just very quickly look over this
+
+33:49.508 --> 33:56.935
+this chapter here and see if we can get a little bit more out of this text where he was deriving this first lecture from.
+
+33:57.835 --> 34:13.309
+So we emphasize at the outset that we are concerned here with logical connections because some discussions and applications of inference have fallen into serious error through failure to see the distinction between logical implication and physical causation.
+
+34:14.209 --> 34:35.796
+The distinction is analyzed in some depth by Simon and Rescher in 1966, who note that all attempts to interpret implication as expressing physical causation founder on the lack of contraposition expressed in the second syllogism.
+
+34:36.936 --> 34:39.757
+So the syllogism is this thing down here.
+
+34:43.049 --> 34:45.894
+two-week assumptions, the reverse, that kind of thing.
+
+34:45.974 --> 34:53.626
+All the things that Matt was talking about are what are gonna come up in this reading as well.
+
+34:53.686 --> 34:55.249
+Again, remember you can download this.
+
+34:56.658 --> 35:06.043
+So in this case, another weak syllogism still using the major premise is, and so the major premise is the initial premise.
+
+35:06.644 --> 35:08.465
+If A is true, then B is true.
+
+35:08.685 --> 35:11.946
+A is false, therefore B becomes less plausible.
+
+35:12.026 --> 35:18.190
+This is a weak syllogism that still uses the major premise.
+
+35:19.372 --> 35:40.864
+In this case, the evidence does not prove that B is false, but one of the possible reasons for it being true has been eliminated, so we feel less confident about B. The reasonings of a scientist by which he accepts or rejects his theories consist almost entirely of syllogisms of the second and third kind.
+
+35:42.478 --> 36:04.757
+And so it is really dovetailing nicely with the stuff that we discussed in the Biology 101 lecture, where the way of doing biology in a reductionist manner allows people to build assumptions based on assumptions that they themselves are accepting.
+
+36:05.734 --> 36:15.658
+And if you get more than one of those on top of one another, the logical arguments that you make with those assumptions can seem very powerful.
+
+36:15.698 --> 36:27.222
+But in the end, you're standing on such a wobbly base that nothing that you're doing here at the moving parts end is solving or answering any reasonable questions.
+
+36:28.243 --> 36:32.945
+And so I think that's actually quite cool.
+
+36:34.554 --> 36:37.015
+I think it's actually a pretty nice little way to put it.
+
+36:37.035 --> 36:37.836
+I'm going to leave it there.
+
+36:37.916 --> 36:43.278
+I'm going to watch what we see and watch where we got and how these things combine.
+
+36:43.318 --> 36:53.584
+Again, he's going to do another, we're going to do number two on Thursday, right after we do the biology 101 underscore number two.
+
+36:54.144 --> 37:00.447
+And I think this is going to work out really well for us because we have a little skeleton of a plan for Tuesday and Thursday.
+
+37:00.467 --> 37:03.989
+And then in the middle, I just have to fill it in with some journal clubs and some,
+
+37:04.609 --> 37:14.260
+Study halls and some commentaries and whatever and I think this is gonna be a lot of fun So because everybody was so so upset And I apologize.
+
+37:14.300 --> 37:26.273
+I didn't know it was such an important thing So upset that I have not managed to get this up that we will bring you out and
+
+37:29.215 --> 37:30.916
+Try to get that up to speed there.
+
+37:31.896 --> 37:33.417
+Thanks very much for joining me.
+
+37:33.877 --> 37:39.140
+If you liked what you saw, please go to gigaohmbiological.com and try to find a way to support the work.
+
+37:40.000 --> 37:43.882
+And these should also be up on stream.gigaohm.bio.
+
+37:45.744 --> 37:48.867
+And yeah, I'm going to see you again tomorrow at 10.10.
+
+37:48.927 --> 37:52.131
+I'm not sure exactly what I'm going to be doing, but it'll probably be a study hall.
+
+37:52.612 --> 37:55.395
+I got a whole huge list of things that I need to watch.
+
+37:55.936 --> 37:58.059
+And so we'll just probably choose at random from that.
+
+37:58.079 --> 38:00.361
+And then Thursday, I'll see you back here again.
+
+38:01.002 --> 38:13.571
+I'm going to drop a interview that occurred last night with Jason Levine that you can find on Rumble, but I'm going to put a copy of it on stream.gigaohm.bio as well.
+
+38:14.331 --> 38:20.716
+And Mark Housatonic at Mark at Housatonic ITS has been working real hard.
+
+38:20.796 --> 38:27.381
+And so make sure if you haven't been paying attention to what he's up to on Twitch and posting on stream.gigaohm.bio, please
+
+38:27.962 --> 38:28.907
+Check that out as well.
+
+38:28.928 --> 38:30.416
+See you guys again tomorrow.
+
+38:30.457 --> 38:31.302
+Thanks a lot for joining me.
+
