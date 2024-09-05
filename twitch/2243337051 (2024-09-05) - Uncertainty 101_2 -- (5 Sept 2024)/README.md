@@ -3,5 +3,5 @@
 ## Streams
 - https://twitch.tv/videos/2243337051
 - https://stream.gigaohm.bio/videos/watch/df5f526d-4c0b-4a4a-8ba7-9af2a0ded8d1
-- https://rumble.com/v5cukdw-gigaohm-biological-high-resistance-low-noise-information-brief.html?e9s=src_v1_upp
+- https://rumble.com/v5cukdw-gigaohm-biological-high-resistance-low-noise-information-brief.html
 
