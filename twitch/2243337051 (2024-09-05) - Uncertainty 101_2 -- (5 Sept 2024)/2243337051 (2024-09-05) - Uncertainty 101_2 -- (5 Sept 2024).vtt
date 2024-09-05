@@ -1,0 +1,2006 @@
+WEBVTT
+
+00:21.684 --> 00:22.024
+Test 1-2.
+
+00:22.264 --> 00:22.744
+Test 1-2.
+
+00:22.804 --> 00:24.565
+Should be live.
+
+01:04.765 --> 01:06.746
+Good morning, good afternoon, ladies and gentlemen.
+
+01:06.786 --> 01:11.507
+Uncertainty 101, part two, starting understanding how science is broken.
+
+01:11.567 --> 01:17.609
+I'm going to switch right away to the video because I think I want to just get started right away.
+
+01:17.669 --> 01:20.670
+This is the second video from Mr. Briggs.
+
+01:24.056 --> 01:25.956
+Hello ladies and gentlemen, my name is Jonathan Couey.
+
+01:25.976 --> 01:27.257
+This is GigaOM Biological.
+
+01:27.317 --> 01:28.597
+We are doing Uncertainty 101.
+
+01:29.137 --> 01:43.480
+It's kind of a probability class that's loosely designed around the book Probability Theory by Jaynes, but it's also gonna use some stuff out of the book Uncertainty by William Briggs, and that is our tutor for this class.
+
+01:43.560 --> 01:45.220
+It is his class that I am auditing.
+
+01:45.720 --> 01:50.841
+You can find it on his sub stack, and so don't think that this is my work, this is me just
+
+01:52.021 --> 02:00.229
+giving you an excuse to audit his work, and we're doing it together so that you don't have to feel so silly about not understanding all the math that I won't also understand.
+
+02:01.210 --> 02:04.453
+Let's make sure that we understand where we are.
+
+02:04.473 --> 02:15.744
+We did Uncertainty 101, and basically what we talked about yesterday, rather Tuesday, was that if we have something that's uncertain, then there also must be certainty.
+
+02:17.239 --> 02:28.991
+And so the pursuit of that certainty or quantifying our likelihood of being certain about something is essentially what probability is attempted to be used for in science.
+
+02:29.071 --> 02:31.253
+Logic is not the finest type of thought.
+
+02:32.276 --> 02:34.516
+It's in induction, right?
+
+02:35.157 --> 02:38.317
+Philosophy of science is quantifying uncertainty.
+
+02:38.357 --> 02:39.718
+This is what they're trying to do.
+
+02:40.718 --> 02:50.080
+So if the basic notation is what we basically learned last time, and A in this notation is just a proposition like rain is wet.
+
+02:51.360 --> 02:56.681
+And so A, therefore A is just the most basic notation about how you know something.
+
+02:56.781 --> 03:00.742
+A is wet, rain is wet, and therefore A is rain is wet.
+
+03:01.983 --> 03:17.730
+Now the logic comes in when you start to put a subjectively chosen proposition as a consequence of another maybe subjectively chosen proposition.
+
+03:17.770 --> 03:27.434
+So if A, then B, and then do logic on this, there is the possibility of you starting to make assumptions based on assumptions, or in essence,
+
+03:28.507 --> 03:33.488
+executing logic on things and assuming that that logic makes these assumptions true.
+
+03:34.288 --> 03:38.009
+When in reality, those assumptions are subjectively chosen at the very beginning.
+
+03:38.989 --> 03:42.150
+And so if you do science this way, you can get lost very quickly.
+
+03:43.030 --> 03:49.231
+And so of course we haven't, that's not the perfect explanation for the first class, but it's just where my notes sit.
+
+03:50.092 --> 03:51.932
+And I thought I would try to bring you up to speed.
+
+03:51.972 --> 03:56.853
+And then now I can feel free to, um,
+
+03:58.373 --> 04:05.703
+to set this over here and turn this on and then I can get Matt talking, which is what I want.
+
+04:05.723 --> 04:06.905
+So let's listen.
+
+04:08.194 --> 04:13.835
+All right, my friends, welcome back to our class on certainty and probability theory.
+
+04:14.536 --> 04:17.476
+Last week, we started off with James.
+
+04:17.516 --> 04:20.077
+We started off with James, his book, Probability Theory.
+
+04:20.117 --> 04:37.121
+We got a full three pages into the book by examining, in a loose fashion, some very elementary ideas of logic, which I told you some people take as the epitome of all thinking, which I don't believe is true.
+
+04:39.091 --> 04:43.452
+And I'm going to start proving that to you today.
+
+04:43.892 --> 04:49.654
+We're gonna use my book today, Uncertainty, and I'm gonna have an excerpt of this stuff, the material that you'll need.
+
+04:50.214 --> 04:51.815
+It'll be on the blog post.
+
+04:51.855 --> 05:00.738
+It's either at my site, WM Briggs, I don't know where you're seeing this video, but it'll be on my site, wmbriggs.com or wmbriggs.substack.com.
+
+05:01.698 --> 05:05.039
+I'm gonna start off in chapter one in my book, which is about
+
+05:06.149 --> 05:06.449
+Truth.
+
+05:06.529 --> 05:11.932
+We talked about truth a little bit last week and uncertainty and so forth, but I didn't define any of those things.
+
+05:13.172 --> 05:15.293
+And we need to understand exactly what they are.
+
+05:15.373 --> 05:17.654
+So this is the title of today's lesson.
+
+05:18.515 --> 05:21.816
+The Most Infamous Question Ever Asked.
+
+05:22.617 --> 05:27.879
+And it was asked not because the speaker or the questioner did not know the answer.
+
+05:27.939 --> 05:28.640
+He surely did.
+
+05:28.680 --> 05:30.420
+He had truth right in front of him.
+
+05:31.021 --> 05:33.382
+It's because he did not want to believe
+
+05:34.803 --> 05:38.244
+the result of his cogitations or his deductions and so forth.
+
+05:38.264 --> 05:39.505
+So we have to talk about that.
+
+05:39.845 --> 05:43.826
+That's going to lead us to the topic of the subject of necessary and conditional truths and so on.
+
+05:44.586 --> 05:50.188
+Now, we have to separate, we have to, we seriously have to separate academia.
+
+05:52.508 --> 05:54.069
+Here's a mathematical equation for you.
+
+06:04.207 --> 06:10.529
+Academia certainly does not equal, mathematical symbol for you, does not equal science or knowledge.
+
+06:11.189 --> 06:16.651
+Now for a long time there was a strong positive correlation.
+
+06:16.691 --> 06:25.133
+We'll talk about correlation and its sense of causality or non-causality when we get to that a long time from now.
+
+06:26.277 --> 06:32.921
+But there was a positive correlation between academia and science and academia and knowledge.
+
+06:33.902 --> 06:34.882
+That's out the window now.
+
+06:35.303 --> 06:36.924
+The correlation is now negative.
+
+06:38.345 --> 06:40.066
+And Alan Saber, you've seen this video.
+
+06:40.486 --> 06:41.767
+I'll probably put a link up to it.
+
+06:41.787 --> 06:44.248
+You've seen the video in which he is discussing
+
+06:45.909 --> 06:55.052
+deficient thought of graduates of university, of academia, who are out in the field and he wants to discuss what works.
+
+06:56.353 --> 07:01.174
+Why does this land keep its water and why does this land lose its water and so forth?
+
+07:01.574 --> 07:06.616
+And he says the students literally will not believe anything unless it's in a peer-reviewed paper.
+
+07:07.216 --> 07:19.303
+Well, peer review, again, was one of those concepts that had a positive correlation with knowledge and truth, which has now turned either no correlation and even some fields a negative correlation.
+
+07:19.843 --> 07:22.345
+So we need to make sure we're not understanding academia.
+
+07:22.665 --> 07:24.266
+We're not trying to understand papers.
+
+07:24.306 --> 07:29.269
+We're not trying to understand the behavior of scientists now, because in science, in academia,
+
+07:31.815 --> 07:38.159
+What counts, of course, is bringing in money, prestige, but they also love to solve puzzles for themselves.
+
+07:38.199 --> 07:39.200
+So I'm gonna read you this quote.
+
+07:40.681 --> 07:43.803
+And they love skepticism, particularly in philosophy and so forth.
+
+07:44.103 --> 07:52.789
+They like to create these puzzles, they call them problems, and then try to solve them, solve these questions that don't need solving.
+
+07:53.670 --> 07:55.291
+So this is a long time ago.
+
+07:55.331 --> 07:59.454
+This was six years ago or more than that, maybe close to 70, 80 years ago.
+
+08:00.074 --> 08:00.455
+He wrote,
+
+08:01.275 --> 08:10.682
+And he was exasperated even then over the pretended puzzlement that academics have over what truth is or whether truth exists and so forth.
+
+08:11.243 --> 08:18.909
+He said the Academy in its dread, superstition, and dogmatic reaction has been oriented purposely towards skepticism.
+
+08:19.844 --> 08:40.608
+and that a conclusion is admired in proportion as it is skeptical, that a jejune argument for skepticism will be admitted where a scrupulous defense of knowledge is derided or ignored, that an affirmative theory is a mere annoyance to be stabbed down as quickly as possible to a normal level of denial and defeat.
+
+08:40.668 --> 08:45.049
+Well, that's the way it is in academia.
+
+08:45.069 --> 08:47.610
+That's not the way it is for us, okay?
+
+08:49.164 --> 08:53.828
+We're not trying to shore up any kind of academic sense right here.
+
+08:53.848 --> 08:56.270
+We're trying to get at truth.
+
+08:56.770 --> 08:58.292
+And truth obviously exists.
+
+08:58.592 --> 09:02.015
+Some people will say, they'll say this, they will say this.
+
+09:06.518 --> 09:06.899
+True.
+
+09:09.941 --> 09:14.205
+Truth does not exist.
+
+09:15.586 --> 09:16.587
+They will say it is true.
+
+09:17.067 --> 09:17.988
+Truth does not exist.
+
+09:18.615 --> 09:21.799
+Jay, thank you very much for the idea about caffeine.
+
+09:21.879 --> 09:22.760
+It is not working.
+
+09:25.784 --> 09:27.726
+My screen still falls asleep, everybody.
+
+09:28.046 --> 09:33.313
+The problem is, long ago, this dumb laptop of mine, it had a problem.
+
+09:33.373 --> 09:33.633
+It was...
+
+09:36.152 --> 09:38.653
+using too much power when the lid was closed and so forth.
+
+09:38.673 --> 09:41.835
+So I went in and monkeyed with the BIOS to make sure it shut itself off.
+
+09:42.495 --> 09:44.276
+And now it's shutting itself off.
+
+09:44.696 --> 09:48.798
+And I have to go back in and unmonkey it, but I haven't done that yet.
+
+09:48.858 --> 09:51.280
+So I have to keep popping over to that stupid computer.
+
+09:52.240 --> 10:00.524
+Anyway, they won't say it in quite this form, but they'll say, well, they'll write long papers in order to try to tell you that truth does not exist.
+
+10:01.005 --> 10:03.146
+Or they will say, you know, it is certain.
+
+10:04.333 --> 10:06.594
+there is no truth, which is another way of saying it.
+
+10:06.914 --> 10:15.138
+But we're interested in truth and we're interested more, obviously we're always aiming for truth, our intellects are aiming towards truth.
+
+10:15.918 --> 10:19.040
+But there's a lot of things in which we have uncertainty.
+
+10:19.980 --> 10:26.003
+Uncertainty and probability necessarily point towards truth.
+
+10:27.110 --> 10:29.672
+We're uncertain about a truth.
+
+10:30.452 --> 10:34.055
+We're uncertain about a proposition that may be true or false.
+
+10:34.515 --> 10:37.357
+If we knew it was true or false, we would say it's true or false.
+
+10:37.878 --> 10:39.199
+But we don't, we're uncertain.
+
+10:39.719 --> 10:44.422
+But in order to have uncertainty, we need to have an underlying truth.
+
+10:44.442 --> 10:46.304
+So truth certainly exists for us.
+
+10:47.506 --> 10:51.028
+So we're not going to, we're not going to fart with that kind of thing too long.
+
+10:52.288 --> 10:54.449
+And the best definition, what do you want a definition?
+
+10:54.489 --> 10:55.510
+We're going to have a definition.
+
+10:55.570 --> 11:04.754
+Your common sense definition is probably good enough for most of this class, but we'll go back to Aristotle, rightly called the philosopher by the scholastics.
+
+11:05.814 --> 11:07.515
+We'll also call him the philosopher.
+
+11:08.115 --> 11:12.057
+Aristotle's definition, to say of what is, that it is not,
+
+11:13.300 --> 11:24.586
+or of what is not that it is, is false, while to say of what is that it is, or of what is not that it is not, is true.
+
+11:25.066 --> 11:25.647
+Simple as that.
+
+11:26.107 --> 11:32.070
+Naturally, academics came along later and they have to give a label for this, very common sense view.
+
+11:32.470 --> 11:35.372
+They call it the correspondence theory of truth.
+
+11:35.872 --> 11:37.433
+Well, we can eliminate that theory.
+
+11:37.733 --> 11:39.594
+It doesn't make any sense because
+
+11:42.413 --> 11:53.540
+All theories are judged by this sort of dichotomy of true or false, the Aristotelian division of things in true or false.
+
+11:53.740 --> 12:02.445
+And there's even a mathematics, they have this, there's a subject called logic, which is treated with the true false binary, if you like.
+
+12:04.949 --> 12:15.351
+But they have all kinds of other logics where they invoke different numbers of conditions, not just true, false, but there could be three, there could be four, there could be more.
+
+12:16.211 --> 12:31.374
+But it's funny, in all the proofs of all these kinds of things, in order to prove these theorems about this and that, that correspond to all these things, they still use the binary true or false theory to prove these theories within these multivalued
+
+12:31.974 --> 12:33.155
+Logic sort of thing.
+
+12:33.195 --> 12:34.795
+So no matter what we can't escape it.
+
+12:34.815 --> 12:39.157
+All right I'm not going to go on and on about that any more than that.
+
+12:39.217 --> 12:53.204
+I think that's Exactly what it is and we're going to talk about eventually Realism we're going to hold with the philosophy of moderate realism, which is to say the external world exists and
+
+12:54.218 --> 12:55.561
+and we could know things about it.
+
+12:56.282 --> 12:57.204
+It's as simple as that.
+
+12:57.284 --> 13:01.131
+All scientists are realists in this way.
+
+13:02.998 --> 13:05.579
+But there's all kind of shades to that, which we'll get to.
+
+13:05.919 --> 13:07.659
+We don't need any more than that today.
+
+13:09.200 --> 13:10.600
+And so here he is.
+
+13:11.220 --> 13:17.642
+In mathematics, though, there is the idea of nominalism, that people believe that numbers are just creations.
+
+13:19.743 --> 13:24.584
+Our theorems are just creations, just products, like an artistic fever dream, if you like.
+
+13:25.134 --> 13:27.481
+And so in case he doesn't go there, I want to read this part.
+
+13:27.541 --> 13:31.492
+So modern realism is the common sense position that there are there exist.
+
+13:31.833 --> 13:32.816
+This is where I'm reading from.
+
+13:34.266 --> 13:45.069
+There exist real things and that there is an existence independent of our minds, that an external world is out there and that we can know it, and that we can know things that they are in themselves, to coin a phrase.
+
+13:45.829 --> 13:52.691
+Moderate realism holds that greenness exists apart from or in addition to individual green things.
+
+13:53.451 --> 13:55.572
+Exists in an intellectual idea, that is.
+
+13:55.672 --> 14:00.273
+Realism says that the idea of color exists independent of individual colored things.
+
+14:01.073 --> 14:09.826
+Mathematicians are realists when they insist all triangles have three straight sides and an interior sum of angles of 180 degrees.
+
+14:09.987 --> 14:14.974
+Individual approximations to or implementations of triangles also exist.
+
+14:15.731 --> 14:20.994
+But given the way the world is, all are imperfect representations of the universal ideal.
+
+14:21.074 --> 14:21.875
+Try drawing one.
+
+14:22.595 --> 14:25.597
+Catness exists, and so do individual cats.
+
+14:26.117 --> 14:30.159
+We can tell cats from dogs because we know the nature or essence of both.
+
+14:30.780 --> 14:38.324
+Knifeness exists, as do individual knives, even though it's not always clear if a given object is a knife or only acts like one.
+
+14:39.701 --> 14:51.543
+I think this is a really wonderful paragraph to try and get at the philosophical basis for understanding and how then probability is applied to realistic
+
+14:52.557 --> 14:56.820
+probabilities or not realistic probabilities of knowing things.
+
+14:57.020 --> 14:58.621
+So that's really where we are with this.
+
+14:59.221 --> 15:00.022
+I know it's hard.
+
+15:00.142 --> 15:01.183
+I know it's hard for me.
+
+15:02.123 --> 15:04.345
+But we're going to get through it and we're going to keep doing it.
+
+15:04.365 --> 15:06.306
+Maybe we have to do it again, but we're going to keep working.
+
+15:06.486 --> 15:07.747
+Don't hold with nominalism.
+
+15:07.807 --> 15:09.448
+I hold also in mathematics.
+
+15:09.708 --> 15:13.631
+There's an Aristotelian sort of realistic approach to mathematics too.
+
+15:13.671 --> 15:14.511
+It's not as well known.
+
+15:14.531 --> 15:16.693
+There's sort of a platonic version, which is similar.
+
+15:17.413 --> 15:23.137
+that a lot of mathematicians hold, that hold numbers are real, and they exist in some kind of Empyrean.
+
+15:24.718 --> 15:25.879
+That's almost right.
+
+15:25.939 --> 15:29.301
+I think the Aristotelian version is better, in which we'll get to.
+
+15:29.641 --> 15:31.722
+Jim Franklin's got a great book on that.
+
+15:31.842 --> 15:34.584
+I don't know where it is, at the tip of my fingers.
+
+15:34.624 --> 15:36.085
+But James Franklin, you look it up.
+
+15:36.145 --> 15:40.448
+The Aristotelian Philosophy of Mathematics, or something like this.
+
+15:41.519 --> 15:43.000
+All right, well, there are truths.
+
+15:44.260 --> 15:47.842
+That much I think is probably agreed to by all of you.
+
+15:48.042 --> 15:49.183
+But can we know truths?
+
+15:50.144 --> 15:51.064
+And I say, yes.
+
+15:52.064 --> 15:54.866
+If you disagree, you agree.
+
+15:55.786 --> 15:59.568
+If you say it is certain, I know it's a fact, we can't know any facts.
+
+15:59.849 --> 16:03.190
+Well, you've just created a fact which you say you know.
+
+16:03.590 --> 16:05.612
+So you have contradicted yourself.
+
+16:05.632 --> 16:07.312
+So yes, we can know truths.
+
+16:07.693 --> 16:08.193
+And in fact,
+
+16:11.579 --> 16:23.448
+Ladies and gentlemen, it is official on November 3rd, like it or not, Giga Home Biological is going to do a live live stream at the local community center in Bethel Park, Pennsylvania on November 3rd.
+
+16:23.468 --> 16:27.571
+I just got official word that the reservation was accepted.
+
+16:27.631 --> 16:29.013
+That means I have the whole place.
+
+16:29.733 --> 16:31.674
+We have enough room for 250 people.
+
+16:31.714 --> 16:32.974
+I'm going to be live on stage.
+
+16:33.014 --> 16:35.976
+I'm going to do a live stream right after the Brownstone event.
+
+16:36.836 --> 16:47.181
+And I want everybody that wants to come to be there, to meet in person, to start to network, and just to generally celebrate how much ass we've kicked over the last four years.
+
+16:47.741 --> 16:51.803
+So November 3rd, Bethel Park, Pennsylvania, from 2 p.m.
+
+16:51.843 --> 16:52.643
+to 6 p.m.
+
+16:52.783 --> 16:54.224
+on Sunday, November 3rd.
+
+16:54.384 --> 16:56.685
+Be there, be square, and let's get back to class.
+
+16:59.221 --> 17:01.623
+In philosophy, usually, we keep this word.
+
+17:02.563 --> 17:03.364
+Look at this dumb thing.
+
+17:04.904 --> 17:06.505
+He keeps going to sleep.
+
+17:06.666 --> 17:07.406
+I'm staring at it.
+
+17:07.426 --> 17:08.767
+When it happens, I can catch it.
+
+17:08.867 --> 17:10.528
+But if I'm not, it does this.
+
+17:11.789 --> 17:14.190
+We can only know what is true.
+
+17:15.611 --> 17:16.732
+We can know what is true.
+
+17:17.152 --> 17:18.853
+But we can, of course, we can believe anything.
+
+17:18.873 --> 17:19.833
+And we'll get to that.
+
+17:19.853 --> 17:21.975
+That's just one of my tag phrases.
+
+17:23.283 --> 17:26.484
+All right, so we're talking about epistemology.
+
+17:26.524 --> 17:36.307
+We want to get into epistemology because we want to understand how we know things, what we can know, because if we're aiming after truth, we don't always hit it.
+
+17:36.767 --> 17:38.068
+That much is obvious enough.
+
+17:38.448 --> 17:42.269
+And we're going to use probability, not always in its quantified form.
+
+17:42.309 --> 17:49.232
+Not all probability we'll see can be quantified, but a lot of it can, and that helps us understand exactly what probability is.
+
+17:49.312 --> 17:49.972
+Last week we
+
+17:50.512 --> 17:56.094
+We looked at logic, and we use logic to prove that probability is a branch of logic.
+
+17:56.134 --> 17:59.556
+And we'll do more in-depth proofs of that when we get to it.
+
+18:01.457 --> 18:01.797
+All right.
+
+18:03.871 --> 18:05.373
+You know, it's not possible to doubt.
+
+18:05.713 --> 18:06.474
+It's not possible.
+
+18:07.035 --> 18:13.203
+We're not going to go into this too much because none of us, I think most of my audience don't follow this line of thought.
+
+18:13.223 --> 18:20.793
+But I have a nice little quote in here from David Stove too about how we all can't be hallucinating or illusions or anything like that.
+
+18:20.833 --> 18:22.255
+It's just not logically possible.
+
+18:22.702 --> 18:25.863
+Now, I wanted to comment on something that's in the chat.
+
+18:26.523 --> 18:43.168
+It is possible that the first stream that I did that was two hours long, the biology 101 underscore two, was too long for my own server to fully transcode before I started this one, which is actually a good test for the server to see how it works.
+
+18:43.828 --> 18:50.390
+But that might be why the traditional address to this live stream has changed because it may have assigned a new one because I
+
+18:51.050 --> 18:52.631
+the other one was still being transcoded.
+
+18:52.671 --> 18:56.213
+I don't know, but anyway, I'm glad to hear the report that I'm live on both of those.
+
+18:56.914 --> 19:00.536
+If anyone else wants to confirm that, where you're watching and that I'm live, that would be great.
+
+19:00.956 --> 19:06.500
+All doubt terminates in, you know, our sense impressions.
+
+19:07.321 --> 19:19.969
+Peter Krupp, this is Peter Krupp, the philosopher Peter Krupp, he says, as Aristotle showed, again Aristotle, all backward doubt terminates in two places, psychological and indubitable immediate sense experience,
+
+19:21.024 --> 19:43.103
+and logically indubitable first principles such as x is not not x or not x the principle of non-contradiction well what is the principle of non-contradiction this is a good one to start with A is going to be some proposition as we had last time
+
+19:50.011 --> 19:53.518
+cannot both be simultaneously true.
+
+19:54.380 --> 19:56.684
+Either A is true or not A is true.
+
+19:57.452 --> 20:01.695
+They can't be based on the same evidence, based on the same evidence.
+
+20:01.755 --> 20:02.535
+Aha, what's that mean?
+
+20:02.575 --> 20:03.896
+Well, we'll come to that in just a second.
+
+20:04.236 --> 20:07.418
+They cannot, based on the same evidence, be simultaneously true.
+
+20:08.039 --> 20:09.640
+It is not possible to doubt this.
+
+20:09.920 --> 20:18.906
+It is not possible to doubt the principle of non-contradiction, that something can be known to be true and also known to be false at the same time.
+
+20:19.506 --> 20:23.989
+You can claim, a lot of people claim that they believe that this is doubtful.
+
+20:25.728 --> 20:27.489
+But nobody really believes it in real life.
+
+20:27.549 --> 20:30.851
+It's just one of these academic problems that people create for themselves.
+
+20:33.593 --> 20:45.101
+You ask a professor who doubts about truth and then tell him his parking pass has expired and it can no longer be used, and you'll suddenly learn from this skeptic just exactly what truth is.
+
+20:46.182 --> 20:48.143
+Well, the principle of non-contradiction.
+
+20:49.264 --> 20:50.264
+That's an easy one to see.
+
+20:52.694 --> 20:54.175
+We need to get a little bit deeper into it.
+
+20:54.756 --> 20:58.459
+So now we're going to talk about something I think is extremely important.
+
+21:00.421 --> 21:01.381
+Extremely important.
+
+21:02.262 --> 21:07.046
+One of the most important things we could do because it's going to turn out all knowledge is conditional.
+
+21:08.387 --> 21:10.009
+All probability is conditional.
+
+21:10.769 --> 21:13.512
+And so that leads to the
+
+21:17.058 --> 21:20.760
+And what he means in his book, he says it very well.
+
+21:20.820 --> 21:25.743
+In one sentence, he just says it, that all truths are based on assumptions that underlie them.
+
+21:25.763 --> 21:26.144
+Where is it?
+
+21:43.373 --> 21:44.394
+Come on, where did I read it?
+
+21:44.614 --> 21:45.835
+I just read it, darn it.
+
+21:55.324 --> 22:19.709
+When we say the latter is necessarily true is never meant to imply that the proposition is true in or because of some theory the proposition is necessarily true for reasons in the proposition itself and The evidence which supports it the proposition is not true in or because of a theory and it is true because it is true That wasn't the quite the part I wanted to read but I do know I'll find it in a second I'm just gonna hit play and then I'll look for it in the
+
+22:20.435 --> 22:26.577
+that there are necessary and conditional truths and necessary and conditional probabilities.
+
+22:26.617 --> 22:27.497
+So let me write that up.
+
+22:39.660 --> 22:42.621
+A necessary truth is a truth that
+
+22:44.775 --> 22:46.456
+cannot be disbelieved.
+
+22:46.857 --> 22:53.361
+A necessary truth is a truth that is true because the way things are are the way things are.
+
+22:54.182 --> 22:59.826
+The way the Lord created the universe, or if you don't believe in that, it's the way the universe is and it cannot be doubted.
+
+22:59.846 --> 23:01.027
+There are necessary truths.
+
+23:01.047 --> 23:05.750
+There's a fund of them in mathematics, as probably most people would agree.
+
+23:05.990 --> 23:20.118
+And this is very important because a lot of paparian science and a lot of the things that happen in biology are based on the idea that every proposition is subject to uncertainty, that we can never know something for certain.
+
+23:20.998 --> 23:30.604
+That is the principle by which paparian reiteration of testing of hypotheses has ruined science, that we can know nothing for certain.
+
+23:31.482 --> 23:32.585
+And of course we can.
+
+23:33.106 --> 23:39.341
+Of course we can know something for certain, to the best of our knowledge, to the best of our observations.
+
+23:40.882 --> 23:47.448
+We can also know something is false given the data or the observations or the experience that we've had.
+
+23:47.908 --> 23:48.869
+And that's the point.
+
+23:49.289 --> 23:57.376
+Science has instilled in us the idea that nothing can ever be proved because nothing, things can only be falsified.
+
+23:57.516 --> 24:09.106
+And then the falsification is never 100, that's what this is about and why we need to get to David Stowe's destruction of Popper and his contemporaries.
+
+24:10.811 --> 24:11.831
+That's where we're going here.
+
+24:12.752 --> 24:15.753
+Conditional truths, however, are even more common.
+
+24:15.773 --> 24:19.315
+There's an infinite variety of these, and we use these in every day.
+
+24:19.355 --> 24:24.137
+So let me give you a good example, just to make sure that dumb thing stays away.
+
+24:24.337 --> 24:26.499
+Let's use a logical argument like we had last week.
+
+24:26.879 --> 24:37.824
+If we have f, x, y, z are natural numbers, and we have, make sure I quote myself right,
+
+24:44.844 --> 24:46.705
+You can give that to me if you want.
+
+24:48.566 --> 24:49.666
+Or did you open some already?
+
+24:50.227 --> 24:52.868
+OK, so here's our list of premises.
+
+24:53.368 --> 24:57.210
+Always remember, we always have our premises on top.
+
+24:59.111 --> 24:59.831
+We're accepting this.
+
+24:59.871 --> 25:02.492
+We're accepting that x, y, and z are just some natural numbers.
+
+25:02.772 --> 25:13.417
+We're accepting that x is larger than y. We're accepting that y is larger or greater than z. And from this, we can conclude with certainty that x is greater than z.
+
+25:15.993 --> 25:17.256
+This is a conditional truth.
+
+25:17.858 --> 25:22.028
+It is conditional on these premises.
+
+25:23.635 --> 25:28.116
+It's conditional on these premises, and if we remove some of these premises, it's no longer going to be the case.
+
+25:28.136 --> 25:38.139
+For instance, we can't just take two numbers, x and z, any two numbers everywhere in the world, and have that x is greater than z. It's not going to happen, always.
+
+25:38.479 --> 25:41.140
+So this is a conditional truth.
+
+25:41.540 --> 25:43.600
+It's conditional on these premises.
+
+25:44.521 --> 25:47.561
+And if we change some of these premises, why then we have
+
+25:51.294 --> 25:52.535
+we have a different conclusion.
+
+25:52.815 --> 25:54.116
+The conclusion may be false.
+
+25:54.176 --> 25:55.557
+The conclusion may be uncertain.
+
+25:55.577 --> 25:57.879
+The conclusion may be anything if we change these premises.
+
+25:58.459 --> 26:10.227
+Make sure you see that, like it or not, what he is still doing is he's teaching us the notation of Bayesian logic and Bayesian probability right now.
+
+26:10.287 --> 26:12.569
+This line still means therefore, right?
+
+26:12.609 --> 26:19.074
+So if x, y, and z are numbers, and x is greater than y, and y is greater than z, then
+
+26:21.488 --> 26:30.457
+Therefore, x will be greater than z. This is not true for all numbers, as he said, but given these premises, then this is a conclusion.
+
+26:31.898 --> 26:34.461
+If you change the premises, you change the conclusion, right?
+
+26:34.481 --> 26:35.622
+That's a conditional truth.
+
+26:36.368 --> 26:49.578
+Now, the principle of non-contradiction, which we did, a proposition cannot be true and false simultaneously based on the same evidence, conditioned on the same evidence, given the same premises, accepting the same assumptions.
+
+26:49.879 --> 26:52.180
+All of those are the same way of saying the same thing.
+
+26:52.950 --> 26:59.832
+So now that starts, like all arguments start, which we're going to learn in more detail.
+
+26:59.852 --> 27:11.494
+I'm not going to go on and on about it today, but we're going to learn in more detail when we talk about intuition and intellection and induction, that all arguments are conditional.
+
+27:12.194 --> 27:14.315
+They may come down to sense impression.
+
+27:14.355 --> 27:18.156
+They may start at sense impressions, but those sense impressions,
+
+27:20.357 --> 27:27.479
+and the logic we use to build them together, to come to universal beliefs and logic and so forth, and to come to necessary truths.
+
+27:30.139 --> 27:33.740
+Those things, we have to understand how they come about.
+
+27:33.780 --> 27:37.341
+We have to understand how they're a higher form of thinking, the logic and all that.
+
+27:37.401 --> 27:38.641
+We will come to that.
+
+27:39.061 --> 27:41.542
+So for right now, we're just going to press on.
+
+27:43.222 --> 27:49.664
+Now there's lots of, I'll give you one quick example, just one quick example before we,
+
+27:51.929 --> 27:55.170
+Little self-addressed stamped envelope from Josh in California.
+
+27:55.250 --> 27:57.271
+One which you know, just to give you a little teaser.
+
+27:57.351 --> 27:58.172
+Gonna send some stuff.
+
+27:58.192 --> 28:00.873
+For all numbers, for all numbers, all natural numbers.
+
+28:00.973 --> 28:02.593
+Stuff will be in the mail in a day.
+
+28:03.534 --> 28:05.795
+Self-addressed stamped envelope will be filled.
+
+28:06.735 --> 28:18.920
+Then... For all natural numbers, if X equals Y, then Y equals X.
+
+28:21.084 --> 28:22.105
+It's obviously true, right?
+
+28:22.125 --> 28:29.449
+This is an axiom in arithmetic or basic mathematics from Pinot.
+
+28:30.610 --> 28:31.491
+It's a belief.
+
+28:32.791 --> 28:36.654
+You believe that this is true and it cannot be proved true.
+
+28:37.799 --> 28:39.440
+You cannot check this for every number.
+
+28:40.000 --> 28:40.721
+You cannot check.
+
+28:40.961 --> 28:42.782
+You could check it for a good number of numbers.
+
+28:42.822 --> 28:43.443
+You can go one.
+
+28:43.483 --> 28:46.345
+Yeah, that's true for one, two, three, four, and so on.
+
+28:46.745 --> 28:49.707
+You can go all the way up to, but you can't go out to infinity.
+
+28:49.747 --> 28:50.487
+Nobody can do this.
+
+28:50.807 --> 28:52.188
+We have to believe that this is true.
+
+28:52.228 --> 28:53.089
+It's obviously true.
+
+28:53.169 --> 28:55.410
+I think it's true, but you can't prove it's true.
+
+28:55.450 --> 28:56.751
+So empiricism is out.
+
+28:59.113 --> 29:04.896
+Dear Dr. Cooey, many thanks for specifically mentioning the murder and lies related to COVID treatments in the hospitals.
+
+29:04.956 --> 29:27.870
+My sister and brother-in-law spoke to my dad's hospital at the Moonship CHD vaxxed bus tour, and since seeing your show and the Housatonic show, specifically the Leslie Batts interview, my sister and I went through our dad's hospital records, and the oxygen treatment alone is enough to send someone's shivers down someone's spine.
+
+29:29.144 --> 29:35.390
+I'll share the details in an email or ask my sister to, as she's the storyteller, record keeper.
+
+29:38.092 --> 29:47.941
+I made these stars for you and your wife with mindful intention and love.
+
+29:49.802 --> 29:51.484
+I hope I'm not too late to get a sticker.
+
+29:59.770 --> 30:01.752
+They killed a lot of people with that oxygen.
+
+30:03.134 --> 30:04.896
+I'm gonna put something in the mail today, Jen.
+
+30:08.260 --> 30:09.902
+Wow, you live in Pittsburgh, Jen.
+
+30:09.963 --> 30:13.207
+I hope you're gonna come on the 3rd of November and we can meet in person.
+
+30:14.829 --> 30:15.129
+Wow.
+
+30:16.090 --> 30:17.892
+Just opening the mail while doing some...
+
+30:19.144 --> 30:20.426
+while doing some probability.
+
+30:37.551 --> 30:41.494
+There's our intellects, there's our intuition, there is our induction and action.
+
+30:42.235 --> 30:45.317
+And remember, induction is not of one kind.
+
+30:45.638 --> 30:49.781
+There's at least five, we'll get to them, different kinds of induction.
+
+30:50.622 --> 30:53.744
+So we need to be very careful about which kinds when we come to it.
+
+30:53.764 --> 30:53.944
+Okay.
+
+30:55.926 --> 30:56.366
+All right.
+
+30:56.386 --> 31:04.493
+Now, we need to understand how scientists talk and how they toss around theories and so forth.
+
+31:05.126 --> 31:07.607
+And I'm going to use another equation.
+
+31:07.627 --> 31:10.148
+I'm going to erase all of this.
+
+31:10.168 --> 31:11.608
+Some stuff coming to Susan.
+
+31:11.868 --> 31:12.868
+Got another envelope.
+
+31:14.009 --> 31:15.629
+Sending immediately.
+
+31:16.689 --> 31:20.371
+Again, talking about the difference between necessary and conditional truths.
+
+31:21.031 --> 31:23.872
+A necessary truth works like this.
+
+31:25.612 --> 31:26.652
+Necessary truth.
+
+31:26.993 --> 31:28.333
+Premises or arguments.
+
+31:28.553 --> 31:29.793
+Premises 1, premises 2, premises 3.
+
+31:35.455 --> 31:38.538
+We have all these different premises.
+
+31:39.679 --> 31:50.310
+Somebody just sent us a $200 gift certificate for Labor Day and from Omaha Steaks.
+
+31:52.152 --> 31:57.958
+And it's $200 worth of steaks, which is really, that's pretty crazy, Christy.
+
+32:00.148 --> 32:03.991
+Wow, thank you very, very, very, very, very, very, very much.
+
+32:04.111 --> 32:07.633
+My protein eating basketball playing sons will freak out.
+
+32:08.414 --> 32:10.836
+They've been complaining about the lack of steak.
+
+32:12.637 --> 32:14.198
+Wow, I don't know what to say, Christy.
+
+32:16.139 --> 32:16.700
+I wish I could.
+
+32:18.348 --> 32:22.692
+I wish my whole family could afford to go carnivore.
+
+32:22.732 --> 32:23.232
+Holy cow.
+
+32:23.252 --> 32:25.774
+Okay, so we're working on necessary truths here.
+
+32:25.834 --> 32:27.215
+Okay, premise, premise, premise.
+
+32:27.235 --> 32:28.917
+I'm going to go back a little bit because I missed that.
+
+32:29.297 --> 32:30.738
+Necessary and conditional truths.
+
+32:31.399 --> 32:34.221
+A necessary truth works like this.
+
+32:34.241 --> 32:38.705
+We have a bunch of premises or arguments.
+
+32:38.925 --> 32:42.068
+Premises 1, premises 2, premises 3.
+
+32:45.831 --> 32:47.132
+We have all these different premises.
+
+32:48.470 --> 32:50.751
+and of them, however many there are, in some conclusion.
+
+32:51.211 --> 33:00.794
+The conclusion is conditionally true based on these premises, given these premises, accepting these assumptions, however you want to say it.
+
+33:01.034 --> 33:07.816
+Now I want to be sure everybody that's paying attention here, especially those of you that said yesterday or Tuesday you were afraid of the math,
+
+33:08.936 --> 33:17.804
+Please understand that what I see here, I could be completely wrong, but what I see here is him dumbing this down for us to the point where I can even follow along.
+
+33:18.285 --> 33:33.099
+He's teaching us a notation, and this notation will of course get much more complicated when there's real math involved in these premises and real relationships involved with premises on premises to get down to this conclusion, but this is how science is done.
+
+33:34.639 --> 33:44.584
+He said this wasn't about academia, but it is the twisted version of this kind of reasoning that allows academia to use p-values to create the illusion of knowledge.
+
+33:44.624 --> 33:46.045
+And so that's why we're doing this.
+
+33:46.585 --> 33:50.567
+And that's why we are very blessed to have someone like William Briggs helping us.
+
+33:52.048 --> 33:57.891
+And to make it a necessary truth, each of these is also necessarily true.
+
+33:58.591 --> 34:00.512
+A necessary truth, a universal truth.
+
+34:00.872 --> 34:02.753
+This may be a sense impression.
+
+34:02.773 --> 34:03.774
+It might start out to be,
+
+34:05.939 --> 34:13.361
+x equals y, then y equals x. In fact, this is exactly how mathematical theorems are proved.
+
+34:13.461 --> 34:14.741
+We start with these axioms.
+
+34:15.941 --> 34:28.144
+Now you've got to be careful in math because some axioms are obviously universally true, necessarily true, and sometimes people will use the word to mean this is what I'm accepting, where they don't necessarily believe it.
+
+34:28.184 --> 34:28.504
+There are
+
+34:31.533 --> 34:33.314
+branches of mathematics in which they do that.
+
+34:33.354 --> 34:35.456
+We're not going to get into that kind of stuff for us today.
+
+34:36.156 --> 34:58.713
+We're saying, if this is a necessary truth, which I think it is, then we have another necessary truth, which we can supply, and we have three, four, five, we have n of them, and finally we deduce this conclusion, which is also a truth, and if all of these are necessary true, necessarily true, and the implicit premises that we have, there's always implicit premises, which
+
+34:59.372 --> 35:13.506
+tells us what the word if means, what the symbol x means, what the double horizontal lines mean, what this comma means, all that stuff, the definitions and the grammar and any other implicit premises we have tossed in there.
+
+35:13.526 --> 35:18.631
+If all those are true, necessarily, then the conclusion is true.
+
+35:19.574 --> 35:31.366
+Now, scientists will have this habit of saying, well, we now know, you'll hear this all the time, even from people who don't know, they say, we now know, you know, I use the example of Flippenberger's theorem is true.
+
+35:31.727 --> 35:34.009
+Okay, well, here's Flippenberger's theorem.
+
+35:34.770 --> 35:37.173
+You can prove it by following these steps.
+
+35:38.234 --> 35:38.574
+Okay.
+
+35:39.735 --> 35:41.677
+There'll be somebody else who hears about this.
+
+35:42.799 --> 35:44.701
+And he says, yeah, I think these guys are right.
+
+35:44.761 --> 35:46.783
+I think Flippenberger's theorem is true.
+
+35:47.023 --> 35:50.226
+But he hasn't gone through these steps, and in fact, probably cannot.
+
+35:50.707 --> 35:53.449
+Not everybody, I can't do all these mathematical proofs.
+
+35:53.509 --> 35:56.773
+Who's got time to sit down and read all these mathematics?
+
+35:56.993 --> 36:00.236
+There's so many papers that come out nowadays, nobody can get through them all.
+
+36:00.276 --> 36:00.957
+It's impossible.
+
+36:01.677 --> 36:02.738
+It's just not possible.
+
+36:02.758 --> 36:04.019
+It's not physically possible.
+
+36:04.420 --> 36:11.366
+That's so weird about Rumble because I use the same link all the time on Rumble and I don't understand why sometimes it kicks off and sometimes it doesn't.
+
+36:11.386 --> 36:18.412
+I use the exact same code all the time and it worked for like a month and a half and then it didn't work for a few weeks and now it works again.
+
+36:18.432 --> 36:18.812
+I don't know.
+
+36:18.832 --> 36:19.513
+That's strange.
+
+36:19.553 --> 36:20.414
+I gotta look into that.
+
+36:20.454 --> 36:21.555
+He has this kind of a time.
+
+36:21.955 --> 36:23.657
+So somebody else may reason like this.
+
+36:23.697 --> 36:27.100
+Well, let's have a couple of other premises.
+
+36:30.074 --> 36:30.974
+to make an important point.
+
+36:31.014 --> 36:42.418
+This premise might be that I heard C is true from experts.
+
+36:44.839 --> 36:50.461
+And second premise is experts always right.
+
+36:55.203 --> 36:58.784
+We have the same proposition at the end here.
+
+37:00.014 --> 37:03.396
+We have, it's true, we've proved it's necessarily true.
+
+37:03.436 --> 37:05.957
+We're supposing we've proved this necessary truth.
+
+37:06.597 --> 37:16.122
+We have somebody over here who doesn't understand these premises over here, doesn't follow them, but he also believes because he has accepted these premises.
+
+37:16.202 --> 37:19.444
+I've heard that it was true because I heard it on NPR or something.
+
+37:21.005 --> 37:26.007
+And I think experts never lie or they're not wrong or they can't possibly be mistaken.
+
+37:28.356 --> 37:32.877
+To this fellow who thinks this, C is a conditional truth.
+
+37:33.417 --> 37:35.798
+It's a local truth, I should say.
+
+37:36.178 --> 37:37.278
+I'm giving him the wrong terms.
+
+37:37.658 --> 37:40.039
+I want to call this a local truth.
+
+37:40.199 --> 37:41.359
+All truths are conditional.
+
+37:41.379 --> 37:42.379
+This is a local truth.
+
+37:44.420 --> 37:46.040
+It's local based on these premises.
+
+37:46.100 --> 37:49.481
+Whereas over here, it's necessary.
+
+37:51.022 --> 37:52.322
+It's a necessary truth.
+
+37:54.742 --> 37:56.463
+So the same proposition.
+
+37:57.759 --> 38:04.504
+either be locally true or necessarily or universally true.
+
+38:05.144 --> 38:07.346
+So we don't know.
+
+38:07.506 --> 38:10.768
+We don't know until we examine the premises, until we examine the argument.
+
+38:11.749 --> 38:14.351
+Here's another thing that tells us.
+
+38:16.472 --> 38:24.038
+We do not know, when we're talking about knowledge and logic and so forth, why it is.
+
+38:24.966 --> 38:26.467
+that C is a necessary truth.
+
+38:27.207 --> 38:29.049
+We can explain it to ourselves.
+
+38:29.929 --> 38:31.010
+We can understand.
+
+38:31.050 --> 38:34.552
+We can say, we can come to an understanding why C is true.
+
+38:35.493 --> 38:41.197
+But we don't know why it is true, how it is true, what cause.
+
+38:41.697 --> 38:42.778
+This is another teaser.
+
+38:43.018 --> 38:49.482
+So for instance, pi equals 3.14 and an infinite number of numbers after that.
+
+38:51.442 --> 38:53.804
+There's all kind of formulas, which we'll get to.
+
+38:54.644 --> 38:58.888
+As a teaser, we'll give you some examples of these kind of formulas that we can come to pi.
+
+38:59.268 --> 39:03.491
+We can prove to ourselves the value in this same kind of way.
+
+39:04.172 --> 39:14.800
+But why pi has to be this value and not in the 18th billion digit, which is a seven, is instead of six?
+
+39:15.120 --> 39:15.340
+Why?
+
+39:16.861 --> 39:17.162
+Don't know.
+
+39:17.799 --> 39:20.200
+We don't know why it's the case, all right?
+
+39:20.260 --> 39:26.181
+We don't know why, you know, how this was, the universe was created such that this is the case.
+
+39:26.981 --> 39:28.942
+And so we have to be careful about this.
+
+39:32.823 --> 39:34.944
+We have to be very careful about this for the next reason.
+
+39:36.104 --> 39:38.625
+So let me, I trust that you have all this.
+
+39:38.665 --> 39:39.645
+I don't hear any questions.
+
+39:40.322 --> 39:42.385
+And I can't see anybody.
+
+39:42.505 --> 39:48.132
+It's funny that you mentioned that sooth spider because he said it earlier that somebody mentioned caffeine, but it wasn't helping him.
+
+39:48.192 --> 39:49.914
+So I think he tried to use that once.
+
+39:51.116 --> 39:54.199
+Nor can I see where somebody put the chalk.
+
+39:55.020 --> 39:55.781
+It's in your hand.
+
+39:55.801 --> 39:55.842
+Oh.
+
+40:05.578 --> 40:08.099
+Let's talk about how all this fits in with science.
+
+40:08.159 --> 40:09.219
+What's it have to do with science?
+
+40:09.519 --> 40:11.800
+There's all kind of propositions in science like this.
+
+40:14.601 --> 40:15.842
+Another letter from Brian.
+
+40:16.142 --> 40:17.843
+Always a nice letter from Brian.
+
+40:18.383 --> 40:19.703
+He sends a lot of nice stuff.
+
+40:20.724 --> 40:26.966
+Brian sent Alan Watts' books today, which are something that... Yeah.
+
+40:27.546 --> 40:28.166
+Thanks, Brian.
+
+40:28.606 --> 40:29.367
+I got them right here.
+
+40:31.007 --> 40:32.008
+Volumes 1 through 3.
+
+40:34.389 --> 40:36.031
+There's all kinds of propositions like this.
+
+40:36.551 --> 40:41.035
+The speed of light is C, the atomic weight of radium is R, whatever it is.
+
+40:44.779 --> 40:52.906
+Sometimes they'll call these things, some physicists will call these things, maybe radium's not, but the C definitely is, constants.
+
+40:53.747 --> 40:54.808
+Constants, nice.
+
+40:58.972 --> 40:59.973
+I think parameters,
+
+41:03.885 --> 41:07.607
+which is also in use, I think it's a better word.
+
+41:08.127 --> 41:08.927
+It's a parameter.
+
+41:10.028 --> 41:30.658
+We don't know why the speed of light is C. That is to say, there does not exist an argument with premises, premises one, that's necessarily true, premises two, and so on, that comes to, I'll call this proposition A. We can't deduce
+
+41:32.810 --> 41:33.490
+the speed of light.
+
+41:34.351 --> 41:36.792
+It's experimentally given.
+
+41:37.512 --> 41:37.832
+All right.
+
+41:38.492 --> 41:41.494
+So this is a contingent truth.
+
+41:41.534 --> 41:43.275
+This is another way to say these kind of things.
+
+41:47.782 --> 41:51.225
+It's contingent on the premises of the argument that we bring to them.
+
+41:51.806 --> 41:53.668
+We don't have a strict deduction of it.
+
+41:53.828 --> 41:55.850
+If we did, it would no longer be a parameter.
+
+41:56.110 --> 42:01.595
+For instance, there may be an argument that gives us the atomic weight of radium.
+
+42:01.635 --> 42:09.763
+The periodic table is such like this, and we can deduce elements that should be there, and that's how some elements were discovered, and all this kind of a thing.
+
+42:11.181 --> 42:18.883
+So, the idea in science is to try to remove as much contingency as possible.
+
+42:19.223 --> 42:27.586
+In other words, to make these premises in our arguments as close as we can get them to necessary truths themselves.
+
+42:28.266 --> 42:29.066
+like mathematics.
+
+42:29.467 --> 42:36.390
+So that in mathematics we have all sorts of necessary truths as premises and we just build on that and we see what follows from it.
+
+42:36.730 --> 42:38.051
+In science we can't often do that.
+
+42:38.091 --> 42:40.272
+A lot of times it's just reliant on observation.
+
+42:40.292 --> 42:42.113
+We have these contingent operations.
+
+42:42.793 --> 42:43.053
+Okay.
+
+42:43.113 --> 42:50.857
+If I was going to ask Matt a question right now I would say that then do contingents, contingent truths have
+
+42:53.803 --> 42:54.884
+contingencies.
+
+42:55.024 --> 43:01.467
+So in other words, what somebody was saying in the chat is the speed of light contingent on what substance it's traveling through.
+
+43:02.007 --> 43:11.191
+And so then the speed of light is still not deduced, but it can be measured and it might be contingent on certain factors.
+
+43:11.232 --> 43:15.273
+And so then not having premises, but having contingencies.
+
+43:15.334 --> 43:16.374
+I wonder if he would say that.
+
+43:16.534 --> 43:21.877
+So the better the science is, the more the sounder it is, the less contingent it is.
+
+43:22.765 --> 43:25.367
+the more it's relying on necessary truths.
+
+43:26.348 --> 43:27.849
+The opposite is also true.
+
+43:27.929 --> 43:47.966
+The more contingent it is, like we're going to see with ad hoc probability models, which swamp certain fields like sociology, any of the so-called soft sciences, the cellar of science and so forth,
+
+43:49.992 --> 43:59.557
+So in other words, where he's going with this is that we don't have a deductive explanation for why the speed of light is the way it is.
+
+44:00.217 --> 44:02.958
+We just have to kind of use it as a contingent truth.
+
+44:04.179 --> 44:16.825
+But if a contingent truth of our science is created and used and perpetuated, that contingent truth could be used incorrectly, right?
+
+44:16.845 --> 44:18.686
+Because if it's not true, we have a problem.
+
+44:20.095 --> 44:27.541
+And ad hoc probability in academic science, especially in the soft sciences, is often used to create contingent truths.
+
+44:27.862 --> 44:33.687
+Or, even worse, experiments based on accepting or assuming conditioned truths.
+
+44:33.747 --> 44:34.928
+I think that's where we're going.
+
+44:34.988 --> 44:35.468
+Conditioned.
+
+44:35.928 --> 44:37.170
+Contingent, excuse me.
+
+44:37.690 --> 44:38.651
+Contingent truths.
+
+44:40.663 --> 44:43.185
+Well, they rely on all these ad hoc models.
+
+44:43.225 --> 44:46.087
+I'm not going to get, I don't want to insult anybody unnecessarily.
+
+44:46.787 --> 44:49.069
+Necessarily, I would like to insult a lot of people.
+
+44:49.629 --> 44:51.210
+But for right now, I'll just leave it as that.
+
+44:51.290 --> 44:54.752
+The more ad hoc we become, the more we just make up premises.
+
+44:55.273 --> 44:57.834
+I think the model is a normal model that looks like this.
+
+44:57.894 --> 44:59.716
+Well, that's highly contingent.
+
+45:00.416 --> 45:01.577
+and in no way certain.
+
+45:02.278 --> 45:12.871
+And so that we just, if we have a bunch of questionable, questionable one, questionable two, premises, questionable M, and we have some conclusion, call it B.
+
+45:14.474 --> 45:16.895
+I hope you can see that this is questionable, and this is questionable.
+
+45:16.935 --> 45:19.335
+We did this last week as the homework, and this is questionable.
+
+45:19.655 --> 45:25.777
+Well, then, this conclusion has to be even more questionable, because we're building question upon question upon question.
+
+45:26.497 --> 45:32.439
+Of course, it doesn't work that way in the university's PR office and so forth.
+
+45:32.759 --> 45:39.581
+This is presented as just as sound as a mathematical theorem or something like this, so we have to be very careful.
+
+45:46.674 --> 45:48.895
+I think I want to leave us with a quote.
+
+45:49.415 --> 45:50.456
+This is all we're going to do today.
+
+45:50.476 --> 45:51.796
+I want to talk about scientism.
+
+45:53.557 --> 45:55.878
+I'm going to talk about scientism again and again and again.
+
+45:56.298 --> 45:58.519
+We're not trying to be good academics here.
+
+45:58.719 --> 46:01.801
+We're not even trying to be good scientists per se.
+
+46:02.081 --> 46:06.683
+What we're trying to be is trying to be people who understand the way the world works.
+
+46:07.443 --> 46:25.128
+the best of our ability and what a fantastic statement we're not trying to be scientists here we're not trying to be academics we're just trying to be people that understand how our world works as best as possible what a spectacular statement that is today i want to talk about scientism
+
+46:26.958 --> 46:29.281
+I'm going to talk about scientism again and again and again.
+
+46:29.701 --> 46:31.924
+We're not trying to be good academics here.
+
+46:32.104 --> 46:35.169
+We're not even trying to be good scientists per se.
+
+46:35.469 --> 46:40.095
+What we're trying to be is trying to be people who understand the way the world works.
+
+46:40.836 --> 46:47.160
+to the best of our ability and not beholden to any given system or anything like this.
+
+46:47.240 --> 46:50.803
+We're trying to figure out what's going on, what truth is, okay?
+
+46:51.023 --> 46:56.507
+Or what things are, not what truth is so much as what things are true, what things are false, which are uncertain.
+
+46:57.127 --> 46:57.387
+Okay.
+
+46:57.708 --> 46:58.308
+There it is.
+
+46:58.748 --> 47:00.049
+We need to know what's true.
+
+47:00.109 --> 47:03.071
+We need to know what's false and we need to have what's uncertain.
+
+47:03.171 --> 47:04.112
+It's really wonderful.
+
+47:05.133 --> 47:07.514
+Jacques Brazant said that about scientism.
+
+47:07.554 --> 47:09.375
+He said, scientism is the fallacy
+
+47:10.632 --> 47:16.233
+Believing that the method of science must be used on all forms of experience and given time will settle every issue.
+
+47:16.754 --> 47:19.754
+That leads to different types of scientism which we'll talk about.
+
+47:20.755 --> 47:29.737
+But the most... So, Jacques Brazin said that about scientism, he said scientism is a fallacy.
+
+47:31.025 --> 47:36.639
+believing that the method of science must be used on all forms of experience and given time will settle every issue.
+
+47:37.160 --> 47:40.127
+That leads to different types of scientism which we'll talk about.
+
+47:41.138 --> 47:44.360
+But the most pleasing one to me is Pascal.
+
+47:45.261 --> 47:46.182
+This is Pascal.
+
+47:46.302 --> 47:48.163
+He said, and I'll leave you with this.
+
+47:48.544 --> 47:49.804
+I don't have a homework for you.
+
+47:51.866 --> 47:57.770
+Unless I can think one up, I'll put it on the blog in writing.
+
+47:57.830 --> 48:01.333
+I can't think of something except to read all this stuff.
+
+48:01.693 --> 48:04.796
+Read the material I'm going to give you because it's going to be crucial.
+
+48:05.176 --> 48:06.177
+We're going to go from here.
+
+48:06.237 --> 48:07.478
+We're going to talk about faith.
+
+48:07.878 --> 48:10.120
+We're gonna talk about the difference between belief
+
+48:11.098 --> 48:15.881
+and knowledge, and then we're going to go back to logic.
+
+48:17.082 --> 48:29.451
+We started with a teaser of logic, we talked about all this, now we have a firm foundation that yes, truth exists and so forth, and we're going to go back to logic, and then from there we're going to move on to probability.
+
+48:29.491 --> 48:35.155
+It's going to be a couple of weeks before we get to probability, that's the juiciest subject, but because it's so contentious,
+
+48:36.499 --> 48:43.625
+The foundations of probability and the interpretations of probability are so contentious, we need this absolutely firm foundation before we get there.
+
+48:43.685 --> 48:47.709
+So the things I say about it will be understandable in that context.
+
+48:48.129 --> 48:49.951
+Anyway, here's Pascal on scientism.
+
+48:50.512 --> 48:52.093
+He said, the world is a good judge of things.
+
+48:53.574 --> 49:00.901
+For in its natural ignorance, which is man's true state, the sciences have two extremes, which means.
+
+49:01.977 --> 49:08.161
+The first is a pure natural ignorance, which all men find themselves at birth, some a long time after.
+
+49:08.701 --> 49:16.546
+The other extreme is that reached by great intellects, who, having run through all that men can know, find they know nothing.
+
+49:17.426 --> 49:20.028
+And they come back again to the same ignorance from which they set out.
+
+49:21.029 --> 49:24.250
+But this is a learned ignorance, which is conscious of itself.
+
+49:25.291 --> 49:31.155
+Those between the two, which Pascal, he didn't invent the term midwit,
+
+49:31.872 --> 49:34.213
+But Pascal was the first who defined midwit.
+
+49:34.253 --> 49:37.114
+This is the definition of a midwit right here for you.
+
+49:37.214 --> 49:38.595
+So Pascal and midwittery.
+
+49:39.075 --> 49:56.702
+He said, those between the two extremes at birth and the conscious ignorance, the Socratian ignorance, if you like, those between these two who have departed from natural ignorance and not been able to reach the other have some smattering of some vain knowledge and pretend to be wise.
+
+49:57.743 --> 50:00.924
+These trouble the world and there are bad judges of everything.
+
+50:02.597 --> 50:05.699
+The people and the wise constitute the world.
+
+50:07.260 --> 50:09.061
+These despise it and are despised.
+
+50:09.101 --> 50:12.843
+They judge badly of everything, and the world rightly judges of them.
+
+50:13.423 --> 50:14.384
+All right, thanks for listening.
+
+50:14.644 --> 50:18.266
+Next week, on to faith and belief versus knowledge.
+
+50:19.113 --> 50:19.573
+See you next week.
+
+50:20.153 --> 50:22.014
+What an exciting end that was.
+
+50:23.554 --> 50:25.095
+What an interesting guy this is.
+
+50:25.215 --> 50:26.515
+Oh, no, no, don't shut that down.
+
+50:26.575 --> 50:28.176
+Just close this.
+
+50:28.196 --> 50:29.316
+What an interesting guy this is.
+
+50:29.336 --> 50:34.338
+You know, some person, crazy person, in the chat sent a flute.
+
+50:34.498 --> 50:41.080
+I don't know why you would send a guy like me a flute who's trying to figure out what instrument I'm supposed to play badly.
+
+50:41.120 --> 50:44.001
+But I've got drums, and I've got a piano, and now I've got a flute.
+
+50:44.541 --> 50:46.961
+And so I learned a couple of things about the flute.
+
+50:47.001 --> 50:48.002
+The first one is that,
+
+50:49.582 --> 50:51.183
+It's like blowing over a bottle, right?
+
+50:54.205 --> 51:06.292
+But what I didn't know about a flute before I started playing the flute that was sent to me in the mail is that a flute's octave register is completely dependent on your arbitrary.
+
+51:06.332 --> 51:06.932
+I didn't know that.
+
+51:07.012 --> 51:12.615
+In a saxophone, which I know how to play, it actually has an octave key and you push that key down and then you go up an octave.
+
+51:12.655 --> 51:13.295
+But the flute...
+
+51:20.370 --> 51:21.671
+is actually all with your lips.
+
+51:21.731 --> 51:23.912
+And the crazy part is I already kind of figured it out.
+
+51:23.972 --> 51:27.934
+So I just wanted to let the person know who sent the flute that I'm not wasting it.
+
+51:28.074 --> 51:32.056
+I'm actually, I wanted to play a flute before I played the saxophone.
+
+51:32.076 --> 51:34.957
+And my dad said that, you know, girls play the flute.
+
+51:34.997 --> 51:38.999
+So I didn't play the flute and now I have a flute and surprisingly I can play it.
+
+51:39.019 --> 51:44.862
+So anyway, thanks for sending it and helping me to clear my mind a little bit on something like music.
+
+51:45.602 --> 51:47.503
+And I really like learning new instruments.
+
+51:47.543 --> 51:49.424
+So this was like the best gift you could have given me.
+
+51:49.904 --> 51:51.908
+Thank you very much for joining me for this afternoon.
+
+51:51.948 --> 52:00.085
+I know this is not my wheelhouse and it's probably not as exciting maybe as hearing me yell at the slides that I've created, but I don't think...
+
+52:01.187 --> 52:05.772
+that's the way forward for us and it's definitely not the way forward for GigaOM Biological and my family.
+
+52:05.792 --> 52:22.990
+I need to figure out a way to create a living course in biology and a living course in uncertainty that will apply to biologists so that we can collectively have a way to introduce people to life sciences without them being bamboozled by
+
+52:23.550 --> 52:35.300
+the system of mythologies that was created in the 50s and the 60s and the 70s and the 80s by these same people that have tried to get us to coerce us into teaching pandemic biology to our kids.
+
+52:35.320 --> 52:37.662
+So thanks very much again for being here.
+
+52:37.682 --> 52:41.445
+I'm going to play the same song on the way out because that's how lame I am.
+
+52:44.657 --> 52:46.919
+It has been very, very fun to be here today.
+
+52:46.939 --> 52:49.421
+I'm glad that this is starting to build a little momentum.
+
+52:49.442 --> 52:50.282
+I'll be here tomorrow.
+
+52:50.783 --> 52:55.467
+Yesterday I was actually online with a guy by the name of Andrew4America.
+
+52:56.208 --> 53:00.572
+And Andrew4America and I had a three hour conversation that should be online soon.
+
+53:00.612 --> 53:02.553
+I did record it, so if I have to I'll put it up.
+
+53:03.294 --> 53:10.262
+And today, after the server is done transcoding this stream and the first one, then I'll upload the Levine show.
+
+53:10.282 --> 53:16.088
+And if you haven't seen the announcement on X because you're taking care of your consciousness and not going there anymore,
+
+53:18.131 --> 53:30.960
+Then have it be known that on the 16th of September at 8 o'clock Eastern Time, Denny Rancor and myself are going to join Jason Levine on his show and have a conversation.
+
+53:31.181 --> 53:32.301
+And I don't know what's going to happen.
+
+53:32.341 --> 53:33.302
+I don't know what will be said.
+
+53:33.342 --> 53:34.363
+Maybe it's a trap for me.
+
+53:34.403 --> 53:35.464
+Maybe it's a trap for Dennis.
+
+53:36.785 --> 53:39.086
+Maybe it's a trap for Denny or for Jason or for all of us.
+
+53:39.126 --> 53:47.091
+I don't know, but I'm gonna be there and I'm hoping that some progress will be made in getting people to talk about the murder and lies.
+
+53:47.191 --> 53:48.692
+So thanks very much for joining me.
+
+53:49.232 --> 53:51.394
+Mark Kulak will probably be on later this afternoon.
+
+53:51.434 --> 53:52.994
+Watch for his notification.
+
+53:53.855 --> 54:03.101
+And if you haven't already signed up as a follower for him on Twitch, please realize that Housatonic Live is now on Twitch and also the replays are on GigaOM.
+
+54:03.802 --> 54:05.225
+at stream.gigaohm.bio.
+
+54:05.245 --> 54:07.230
+If you like what you saw, please go to gigaohm.bio.
+
+54:07.250 --> 54:07.591
+Gigaohm!
+
+54:09.884 --> 54:11.045
+biological.com.
+
+54:11.065 --> 54:14.028
+I don't even know my own websites and find a way to support the stream.
+
+54:14.448 --> 54:17.230
+You can send mail to P.O.
+
+54:17.270 --> 54:20.713
+Box 802 Bethel Park, Pennsylvania 15102.
+
+54:23.235 --> 54:30.001
+And if you get lucky and the mail comes while I'm online, then I'll open it up and you'll see what you sent.
+
+54:30.041 --> 54:33.985
+And if it's a big puff of smoke or something like that, I guess it'll be online, too.
+
+54:34.025 --> 54:35.005
+Thanks very much for joining me.
+
+54:35.026 --> 54:35.486
+See you again tomorrow.
+
