@@ -1,0 +1,2390 @@
+WEBVTT
+
+00:07.928 --> 00:08.709
+Okay.
+
+01:09.051 --> 01:09.711
+uh so
+
+01:49.909 --> 01:56.141
+I still have trouble figuring out how I transition from one to the other.
+
+01:56.161 --> 01:58.626
+Let me see if this works.
+
+01:59.960 --> 02:01.081
+Good morning, everybody.
+
+02:01.922 --> 02:03.002
+Welcome to the show.
+
+02:03.723 --> 02:05.464
+This is GigaOM Biological.
+
+02:05.524 --> 02:07.005
+This morning we are doing Biology 101.
+
+02:07.566 --> 02:08.807
+This is the second class.
+
+02:10.288 --> 02:23.778
+As I informed you yesterday, or rather Tuesday, in our first discussion, I intend to approach this biology course unlike any biology course that I myself have had or taught before.
+
+02:24.939 --> 02:28.682
+My idea is to be more of a biology coach and to try and
+
+02:29.801 --> 02:48.517
+work out together with you live how to teach this course correctly or how to get closer to teaching it correctly by fundamentally reorienting how people approach the way that biology is introduced, which is what Biology 101 really is, right?
+
+02:49.907 --> 03:03.233
+It's an attempt to give you a framework by which one can approach what would otherwise be something that would almost be too large to tackle in a lifetime or many lifetimes.
+
+03:03.634 --> 03:12.138
+And that's the idea, to try and get us young people in our lives to understand life as a pattern integrity,
+
+03:13.078 --> 03:21.321
+and to understand what that means in the way that somebody like Buckminster Fuller might understand it in the full concept of pattern integrity.
+
+03:21.361 --> 03:26.082
+And then we're going to spend the second half today at 1 or 13.13, 1.15 talking again auditing the course of Matt Briggs.
+
+03:32.944 --> 03:46.603
+And we'll do the second installment of that where we're trying to also look at how science has been broken by the misapplication of what appears to be logical, you know, use of probability and instead of
+
+03:48.058 --> 03:48.619
+induction.
+
+03:48.739 --> 03:56.932
+So anyway, these are things that I'm still working out on my own because I think there's not very many other people trying to do it.
+
+03:57.032 --> 03:59.296
+I think this is a good use of our time.
+
+04:00.017 --> 04:02.681
+Of course, we will go back to covering the people.
+
+04:03.966 --> 04:09.569
+and the meddlers and the history of COVID to try and make sure these things aren't forgotten.
+
+04:10.869 --> 04:25.876
+But I think moving forward, it is my intention to provide something in the way of short courses that people can refer to as material ways of getting started with biology in a correct way.
+
+04:26.618 --> 04:31.380
+Parents who want to understand what vaccines are and are not.
+
+04:31.460 --> 04:34.241
+Parents that want an introduction to immunology.
+
+04:35.161 --> 04:40.223
+College students that are looking to study biology at university and not be bamboozled by that system.
+
+04:41.904 --> 04:53.729
+People that want to understand what's going on in intellectual property law might also want to understand why a mythological understanding and a mythological framework of understanding in biology
+
+04:54.469 --> 05:01.097
+also really has a lot of benefit for people who are trying to create intellectual property within that space.
+
+05:02.438 --> 05:05.261
+And so all of these things end up tying together.
+
+05:05.301 --> 05:07.304
+And again, you're watching an improv here.
+
+05:07.344 --> 05:10.547
+I've got a few notes about what I want to do today.
+
+05:10.667 --> 05:13.010
+And I'm actually going to start with yesterday's notes.
+
+05:13.130 --> 05:13.390
+And so
+
+05:14.251 --> 05:16.391
+Um, this is, you know, we'll just see where we're going to get.
+
+05:16.451 --> 05:20.372
+I thank everyone for joining me and for being here in the first place.
+
+05:20.432 --> 05:21.012
+It's really cool.
+
+05:22.413 --> 05:24.373
+Um, let me see if I've got this right.
+
+05:24.453 --> 05:33.375
+Do I, if I switch this first and then do this, then when I do this, it should be no, because I still have to do this.
+
+05:34.495 --> 05:40.196
+Um, so yesterday it looks like that's a little foggy, like maybe somebody.
+
+05:44.528 --> 05:48.052
+Yesterday I tried to start with what I thought were
+
+05:53.593 --> 06:01.756
+big points about how important it is for us to approach biology with the right frame of mind.
+
+06:02.676 --> 06:18.701
+And the frame of mind that we approach biology is actually descendant from people like Erwin Schrodinger, Jonas Salk, and the many authors that are found in this Man and His Future book that include
+
+06:22.247 --> 06:34.215
+you know, names like Julian Huxley and Hilary Koprowski and Herman Muller and Joshua Lederberg.
+
+06:35.015 --> 06:36.997
+And the list is quite long, actually.
+
+06:38.117 --> 06:51.425
+If you haven't been paying attention to Housatonic Live, Mark Hulak, yesterday he did an hour and a half of reading from this same book, from the Herman Muller chapter, and it was really actually very extraordinary.
+
+06:51.465 --> 07:05.873
+That chapter is titled, Genetic Progress by Voluntarily Conducted Germinal Choice, which is basically like, you know, hopefully, he talks about how the first generation of eugenicists
+
+07:07.493 --> 07:23.140
+really kind of hoped that there would be this natural tendency for people with bad traits, you know, like being dumb or simple or handicapped or sickly, would just have less babies than people who were very fit and very intelligent.
+
+07:23.680 --> 07:26.562
+And so then the natural progression of the human race
+
+07:27.202 --> 07:41.713
+because of the way culture works is that the human race would better itself by a natural process where the more feeble or members of our society would naturally have or choose to have even less babies and
+
+07:42.313 --> 07:46.839
+He talks about how that assumption of these eugenicists actually isn't true.
+
+07:47.339 --> 07:59.134
+And so it may be that we're going to meet need to, you know, again, as I use this analogy a lot lately, put our big boy pants on and start to take control of this, what we hoped would be a natural trend.
+
+07:59.875 --> 08:04.017
+And so that's just one of the little ideas that was inside of that chapter.
+
+08:04.697 --> 08:09.539
+And it's very worth your while to spend some time with Mark laughing about the language that was chosen there.
+
+08:09.579 --> 08:13.661
+And remember that these people are considered luminaries of their time.
+
+08:14.101 --> 08:21.124
+And many of these people went on to mentor some of the people who have mentored the people who are responsible for the pandemic.
+
+08:22.124 --> 08:26.206
+And it is that very distinct red line of mentorship
+
+08:27.156 --> 08:28.958
+that makes it so important to understand.
+
+08:29.018 --> 08:31.120
+It's not hundreds of people.
+
+08:32.241 --> 08:33.763
+It's not thousands of people.
+
+08:35.124 --> 08:47.977
+It's a few men who are responsible for charting this course where nation states get in the way of mankind finally taking control of his destiny and his future.
+
+08:50.077 --> 09:02.826
+And it's very interesting if you look at what a Biology 101 textbook wants you to think about in terms of big ideas, where we saw they break it down into different levels of analysis.
+
+09:05.047 --> 09:22.514
+And the next step, of course, progressing from here would be to point out, and most biology textbooks will do this, would be to point out that there are emergent properties which cannot be predicted by understanding the level of organization that you're on.
+
+09:23.394 --> 09:31.261
+So in other words, if you understand everything about genetics on the genetic level, you still won't understand how genes combine to produce a cell.
+
+09:31.942 --> 09:45.093
+That's a level of complexity that is an emergent property that a lot of the properties of cells aren't explainable by the properties of DNA alone, but emergent properties that need more explanation and that at every level,
+
+09:45.894 --> 09:53.120
+There are emergent properties of tissues that couldn't be predicted by the properties of the cells alone.
+
+09:53.460 --> 10:05.870
+There are emergent properties of the organs that are composed of those tissues that cannot be predicted by the contents or the mechanisms and the physiology present in the tissues by themselves.
+
+10:06.390 --> 10:10.693
+And this goes on and on until you see the communities of animals exhibit
+
+10:11.474 --> 10:23.753
+you know, properties and things over time that can't be properly understood when you're looking at the individual organisms, never mind the organs that they are composed of.
+
+10:25.000 --> 10:47.941
+And so in one sense, it's nice to hear an introduction in biology that acknowledges these layers of complexity and tries to say that if you want to take a shot at appreciating the beauty of biology, you're going to have to realize that there are some levels upon layers upon layers upon layers of complexity inside of this one pattern integrity.
+
+10:51.778 --> 10:59.626
+And only depending on where you draw these arbitrary lines are there separate pattern integrities.
+
+10:59.687 --> 11:02.850
+But the whole could be viewed as a pattern integrity.
+
+11:05.785 --> 11:11.768
+And the individuality of these pattern integrities has more to do with the temporal and physical space that they occupy.
+
+11:11.808 --> 11:17.090
+And that's something that I want to add to this first before we move on.
+
+11:17.190 --> 11:20.712
+So let's make sure that we remember where we were yesterday.
+
+11:20.752 --> 11:34.558
+We talked about the fact that people in our recent past, maybe the people that it would have been hanging out with our grandfathers, or maybe even with the mentors of our parents,
+
+11:36.733 --> 11:54.274
+stopped thinking about planting trees under whose shade they would never shelter and started thinking about the genomes that they were passing on and the consequences of those genomes because they were led to believe that you know everybody I mean let's think about it for a second from the perspective of what's going on here and then we're going to come back to this
+
+11:55.071 --> 12:13.646
+later, but as a thought exercise, think back to your grandparents, if you can, and if this is not a painful memory, think back to your grandparents and the children that they had and the number of children per child they got as grandchildren in return.
+
+12:13.786 --> 12:20.651
+And then think about the families that you know and extending to how many grandchildren do you expect they will have?
+
+12:21.971 --> 12:26.035
+How many grandchildren did my grandmother have, for example, is just one question.
+
+12:26.075 --> 12:27.477
+How many children did she have?
+
+12:28.398 --> 12:30.400
+How many grandchildren did she end up with?
+
+12:31.604 --> 12:42.549
+And what you will see if you do that thought exercise is that it's not just the number of grandchildren that changed in this generation, but also the number of children that people are having.
+
+12:42.589 --> 12:57.034
+And so this is a multiplicative effect that many, many people aren't really talking about, but it's definitely part of one of the layers of this kind of biological analysis.
+
+12:57.074 --> 13:00.356
+If we were to start to think about the human population
+
+13:02.171 --> 13:08.535
+as a kind of pattern integrity that we want to understand, the species as a pattern integrity that we want to understand.
+
+13:08.595 --> 13:29.386
+And this is a pretty crucial point to realize that the pattern of reproduction, the number of families that are having, let's say, six kids like my grandmother did, and how many of those six kids are having kids like my grandmother's kids did, versus now, where my brother and his wife have decided not to have kids.
+
+13:30.333 --> 13:42.544
+So that's a thing that my grandmother doesn't have in her, in her, in her descendancy map until her grandkids decide not to have children.
+
+13:43.725 --> 13:44.746
+So that's a change.
+
+13:45.586 --> 13:50.471
+And that change is quite significant from the perspective of trying to understand human biology.
+
+13:51.151 --> 13:57.297
+And it is very significant to understand that these people in this book were talking in terms
+
+13:59.301 --> 14:08.986
+that acknowledged that that was significant, that acknowledged that we as mankind have come to realize that we have control over those knobs.
+
+14:09.046 --> 14:13.149
+We can decide what the population looks like in 50 years if we wanted to.
+
+14:15.090 --> 14:17.351
+That's the argument that's being made here.
+
+14:18.717 --> 14:21.819
+And I'm not going to go down the, oh, it's a depopulation agenda thing.
+
+14:21.859 --> 14:22.960
+It's absolutely not.
+
+14:23.100 --> 14:25.222
+It is a ruling thing.
+
+14:25.382 --> 14:28.304
+It is a planning thing.
+
+14:28.464 --> 14:29.845
+It is a foresight thing.
+
+14:29.905 --> 14:31.826
+It is a responsibility thing.
+
+14:31.866 --> 14:36.830
+They've turned it into a, you know, the smart people have a responsibility.
+
+14:38.939 --> 14:52.209
+to take control of what was once a ship at drift on an ocean of evolution can now be a ship with someone at the helm, with a rudder and sails.
+
+14:53.791 --> 15:00.556
+And we can move through this temporal space of evolution through our future with intention.
+
+15:00.636 --> 15:02.157
+That's what this book is about.
+
+15:03.598 --> 15:07.061
+And if you read the Herman Muller chapter with Mark,
+
+15:10.201 --> 15:25.812
+what you will find is someone who is fantasizing about that future, fantasizing about that level of direction and that level of intentionality that these people would like to achieve from a mankind perspective and how nation states get in the way of that.
+
+15:28.837 --> 15:54.583
+And what I am starting to come to realize in my heart is that the best explanation for where we are and why we are here is because people who still believe these ideals, despite the ever increasing evidence of the irreducible complexity being impenetrable, being only worthy of our reverence,
+
+15:55.953 --> 16:03.877
+They are continuing to insist, as Ray Kurzweiler does, that in 10 years or 20 years, we'll be able to upload our consciousnesses and there will be no more disease.
+
+16:04.557 --> 16:11.661
+And we'll be able to put implants in our brains that will allow a seamless integration across space and time and all this other nonsense.
+
+16:13.362 --> 16:22.326
+And the way that we've gotten here is by starting to teach biology with this framework that's missing dimensionality to it.
+
+16:24.346 --> 16:34.136
+And so I want to add that dimensionality now and then at the first part of this, and then I would like to maybe read a few pages from this book as Mark did.
+
+16:34.897 --> 16:45.909
+And I'm going to start from the introduction and the first part, because I think it's a really important part of the book, of course, but in every part of this book,
+
+16:47.222 --> 16:47.822
+is a gem.
+
+16:47.943 --> 17:01.392
+I mean, if you look at the contents of this book, The Future of Man, Agricultural Productivity in Relation to Population, Sophisticated Diets in Man's Health, World Resources, Control of Reproduction in Mammals.
+
+17:06.505 --> 17:21.275
+The sex ratio in human populations, world population, growth and development of social groups, man's relationship to his environment, machines and society, sociological aspects of, that's the discussion, I guess.
+
+17:21.895 --> 17:23.656
+The promise of medical science.
+
+17:23.697 --> 17:30.081
+Here's Hilary Koprowski's chapter that talks about viruses coming from bats, the future of infectious and malignant diseases.
+
+17:31.462 --> 17:38.928
+the longevity of man and his tissues, something that became very important subject of discussion at the start of the pandemic.
+
+17:39.529 --> 17:54.581
+Health and disease, genetic progress by voluntarily conducted germinal choices, the chapter that Mark read yesterday on his stream, the biological future of man by Joshua Lederberg himself, eugenics and genetics.
+
+17:54.661 --> 17:56.863
+I mean, they even just have it as a part of the title.
+
+17:57.943 --> 18:01.766
+Potentialities in the control of behavior.
+
+18:05.008 --> 18:06.789
+And then we have the future of the mind.
+
+18:06.849 --> 18:14.274
+I'm sure they don't mean, you know, telekinesis and telepathy and all these other things.
+
+18:14.314 --> 18:17.116
+I'm sure what they mean is, how are we going to control it?
+
+18:17.156 --> 18:18.617
+How are we going to enfeeble it?
+
+18:18.657 --> 18:22.780
+How are we going to make sure that people don't get in the way
+
+18:23.798 --> 18:28.100
+of our directing the evolution of the human species.
+
+18:28.160 --> 18:29.201
+That's what this is about.
+
+18:29.641 --> 18:34.023
+The biological possibility for the human species in the next 10,000 years.
+
+18:35.044 --> 18:36.825
+Ethical considerations.
+
+18:41.007 --> 18:47.170
+And so that's why I've chosen this book to be the introductory text for Biology 101.
+
+18:51.704 --> 18:59.089
+Because instead of having this as the introduction to Biology 101, Biology 101 is historically this.
+
+19:00.670 --> 19:04.413
+And this is an incomplete framework.
+
+19:05.794 --> 19:09.116
+So let me explain why that is an incomplete framework.
+
+19:11.238 --> 19:15.901
+So I'm not going to remember it off the top of my head again, because I had a list over here on the table.
+
+19:16.826 --> 19:42.553
+to make sure I didn't forget it but I'll do it here now anyway and we'll just see if we can get most of them biosphere and then I think it was ecosystem and then was it community or something like that and then population and then sorry ecosystem, communities, populations, organisms
+
+20:04.560 --> 20:13.654
+So, this, the problem with this is, number one, I'm just accepting the divisions that a typical biology 101 textbook would have.
+
+20:15.376 --> 20:22.378
+And I'm not suggesting that those divisions are obvious or necessities like, you know, the way the music scale is.
+
+20:22.518 --> 20:26.920
+I just mean that I'm accepting that because I want to have a discussion about it and what's missing here.
+
+20:26.960 --> 20:40.484
+Now, even if these distinctions are, in the end, the most logical ones, I think one of the most important things to realize is missing from this are the other dimensions that matter so very, very much.
+
+20:41.585 --> 20:45.967
+Um, and let me just turn back to make sure I see how I drew it over here.
+
+20:46.827 --> 20:50.249
+Um, yeah, so maybe I'll redo it again.
+
+20:50.309 --> 20:53.190
+This is, this is the diagram I want to draw again.
+
+20:53.670 --> 20:58.793
+So what we really have here, this list in bio, this is, this is biology 101.
+
+21:02.443 --> 21:03.924
+And biology 101 is fine.
+
+21:03.964 --> 21:13.547
+They've been teaching that for a long time, but what we need to understand is what's missing from this and what makes this so very enticingly oversimplified.
+
+21:14.088 --> 21:18.970
+And the basic way to do this is to try and stick with this same thing.
+
+21:19.030 --> 21:26.233
+So let's make a new diagram and we'll start with the biosphere at the top.
+
+21:26.873 --> 21:30.934
+And this is like, you know, layers of complexity all the way down to
+
+21:33.399 --> 21:35.422
+apparently at the bottom is DNA.
+
+21:35.882 --> 21:43.953
+You could go back down further to chemicals, I guess, but let's stop at DNA here because that's really where the pattern integrity is found somewhere in here, right?
+
+21:45.495 --> 21:46.696
+And so this is a
+
+21:48.234 --> 21:51.615
+This is that thing here represented by an arrow.
+
+21:51.655 --> 21:58.616
+What's missing from this, of course, is at least one or two extra dimensions, maybe even one coming out.
+
+21:59.436 --> 22:05.197
+The first dimension that I would like to point out is that there's a size change here.
+
+22:11.799 --> 22:14.859
+And the size change, of course, from big to small
+
+22:18.692 --> 22:31.866
+means that there's actually physics changes that occur as we move from the biosphere down to genes, right, and proteins and molecules that are somewhere in between cells and genes here.
+
+22:31.926 --> 22:35.190
+Somewhere in between there, there's some small stuff.
+
+22:35.570 --> 22:38.313
+And here, the physics is quite different.
+
+22:41.311 --> 22:41.571
+Right?
+
+22:41.631 --> 22:44.272
+The physics changes a lot at those small sizes.
+
+22:44.352 --> 22:55.957
+And so you can't really get too carried away with generalizing your understanding across these things, other than to just say that you're looking for patterns in these different layers.
+
+22:56.037 --> 22:59.959
+But Biology 101 is often not taught with that much nuance.
+
+23:00.039 --> 23:05.561
+And so very quickly, it is very enticing for the average Biology 101 student to, again,
+
+23:07.262 --> 23:15.663
+mistake this for a fluid, complete, thorough understanding of these at different layers, when that is not the case at all.
+
+23:15.683 --> 23:31.266
+What this is, is an enticingly simplified version of a highly complex system, impossibly complex system, with an enticing offer to not have any reverence for it.
+
+23:32.386 --> 23:34.187
+So the physics are different here.
+
+23:34.247 --> 23:36.227
+The physics, of course, are also different here.
+
+23:41.274 --> 23:44.236
+And you know, I'm not being very specific here because I don't think we need to.
+
+23:44.296 --> 23:49.901
+I think the point is pretty obvious that, that there are different things at play at these different size scales.
+
+23:50.601 --> 23:56.346
+And there's another thing that maybe comes out of this thing and goes, you know, that way.
+
+23:56.846 --> 23:59.188
+And that of course would be time, right?
+
+24:01.070 --> 24:03.512
+And I'm not talking about time, like it moving.
+
+24:03.572 --> 24:05.013
+I'm talking about time scales.
+
+24:07.262 --> 24:17.610
+And we're talking about on different timescales, you know, the way that DNA and proteins and molecules function is on a timescale that's very different than the way that you age.
+
+24:18.971 --> 24:29.134
+It's very different in then the way that populations change, the way that ecosystems change, the way the biosphere changes, the way that tissues evolve, the way that organs age.
+
+24:29.194 --> 24:31.795
+This is all different on different time scales.
+
+24:31.855 --> 24:40.158
+And so that all combines to where this generalizing across this one axis is pretty dumb.
+
+24:41.621 --> 24:56.313
+And yet Biology 101 is basically always emphasizing a sort of exploration up and down this single ladder without emphasizing that as you move up and down this ladder, you're also moving within these other parameter spaces.
+
+24:56.373 --> 25:02.237
+And those parameter spaces are often very vital to understanding better
+
+25:03.427 --> 25:12.132
+how irreducibly complex the interactions are between these layers on this one axis, which they want to emphasize in biology alone.
+
+25:16.186 --> 25:17.547
+I'm not sure if I got that or not.
+
+25:17.647 --> 25:21.009
+I mean, that was kind of all I wanted to teach today.
+
+25:21.069 --> 25:40.083
+I don't know if that's really what I wanted to coach you about today, was trying to get your imagination to stretch out a little bit and expand the way that it thinks about these things, which already in Biology 101 are meant to expand your understanding of what's going on.
+
+25:41.192 --> 26:08.935
+But in reality, what this is doing is already pigeonholing you and already hamstringing your ability to assign enough intellectual space to these concepts and to assign enough intellectual space to their interrelationship along these other axes of timescale and physics of size.
+
+26:11.567 --> 26:25.333
+Because of course, electromagnetic forces mean something very different to molecules across a phospholipid bilayer than electromagnetic signals mean between two people in two different houses.
+
+26:27.714 --> 26:37.037
+Electromagnetic signals mean something very different for two neurons trapped in an electromagnetic field versus two people
+
+26:39.999 --> 27:02.165
+I don't know the right analogy here, but understand what I'm trying to suggest to you, that one of the enticing traps of biology 101 that a lot of academic scientists are still trapped within is this illusion that allows people to sort of
+
+27:03.442 --> 27:09.587
+not think in this way that allows them to kind of simplify, oversimplify biology to this.
+
+27:09.667 --> 27:11.869
+And then what's further, what's the next step here?
+
+27:12.510 --> 27:28.984
+Of course, the next step in academic biology, the next step in specializing in biology is to go over here and pick like one thing where you, you pick a mouse, you pick the brain and you pick SK channels.
+
+27:31.653 --> 27:42.144
+And so then by the time you've done your reductionist selection of your layers, right?
+
+27:42.204 --> 27:55.357
+This reductionist selection of, I'm gonna study the mouse brain and SK channels in the mouse brain, but then I'm gonna tell stories about how these things control all these different levels.
+
+27:57.008 --> 28:04.672
+because since the organism and the brain is ultimately dependent on SK channels in the mouse, then it must also be in the humans.
+
+28:04.712 --> 28:26.244
+And then I can run around on this hamster wheel for 20 years of a career and teach a bunch of students about this hamster wheel and claim that I am contributing to understanding human biology, human wellbeing, you know, just contributing something, when in reality, all I'm doing is reinforcing this
+
+28:27.481 --> 28:33.469
+oversimplification of what should be always reemphasized as an irreducible complexity.
+
+28:33.529 --> 28:40.258
+We can barely draw in two dimensions unless we depict multiple dimensions on the paper.
+
+28:41.809 --> 28:43.850
+And yet in biology, that's never done.
+
+28:43.910 --> 28:45.011
+It's never, ever done.
+
+28:45.051 --> 28:50.514
+And not to the extent to which it should be if the goal was correct.
+
+28:50.574 --> 28:59.020
+And I think that's what we're trying to do here is try to show how these kinds of ideas need this.
+
+29:00.936 --> 29:07.961
+because they need you to accept that something is primal, that something is, that is the foundation of everything.
+
+29:08.021 --> 29:22.250
+And by first building this up as layers of analysis, and then talking about emergent properties, you can create the illusion that everything above this is dependent on the bottom.
+
+29:24.712 --> 29:26.153
+And that is not the case.
+
+29:28.854 --> 29:37.358
+And I think that that becomes very clear once we start talking about the fact that RNA and DNA are not the pattern integrity.
+
+29:38.578 --> 29:39.518
+It's not possible.
+
+29:39.559 --> 29:42.600
+And we have very, very good evidence that they're not the pattern integrity.
+
+29:42.620 --> 29:44.341
+They contain information, true.
+
+29:45.101 --> 29:48.502
+But what information they contain, we've barely scratched the surface of it.
+
+29:48.562 --> 29:57.106
+We know that some of these sequences are codes for proteins, but we don't know what of those sequences are responsible for making the difference between species.
+
+29:58.462 --> 30:00.386
+We can't describe that at all.
+
+30:03.152 --> 30:05.537
+And that concept is lost on a lot of people.
+
+30:06.323 --> 30:11.844
+It's a lost on a lot of biologists because we've been making all these statements about how we've been sequencing all of these things.
+
+30:11.904 --> 30:13.525
+When in reality, what have we been doing?
+
+30:14.125 --> 30:25.448
+We've been making restriction enzyme maps of these genomes after using recombinant DNA methods to make enough of the quantity copies of that genome so that we can do those experiments.
+
+30:25.468 --> 30:30.749
+And then after we do those experiments, we publish in paper in nature that says we've sequenced the shrew.
+
+30:35.111 --> 30:43.435
+And even if 10 years later we go back and sequence the shrew, we've still only sequenced one shrew.
+
+30:43.555 --> 30:58.701
+We still don't understand the variability in the genome of the shrew, nevermind understand how the genome of the shrew and the differences between that genome and ours fundamentally underlie the difference between that species and our own.
+
+30:59.601 --> 31:01.362
+If we did, there wouldn't be much work to do.
+
+31:04.178 --> 31:18.265
+But the implication of these publications, the implication of the title of these papers, the implication of the title of these 60 Minutes programs is that this represents a fidelity of understanding because we've always said this.
+
+31:19.205 --> 31:20.986
+We've always said we were going to do this.
+
+31:21.466 --> 31:23.227
+Ray Kurzweiler was always right.
+
+31:25.785 --> 31:37.191
+And just because it's become infinitely cheaper to make those DNA sequences and to make those RNA sequences doesn't mean that it's become much more understood.
+
+31:37.291 --> 31:49.157
+Just the same as if you could make lots and lots of copies of Chinese books, and before you had to copy them by hand, it doesn't mean that your understanding of the Chinese language is now going to drastically increase.
+
+31:52.813 --> 32:00.339
+And this is one of the many illusions that gets created when people are focused exclusively on these few layers.
+
+32:01.420 --> 32:10.588
+And then you just work in the idea that, well, we can use recombinant DNA of SK channels to study SK channels.
+
+32:10.648 --> 32:12.229
+It's a really useful tool.
+
+32:12.850 --> 32:17.954
+We can use a adenovirus to express SK channels in cell culture.
+
+32:17.994 --> 32:18.875
+That's really cool.
+
+32:20.325 --> 32:22.827
+And then we're still running in this hamster wheel.
+
+32:25.629 --> 32:32.793
+And also very much to our benefit, we think that the gene for SK channels is really important.
+
+32:34.154 --> 32:35.435
+We're actually encouraged.
+
+32:35.535 --> 32:48.084
+There are grant applications for us to look for genetic alterations in the SK channel gene that lead to known and predictable disease states like fainting goats.
+
+32:49.707 --> 32:59.738
+And then after we find out the potassium channels lead to fainting goats, now we have another huge story we can tell about how, see, a single change in a gene leads to a huge phenotype.
+
+33:01.560 --> 33:07.687
+And so, therefore, our gene must be pretty damn important in this huge continuum of pattern integrity.
+
+33:10.851 --> 33:36.381
+And that is really where the bamboozlement has occurred for all academic biologists, where from biology 101 all the way to their PhD and postdoc, they are ever narrowing, ever narrowing their line of questioning under the assumption that somebody else is doing all this work.
+
+33:38.106 --> 33:45.454
+and that somebody later will take their reductionist data and combine it with other reductionist data.
+
+33:45.495 --> 33:54.885
+And at some point, some other clever PhD student will put those two pieces together and do another reductionist analysis that will help us to understand this better.
+
+33:56.427 --> 33:58.750
+Despite just being another incomplete
+
+34:00.316 --> 34:02.477
+understanding with a different set of variables.
+
+34:03.297 --> 34:09.259
+The hope is, is that eventually there will be overlap enough so that we finally emerge on the other side.
+
+34:11.560 --> 34:14.401
+And this is an absolute illusion.
+
+34:15.562 --> 34:24.425
+But again, one more time, just to emphasize it, that illusion is what these people need in order for their agenda to be achieved.
+
+34:25.421 --> 34:29.624
+And that agenda is the use of humans as experimental animals.
+
+34:29.684 --> 34:32.046
+That is the engineering of humans.
+
+34:32.126 --> 34:51.943
+That is the loss of the idea that we have sovereignty over our bodies or that somehow our lives are a sacred gift that we should cherish, that our children are sacredly pure and we should protect them rather than they're born flawed and in need of 72 augmentations before they're 12.
+
+34:54.724 --> 35:01.007
+This is the kind of thing that I believe is at the heart of the problem, that we teach biology 101 wrong.
+
+35:01.467 --> 35:18.955
+And it starts right here with this list, when that list should be a very detailed three-dimensional diagram that is designed and intended to impart a sense of reverence for the amount of complexity that we're about to attempt to describe.
+
+35:20.933 --> 35:25.695
+That's the whole reason why they do these things where they have a biologist over here.
+
+35:28.416 --> 35:29.837
+And then over here, there's a chemist.
+
+35:31.678 --> 35:33.279
+And then over here, there's a physicist.
+
+35:37.361 --> 35:38.981
+And then over here, there's a math guy.
+
+35:40.562 --> 35:44.744
+And each one of these people is looking at the other one going, wow, they don't know anything.
+
+35:45.728 --> 35:50.349
+And they all think that, well, you know, chemistry is the foundation of everything that these people know.
+
+35:50.409 --> 35:52.730
+So they don't know squat because they don't know chemistry.
+
+35:53.350 --> 35:57.691
+And the physicists think the same thing about chemists to a certain extent, at least that's the joke.
+
+35:58.191 --> 36:06.033
+And that math people think the same thing about physicists, except sometimes I think the joke is that math people don't think any of these things even exist.
+
+36:08.474 --> 36:12.275
+And this joke is actually, you know, all permutations of it are kind of,
+
+36:13.203 --> 36:19.487
+kind of gross because in reality, that it's the truth in a nutshell.
+
+36:20.988 --> 36:29.473
+And what's even worse is that the recent permutations of academia, and I'm kind of spinning off into into la la land here, but I don't care.
+
+36:30.054 --> 36:39.580
+The recent manifestations of academia, especially in neuroscience, the field that I was in has encouraged physicists
+
+36:41.454 --> 36:50.661
+sorry, I gotta open this valve, I forgot, has encouraged physicists and mathematicians to become biologists.
+
+36:52.523 --> 36:54.705
+And so that's the real comedy of this, right?
+
+36:55.205 --> 37:04.552
+Is that the situation in physics and math has become so dire that they have extra math and physics people available that don't have any classes to teach.
+
+37:05.293 --> 37:08.576
+And so they've encouraged those people to go right away into biology.
+
+37:09.502 --> 37:11.063
+Because biology is really easy.
+
+37:11.944 --> 37:13.905
+Because biology is not that complex.
+
+37:13.945 --> 37:17.768
+And in fact, all of your skills are really useful in biology.
+
+37:17.808 --> 37:19.409
+But why are they useful in biology?
+
+37:19.449 --> 37:34.581
+Because the intention is to use them in very limited contexts, in very reductionist models, where math can be used to bolster the logic of their reductionist model.
+
+37:36.161 --> 37:38.943
+And the logic, of course, is what we're talking about with Matt Briggs.
+
+37:39.003 --> 38:00.435
+The logic is, if A, then B, and the reverse of it being, if not B, then not A. And so many times in biology, the questions that are being asked are two or three syllogisms away from reality, away from a real known fact, but instead an assumption.
+
+38:01.947 --> 38:07.472
+based on assumption, based on assumption with some illusion of a logical relationship between them.
+
+38:08.593 --> 38:10.975
+And what is the other thing that falls in between them?
+
+38:11.696 --> 38:12.637
+A probability.
+
+38:15.059 --> 38:24.567
+And what he was trying to get at yesterday and what I think he will develop very nicely today is this notation that we will use later in Bayesian
+
+38:25.578 --> 38:31.180
+probability with this line and therefore meaning and that that's what he's doing there.
+
+38:31.220 --> 38:34.802
+And so if you weren't following that this afternoon, we're going to cover that again.
+
+38:34.842 --> 38:38.403
+And I think and review it a little bit before we start his video.
+
+38:38.443 --> 38:39.704
+And I think it'll be really helpful.
+
+38:40.164 --> 38:41.705
+But again, what is going on here?
+
+38:41.725 --> 38:53.870
+What am I trying to show you is that this has been kind of an ongoing metamorphosis of our way of pursuing knowledge simply because these people knew it was necessary.
+
+38:55.222 --> 38:59.584
+And I believe that if you actually take the time to read this book, you will see that I'm not full of it.
+
+39:00.424 --> 39:08.147
+If you take the time to spend some time with Mark, as he reads the Herman Muller chapter, you're gonna see that these people understood this stuff.
+
+39:09.648 --> 39:12.329
+And that's not reflected in how we teach Biology 101.
+
+39:14.229 --> 39:18.511
+How we teach Biology 101 is very much a job already done.
+
+39:18.631 --> 39:23.053
+It's too complex for you to understand because we've already got it all figured out.
+
+39:24.144 --> 39:32.812
+And so you've got a lifelong, if you wanna understand everything that we know, you've got a lifelong reading task ahead of you.
+
+39:32.852 --> 39:38.797
+But if you wanna get out to the cutting edge, what you're gonna need to do is just study a few things and focus on that.
+
+39:42.020 --> 39:49.226
+And that's what they convinced me and they've convinced hundreds of thousands of biology students like me in the past decades to do.
+
+39:50.342 --> 40:05.652
+And that's how whole mythologies about the existence of phenomenon can be created, just by this really disingenuous application of reductionist thinking.
+
+40:07.634 --> 40:11.356
+even though they all know that it results in an incomplete understanding.
+
+40:11.917 --> 40:24.805
+Again, the assumption, just like what is detailed in the Herman Muller chapter in here, the assumption of the original eugenicist was that people that shouldn't have kids would choose not to, and the people that should have kids by nature would.
+
+40:32.429 --> 40:33.230
+They've set us up.
+
+40:34.363 --> 40:36.103
+And they've been setting us up for a while.
+
+40:36.163 --> 40:39.064
+And the goal is for us to teach this crap to our kids.
+
+40:39.124 --> 40:48.226
+The goal was for me to be a tenured professor, teaching this biology with pleasure to college freshmen every year until I retired.
+
+40:49.347 --> 40:51.647
+And I don't know why I didn't fall into their trap.
+
+40:51.707 --> 41:02.830
+I don't know what it was that kept me out of it, but I know for sure that I would have fallen gladly into that trap had they not made the mistake of telling me not to come back.
+
+41:03.656 --> 41:05.085
+I begged for them to take me back.
+
+41:06.874 --> 41:10.597
+And so it is with great humility that I present this discussion.
+
+41:10.657 --> 41:14.099
+It is with great humility that I present this diagram.
+
+41:14.119 --> 41:18.303
+And I'm quite certain that somebody will find that I'm not the first person to point this out.
+
+41:18.323 --> 41:23.646
+I don't know where who would have done it, but it's hard for me to believe that no one has pointed this out before.
+
+41:24.127 --> 41:33.574
+This particular observation about what's going on in neuroscience with regard to encouraging physicists and mathematicians to skip chemistry
+
+41:35.225 --> 41:46.654
+skip biochemistry, skip organic chemistry, go right to being a biologist and do experiments with people who are measuring thousands, if not millions of neurons a second.
+
+41:47.695 --> 41:51.538
+Go work with biologists who are measuring calcium signals that they don't understand.
+
+41:52.198 --> 41:59.544
+Go work with biologists that are measuring FMRI signals that they don't understand, that they're correlating with behaviors that they don't understand.
+
+42:01.960 --> 42:06.223
+That can't be a genuine pursuit of knowledge.
+
+42:06.283 --> 42:13.649
+This is a purposeful sabotaging of our pursuit of our own understanding.
+
+42:13.769 --> 42:29.581
+And it is a sabotaging which is of course bent, in my humble opinion, on getting these skillsets focused on the biological questions that these people knew already decades ago were gonna be the most important questions to answer.
+
+42:30.922 --> 42:42.289
+They believe that this hierarchy is a dependency hierarchy, that if they can alter this, understand this, then they have control over everything above it.
+
+42:49.374 --> 42:56.939
+And that philosophy is what fuels everything that we've experienced with the pandemic, because the pandemic biology
+
+42:58.317 --> 43:02.281
+dovetails precisely like a Japanese carpentry joint.
+
+43:02.701 --> 43:10.029
+It dovetails precisely with this idea that we are just genes.
+
+43:10.469 --> 43:17.055
+We are just the consequences of the cards we are dealt and that there is no magic to it.
+
+43:17.155 --> 43:22.601
+All there is is just a lot of work to do to figure out how this extremely complicated wristwatch works.
+
+43:25.202 --> 43:26.483
+And that won't get us anywhere.
+
+43:26.503 --> 43:28.104
+That won't get us our kids anywhere.
+
+43:28.144 --> 43:35.628
+And more importantly, it won't impress upon our children the role that we actually have.
+
+43:35.688 --> 43:41.912
+And so again, just to emphasize this a little bit, I wanted to do something fun because fun is fun.
+
+43:44.113 --> 43:47.875
+And what I might do is, did I download it already?
+
+43:47.955 --> 43:48.816
+I probably didn't.
+
+43:48.896 --> 43:50.797
+So I'm going to download it, and then I'm going to play it.
+
+43:50.917 --> 43:51.938
+And that might screw us up.
+
+43:53.224 --> 43:54.245
+But hopefully it will not.
+
+43:54.465 --> 43:54.905
+Let's see.
+
+43:54.985 --> 43:55.426
+Where is it?
+
+43:59.568 --> 44:01.770
+I know I gave it to myself here.
+
+44:01.830 --> 44:02.650
+I'm sure I did.
+
+44:02.871 --> 44:04.191
+And if I didn't, I can find it.
+
+44:04.332 --> 44:05.092
+And I apologize.
+
+44:05.112 --> 44:11.997
+If you have any questions while we're talking here, you could put them in the chat and maybe I can read them and answer them while I'm trying to download this thing.
+
+44:12.057 --> 44:14.939
+And hopefully I'm not going to screw up my bandwidth by doing this.
+
+44:17.060 --> 44:19.181
+No, stop it.
+
+44:22.170 --> 44:26.213
+I'm gonna clip this then I'm gonna start this program.
+
+44:26.253 --> 44:29.316
+So see really I'm doing Probably what I shouldn't be doing.
+
+44:29.716 --> 44:39.983
+The goal is intellectual property Well, they want to make the the rainforest intellectual property as far as I understand So yeah, I don't know what to say about that.
+
+44:40.624 --> 44:41.444
+Did I do it or what?
+
+44:43.386 --> 44:45.307
+Yes, I did shoot it's not doing it
+
+44:54.863 --> 44:59.905
+This is just going to play and maybe I'll just do it here.
+
+44:59.925 --> 45:01.466
+I could just do it here.
+
+45:02.887 --> 45:06.249
+Hopefully this isn't going to interrupt our connections at all here.
+
+45:06.269 --> 45:14.893
+I just want to emphasize this relationship that I'm showing over here to kind of get you an idea of the kind of
+
+45:15.976 --> 45:33.221
+at least in one direction, how much there, you've seen pictures, right, of molecules in real time and how all those proteins are all going shaking around and the glycosylated groups on the side of the spike protein are flapping all around.
+
+45:33.801 --> 45:36.382
+So the timescale thing is very important.
+
+45:36.402 --> 45:42.144
+And I thought that there's this really cute video that I remember that really emphasizes this very well.
+
+45:43.144 --> 45:45.425
+And so I wanna just see, let me just see if I can,
+
+45:47.631 --> 45:49.412
+if I can download it one more time.
+
+45:49.432 --> 45:58.215
+And maybe if it doesn't work, then I will just play it over YouTube.
+
+46:00.095 --> 46:01.676
+For some reason, this isn't working.
+
+46:01.716 --> 46:04.437
+So let me just quickly move this over here.
+
+46:06.658 --> 46:08.378
+And that means I have to do this, I think.
+
+46:08.438 --> 46:08.718
+Yes.
+
+46:14.060 --> 46:15.661
+I think I can pull this over here, though.
+
+46:15.761 --> 46:16.381
+Yeah, OK.
+
+46:19.473 --> 46:19.913
+Excuse me.
+
+46:22.094 --> 46:23.215
+Something weird happened there.
+
+46:23.255 --> 46:23.815
+What did I do?
+
+46:25.075 --> 46:26.136
+Did I close that window?
+
+46:26.176 --> 46:27.196
+I thought I made it big.
+
+46:31.358 --> 46:32.878
+I thought I made it big.
+
+46:35.859 --> 46:37.260
+And a history.
+
+46:39.541 --> 46:40.401
+Isn't that history?
+
+46:40.501 --> 46:40.761
+No.
+
+46:42.282 --> 46:43.202
+What is happening here?
+
+46:50.726 --> 46:51.367
+Okay, here we go.
+
+46:54.333 --> 46:56.017
+This is to appreciate timescale.
+
+47:54.626 --> 48:02.611
+Look, Q. I think there's another one back there.
+
+48:04.011 --> 48:04.372
+Here!
+
+48:04.412 --> 48:11.776
+Look at that!
+
+48:14.337 --> 48:18.780
+What are they doing again?
+
+48:33.991 --> 48:35.512
+Holzhaufen?
+
+48:36.433 --> 48:40.256
+Ich sage dir, da steckt System dahinter.
+
+48:47.562 --> 48:49.163
+Ich hasse Flechten.
+
+48:49.523 --> 48:54.708
+Da ist die Eiszeit vorbei, man freut sich, Sonne aufm Bauch, zack, sind sie wieder da.
+
+48:56.789 --> 48:58.671
+Oh nein, ich hab Moos aufm Kopf.
+
+49:04.002 --> 49:05.425
+Halbstärke, verdammtes Mist!
+
+49:05.506 --> 49:06.207
+Oh, jeep!
+
+49:06.227 --> 49:06.728
+Kein Treffer!
+
+50:16.803 --> 50:17.043
+No.
+
+50:19.247 --> 50:20.208
+You.
+
+50:20.268 --> 50:21.009
+Hmm?
+
+50:21.189 --> 50:22.391
+Oh.
+
+50:54.525 --> 50:54.945
+No, no
+
+51:28.126 --> 51:33.650
+Now, I think you probably already see where I wanted to take it with this movie, but you can see what's happening.
+
+51:33.670 --> 51:36.713
+The rocks are living on a very different timescale than the people are.
+
+51:37.293 --> 51:44.519
+And they're completely unaware of what is making the roads and what's making those piles of stone and piles of wood in the distance.
+
+51:45.199 --> 51:50.704
+They have no idea that holding that round rock inspired some guy to build a wheel.
+
+51:50.764 --> 51:55.768
+And then hundreds of years later, there were carts and roads going by their house.
+
+51:56.883 --> 51:58.004
+or where they're sitting.
+
+51:58.244 --> 51:59.504
+They don't understand that.
+
+52:00.204 --> 52:19.953
+And if you think about the human species and the ecosystem around these rocks as a series of pattern integrities interacting with their environment and each other, and then the simple augmentation of that pattern integrity over time by him holding that rock.
+
+52:20.693 --> 52:22.234
+Now imagine the idea that
+
+52:24.306 --> 52:50.026
+a couple generations ago or a couple decades ago, a few people decided it would be a good idea to start a mass campaign of injecting intramuscularly a combination of toxins and recombinant proteins to augment the immune system with no concept of what this idea might result in generations in the future.
+
+52:51.246 --> 53:07.543
+And now you might say, and I think it might be a valid argument to say that, well, recombinant proteins and toxins injected into the muscle of kids is probably going to be okay in most kids, and it's not going to change the genome.
+
+53:07.683 --> 53:07.983
+Fine.
+
+53:08.444 --> 53:10.446
+What about transfection and transformation?
+
+53:11.747 --> 53:13.949
+How absolutely sure can you be
+
+53:15.040 --> 53:30.116
+that injection of lipid nanoparticles with synthetic RNA and possibly DNA in them is not the one in a million thing that will lead to two generations from now a virtual collapse.
+
+53:33.752 --> 53:50.512
+How can it possibly be that we are at the stage where that is completely not discussed with regard to genetically modified plants, genetically modified mosquitoes, genetically modified humans, if you think about the mRNA transfections?
+
+53:51.974 --> 53:52.735
+We don't know.
+
+53:53.709 --> 54:04.760
+It may very well be that five years from now we find out that these transfections didn't change anybody's genome and we can wipe our forehead and say, great, but what happens if it did?
+
+54:05.501 --> 54:07.283
+What happens if it did?
+
+54:08.224 --> 54:14.631
+And how in the world can we allow these few people who are in charge to pretend as though they know?
+
+54:16.121 --> 54:26.205
+How can we allow ourselves to be bamboozled into arguing about the things that we've argued about for the past five or ten years when these fundamental truths are right in front of our eyes?
+
+54:29.347 --> 54:37.710
+That the fundamental idea of Biology 101 has been oversimplified to the point where we can be enslaved by it if we are not careful.
+
+55:19.377 --> 55:19.497
+Hmm.
+
+55:21.741 --> 55:22.082
+Hmm.
+
+55:33.891 --> 55:34.912
+Hey, you!
+
+55:35.292 --> 55:36.413
+Das ist genial!
+
+55:36.794 --> 55:38.796
+Sie bauen die Wege für diese Dinger!
+
+55:39.797 --> 55:42.219
+Das ist... das ist Fortbewegung!
+
+55:42.259 --> 55:43.420
+Das ist Transport!
+
+55:43.740 --> 55:44.441
+Hier der Weg!
+
+55:45.082 --> 55:46.503
+Die Stadt!
+
+55:46.823 --> 55:47.604
+Entwicklung!
+
+55:47.864 --> 55:49.586
+Die Möglichkeiten!
+
+55:49.886 --> 55:51.387
+Junge, schau es dir an!
+
+55:58.485 --> 56:00.387
+And the key to all this is this!
+
+56:31.897 --> 56:36.740
+Now, I'm aware that the billboard in this movie is kind of scary, so I'll just let you see that.
+
+56:36.820 --> 56:39.221
+There's a lot of one-eye stuff on the billboard.
+
+56:39.241 --> 56:40.342
+I understand that.
+
+56:40.462 --> 56:40.882
+I get it.
+
+56:40.982 --> 56:43.283
+I don't know if the guy who did it.
+
+56:43.323 --> 56:44.504
+There's moose things.
+
+56:46.725 --> 56:48.226
+I'll see if I can do some more here.
+
+56:57.511 --> 56:58.251
+Doppel-licker.
+
+57:00.734 --> 57:02.775
+There's a symbol we don't know.
+
+57:02.815 --> 57:03.696
+That was Jesus.
+
+57:03.736 --> 57:04.997
+An eyeball again.
+
+57:05.497 --> 57:07.579
+You can see the eyeball several times there.
+
+57:07.619 --> 57:08.980
+It's like a head with one eye.
+
+57:10.200 --> 57:10.481
+See it?
+
+57:10.521 --> 57:10.961
+There it is.
+
+57:11.101 --> 57:11.721
+Piercings.
+
+57:12.902 --> 57:13.663
+So cool.
+
+57:14.904 --> 57:18.126
+But it's still one eye with a G. One eye with a G.
+
+57:44.676 --> 57:45.236
+And then what?
+
+57:47.078 --> 57:48.238
+Ah, collapse.
+
+57:50.100 --> 57:50.500
+I see.
+
+57:56.284 --> 58:00.687
+And so my argument would be here that this is all part of the same thing.
+
+58:00.727 --> 58:04.769
+The guy who made this video might not know any better, but this video was very popular in 2020 or 2001.
+
+58:04.809 --> 58:06.070
+And we know what happened in 2001.
+
+58:14.773 --> 58:22.620
+So it's an interesting place that we live right now, an interesting time that we live in.
+
+58:23.741 --> 58:29.286
+And I can guarantee you that this time was foreseen by the people that wrote this book.
+
+58:30.787 --> 58:42.437
+This time was hoped for by Jonas Salk when he wrote the book Survival of the Wisest, which is also about the wise humans taking control of human evolution.
+
+58:45.196 --> 58:48.757
+because we don't want this ship to wander on this sea any longer.
+
+58:49.737 --> 58:56.019
+And it is our obligation to future generations to take the wheel.
+
+58:57.879 --> 59:02.700
+That's also what is basically argued by Erwin Schrodinger in this book.
+
+59:03.260 --> 59:07.581
+That's also what is basically argued in a lot of these books.
+
+59:09.402 --> 59:14.883
+And so let's take the chance or the time to read a little bit here.
+
+59:17.432 --> 59:42.184
+In the beginning of this book and I apologize ahead of time for reading but I do think it's important Again, I showed you the the table of contents here, which is already very impressive and now I'm gonna read the future of man evolutionary aspects because Henry just to recall one more time I'm reading this and using this as the foundational text for biology 101 and
+
+59:44.451 --> 59:51.276
+Because I think the ideas are what Biology 101 in college is actually about.
+
+59:51.316 --> 01:00:00.302
+That's why this book, for example, the example book that I have down on the floor here, Campbell Biology, that's why Campbell Biology is written the way it's written.
+
+01:00:00.362 --> 01:00:12.571
+That's why on page eight, we're already talking about... Sorry, I didn't have it open.
+
+01:00:13.611 --> 01:00:23.918
+On page 8, we're already talking about these different layers of complexity and we're already talking about aspects of life and what they are.
+
+01:00:24.018 --> 01:00:29.462
+So emergent properties and the connection between structure and function, these are all great.
+
+01:00:30.462 --> 01:00:38.688
+But at the end of this chapter, they say something that they probably will never say again and virologists definitely don't want them to say.
+
+01:00:42.591 --> 01:00:43.071
+Where is it?
+
+01:00:46.013 --> 01:00:46.493
+Oh yeah, here.
+
+01:00:46.533 --> 01:00:46.813
+Sorry.
+
+01:00:46.833 --> 01:00:48.194
+The three domains of life.
+
+01:00:49.274 --> 01:00:50.215
+Concept of life.
+
+01:00:51.455 --> 01:00:52.256
+Core themes.
+
+01:00:53.336 --> 01:00:54.777
+Molecules to evolution.
+
+01:00:54.857 --> 01:00:56.618
+Requires this, requires that.
+
+01:00:57.238 --> 01:00:58.399
+Inquiring about life.
+
+01:00:59.039 --> 01:01:01.240
+Some properties of life include order.
+
+01:01:02.041 --> 01:01:03.822
+They include energy processing.
+
+01:01:04.462 --> 01:01:10.625
+They include evolutionary adaptation, growth and development, response to the environment, reproduction, regulation.
+
+01:01:13.760 --> 01:01:18.102
+not really getting into the idea of pattern integrity because that is not their goal.
+
+01:01:18.382 --> 01:01:32.608
+They aren't trying to, they want us to think of ourselves as part of this larger machine and that collectively we shouldn't think of ourselves as important, we shouldn't think of the choices we make as important, but choices that we make as species as important.
+
+01:01:33.629 --> 01:01:39.331
+Evolution of this planet as a unit in the cosmic process has been going on for perhaps 5,000 million years.
+
+01:01:40.312 --> 01:01:41.893
+Life has evolved here about half
+
+01:01:43.385 --> 01:01:56.029
+here after about half of this huge span of time, and has itself been evolving during the latter half of the period, to be more precise, for some 2,750,000 million years.
+
+01:01:56.889 --> 01:02:02.211
+We, like all other living organisms and all other features of the Earth, are products of this process of evolution.
+
+01:02:02.271 --> 01:02:02.911
+So here we go.
+
+01:02:02.951 --> 01:02:04.071
+This is the whole thing.
+
+01:02:05.352 --> 01:02:06.272
+There's no creator.
+
+01:02:06.312 --> 01:02:07.352
+There's no design.
+
+01:02:07.452 --> 01:02:12.574
+This is all lightning bolt in a mud puddle, even though there is no possible way
+
+01:02:13.476 --> 01:02:17.178
+that that explanation suffices and even Darwin himself knew that.
+
+01:02:18.779 --> 01:02:33.587
+We men belong to the latest dominant type to be produced and are now responsible for the future evolution of this planet, which according to astronomers and geophysicists is likely to continue for at least another 2,750 million years.
+
+01:02:33.627 --> 01:02:35.528
+That's a lot of time we're responsible for.
+
+01:02:36.909 --> 01:02:47.193
+We are privileged to be living at a crucial moment in the cosmic story, the moment when the vast evolutionary process and a small person of acquiring man is becoming conscious of itself.
+
+01:02:51.475 --> 01:02:54.776
+Evolution can be defined as a natural process of transformation.
+
+01:02:55.658 --> 01:03:18.170
+self-operating and irreversible which is in its course generates novelty greater variety more complex organization and eventually higher levels of mental and physiological activity despite the foundational understanding of physics being entropy so the foundational
+
+01:03:19.392 --> 01:03:33.323
+basis for our understanding in science physics says that everything is subject to entropy but life goes in exactly the opposite direction through a random irreversible self-operating process
+
+01:03:36.837 --> 01:03:40.498
+But this comprehensive process falls naturally into three sectors.
+
+01:03:40.538 --> 01:03:49.660
+The first is the inorganic or cosmic sector, operating by physical, simple chemical interaction, and resulting in the evolution of elements, nebulized stars, and planetary systems.
+
+01:03:49.680 --> 01:04:02.684
+The second is the organic and biological sector, operating by automatic natural selection, superimposed on physical, chemical interaction, and resulting in the evolution of plant and animal organisms, from fungi to flowers to monkeys to Medusa.
+
+01:04:05.114 --> 01:04:20.039
+The third is the human or psychosocial sector operating by mind-accompanied psychosocial pressure superimposed upon natural selection and resulting in human societies and their products for machines and works of art to science and religions.
+
+01:04:22.719 --> 01:04:32.483
+What an interesting level and thing of organization relative to what we are told is responsible in Biology 101.
+
+01:04:32.764 --> 01:04:39.927
+According to Julian Huxley, the primary layers of organization are the inorganic or cosmic sector,
+
+01:04:42.310 --> 01:04:52.933
+operating by physical and simple chemical interactions and then the natural selection superimposed on physical chemical interactions resulting in the evolution of plant and animal organisms.
+
+01:04:54.619 --> 01:04:56.620
+That's the biological organic sector.
+
+01:04:57.180 --> 01:05:12.704
+And then this third sector of evolution or something which is the human culture and human societies and the intellectual things that are created by them on this earth and presumably in a few other isolated spots in the universe.
+
+01:05:14.204 --> 01:05:19.386
+There have thus been two critical points in evolution when it has entered a new phase.
+
+01:05:20.359 --> 01:05:22.761
+and with a new properties and characteristics.
+
+01:05:23.422 --> 01:05:41.739
+So again, now we're starting to hear this thing that we talked about a long time ago with regard to COVID and OVID and the idea that in order to get a new way of organizing the globe, a new way of organizing the human race, we're going to need to reduce ourselves to chaos before we can get order out of it.
+
+01:05:41.779 --> 01:05:42.360
+You can't take
+
+01:05:43.224 --> 01:05:46.085
+one order and rearrange it into another order.
+
+01:05:46.145 --> 01:05:48.225
+That's not how things work in nature.
+
+01:05:48.925 --> 01:05:55.767
+So on this earth there have thus been two critical points of evolution when its characteristics entered on a new phase and with new properties and characteristics.
+
+01:05:56.267 --> 01:06:07.470
+The first was when, thanks to the evolution of deoxyribonucleic acid and genes, material organizations became self-varying and self-reproducing and the biological phase began to operate.
+
+01:06:08.393 --> 01:06:13.315
+So this is very much akin to describing life as being something that was wound up.
+
+01:06:15.235 --> 01:06:19.877
+And once it was wound up, apparently it was able to self-sustain itself.
+
+01:06:20.377 --> 01:06:34.422
+One nucleic acid combination suddenly appeared that could copy itself and forever after we have been the result of that instance of existence of a pattern integrity.
+
+01:06:36.997 --> 01:06:39.118
+That's what he's saying right here.
+
+01:06:39.158 --> 01:06:57.002
+This is the foundational myth of our biology, of our creation, is that somewhere this new phase of evolution occurred when a particular molecule came into existence, presumably by combination of electricity and chemistry in a mud puddle.
+
+01:06:59.448 --> 01:07:08.952
+That's the best explanation that these people have to offer, but that explanation means that you have no free will, just like Sam Harris says, that you have no sovereignty over your body.
+
+01:07:08.992 --> 01:07:09.712
+That's an illusion.
+
+01:07:09.752 --> 01:07:12.634
+That's something that religious fanatics have told us.
+
+01:07:17.095 --> 01:07:18.096
+I hear a lot of chickens.
+
+01:07:27.325 --> 01:07:30.206
+That's normal.
+
+01:07:30.366 --> 01:07:33.227
+When it has entered a new phase, the DNA self-reproducing.
+
+01:07:33.267 --> 01:07:48.492
+The second was when, thanks to evolution of conceptual thought, symbolic language, and cumulative transmission of experience by tradition, mental or mind-accompanying organizations have become self-varying, self-reproducing, and the human phase emerged.
+
+01:07:50.638 --> 01:07:55.820
+I'll just put something here as a lifelong biologist that I think makes this kind of nonsense.
+
+01:07:56.360 --> 01:08:11.646
+I don't know if you're aware or not, but as far as ecologists are concerned, if we look at the organisms and population level, there are some marine biologists that claim to have discovered that there are cultures of orca.
+
+01:08:13.379 --> 01:08:31.359
+So there are orca that grandmothers pass on the preference for food, the techniques for hunting, and the migrational routes to their descendants, and that these cultures are maintained.
+
+01:08:32.205 --> 01:08:46.878
+And they segregate so that the culture of, or the socio, the pod of the population of orca that is, you know, actively engaged in eating sharks is different than the one that eats seals.
+
+01:08:47.099 --> 01:08:48.380
+And their techniques are different.
+
+01:08:48.400 --> 01:08:58.429
+And the way that they're passed down is not because whales are born knowing how to create a wave that washes a seal off of a small raft of ice.
+
+01:09:01.172 --> 01:09:08.534
+There aren't whales that are born to understand how to kill sharks with a battering ram of their head.
+
+01:09:11.555 --> 01:09:18.858
+And so these are just small anecdotal examples of what likely
+
+01:09:21.053 --> 01:09:41.438
+is something that these people all the way back in these books have wanted to make us the exception so that we would feel the necessary arrogance, not only over mother nature and lordship over her domain and over creation, but also over ourselves and over the people that aren't here yet.
+
+01:09:42.619 --> 01:09:45.022
+Because that's what these people are talking about.
+
+01:09:45.082 --> 01:09:53.914
+They're talking about taking control of the lives and the biology and the destiny of future generations.
+
+01:09:57.138 --> 01:09:59.441
+And that's exactly how arrogant
+
+01:10:01.277 --> 01:10:06.460
+the ideas that have led to the traditional biological 101 teaching scheme.
+
+01:10:06.520 --> 01:10:07.901
+That's how arrogant they are.
+
+01:10:08.381 --> 01:10:15.505
+That's how malevolent those ideas are because they are descended from these people with these ideas in mind.
+
+01:10:16.046 --> 01:10:19.407
+In the psychosocial phase, the process of evolution is predominantly culture.
+
+01:10:19.428 --> 01:10:28.713
+It results in the manifestation and variety of societies and their organs like philosophies, legal codes, and social systems that could disappear in 40 years if people don't have children.
+
+01:10:30.158 --> 01:10:34.938
+disappear in 40 years if we used public funding to undermine the
+
+01:10:36.175 --> 01:10:49.680
+the passing of knowledge from one generation to the next, or if we used the disingenuous funding of academic pursuits to effectively neuter the passing of real wisdom from generation to generation.
+
+01:10:50.200 --> 01:11:04.606
+This makes it seem as though the power of human culture is somehow on the same level of power that these earlier levels of organization and emergent properties are, and it's not.
+
+01:11:06.718 --> 01:11:07.938
+These are not related.
+
+01:11:11.680 --> 01:11:13.560
+These are emergent properties.
+
+01:11:15.241 --> 01:11:32.146
+And so thinking that we can all go all the way down to first causes and that those first causes are DNA and that by meddling with DNA, we can also predictably affect the psychosocial state of future generations and the process of evolution of those future generations is absurd.
+
+01:11:33.609 --> 01:11:37.591
+But that's exactly, exactly what these people want.
+
+01:11:37.671 --> 01:11:39.812
+It's exactly what these people are teaching.
+
+01:11:39.872 --> 01:11:42.214
+It's exactly what is being taught in universities.
+
+01:11:42.754 --> 01:11:46.096
+It's exactly what I believed when I was still trying to get tenure in 2022.
+
+01:11:46.236 --> 01:11:48.537
+Well, 21, by 2022, I had obviously given up.
+
+01:11:48.557 --> 01:11:50.278
+But in 2022, I might've still taken my job back.
+
+01:11:58.277 --> 01:11:59.158
+Oh, sorry, I'm going to keep reading.
+
+01:11:59.799 --> 01:12:05.345
+In this phase, a new mechanism for securing continuity and change has been added and a new fragility.
+
+01:12:06.427 --> 01:12:12.314
+A single generation could lose all the progress and we could be right back to the Stone Age.
+
+01:12:17.031 --> 01:12:29.738
+In addition to the biological basis of inheritance and variation provided by the gene complex and chromosomes, man has a cultural basis in the shape of complex ideas, beliefs and purposes and their transmissible results, which is broadly called tradition.
+
+01:12:30.218 --> 01:12:36.722
+So if these people understand that, then what would stop them from saying that the way to govern these people is to change tradition?
+
+01:12:38.423 --> 01:12:43.886
+The way to govern these people and the way to govern future generation is to take control of this.
+
+01:12:45.728 --> 01:12:47.048
+And that's what this is about.
+
+01:12:47.108 --> 01:12:49.289
+That's what Biology 101 is about.
+
+01:12:49.329 --> 01:13:00.451
+That's why teaching it correctly hasn't been done in recent memory, because it is about changing the fundamental knowledge that we transmit about ourselves.
+
+01:13:02.051 --> 01:13:05.472
+With its aid, he can accomplish something impossible to any other organism.
+
+01:13:05.512 --> 01:13:11.893
+He can transmit experience cumulatively down the generation and incorporate his results directly into the evolutionary system.
+
+01:13:11.913 --> 01:13:14.174
+But I just got through telling you that orcas are doing that.
+
+01:13:15.646 --> 01:13:29.939
+that the orcas of this generation are eating better than the previous generation with the exception of the fact that the oceans are being killed, that the oceans are being overfished, which is definitely true.
+
+01:13:30.419 --> 01:13:31.100
+I'm sure it is.
+
+01:13:33.922 --> 01:13:37.867
+Because there is no doubt that there is a carrying capacity on Earth.
+
+01:13:38.487 --> 01:13:53.906
+And that the carrying capacity on Earth could temporarily be greatly increased by overfishing and by instead of managing the biosphere as part of our pattern integrity over time and space,
+
+01:13:55.168 --> 01:14:06.697
+We instead lord over it, try to take as much as we can while we are still alive and think about ourselves as a single generation with a single opportunity to make a change before we're dead.
+
+01:14:08.839 --> 01:14:18.206
+And instead of focusing on planting trees under whose shade we will never shelter, we start to make it into this very urgent, what does he say?
+
+01:14:19.605 --> 01:14:22.987
+We are privileged to be living at a crucial moment in the cosmic story.
+
+01:14:23.047 --> 01:14:28.050
+It's not so crucial of a moment that it comes down to a decade like they have made it seem.
+
+01:14:32.993 --> 01:14:34.434
+That's really the illusion.
+
+01:14:35.835 --> 01:14:46.782
+It's a crucial moment in cosmic timescales where a gardener has formed.
+
+01:14:48.030 --> 01:14:50.851
+on what was otherwise a unconscious garden.
+
+01:14:52.892 --> 01:15:10.600
+And that is a beautiful thing, that if we realized our full potential and realized our full role in creation, not only to be a part of it, but to elevate it, to cultivate it, so that what is inherited by our children is greater.
+
+01:15:10.620 --> 01:15:14.842
+And think of it more as stewardship.
+
+01:15:15.102 --> 01:15:17.123
+There's no word stewardship here.
+
+01:15:17.981 --> 01:15:20.925
+The idea that we're only holding something for a little while.
+
+01:15:20.965 --> 01:15:28.355
+You know, like you might have a petite Philippe watch from your grandfather and the whole point would be is that you don't own that.
+
+01:15:28.756 --> 01:15:34.704
+You owe it to your grandkid to make sure that that watch stays nice enough for him to own it or her to own it.
+
+01:15:38.092 --> 01:15:41.113
+And that's not what you're listening, that's not what you're hearing here.
+
+01:15:41.493 --> 01:15:51.896
+You're hearing a story about the culmination of creation ending in this moment, in these men, in these times.
+
+01:15:52.856 --> 01:16:00.038
+And it is up to us to put our big boy pants on and finally put this ship on course.
+
+01:16:01.999 --> 01:16:05.340
+And that's why these people are willing to lie to us in concert.
+
+01:16:07.028 --> 01:16:10.249
+And that's what leads to many, many unwitting participants.
+
+01:16:12.670 --> 01:16:24.376
+That's why we have the university system we have, and that's why we have Biology 101 being this right here, which leads to PhDs in biology that are in the mouse brain focused on a single ion channel.
+
+01:16:25.156 --> 01:16:26.777
+And those are called experts.
+
+01:16:29.118 --> 01:16:31.359
+And that's exactly what these people needed
+
+01:16:32.293 --> 01:16:39.314
+in order for their idea of progress to occur and that our tradition to be usurped.
+
+01:16:42.155 --> 01:17:01.819
+And our understanding of ourselves as sovereign spiritual beings with a continuity with our ancestors and our grandchildren, we're supposed to think of this as a crucial moment in human history where we have to make some very big decisions about how pagan we've been in the past or how silly we've been in the past, how long we've been cavemen.
+
+01:17:03.939 --> 01:17:10.223
+In the cultural evolution, there is no stark distinction between germplasm and soma between genetic basis and its phenotypic results.
+
+01:17:10.723 --> 01:17:23.670
+True, the mainstream tradition is constantly shedding some of its pathological and lunatic fringe, just as the mainstream of material germplasm is constantly shedding some of its pathological and unhelpful mutants.
+
+01:17:24.871 --> 01:17:29.053
+But in general, culture is simultaneously manifested and transmitted.
+
+01:17:29.194 --> 01:17:29.674
+Wow.
+
+01:17:31.977 --> 01:17:34.218
+These are considered to be foundational ideas.
+
+01:17:34.258 --> 01:17:38.300
+These are considered to be formulative ideas by the best thinkers of their time.
+
+01:17:38.760 --> 01:17:40.401
+That's why they're all in the same book.
+
+01:17:40.481 --> 01:17:46.383
+Joshua Lederberg, Hilary Koprowski, Herman Muller, and Julian Huxley.
+
+01:17:47.544 --> 01:17:52.146
+The mechanisms of biological evolution is now in broad outline established.
+
+01:17:53.860 --> 01:17:58.583
+We are only beginning to study some psychosocial evolution in the same operational way.
+
+01:17:59.123 --> 01:18:07.529
+Maybe we do really need to have control over people's thoughts and behaviors so that humankind as a collective can reach a higher order, a higher ideal.
+
+01:18:08.930 --> 01:18:11.231
+Some things, however, are becoming clear in the first place.
+
+01:18:11.271 --> 01:18:15.113
+Basic elements in cultural transmission and transformation are psychological.
+
+01:18:15.154 --> 01:18:21.818
+They are patterns and systems of thought and attitude expressed or formulated in transmissible terms of concepts to values.
+
+01:18:23.092 --> 01:18:26.675
+for want of a better word, I shall lump them all together and call them ideas.
+
+01:18:27.095 --> 01:18:36.723
+The same thing that Alex Karp wanted to go to Germany and understand, how people know things and whether people can really participate in a democracy or not.
+
+01:18:40.746 --> 01:18:52.476
+And so we are talking about fundamentally organizing, reorganizing the way we think about ourselves, so that in accepting Biology 101, we also accept that there are people that are smarter than us, that know better than us,
+
+01:18:54.076 --> 01:18:58.777
+And that we shouldn't be so arrogant as to think we can possibly understand this like they do.
+
+01:19:00.438 --> 01:19:03.399
+So you might as well just go back to the gas station and do another eight hours.
+
+01:19:05.320 --> 01:19:08.440
+More precise term than psychological would be psychometabolic.
+
+01:19:09.081 --> 01:19:12.762
+Man is equipped with, did I say that for a bit?
+
+01:19:12.782 --> 01:19:14.542
+Oh yeah, the material elements transmitted.
+
+01:19:14.602 --> 01:19:19.564
+Paintings, documents, machines, jewels, primary literature.
+
+01:19:21.127 --> 01:19:32.040
+conclusions, grant applications that are funded, DARPA applications that are leaked, are normally vehicles or products of ideas in this loose and general sense.
+
+01:19:32.080 --> 01:19:41.091
+But if we took control of those things, if we put those things out there for people to see and solve as mysteries, then the ideas would be under their control.
+
+01:19:42.639 --> 01:19:47.584
+That's why they had to take over the teaching of biology and the teaching of biology in med schools in particular.
+
+01:19:47.984 --> 01:19:50.907
+The more precise term than psychological would be psychometabolic.
+
+01:19:51.468 --> 01:19:56.153
+Man is equipped with two metabolisms, two systems for transforming raw materials of nature.
+
+01:19:57.321 --> 01:19:58.281
+in serviceable ways.
+
+01:19:58.921 --> 01:20:09.224
+Physiological metabolism utilizes the raw materials of objective nature and elaborates them into biologically operative psychochemical, physiochemical compounds and systems.
+
+01:20:09.904 --> 01:20:21.948
+Psychometabolism, on the other hand, utilizes the raw materials of subjective or mind-accompanied experience and elaborates them into psychosocially operative organisms, organizations of thought and feeling.
+
+01:20:22.836 --> 01:20:34.281
+including principles like causation, categories like space, abstracts like truth, precepts and concepts, poems and gods, myths and scientific theories, moral commandments and legal codes.
+
+01:20:34.341 --> 01:20:39.004
+The weird thing is, is this doesn't take away the relationship between structure and function in biology.
+
+01:20:39.544 --> 01:20:44.566
+It doesn't take away the relationship between action and consequences.
+
+01:20:45.787 --> 01:20:48.008
+And so ultimately it depends on what people do.
+
+01:20:51.687 --> 01:20:56.508
+And so they are overemphasizing in some ways this thing that happens in between our ears.
+
+01:20:59.309 --> 01:21:09.072
+Psychometabolism introduces quality into the quantitative world, produces meaningful patterns out of chaos of elementary experience, enables us to graph extremely complex situations as holes.
+
+01:21:10.583 --> 01:21:14.545
+Psychometabolic processes may become diseased, as in schizophrenics.
+
+01:21:14.565 --> 01:21:17.987
+Their products may be unrelated to the objective world, as in hallucinations.
+
+01:21:18.467 --> 01:21:21.989
+And they may be built on false foundations, like racial ideas.
+
+01:21:22.149 --> 01:21:28.013
+Or they may be rendered out of date by the march of knowledge, like the notion of demonic possession.
+
+01:21:28.473 --> 01:21:39.359
+But they are necessarily a part of our psychosocial machinery, and it behooves us to study them thoroughly and understand how they work, in case using them to govern people would be useful.
+
+01:21:42.039 --> 01:21:43.920
+Of course, that's what they intended to do.
+
+01:21:45.600 --> 01:21:47.921
+They don't write that out, but they're saying it right here.
+
+01:21:49.082 --> 01:21:51.563
+They're saying exactly what Edward Bernays said.
+
+01:21:53.003 --> 01:21:59.546
+In psychosocial evolution, the struggle for existence has been replaced by what might be termed striving for fulfillment.
+
+01:22:01.166 --> 01:22:03.907
+People are now striving for fulfillment on their phones.
+
+01:22:04.547 --> 01:22:08.369
+The main operative agency in this phase of evolution is psychosocial pressure.
+
+01:22:11.038 --> 01:22:27.985
+This is the resultant of several separate pressures on individuals, loves and hates, desires and hopes, needs and purposes, and it is related to the conflicts and problems thrown up by the march of events or events that are perceived and given direction by some general organization of ideas and beliefs.
+
+01:22:28.485 --> 01:22:37.149
+It has to operate within an organized system of social institutions, which have risen out of past ideas and events, but may often be out of step with later ideas and their results.
+
+01:22:38.959 --> 01:22:46.004
+As Darwin first pointed out, there has been, during biological evolution, a trend toward improvement, improvement in efficiency and self-regulation.
+
+01:22:46.044 --> 01:22:49.646
+This trend is inevitable, but accompanied by much waste, suffering and extinction.
+
+01:22:52.268 --> 01:22:53.308
+There's no other way to...
+
+01:22:54.281 --> 01:22:55.962
+There's no way to understate that.
+
+01:22:56.162 --> 01:23:11.151
+If evolution by itself was responsible for our existence from a mud puddle and a lightning bolt until now, then the number of positive evolutionary steps that have been missed as a result of random failure.
+
+01:23:13.312 --> 01:23:18.455
+In other words, how many times was the perfect kid born
+
+01:23:19.315 --> 01:23:25.099
+The perfect chimpanzee baby born, but then eaten by a panther.
+
+01:23:27.000 --> 01:23:38.507
+How many times was the perfect trait of intelligence, did it evolve in a baby that had a birth defect that resulted in him dying anyway?
+
+01:23:39.847 --> 01:23:47.092
+How many times was the best mosquito produced, but then eaten by a bird the second day it was born, the day after it was born?
+
+01:23:48.482 --> 01:24:02.530
+This has to be happening all the time if we're to believe that Darwinian evolution had any chance of getting anywhere and making any meaningful progress that could be seen on the timescale of those rocks.
+
+01:24:06.021 --> 01:24:28.856
+And so even if your imagination is prodded to think on those different timescales, it is often prodded to think on those timescales in a very limited way, which reinforces these ideas instead of inspiring reverence to the complexity that those timescales add, to the impossibility that those timescales add.
+
+01:24:29.256 --> 01:24:35.340
+You can't even see what's happening in our timescale if you can't slow down to those or speed up to those, and we can't.
+
+01:24:38.049 --> 01:24:42.314
+And so, as Darwin pointed out, there's been all this improvement in efficiency and self-regulation.
+
+01:24:42.354 --> 01:24:49.501
+This trend is inevitable, but is accompanied by an impossible to underestimate amount of waste, suffering, and extinction, if it were to be true.
+
+01:24:51.704 --> 01:24:58.031
+The trend towards improvement continues in the psychosocial evolution through, again, accompanied by suffering, horror, and evil.
+
+01:25:01.860 --> 01:25:08.985
+And so if we're going to make these choices, there's inevitably going to be suffering, horror, and evil, even if in the end it becomes better.
+
+01:25:09.905 --> 01:25:10.526
+Don't you see?
+
+01:25:11.626 --> 01:25:22.173
+Starvation, war, might just be necessary for our psychosocial evolution and our biological evolution to start to dovetail together.
+
+01:25:22.233 --> 01:25:22.994
+Don't you see it?
+
+01:25:24.790 --> 01:25:31.013
+The trend toward improvement continues in psychosocial evolution, though again accompanied by suffering, horror, and evil.
+
+01:25:31.053 --> 01:25:51.041
+Yet in spite of all the waste and misery, the total improvement achieved during the whole process of evolution from origin of life to present day is almost incredible, from a submicroscopic precellular viroid to a self-conscious, civilized human vertebrate throwing up on its way to a fantastic profusion of organic and cultural variety.
+
+01:25:55.558 --> 01:25:57.559
+This is both an encouragement and a challenge.
+
+01:25:57.599 --> 01:26:01.401
+The challenge is man's obvious imperfection as a psychosocial being.
+
+01:26:02.022 --> 01:26:06.744
+Both individually and collectively, he is sadly in need of improvement and clearly improvable.
+
+01:26:08.325 --> 01:26:12.087
+As Herman Muller's chapter said, there's a lot of room for improvement.
+
+01:26:12.848 --> 01:26:15.349
+The encouragement drives just in the genetics alone.
+
+01:26:15.849 --> 01:26:22.173
+The encouragement derives from the fact that of past improvement, I mean, we think, right?
+
+01:26:23.180 --> 01:26:37.945
+If blind opportunistic and automatic natural selection could conjure man out of a viroid in a couple million years, a viroid, weird language to choose in 1963, don't you think?
+
+01:26:38.885 --> 01:26:50.108
+What could not man's conscious and purposeful efforts achieve even in a couple million years, let alone in a thousands of millions to which he can reasonably look forward?
+
+01:26:53.962 --> 01:26:57.943
+Julian Huxley says that we are descended from viruses.
+
+01:27:01.525 --> 01:27:02.685
+It's one continuum.
+
+01:27:04.526 --> 01:27:11.388
+Lightning bolt struck a puddle, I guess, and then viroids formed, and then bacteria, and then cells, and then multicellular.
+
+01:27:12.689 --> 01:27:13.349
+That's what he says.
+
+01:27:14.909 --> 01:27:17.871
+The next point to note is that the process of improvement is not continuous.
+
+01:27:17.911 --> 01:27:24.236
+It takes place in steps by a succession of successful or dominant types of organization, each endowed with new capabilities and possibilities.
+
+01:27:25.537 --> 01:27:27.398
+Some once-dominant types become extinct.
+
+01:27:27.438 --> 01:27:31.601
+Many do persist, though in reduced number and in subordinate position.
+
+01:27:33.823 --> 01:27:39.967
+In psychosocial evolution, the dominant types of organization are of thought and belief and of mind-accompanied behavior resulting from them.
+
+01:27:40.007 --> 01:27:42.269
+For brevity's sake, we may call them idea systems.
+
+01:27:43.669 --> 01:27:56.714
+Thus, in our own history and in early idea system based on magic and witchcraft became subordinated to new theological and metaphysical dominant system of medieval Christianity, which in turn has become largely superseded by the scientific idea system.
+
+01:27:58.114 --> 01:28:04.777
+Today, it looks as if new dominant idea system is in the process of being born a system that I will call evolutionary humanism.
+
+01:28:06.963 --> 01:28:12.049
+which would later be the foundation of biology 101 teaching at every medical school in the world.
+
+01:28:12.590 --> 01:28:22.803
+Of course, the march of ideas is not an autonomous process, but interlocks with the march of historical events and historical man with a series of stimuli, often in the form of painful shocks.
+
+01:28:24.264 --> 01:28:29.847
+And so it's okay to use painful shocks to govern people, even if those painful shocks are murder and lies.
+
+01:28:30.327 --> 01:28:32.888
+Human power lust and cruelty may get out of hand.
+
+01:28:32.928 --> 01:28:35.869
+Human stupidity may be unable to take advantage of new opportunities.
+
+01:28:36.470 --> 01:28:40.191
+Apparent advance may eventually become frustrating instead of rewarding.
+
+01:28:40.231 --> 01:28:47.735
+We are now on the threshold of a truly critical step into the phase of self-conscious evolution, where we take control of the cruise ship.
+
+01:28:48.355 --> 01:28:54.798
+The current phase of human organization is ending in a tangle of unresolved problems and self-defeating activities.
+
+01:28:55.258 --> 01:28:58.039
+They already knew this in 1963, ladies and gentlemen.
+
+01:29:00.160 --> 01:29:14.826
+And that's why the fundamental structure of Biology 101 is this framework of simplification and this reductionist ideology, which leads to expertise that doesn't feed back to the whole.
+
+01:29:16.294 --> 01:29:41.743
+because the idea is to make sure that young people never grow up understanding the complexity of the world around them and instead accept the oversimplified version of that world which allows people more clever than them to rule over them, more clever than them to dictate what they do with their bodies and how they should think about themselves and more importantly what they should teach their children.
+
+01:29:43.191 --> 01:29:48.593
+We have abdicated the responsibility and wittingly or unwittingly, that's how they've done it.
+
+01:29:48.673 --> 01:29:53.475
+And with biologists like myself, with kids like myself, this is how it gets done.
+
+01:29:53.515 --> 01:29:59.117
+And a lot of biology teachers are teaching this unwittingly because they're given a book to teach with.
+
+01:29:59.397 --> 01:30:00.837
+And that's what it says in this book.
+
+01:30:01.658 --> 01:30:03.878
+And that's what the people that wrote this book were taught.
+
+01:30:05.079 --> 01:30:07.800
+This was a useful way to reach this pinnacle.
+
+01:30:09.261 --> 01:30:12.002
+And this isn't the pinnacle we want our children to reach.
+
+01:30:12.362 --> 01:30:14.722
+We want them to have a broad understanding.
+
+01:30:16.303 --> 01:30:19.663
+Like the learned people of old had a broad understanding.
+
+01:30:20.904 --> 01:30:26.345
+And once you understand that most of the so-called knowledge that's out there is not knowledge.
+
+01:30:28.666 --> 01:30:38.648
+Once you understand how a lot of that knowledge was created using the mechanisms that William Briggs is going to bring us to understand and not what can be now more
+
+01:30:39.509 --> 01:30:42.590
+is more often described as Bayesian thinking.
+
+01:30:44.730 --> 01:31:02.895
+We can reorient ourselves, I think, and teach our children correctly so that they move on without being caught into this trap of comparing levels of analysis this way or comparing the levels of analysis this way, but start to think about the whole and start to have reverence for it.
+
+01:31:02.935 --> 01:31:08.816
+And so then when they go into biology or they go into chemistry or they go into physics, they go in with a type of humility
+
+01:31:11.044 --> 01:31:23.230
+and a type of reverence that can allow progress in a way that none of these people want, none of them want, because they want our children to be their experimental animals.
+
+01:31:24.611 --> 01:31:30.834
+They need that in order to achieve this next phase that they imagine we're going into.
+
+01:31:31.817 --> 01:31:33.779
+That's the level of arrogance we're dealing with.
+
+01:31:34.259 --> 01:31:51.414
+That's the level of arrogance that we've come to accept unwittingly because of the way these concepts are taught to us, because of the way these different disciplines are taught to look at each other and how these disciplines are intermingling at this time in academia.
+
+01:31:55.922 --> 01:31:59.303
+I think it feels like I should stop there, even though this really wasn't biology.
+
+01:31:59.323 --> 01:32:02.384
+This was more like a philosophy of science, biology kind of thing.
+
+01:32:03.305 --> 01:32:17.890
+It was meant to piggyback on yesterday's thing, which we were talking about how they get us to think about different things and how they get to talk about different things and whether or not we're talking about models or analogies, because analogies can be
+
+01:32:18.610 --> 01:32:21.011
+can be talked about ad infinitum and never tested.
+
+01:32:21.072 --> 01:32:23.573
+That's what this guy is using all the time, analogies.
+
+01:32:24.093 --> 01:32:28.616
+Because if you use models, then what's implied in a model is that you should be testing it.
+
+01:32:28.736 --> 01:32:33.139
+And if it isn't verified by your test, then you would throw out the model.
+
+01:32:34.259 --> 01:32:39.943
+And so, so often, what we were given during COVID was actually an analogy.
+
+01:32:40.823 --> 01:32:45.426
+Because they were called models because they had math in them.
+
+01:32:46.124 --> 01:32:52.489
+But when the math never added up, when Denny Rancourt showed that the math doesn't add up, those models weren't discarded.
+
+01:32:52.509 --> 01:32:53.870
+They were continued to be used.
+
+01:32:53.931 --> 01:32:55.672
+And then that's why you know their analogies.
+
+01:32:57.353 --> 01:33:06.121
+And these ideas in biology, these themes in biology, I would argue that Buckminster Fuller would have us think of them as patterns.
+
+01:33:07.358 --> 01:33:20.331
+And what patterns, using the word pattern, if you're fluent in English, should help you to see it as a correlation that should not be attributed too much significance.
+
+01:33:22.294 --> 01:33:25.217
+And that way you have respect for what it is.
+
+01:33:25.277 --> 01:33:26.518
+If you say themes,
+
+01:33:28.134 --> 01:33:33.979
+then it very much implies an idea of this simplification working.
+
+01:33:34.499 --> 01:33:35.820
+The simplification helps.
+
+01:33:36.400 --> 01:33:40.644
+The simplification is an attribute of the thing that we're trying to study, and it's not.
+
+01:33:41.977 --> 01:33:44.279
+And that's why I think it's better to think of it as patterns.
+
+01:33:44.339 --> 01:34:00.070
+And I think Buckminster Fuller would beg us to think of it as patterns because then you can start to think of pattern integrities and how understanding life is actually trying to understand how that pattern integrity is maintained across time and space.
+
+01:34:01.607 --> 01:34:15.650
+Once you understand the real aim of biology is to understand how these pattern integrities, whether you call them humans or squirrels or manatees, how these pattern integrities are maintained over time and space.
+
+01:34:17.130 --> 01:34:18.310
+And we've got no clue.
+
+01:34:18.831 --> 01:34:20.291
+These guys have no clue.
+
+01:34:20.331 --> 01:34:25.812
+We have little hints, but unless we reorient our children to being reverent to this,
+
+01:34:27.421 --> 01:34:38.569
+we are very quickly going to be bamboozled into an enslavement that's based on this kind of themes and models, which are really just patterns and analogies.
+
+01:34:38.950 --> 01:34:44.514
+And the patterns are being misrepresented as themes, and the analogies are being misrepresented as models.
+
+01:34:45.194 --> 01:34:46.776
+And it is really a semantic war.
+
+01:34:47.950 --> 01:35:05.406
+Because just like the no-virus people have very accurately pointed out that virology is based on a bunch of redefined words that don't really mean what they imply, and the only people who seem to understand that are the very specialized virologists for whom these misunderstandings benefit the most.
+
+01:35:06.212 --> 01:35:16.617
+The whole point of virology is dependent on the semantic misunderstandings of purification and culture and isolation.
+
+01:35:17.097 --> 01:35:18.738
+And the no virus people are 100% right about that.
+
+01:35:20.862 --> 01:35:43.552
+But what I find frustrating about them is that they ignore all of the other decades of work, including the work of the Human Genome Project, where synthetic RNA and DNA and the technology to make it with ever more precision and ever more quantity and ever more purity has been one of the only things that these people have been able to accomplish with their rearrangement of our thinking.
+
+01:35:46.001 --> 01:36:02.469
+They haven't accomplished uploading consciousness or the vanishing of disease or the magic vaccine for everything, but they've definitely accomplished making DNA and RNA cheaper in higher quantities, in longer sequences, in purer quantities.
+
+01:36:03.229 --> 01:36:08.571
+That's the extent to which they've accomplished anything that was described in this book thus far.
+
+01:36:10.132 --> 01:36:13.674
+And once you understand that, then you understand why
+
+01:36:14.909 --> 01:36:31.291
+how, or you can start to understand why and how, the illusion of a biosecurity state, the illusion of bioterrorism, the illusion of gain-of-function viruses, the illusion of the AIDS pandemic, the illusion of retrovirus, all of these things are based on that fundamental inversion.
+
+01:36:33.342 --> 01:36:50.769
+that the ever cheaper and accessible methodology for DNA and RNA production in quantity and purity somehow is also has its correlate in our understanding of that system that we purport to be gaining cheaper access to.
+
+01:36:52.930 --> 01:36:59.213
+And that is the reason, the fundamental reason why Biology 101 is taught this way.
+
+01:37:00.140 --> 01:37:10.666
+It's the fundamental reason why biology is taught this way, so that all academic biologists that reach this level will accept the primacy of the gene.
+
+01:37:11.187 --> 01:37:16.810
+And therefore, by accepting the primacy of the gene, you accept this idea.
+
+01:37:19.252 --> 01:37:24.835
+That now that we've become conscious of it, what other choice do we have than to take control of that knob?
+
+01:37:26.036 --> 01:37:29.638
+To take the wheel and direct it.
+
+01:37:32.338 --> 01:37:35.239
+And most biology students never get that far.
+
+01:37:35.299 --> 01:37:38.760
+It's just kind of like an analogy of the Freemasons.
+
+01:37:39.141 --> 01:37:44.202
+Most biologists never get to the 33rd degree where you actually realize that this is all a big scam.
+
+01:37:45.003 --> 01:37:53.486
+And the ones that do reach the 33rd degree are happy to tell you over drinks at the Christmas party that you got to understand that this is just about getting grants.
+
+01:37:54.306 --> 01:37:55.687
+It's not about the science, man.
+
+01:37:56.328 --> 01:38:00.511
+If you can get grants by studying Alzheimer's disease, why would you stick to SK Channels?
+
+01:38:01.151 --> 01:38:02.452
+Study Alzheimer's disease.
+
+01:38:04.574 --> 01:38:11.339
+That is the foundation of this academic trap that we have all wittingly and unwittingly fallen into.
+
+01:38:13.040 --> 01:38:22.928
+It's a reductionist ideology that can be used to enslave our children if they accept it as a useful way to understand themselves.
+
+01:38:23.775 --> 01:38:26.256
+instead of just a useful way to formulate a grant call.
+
+01:38:28.737 --> 01:38:34.538
+Yesterday I got a little bit of heck for not playing you out, so thanks very much for joining me.
+
+01:38:34.578 --> 01:38:35.219
+I'll see you again at 1.15, 1.13, 1.13.
+
+01:38:36.799 --> 01:38:40.020
+Oh, that's the wrong song.
+
+01:38:40.180 --> 01:38:43.001
+Sorry, I'm gonna stop that and put this one on instead.
+
+01:38:44.061 --> 01:38:45.222
+Thank you very much for joining me.
+
+01:38:45.242 --> 01:38:48.643
+I hope this was somewhat useful, not completely rambling.
+
+01:38:50.323 --> 01:38:51.844
+and a kind of random read here.
+
+01:38:52.384 --> 01:38:55.044
+I know that people have been posting the PDF of this book.
+
+01:38:55.084 --> 01:38:56.785
+You can find it on the Internet Archive.
+
+01:38:56.845 --> 01:38:57.445
+Please get it.
+
+01:38:58.005 --> 01:38:58.685
+Please read it.
+
+01:38:58.786 --> 01:39:02.006
+It's really easy reading and it's fun reading because it'll wake you up.
+
+01:39:02.266 --> 01:39:04.167
+It'll really wake you up to where we're going.
+
+01:39:04.907 --> 01:39:09.108
+I'm going to be starting to pull some stuff out of this one soon and you can find this PDF as well.
+
+01:39:09.589 --> 01:39:14.230
+And I'll try to get my act together and also put these on my website for basic reference as well.
+
+01:39:15.731 --> 01:39:18.732
+And again, 13-13, 1-13 this afternoon.
+
+01:39:18.772 --> 01:39:25.396
+We're going to do the second episode of Matt Briggs' uncertainty class.
+
+01:39:25.456 --> 01:39:26.297
+And so I'll see you for that.
+
+01:39:26.337 --> 01:39:30.760
+I got to get a drink and go to the bathroom.
+
+01:39:30.780 --> 01:39:31.400
+Thank you very much.
+
+01:39:32.280 --> 01:39:34.262
+I'm going to go over here.
+
+01:39:34.282 --> 01:39:36.383
+I'm going to cut like this.
+
+01:39:36.443 --> 01:39:37.123
+How does this work?
+
+01:39:37.343 --> 01:39:37.804
+Like that.
+
+01:39:38.144 --> 01:39:39.565
+And that needs to go away.
+
+01:39:40.285 --> 01:39:40.906
+Thank you very much.
+
+01:39:41.106 --> 01:39:41.906
+Thank you, thank you, thank you.
+
+01:39:42.547 --> 01:39:43.227
+I hope it was good.
+
+01:39:45.265 --> 01:39:54.767
+And again, I'm just going to rewatch these things and try to take this first pass of Biology 101 and make it into a good one next time.
+
+01:39:54.827 --> 01:39:57.228
+So I don't know when we're going to get to the end.
+
+01:39:57.288 --> 01:39:58.468
+Maybe it'll be in a couple weeks.
+
+01:39:59.368 --> 01:40:00.908
+The first mini course will be done.
+
+01:40:01.408 --> 01:40:08.310
+We're going to move very quickly now as we start to pick up pace and think about the molecular biology here and try to explain
+
+01:40:09.551 --> 01:40:12.496
+What we know and what we don't know in the molecular biological realm.
+
+01:40:12.516 --> 01:40:17.324
+We're going to kind of end that that mini course in molecular biology and try to
+
+01:40:18.823 --> 01:40:33.532
+try to get to the basics of the pandemic and of the Human Genome Project so that we can be challenged, perhaps, by somebody like Kevin McKernan or anybody else that wants to lend their expertise, again, into sharpening this a little bit more.
+
+01:40:33.572 --> 01:40:37.595
+Because I am convinced, absolutely convinced, this is the way forward.
+
+01:40:37.615 --> 01:40:38.315
+So thank you very much.
+
+01:40:38.375 --> 01:40:39.396
+I'll see you again this afternoon.
+
