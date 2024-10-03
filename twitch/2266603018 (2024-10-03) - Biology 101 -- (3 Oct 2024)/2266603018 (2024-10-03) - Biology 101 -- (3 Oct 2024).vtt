@@ -1,0 +1,3056 @@
+WEBVTT
+
+00:44.741 --> 00:45.861
+We might want sound.
+
+00:45.881 --> 00:51.383
+You're scheduled for 60 minutes next.
+
+01:13.268 --> 01:17.997
+He's going on French, British, Italian, Japanese television.
+
+01:19.399 --> 01:21.303
+People everywhere are starting to listen to him.
+
+01:22.726 --> 01:23.467
+It's embarrassing.
+
+02:03.812 --> 02:05.555
+I don't know what I'm doing here with the volume.
+
+02:05.595 --> 02:06.977
+Good morning, ladies and gentlemen.
+
+02:07.017 --> 02:07.939
+Welcome to the show.
+
+02:07.979 --> 02:10.683
+This is Giga Home Biological Biology 101.
+
+02:10.723 --> 02:17.574
+In case you want to know who you're listening to, you're listening to somebody who chased tenure for about 20 years.
+
+02:17.614 --> 02:18.195
+You can find
+
+02:19.076 --> 02:23.960
+the record of that work on PubMed by searching for my last name and my first two initials.
+
+02:25.861 --> 02:37.230
+You will see that I'm a pretty average level productivity in neuroscience, so average that I didn't make tenure after a lot of time and dedication, a lot of blood, sweat, and tears.
+
+02:38.691 --> 02:40.132
+A lot of stress for my family.
+
+02:40.732 --> 02:45.994
+A lot of people sacrifice a lot to try and get to be a part of academic science and never make it.
+
+02:46.194 --> 02:47.214
+I'm one of those people.
+
+02:48.875 --> 02:56.157
+Unfortunately, for my personal story, I really think that wasn't fair because the pandemic really caused me to need to speak out.
+
+02:56.217 --> 03:04.100
+And speaking out about the pandemic in the context of academic biology in 2020 was not something that very many people did.
+
+03:05.781 --> 03:20.095
+And so if you want to find the latest year of work that I've done, you go to stream.gigahome.bio where you can find our PeerTube channel that's like YouTube but without logging in and without analytics and paid for by viewers of this stream only.
+
+03:20.695 --> 03:25.940
+You can find a clips channel there, you can find a calendar that we're trying to follow as best we can, and you can find the
+
+03:26.741 --> 03:38.411
+the videos that underlie this Biology 101 and Uncertainty 101 coursework, and the books that you need to download, including the new one today, which I will show you the link for in a second.
+
+03:39.272 --> 03:47.879
+There is an archive of videos that I think are important, and there's also an archive from my friend Mark Kulak in Boston, Massachusetts, Housatonic ITS.
+
+03:49.140 --> 03:57.808
+who can also be found on YouTube, on a Housatonic Live channel, and also on Twitch, and on Rumble, and on BitChute.
+
+03:58.669 --> 04:07.016
+He's everywhere, and he's got his own website with really the premier archive of these charlatans and their mentors.
+
+04:07.776 --> 04:15.403
+The way that this charlatanism was developed over time, I think Mark is one of the guys who's really trying to put together the people map,
+
+04:17.486 --> 04:31.950
+And with that people map, of course, I'm trying to help him refine the biological idea map that defines these charlatans and their acolytes on social media there in blue.
+
+04:32.290 --> 04:36.011
+I see Solar Fire already noticed that we added the Dennis Noble book.
+
+04:36.791 --> 04:38.612
+I'm really excited about that book.
+
+04:39.292 --> 04:42.237
+and I'm really excited to add him to the course.
+
+04:42.277 --> 04:47.064
+He's somebody that I've been aware of for a while and I just haven't wanted to drop his name yet because
+
+04:48.925 --> 04:52.867
+You know, he's one of the giant's shoulders upon which I stand.
+
+04:53.268 --> 04:58.131
+A lot of my impressions of biology are influenced by thinkers like him.
+
+04:58.911 --> 05:04.514
+Ladies and gentlemen, intramuscular injection of any combination of substances with the intent of augmenting the immune system is dumb.
+
+05:04.554 --> 05:07.196
+Transfection in healthy humans was always criminally negligent.
+
+05:07.716 --> 05:11.579
+And RNA cannot pandemic because viruses are not pattern integrities.
+
+05:12.219 --> 05:15.543
+And actually, these ideas are why we're teaching Biology 101.
+
+05:15.784 --> 05:20.469
+And that third one, RNA cannot pandemic, viruses are not pattern integrities, is actually going to come up today.
+
+05:20.489 --> 05:30.482
+I'm really excited, because actually, in addition to the book that Solar Fire noticed, the understanding
+
+05:31.388 --> 05:32.649
+Living Systems book.
+
+05:33.450 --> 05:39.135
+There's another book that I'm adding and it is Schrodinger, Erwin Schrodinger's book, What is Life?
+
+05:39.975 --> 05:42.037
+And then the Mind and Matter essays.
+
+05:42.898 --> 05:51.005
+Ladies and gentlemen, we have been fooled into arguing about what they want us to argue and arguing with who they want us to argue with.
+
+05:52.034 --> 06:05.100
+and participating by argumenting with them, or even worse, by just listening to them argue and accept their conclusions, we have accepted the premise of the narrative by which our children will be enslaved if we do not escape.
+
+06:06.041 --> 06:08.321
+because we woke up in this ourselves.
+
+06:08.661 --> 06:10.162
+We inherited this from our parents.
+
+06:10.202 --> 06:20.044
+We have been governed by mythology for a long time, but it has become to a capital M malevolent level because of social media and our acquiescence to it.
+
+06:20.804 --> 06:33.086
+Ladies and gentlemen, they are trying to hide one specific thing that the population pyramid hid and expected all cause mortality increase that would last for a few years, if not longer,
+
+06:33.906 --> 06:49.100
+And they have used this biological certainty and twisted it around with murder and lies, especially supplementary oxygen, opioid deaths, this kind of thing, and told you that it was a national security emergency based on a possible lab leak virus.
+
+06:49.841 --> 06:56.107
+And that this lab leak virus was responsible for all of these excess deaths, and these excess deaths were already expected.
+
+06:56.806 --> 07:06.775
+They were built into the population pyramid of all Western countries, and that includes the one-child China, that before one-child policy had big families, too.
+
+07:07.535 --> 07:24.250
+And right after World War II, this bump of big families is getting older and older, and now they're about to die over the next decade, and that was going to be a problem for all of these Western nations, because mismanagement of this large, elderly, aging population could have bankrupt any given Western nation, and they've known that.
+
+07:25.256 --> 07:32.462
+And so collectively, all together, that's the reason why they coordinated, the reason why China would coordinate with us, because they have the same problem.
+
+07:33.303 --> 07:42.891
+And so it's okay to coordinate with us about this, and it's okay to use a similar mythology on their population, because they have the same problem.
+
+07:44.873 --> 07:49.217
+And so they use the same solutions, lies and murder.
+
+07:50.373 --> 08:01.698
+And that's why there's no epidemiological evidence of spread and that's why the lawyers in America for the last 10 years won't talk about restoring strict liability to all pharmaceutical products or how this is a Seventh Amendment violation from 1984 on.
+
+08:03.699 --> 08:09.121
+And the way that they've done it is with an illusion of consensus about a novel virus.
+
+08:10.609 --> 08:18.981
+They all agree that there was a novel virus that millions of people were killed by, that millions more were saved by because of the wonderful invention of transfection.
+
+08:19.843 --> 08:24.189
+And this could definitely happen again because, I mean, laboratory viruses are real.
+
+08:26.693 --> 08:28.514
+and pandemics are real.
+
+08:28.554 --> 08:44.578
+That's the illusion of consensus that spans from Tony Fauci and Peter Daszak all the way over to Kevin McCarran and Charles Rixey on the totally five standard deviations away from the middle of the narrative crazy people.
+
+08:45.698 --> 08:53.840
+On either side, it doesn't matter where you go, they all agree you can't find one person at the International COVID Summit that will tell you anything else.
+
+08:54.892 --> 08:58.473
+You can't find one person on Team Robert Malone that'll tell you anything else.
+
+08:58.973 --> 09:03.954
+Quite frankly, you can't find anyone at ICANN or CHD that will tell you anything else.
+
+09:05.055 --> 09:06.735
+It's quite extraordinary.
+
+09:08.615 --> 09:13.357
+And of course, what they've substituted here is that COVID shots are bad, just don't talk about 2020.
+
+09:13.517 --> 09:18.658
+And the reason why they don't want you to talk about 2020 is because if you do,
+
+09:20.219 --> 09:26.160
+you will realize that these people were talking about endemicity for years now.
+
+09:26.220 --> 09:40.643
+They've been warning about this possibility that if a virus gets out and it becomes endemic, you know, that's the most dangerous thing is that a zoonosis would not be sufficiently controlled, that we wouldn't take it seriously enough.
+
+09:40.803 --> 09:44.584
+And then before you know it, we'll have another background problem.
+
+09:46.001 --> 10:02.915
+you know, the background problems like smallpox and measles and mumps and rubella and measles and rotavirus and all these background problems that without the vaccine schedule would be overwhelming our hospitals and killing half of our babies.
+
+10:03.995 --> 10:06.057
+That's the story that they would like you to believe.
+
+10:06.097 --> 10:14.284
+And so we don't want to contribute to the already absolutely insane level of endemic dangers to our babies.
+
+10:14.926 --> 10:19.648
+that they are completely vulnerable to without the help of vaccines.
+
+10:20.148 --> 10:31.991
+And so if there were to be some kind of crazy, some kind of crazy novel virus, well then everybody agrees that we would not want it to become endemic.
+
+10:36.373 --> 10:39.694
+Laurie Garrett is the name of the journalist
+
+10:42.423 --> 11:10.107
+who declared in the CNN documentary in 2019 that that would be the worst case scenario that any of these things would go endemic because then they would contribute to this already devastating level of disease in the background that, you know, if it wasn't for public health and the modern miracle of vaccines, all of us would be deformed and half deaf and half of us wouldn't even be alive.
+
+11:13.959 --> 11:26.643
+Now the trick here to remember in the big picture of endemicity is that because we don't have any data from 2020 and before about coronaviruses like we do now, there's really no way to differentiate this from a background.
+
+11:27.363 --> 11:28.424
+Zero, none.
+
+11:29.444 --> 11:34.846
+This entire signal could have been present before 2020 and they've just started testing for it and told us it was there.
+
+11:34.886 --> 11:40.987
+That's one of the more simple explanations of the lying that has gone on.
+
+11:41.067 --> 11:42.488
+It could be even worse than that.
+
+11:44.195 --> 11:57.641
+It could be that the background signal isn't even what they say it is, but it's just noise that people like the guy from MetaBiota have been telling us is dark matter of living things.
+
+11:58.781 --> 12:03.183
+It could just be noise that is being misconstrued as something going endemic.
+
+12:03.243 --> 12:09.766
+It doesn't even need to be a background with a significantly characterizable signal.
+
+12:11.121 --> 12:21.886
+That's how far away you and I and your doctor and most people in the world are from having a useful grasp of what these signals actually mean.
+
+12:23.067 --> 12:29.830
+Essentially, most of us are interpreting these signals based on the information that comes in through this machine.
+
+12:29.890 --> 12:30.290
+That's it.
+
+12:32.331 --> 12:34.152
+We've never done an experiment.
+
+12:34.192 --> 12:35.853
+We've never seen the reagents.
+
+12:35.893 --> 12:37.614
+We've never ordered a test.
+
+12:37.634 --> 12:40.095
+We've never designed one and tried to optimize it.
+
+12:41.400 --> 13:08.056
+And so it's very, very difficult to overstate how absurd it is that the simple fact is, is that because we have no data from before 2020, there is scientifically zero chance of us ever being able to differentiate between a background signal that was always there and something that they tell us is a novel thing
+
+13:09.206 --> 13:12.251
+that has slowly progressed toward endemicity.
+
+13:14.394 --> 13:16.177
+Endemicity being background, of course.
+
+13:21.055 --> 13:31.999
+Now, yesterday or the day before, rather, I gave a presentation to the Doctors for COVID Ethics International in the UK, Stephen Frost's group, and Charles Kovas' group.
+
+13:32.759 --> 13:42.983
+And I tried very hard to give some supplementary questions that could allow people to ask these questions efficiently to their friends and to these authorities.
+
+13:43.163 --> 13:45.864
+And so if you haven't seen that, please go back and check it out.
+
+13:47.265 --> 13:56.798
+The bottom line is, is that I think we've really, we've got a good handle on the illusion of consensus and the limited spectrum of debate that they've used to kind of sustain it.
+
+13:57.793 --> 13:58.574
+Let me say that again.
+
+13:59.074 --> 14:03.819
+The illusion of consensus is sustained by the limited spectrum of debate.
+
+14:03.999 --> 14:13.728
+So the fact that all these people in blue agree that we need to fear free-range, gain-of-function RNA molecules is one side of the hog trap.
+
+14:14.189 --> 14:20.414
+The fact that these people up here are starting to kind of agree that there might not be any viruses at all
+
+14:21.135 --> 14:35.546
+is also another part of the hog trap because they're also asking what feel to be very relevant questions, but in fact, they definitely, they definitely are not.
+
+14:36.347 --> 14:46.475
+Very similar way to these people asking a question about lab leak or natural virus or evolution in response to the transfection are all questions that unfortunately,
+
+14:50.313 --> 14:52.675
+they result in the enslavement of your children.
+
+14:52.735 --> 15:05.889
+And so again, behind me, of course, I don't have to explain to you that those people on PBS NewsHour and on the BBC were never going to save us from the natural viruses that they claim couldn't possibly be a laboratory leak.
+
+15:06.570 --> 15:10.374
+Mother Nature is more than capable of doing this to us.
+
+15:11.997 --> 15:31.687
+And so you can see the different sides of the trap when you realize that in all of these people, there are people who can understand how the PCR could be used and how it is used on an academic bench to great extent to be high fidelity, but not for diagnostics.
+
+15:31.747 --> 15:35.029
+It could easily be explained by any of these people over here.
+
+15:35.089 --> 15:37.510
+They could have explained it four years ago.
+
+15:38.612 --> 15:46.475
+They could have also explained what transfection was and what transformation was and why those terms were pretty ubiquitous before the pandemic.
+
+15:47.375 --> 15:51.497
+Robert Malone's seminal paper in 1986 or whatever, it has transfection in the title.
+
+15:56.326 --> 15:59.568
+liposomal RNA transfection.
+
+15:59.628 --> 16:10.755
+He actually published a paper with those words in the title describing what is essentially what they rolled out as a countermeasure for SARS-CoV-2 in 2021.
+
+16:13.578 --> 16:16.300
+And there's no way to misinterpret this.
+
+16:16.380 --> 16:21.583
+We're not stretching the truth or taking things out of context.
+
+16:21.643 --> 16:23.225
+This is the actual truth.
+
+16:23.285 --> 16:38.335
+Transfection and transformation are words that all academic biologists should have known the definition of and should have been screaming from the rooftops in objection to the characterization of a transfection first published by Robert Malone and Inder Verma
+
+16:38.955 --> 16:44.359
+a lipid nanoparticle RNA-based transfection for luciferase.
+
+16:46.400 --> 16:55.886
+I mean, do you understand that the first time transfection with a lipid nanoparticle using the RNA for luciferase
+
+16:57.423 --> 17:00.545
+was published was a Robert Malone and Inder Verma paper.
+
+17:00.706 --> 17:17.619
+And then at the beginning of the pandemic, when Robert Malone and Steve Kirsch and Brett Weinstein came out in 2021, these people, what are you doing?
+
+17:20.821 --> 17:22.382
+Yeah, but I, sorry.
+
+17:23.463 --> 17:25.225
+These people were,
+
+17:26.311 --> 17:27.352
+We're pushing this.
+
+17:27.933 --> 17:29.735
+I totally broke my concentration.
+
+17:34.782 --> 17:35.082
+Shit.
+
+17:40.108 --> 17:40.989
+What was I saying?
+
+17:41.070 --> 17:42.652
+Somebody in the chat helped me out.
+
+17:45.231 --> 18:01.315
+I am just frustrated because we are here right now and Robert Malone and Steve Kirsch and Brett Weinstein were all coming out at the same time telling us stories where they already knew at the beginning.
+
+18:01.375 --> 18:11.257
+They could have told you right then because Robert Malone knew that the words lipid nanoparticle and RNA and transfection all went together.
+
+18:12.037 --> 18:14.617
+He knew that from his work with Indervirna.
+
+18:15.058 --> 18:20.859
+So the idea that this guy is coming to save us by teaching Robert F. Kennedy Jr.
+
+18:20.919 --> 18:38.542
+what's going on, by teaching CHD and the rest of America what's going on, by leading the FLCCC doctors to let them know what's going on, leading these international COVID summits for five years to let everyone know what's going on, but have never told everyone that this is just a transfection,
+
+18:39.710 --> 18:41.972
+It's not an investigational vaccine.
+
+18:44.534 --> 18:46.655
+And they could have told you that from the very beginning.
+
+18:46.695 --> 18:48.136
+And why didn't they tell you that?
+
+18:48.196 --> 18:53.881
+Because then informed consent and the part about saying no would have been the obvious choice.
+
+18:57.691 --> 19:00.253
+but they had to use the murder and lies.
+
+19:00.313 --> 19:03.535
+They had to give a chance for the murder and lies to take hold.
+
+19:03.995 --> 19:13.060
+They had to give a chance for the narrative about censored social media and censored dissidents to take hold.
+
+19:13.120 --> 19:16.622
+And then after that, they stepped forward to say limited things.
+
+19:17.083 --> 19:24.167
+Again, to define a limited spectrum of debate that would allow the clock to run all the way to now in 2024,
+
+19:26.550 --> 19:42.044
+where we are almost trapped in a totalitarian control of our narrative by our acquiescence to social media and by the programmed rise of acolytes as heroes.
+
+19:43.706 --> 19:50.332
+These people were chosen and they were always going to go through where they're going right now.
+
+19:51.380 --> 19:53.441
+They might not quite be where they wanted to be.
+
+19:53.541 --> 20:04.747
+Maybe the optimum scenario was what Brett Weinstein says in his pinned video, that Donald Trump should have chose Robert F. Kennedy Jr.
+
+20:04.907 --> 20:07.388
+as his vice president to be a unity party.
+
+20:08.325 --> 20:25.739
+And so maybe right now where we are with this little Trojan horse, you know, Maha movement, where everybody just considers like Donald Trump and Bobby Kennedy to be a unity party or wants them to consider that, that's what Brett Weinstein and Robert Malone's team of meddlers would like you to believe.
+
+20:26.300 --> 20:29.162
+You know, Pierre, Corey, all those guys were on stage.
+
+20:30.123 --> 20:34.867
+This entire group of people, his one group of meddlers,
+
+20:35.922 --> 20:45.045
+It's the only way to explain why all of these people have been so intimately involved in everyone's international experience.
+
+20:47.726 --> 20:54.689
+There's no way to explain why somebody like Tom Cowan is known so much around the world unless you're going to explain it by his book.
+
+20:56.510 --> 21:02.852
+There's no way to explain why Andy Kaufman would be so well known around the world unless you're going to explain it
+
+21:03.419 --> 21:09.261
+in some way his association with these people, because they have risen in parallel.
+
+21:10.381 --> 21:27.106
+They have declared each other interesting from the very beginning, retweeting each other, posting opposing substacks, you know, a response to so-and-so, here's a list of people who really bug me.
+
+21:28.715 --> 21:33.317
+And it's all them pointing to each other or to these people behind here, of course, right?
+
+21:33.337 --> 21:38.158
+It's always okay to say that Tony Fauci is a bad guy or Deborah Birx is a bad guy.
+
+21:38.178 --> 21:40.219
+It's always okay for all of them to agree on that.
+
+21:40.259 --> 21:44.801
+But in addition, then they all disagree within each other.
+
+21:46.221 --> 21:55.045
+And that's the magic of seeing the no virus people for what they are now and seeing for how wonderful a place it is to learn biology 101.
+
+21:58.120 --> 22:02.541
+because that's really what they're trying to also put you on the wrong footing of.
+
+22:02.581 --> 22:23.788
+If you take the no virus thing for what they say it is, you're gonna miss all kinds of stuff about the beauty of this irreducible complexity that we can see, that we have studied, that we have measured, that we can quantify, and we could look further into if we understood it correctly.
+
+22:25.049 --> 22:28.490
+And that's what I think people like Dennis Nobel and his books can help.
+
+22:28.910 --> 22:36.613
+And that's what I think Erwin Schrodinger, although people don't want you to think of this book this way.
+
+22:37.173 --> 22:53.258
+I'm pretty confident that in my reading of this book, this is a physicist trying to make an argument or help biologists to make an argument, help biologists to believe in something that I don't think is
+
+22:54.952 --> 22:56.453
+is necessary to believe in.
+
+22:58.435 --> 23:03.279
+I don't need to take this part on faith, but it's very, very, very interesting book.
+
+23:03.899 --> 23:05.661
+And so this is also now available.
+
+23:06.761 --> 23:08.223
+I don't know where I am in my slide deck.
+
+23:09.183 --> 23:10.184
+I mean, this is Twitter, right?
+
+23:10.945 --> 23:12.686
+This is Twitter in 2024.
+
+23:13.807 --> 23:19.672
+It is just this, you know, analogy here and we wanna get out of it and we just gotta get out of the chair.
+
+23:19.812 --> 23:21.893
+All we gotta do is get up out of the chair
+
+23:22.722 --> 23:25.743
+and start teaching the biology that this is.
+
+23:25.783 --> 23:27.044
+That's what we're going to do today.
+
+23:27.084 --> 23:27.944
+That's why we're here.
+
+23:27.964 --> 23:32.406
+And let me see where this is.
+
+23:32.526 --> 23:33.346
+Don't I have it there?
+
+23:33.386 --> 23:33.606
+Yeah.
+
+23:33.686 --> 23:40.969
+So if I go to this next slide, you will see at gigaohmbiological.com slash stuff.
+
+23:44.741 --> 23:47.324
+You can find the biology 101 text.
+
+23:47.444 --> 23:52.951
+Remember that the this link stuff is only at the very, very bottom of my homepage.
+
+23:52.971 --> 23:54.352
+So you got to scroll all the way down.
+
+23:54.372 --> 23:57.836
+And there's those little links at the bottom about and whatever.
+
+23:57.896 --> 23:59.178
+And then one is called stuff.
+
+23:59.218 --> 24:00.019
+And if you click to that,
+
+24:00.714 --> 24:04.575
+You'll be able to see the uploads that I have available for the day.
+
+24:05.596 --> 24:07.757
+There's also a slide deck underneath this.
+
+24:07.797 --> 24:08.917
+I just cut this picture short.
+
+24:08.977 --> 24:14.639
+But up there, you can see the book that we're going to use and start with today.
+
+24:15.500 --> 24:26.024
+So let me go over to that book and see if we can get started on this.
+
+24:26.044 --> 24:27.084
+Is this going to work?
+
+24:33.635 --> 24:47.278
+yes okay so i don't know that's not the cover that i have um but the the thing that i've uploaded is this one so it's this little book which is quite short and then it's also mind and matter
+
+24:49.750 --> 24:53.872
+And it's all interesting reading and it's very influential reading.
+
+24:53.912 --> 24:58.695
+This is, you know, a lot of people have read this and a lot of people have thought about these ideas.
+
+24:58.735 --> 25:04.537
+And I think they're worth thinking about for us as we go forward.
+
+25:05.278 --> 25:07.339
+So let me make myself a little smaller here.
+
+25:11.377 --> 25:19.396
+So let's see, I gotta go through, oh yeah, this is the introduction and the table of contents, so memory of my parents.
+
+25:20.491 --> 25:29.013
+When I was a young mathematics, this is actually a introduction by Roger Penrose, 1991.
+
+25:29.573 --> 25:30.633
+I'll just read this quick.
+
+25:31.513 --> 25:39.035
+When I was a young mathematics student in the early 1950s, I did not read a great deal, but what I did read, at least if I completed a book, was usually by Erwin Schrodinger.
+
+25:39.555 --> 25:47.397
+I always found his writing to be compelling, and there was an excitement of discovery with the prospect of gaining some genuinely new understanding about this mysterious world in which we live.
+
+25:48.140 --> 25:58.689
+None of his writings possess more of this quality than his classic What is Life, which is, as I now realize, must surely rank among the most influential science writings of this century.
+
+25:58.709 --> 26:11.139
+It represents a powerful attempt to comprehend some of the most, some of the genuine mysteries of life, made by a physicist whose deep insights had done so much to change the way in which we understand what the world is made of.
+
+26:11.974 --> 26:28.705
+The book's cross-disciplinary sweep was unusual for its time and is written in an endearing, if perhaps disarming, modesty at the level it makes it possible to non-specialists and to the young who makes it accessible, excuse me, to non-specialists and to the young who might aspire to be scientists.
+
+26:28.745 --> 26:41.914
+Indeed, many scientists who have made fundamental contributions to biology, such as Haldane and Crick, have admitted to being strongly influenced by, although not always in complete agreement with, the broad ranging ideas put forward here
+
+26:42.414 --> 26:50.856
+by this highly original and profoundly thoughtful physicist.
+
+26:50.876 --> 27:05.040
+How often do we hear that quantum efforts have little relevance to the study of biology, or that we eat food in order to gain energy,
+
+27:05.950 --> 27:13.359
+This serves to emphasize the relevance, what are you doing, of what his life has for us today.
+
+27:13.399 --> 27:14.981
+So I think this is going to be fun.
+
+27:15.021 --> 27:22.010
+And if you haven't read it yet or you've never popped this book into your readings, this is going to be a really exciting introduction.
+
+27:22.050 --> 27:23.172
+I think it'll be enjoyable.
+
+27:23.212 --> 27:24.794
+We'll do it for an hour and then I'm going to
+
+27:25.915 --> 27:52.431
+Well, we're gonna do it for a little while and then I'm gonna play a short video of of Dennis Nobel Dennis Noble about about DNA and get into where we're really going with this on his shoulders So this is a preface now and this one is written by Dr. Schrodinger and so I think it's worth reading Maybe I'll come out a little bit here
+
+27:53.683 --> 28:01.526
+A scientist is supposed to have a complete and thorough knowledge, at first hand, of some subjects, and is therefore usually not expected to write on any topic which he is not a master.
+
+28:01.566 --> 28:05.547
+This is regarded as a matter of noblesse obligée.
+
+28:05.587 --> 28:08.148
+I don't know if that's French.
+
+28:08.188 --> 28:09.088
+I'm reading it that way.
+
+28:10.228 --> 28:17.050
+For the present purpose, I beg to denounce the noblesse, if any, and to be freed of ensuing obligation.
+
+28:17.230 --> 28:18.271
+And his excuse is,
+
+28:19.434 --> 28:25.059
+that we have inherited from our forefathers the keen longing for unified, all-embraced knowledge.
+
+28:25.720 --> 28:35.329
+The very name given to the highest institutions of learning reminds us that from antiquity and throughout many centuries, the universal aspect has been the only one to be given full credit.
+
+28:36.330 --> 28:44.558
+But the spread both in width and depth of the multifarious branches of knowledge during the last hundred odd years has confronted us with a queer dilemma.
+
+28:45.600 --> 28:55.349
+We feel clearly that we are only now beginning to acquire reliable material for welding together the sum total of all that is known into a whole.
+
+28:56.830 --> 29:05.178
+But on the other hand, it has become next to impossible for a single mind to fully command more than a small specialized portion of it.
+
+29:07.079 --> 29:08.581
+I don't really think that's true.
+
+29:08.641 --> 29:09.842
+I think that's one of the
+
+29:11.786 --> 29:25.221
+That's one of the illusions that gets created by this manufacturing of this breadth of false knowledge where most of it is just conjecture and assumption based on assumption with logic in between and p-values and whatever.
+
+29:25.281 --> 29:29.706
+So we've created this illusion that nobody can understand it all, nobody can read it all.
+
+29:30.587 --> 29:34.548
+But in reality, I don't think that that's where we are.
+
+29:34.628 --> 29:39.290
+And I think that is an illusion that we need to break, at least for our children.
+
+29:39.850 --> 29:49.553
+We need to break this illusion that we can't have a broad enough understanding of reality that common sense can function, because I definitely think we can.
+
+29:49.593 --> 29:53.414
+And in fact, as a system, I think we've evolved to
+
+29:54.815 --> 29:55.458
+to be there.
+
+29:55.518 --> 29:57.285
+That's what it means to be human.
+
+29:57.908 --> 30:00.057
+I can see no other escape from this dilemma.
+
+30:02.537 --> 30:12.760
+lest our aim be lost forever, then that some of us should venture to embark on a synthesis of facts and theories, albeit secondhand and incomplete knowledge of some of them.
+
+30:12.821 --> 30:19.503
+See, and so he's kind of accepting the idea that there's too much to know, but then he's gonna try anyway.
+
+30:19.563 --> 30:27.145
+And I would just argue that there isn't too much to know and that there is a way to synthesize across disciplines.
+
+30:27.205 --> 30:29.406
+And I don't think that what he's attempting to do here
+
+30:30.146 --> 30:42.810
+is silly, but rather what he's attempting to do here should be done a lot more often in order to prevent or provide pushback to this ever-increasing pile of
+
+30:47.634 --> 30:58.805
+of false knowledge, of untested, unreplicated observations that are somehow stacked up in some way to represent progress.
+
+30:59.305 --> 31:01.387
+So the difficulties of language are not negligible.
+
+31:01.427 --> 31:03.129
+What he's about to say here is that I'm German.
+
+31:04.310 --> 31:11.918
+One native speech is a closely fitting garment and one never feels quite at ease when it is not immediately available.
+
+31:12.748 --> 31:14.649
+So he thanks a few people that helped him.
+
+31:16.750 --> 31:21.733
+And the headlines of the numerous sections were intended to be marginal summaries.
+
+31:22.314 --> 31:27.697
+And so the headlines are actually really well done, but he says they weren't intended to be, so that's kind of funny.
+
+31:29.658 --> 31:33.781
+So the general and character of the purpose of this investigation.
+
+31:33.861 --> 31:35.142
+So what are we gonna do here?
+
+31:35.902 --> 31:38.323
+And this is really important to Biology 101.
+
+31:41.260 --> 31:51.184
+Because if you look at Biology 101, what you will, oh, is that not on?
+
+31:51.204 --> 31:55.406
+Maybe that's not on.
+
+31:56.927 --> 31:57.547
+Oh, that wasn't on.
+
+31:57.967 --> 32:04.170
+So if you look at Biology 101, of course, what we talked about last week, I don't know if I have those notes here.
+
+32:04.210 --> 32:04.590
+Maybe I do.
+
+32:05.915 --> 32:28.000
+Two weeks ago now that I'm starting the course again is we started and talked about This idea that that biology is organized and they talk about the biology from the bottom up right that was this this right here and So we're we were talking about how they always organize I apologize to be a little out of focus if I don't lift this up There we go
+
+32:29.088 --> 32:36.156
+Um, that they always start down here with genetics and they want us to talk about genes and cells and all this stuff, proteins and all that.
+
+32:36.176 --> 32:38.958
+That's where biology one-on-one always starts.
+
+32:40.360 --> 32:44.504
+And in this book that we're looking at now, he's also going to start there.
+
+32:45.846 --> 32:47.687
+He wants to start there because why?
+
+32:47.727 --> 32:49.029
+Well, because he's a physicist.
+
+32:50.836 --> 32:54.503
+And so it's a physicist's approach to the subject.
+
+32:54.583 --> 33:01.235
+And so the important thing here is to get the idea of what a physicist would think
+
+33:02.509 --> 33:05.189
+are the most important things about biology.
+
+33:05.230 --> 33:16.011
+Like how does a physicist, have you ever heard this thing where there's a biologist and then behind him, there's somebody making a smirk because that's a chemist who thinks that everything in biology is chemistry.
+
+33:16.692 --> 33:22.393
+And behind that chemist, there's a physicist who's making a smirk because he's like, yeah, but chemistry is all physics.
+
+33:22.853 --> 33:29.514
+And then behind the physics guy, there's a mathematician going, yeah, but then, and so the idea is,
+
+33:31.192 --> 33:32.992
+that at the end is mathematics.
+
+33:33.032 --> 33:49.936
+Now, the first and most important message to take home from this, and I can't stress enough how, even though we're gonna have a little discussion about it today, nothing is better than sitting down quietly outside or somewhere where you can hear the wind and reading this all by yourself.
+
+33:50.036 --> 33:55.058
+Because this first chapter is absolutely spectacular.
+
+33:55.278 --> 34:00.539
+And before I knew that this chapter existed, I was looking for someone
+
+34:02.489 --> 34:05.450
+to show me how to teach these ideas.
+
+34:05.670 --> 34:09.570
+And this is, I don't need to change anything here.
+
+34:09.730 --> 34:26.514
+All I need to do is just read the highlights and you will, if you haven't already, I guarantee you it's not possible that this half an hour won't enhance significantly what you think about the irreducible complexity and how sacred it is.
+
+34:26.714 --> 34:26.914
+I mean,
+
+34:28.286 --> 34:29.667
+It's just, it's spectacular.
+
+34:29.687 --> 34:36.911
+And I've wanted to do this for a while now, so I'm happy I finally got to this point where I can do all this for you, or for you, with you.
+
+34:37.871 --> 34:46.756
+So the reason that this little book arose is not because math.
+
+34:46.816 --> 34:48.137
+He says it right here, right?
+
+34:48.177 --> 34:50.318
+This lecture, oh, sorry.
+
+34:51.218 --> 34:57.542
+This most dreaded weapon, mathematical deduction, would hardly be utilized.
+
+34:58.308 --> 35:05.053
+And the reason for this was not that the subject was simple enough to be explained without mathematics, but rather...
+
+35:13.055 --> 35:20.138
+I don't know why it's not highlighting that anymore, but rather it was too much involved to be fully accessible to mathematics.
+
+35:20.398 --> 35:23.659
+That's very different, and that's a very wonderful admission.
+
+35:23.719 --> 35:27.020
+Already we're talking about an irreducible complexity.
+
+35:27.781 --> 35:39.105
+Another feature which at least induced a semblance of popularity was the lecturer's intention to make clear the fundamental idea which hovers between biology and physics to both the physicist and the biologist.
+
+35:40.117 --> 35:44.199
+The idea that hovers between biology and physics.
+
+35:44.320 --> 35:44.800
+Interesting.
+
+35:46.521 --> 35:53.165
+For actually, in spite of a variety of topics involved, the whole enterprise is intended to convey only one idea, one small comment, and a large important question.
+
+35:53.885 --> 35:57.848
+In order not to lose our way, it may be useful to outline a plan very briefly in advance.
+
+35:57.908 --> 36:02.771
+The larger and more important and very much discussed question is,
+
+36:04.599 --> 36:15.468
+How can the events in space and time, which take place within the spatial boundary of a living organism, be accounted for by physics and chemistry?
+
+36:17.029 --> 36:20.933
+And so this is the premise of the Biology 101 book, Chapter 1.
+
+36:21.974 --> 36:26.898
+Campbell might be on the 13th edition.
+
+36:26.958 --> 36:28.359
+Now this is the 11th edition.
+
+36:28.419 --> 36:31.361
+The very first chapter is about the idea
+
+36:32.441 --> 36:35.204
+that the basis for life is chemistry and physics.
+
+36:36.925 --> 36:44.393
+And at the center of this is the chemistry of a molecule called DNA, which is just made up of chemicals.
+
+36:46.655 --> 36:52.621
+And they're very special chemicals that fit together, I guess, in a very special way and are capable of carrying information.
+
+36:52.681 --> 36:53.662
+That's the idea.
+
+36:55.236 --> 37:07.204
+And so how can all the things that take place in space and time within the spatial boundary of a living organism be accounted for by physics and chemistry?
+
+37:07.664 --> 37:11.266
+Now, the question is, do you think that this physicist believes that's true?
+
+37:11.366 --> 37:13.007
+And the answer must be yes.
+
+37:13.908 --> 37:15.009
+Otherwise, what are we doing?
+
+37:15.949 --> 37:20.973
+The preliminary answer, which this little book will endeavor to expound and establish, can be summarized as follows.
+
+37:21.880 --> 37:34.081
+The obvious inability of present-day physics and chemistry to account for such events is no reason at all for doubting that they can be accounted for.
+
+37:35.278 --> 37:37.479
+for by those sciences.
+
+37:38.179 --> 37:42.060
+Sorry, I was switching between the cameras, so I read that kind of awkwardly.
+
+37:42.120 --> 37:47.342
+The preliminary answer which this little book will endeavor to expound and establish can be summarized as follows.
+
+37:48.142 --> 37:58.645
+The obvious inability of present-day physics and chemistry to account for such events is no reason at all for doubting that they can be accounted for by those sciences.
+
+38:01.181 --> 38:20.586
+Even though present-day physics and chemistry cannot account for all of the things that we see happening through space and time within the boundaries of a living organism, there is no reason, according to Irwin, to doubt that it can't be accounted for by physics and chemistry.
+
+38:23.747 --> 38:27.548
+And so the premises of reductionist biology, reductionist science,
+
+38:28.462 --> 38:33.266
+that everything can be accounted for by physics and chemistry is what he believes.
+
+38:34.648 --> 38:42.795
+And it's just the limits of present day physics and chemistry that prevent us from seeing these mechanisms.
+
+38:45.069 --> 38:49.353
+Now that's not that dissimilar to what these guys would say, right?
+
+38:50.194 --> 39:01.563
+They see science, the Vatican II reorientation of the Catholic Church also sees science as not antagonistic to the Creator.
+
+39:03.625 --> 39:08.790
+But the elusively enticing argument is that by
+
+39:10.399 --> 39:16.062
+scientific investigation, we are just appreciating creation and appreciating the work of the creator.
+
+39:16.702 --> 39:32.751
+But that's a very fine line to watch and a very fine line to walk before you are ignoring the presence of the creator and assuming there is none, which is what he's talking about right here.
+
+39:32.931 --> 39:38.714
+That physics and chemistry, unless the creator is physics and chemistry, you see, now we're getting into the builder thing, right?
+
+39:43.652 --> 39:48.514
+So now remember, this is a physicist writing a biology book and a lot of biologists think this is a great book.
+
+39:49.874 --> 40:08.402
+And now, this next couple paragraphs I think are really vital to understanding how a physicist with, and that's what you see here, a physicist with a real honest, a real honest intention to bridge the gap that he just identified, a real intention
+
+40:09.366 --> 40:14.412
+to help biologists to understand and everyone to understand this.
+
+40:15.773 --> 40:19.798
+You could also see this statement here as a critique on modern physics and chemistry.
+
+40:21.800 --> 40:27.226
+You could also see this as Irwin saying that physics and chemistry is obviously not right yet.
+
+40:28.476 --> 40:41.266
+Because if it was right and we had a higher fidelity understanding of the material world, then we would better be able to explain what happens through space and time within the boundaries of a living organism.
+
+40:43.888 --> 40:52.495
+And so you don't have to read this like there is no God and everything is just random and it all emerges, it's emergent properties of Mother Nature.
+
+40:52.896 --> 40:54.157
+You don't have to read it like that.
+
+40:54.197 --> 40:55.538
+You can also read this
+
+40:57.123 --> 41:20.689
+an admission by a physicist that physics and chemistry Although we understand a lot or it seems like experimentally we can confirm a lot of a lot of phenomenon We don't know enough to be able to account for what occurs through space and time between the boundaries of within the boundaries of a living organism and Therefore physics and chemistry are still inadequate.
+
+41:21.689 --> 41:25.450
+I That's how I read it So
+
+41:27.498 --> 41:34.702
+That would be a very trivial remark if it weren't meant to stimulate the hope of achieving in a future what has not been achieved in the past.
+
+41:35.102 --> 41:40.865
+But the meaning is very much more positive that the inability up to the present moment is simply accounted for.
+
+41:41.885 --> 41:52.111
+Today, thanks to the ingenious work of biologists, mainly geneticists, during the last 30 or 40 years, enough is known about the actual material structure of organisms and about their functioning state to say that.
+
+41:53.127 --> 42:00.854
+and to tell precisely why present-day physics and chemistry could not possibly account for what happens in space and time within a living organism.
+
+42:02.256 --> 42:03.116
+He's gonna explain it?
+
+42:04.938 --> 42:08.201
+And this is the crucial thing for today.
+
+42:08.241 --> 42:09.562
+It's gonna take about 20 minutes.
+
+42:09.602 --> 42:12.445
+It's probably gonna ruin my throat, but I'm so excited to share it with you.
+
+42:13.986 --> 42:14.627
+And I hope I can
+
+42:15.811 --> 42:24.799
+I hope I can bring you to feel the importance of this or understand it or see it the way that I see it, because I think it's a really invigorating idea set.
+
+42:25.459 --> 42:41.293
+So the arrangement of atoms in the most vital parts of an organism and the interplay of these arrangements differ in a fundamental way from all those arrangements of Atomwoods, which physicists and chemists have hitherto made the subject of their experimental and theoretical research.
+
+42:43.578 --> 43:03.130
+The arrangement of the atoms in the most vital parts of an organism and the interplay of these arrangements differ in a fundamental way from all those arrangements of atoms which physicists and chemists have hitherto made the object of their experimental and theoretical research.
+
+43:03.170 --> 43:12.135
+Yet the difference, which I have just termed fundamental, is of such a kind that it might easily appear slight to anyone except a physicist.
+
+43:13.507 --> 43:21.511
+Who is thoroughly imbued with the knowledge that the laws of physics and chemistry are statistical throughout.
+
+43:23.672 --> 43:26.313
+And this is crucial to understand.
+
+43:27.774 --> 43:32.736
+And maybe this is part of the reason why statistics has been so
+
+43:35.245 --> 43:49.211
+ham-fistedly wielded in the medical sciences and in the biological sciences to try and do what it already has accomplished in physics and chemistry, but without the same level of statistical power, and you're going to see it in a minute.
+
+43:50.555 --> 44:08.691
+For it is in this relation to the statistical point of view that the structure of the vital parts of a living organism differs so entirely from that of any piece of matter that we physicists and chemists have ever handled physically in our laboratory or mentally at our writing desks.
+
+44:10.353 --> 44:24.701
+For it is in relation to the statistical point of view that the structure of the vital parts of the living organism differs so entirely from that of any piece of matter that we physicists or chemists have ever handled physically in our laboratories.
+
+44:24.721 --> 44:25.862
+I'm going to go right back to this.
+
+44:26.462 --> 44:27.723
+What is he already suggesting?
+
+44:28.908 --> 44:33.632
+that somewhere within the boundaries of a living organism is a pattern integrity.
+
+44:33.672 --> 44:36.274
+And pattern integrities don't behave like dirt.
+
+44:36.854 --> 44:39.957
+Pattern integrities don't behave like simple compounds.
+
+44:40.017 --> 44:41.998
+They don't behave like simple chemicals.
+
+44:43.520 --> 44:44.540
+They don't do it.
+
+44:45.601 --> 44:55.229
+Pattern integrities do stuff and maintain states and use and consume energy
+
+44:56.550 --> 45:10.624
+and are not always composed of the same atoms in the same arrangements, but somehow or another across space and time, sustained attributes grow and flourish.
+
+45:13.166 --> 45:16.207
+For it is in the relation to the statistical point of view.
+
+45:16.287 --> 45:39.515
+What happens inside of an animal is statistically, astronomically impossible to occur in a mud puddle, no matter how many lightning bolts you strike it with, no matter how much of these chemicals you put together in exactly the right components, in exactly the right arrangement, you're never gonna get them to behave like they behave over the 80 years of the life of a human.
+
+45:41.493 --> 45:55.112
+You can purify them all, you can put them all on shelves, you can carefully, you know, mix them all together and you'll never get carbon, nitrogen, oxygen and all these trace minerals to behave this way so consistently for so long.
+
+45:56.374 --> 45:58.557
+Chemistry and physics can't explain that.
+
+46:07.205 --> 46:20.790
+It is well nigh unthinkable that the laws and regularities thus discovered should happen to apply immediately to the behavior of systems which do not exhibit the structure on which those laws and regularities are based.
+
+46:22.750 --> 46:29.193
+We're not organized like the matter in the Earth's crust or the matter in the atmosphere.
+
+46:29.233 --> 46:33.034
+We're not organized like the matter in a liquid.
+
+46:38.314 --> 46:42.848
+We don't exhibit that behavior in the same way.
+
+46:44.690 --> 46:55.319
+The non-physicist cannot be expected even to grasp, let alone appreciate the relevance of, the difference in the statistical structure stated in terms so abstract as I have just used.
+
+46:55.919 --> 47:11.552
+To give the statement life and color, let me anticipate what will be explained in much more detail later, namely that the most essential part of a living cell, the chromosome fiber, may be suitably called an aperiodic crystal.
+
+47:13.106 --> 47:19.311
+In physics, we have dealt hitherto only with periodic crystals.
+
+47:21.012 --> 47:25.576
+To a humble physicist's mind, these are very interesting and complex objects.
+
+47:26.297 --> 47:32.722
+They constitute one of the most fascinating and complex material structures by which inanimate nature puzzles his wits.
+
+47:34.023 --> 47:40.168
+Yet, compared with the aperiodic crystal, they are rather plain and dull.
+
+47:41.087 --> 48:04.604
+The difference in structure is of the same kind as that between an ordinary wallpaper, in which the same pattern is repeated again and again in regular curiosity, and a masterpiece of embroidery, say a Raphael tapestry, which shows no dull repetition but an elaborate, coherent, meaningful design traced by the great master.
+
+48:05.751 --> 48:12.940
+In recalling the periodic crystal, one of the most complex objects of his research, I had in mind the physicist proper.
+
+48:13.380 --> 48:24.633
+Organic chemistry, indeed, in investigating more and more complex molecules, has come very much nearer to that aperiodic crystal, which, in my opinion, is the material carrier of life.
+
+48:26.104 --> 48:36.170
+and therefore it is a small wonder that the organic chemist has already made large and important contributions to the problem of life, whereas the physicist has made next to none."
+
+48:37.151 --> 48:38.471
+Hmm, interesting.
+
+48:40.052 --> 48:41.373
+This is a physicist talking.
+
+48:42.694 --> 48:46.536
+So the naive physicist's approach to the subject, and this is really so great.
+
+48:47.257 --> 48:54.341
+After having thus indicated very briefly the general idea, or rather the ultimate scope of our investigation, let me describe the line of attack.
+
+48:55.518 --> 49:08.946
+I propose to develop first what you might call a naive physicist's idea about organisms, that is, the ideas which might arise in the mind of a physicist who, after having learned his physics, and more especially the statistical foundation of his science,
+
+49:10.555 --> 49:28.319
+the statistical foundation of his science, begins to think about organisms and about the way they behave and function, and comes to ask himself conscientiously whether he, from what he has learned, from the point of view as if it's comparatively simple and clear, humble science, can make any relevant contributions to the question.
+
+49:30.240 --> 49:31.320
+It will turn out that he can.
+
+49:31.900 --> 49:36.281
+The next step must be to compare his theoretical anticipations to the biological facts.
+
+49:38.340 --> 49:45.362
+It will then turn out that, though on the whole his ideas seem quite sensible, they need to be appreciably amended.
+
+49:46.142 --> 49:53.005
+In this way we shall gradually approach the correct view, or to put it more modestly, the one that I propose as the correct one.
+
+49:54.245 --> 50:00.727
+Even if I should be right in this, I do not know whether my way of approach is really the best and simplest, but in short, it was mine.
+
+50:02.097 --> 50:08.439
+The naive physicist was myself, and I could not find any better or clearer way toward the goal than my own crooked one.
+
+50:10.080 --> 50:15.941
+So a good way of developing the naive physicist's ideas is to start from the odd, most ludicrous question.
+
+50:16.882 --> 50:21.463
+And this is good, so you've got to do this, actively follow this mind exercise with him.
+
+50:22.423 --> 50:23.664
+Why are atoms so small?
+
+50:24.264 --> 50:26.025
+And to begin with, they are very small indeed.
+
+50:26.065 --> 50:30.186
+Every little piece of matter handled in everyday life contains an enormous number of them.
+
+50:31.178 --> 50:38.660
+Many examples have been devised to bring this fact home to an audience, none of them more impressively than the one used by Lord Calvin.
+
+50:40.621 --> 50:54.125
+Suppose that you could mark the molecules in a glass of water and then pour the contents of the glass into the ocean and stir the latter thoroughly so as to distribute the marked molecules uniformly through the seven seas.
+
+50:55.625 --> 51:23.448
+Then you took a glass of water anywhere out of the ocean you would find about a hundred of your marked molecules The actual size of atoms lies between one five thousandth and one two thousandth of a wavelength of yellow light The comparison is significant because the wavelength roughly indicates the dimensions of the smallest grain still recognizable in a microscope Thus it will be seen that small Thank you that small
+
+51:24.949 --> 51:27.231
+the smallest grain still recognizable in the microscope.
+
+51:27.271 --> 51:31.616
+Thus it will be seen that such a grain still contains thousands of millions of atoms.
+
+51:32.517 --> 51:35.840
+So why are the atoms so small?
+
+51:35.940 --> 51:40.945
+Clearly the question is an evasion, for it is not really aimed at the size of the atoms.
+
+51:41.005 --> 51:46.230
+It is concerned with the size of organisms, more particularly with the size of our own corporeal selves.
+
+51:48.152 --> 51:57.275
+Indeed, the atom is so small, when referred to our civic unit of length, you know, our one that makes sense to our body size, a yard or a meter.
+
+51:57.935 --> 52:05.298
+In atomic physics, one is accustomed of using the angstrom, which is one tenth to the tenth power of a meter.
+
+52:07.799 --> 52:08.659
+Ten to the tenth
+
+52:10.799 --> 52:11.740
+power of a meter.
+
+52:11.760 --> 52:12.641
+I don't know how to say that.
+
+52:12.661 --> 52:13.122
+That's funny.
+
+52:13.803 --> 52:20.931
+Or in decimal notations, .0000000001 of a meter.
+
+52:21.191 --> 52:23.694
+Atomic diameters between one and two angstroms.
+
+52:23.794 --> 52:27.399
+Now those civic units are closely related to the size of our bodies.
+
+52:28.001 --> 52:36.708
+There's a story of tracing the yard back to the humor of an English king who put his counselors to ask what unit to adopt, and he stretched out his arm sideways and said, take the distance from the middle of my chest to my fingertips.
+
+52:36.748 --> 52:37.528
+That will do all right.
+
+52:38.509 --> 52:41.011
+True or not, the story is significant for our purpose.
+
+52:41.051 --> 52:49.097
+The king would naturally indicate a length comparable to that of his own body, knowing that anything else would be very inconvenient.
+
+52:49.137 --> 52:51.899
+With all his predictions for the Angstrom's unit,
+
+52:52.492 --> 53:02.537
+The physicist prefers to be told that his new suit will require six and a half yards of tweed rather than 65,000 millions of angstroms of tweed.
+
+53:03.478 --> 53:14.564
+It is thus being settled that our question really aims at the ratio of two lengths, that of our body and that of the atom, with an incontestable priority of independent existence on the size of the atom.
+
+53:15.585 --> 53:21.788
+The question truly reads, why must our bodies be so large compared to the atom?
+
+53:22.858 --> 53:26.090
+Are you already on this thought exercise?
+
+53:27.432 --> 53:33.177
+Because you know that there's kind of a limit in terms of sizes of living things.
+
+53:33.237 --> 53:35.739
+It doesn't scale down to infinity, right?
+
+53:35.879 --> 53:47.249
+Bacteria kind of are at that limit where these chemicals and physical properties of things can be arranged into a pattern integrity.
+
+53:47.649 --> 53:50.312
+It's not infinite that we can go down.
+
+53:50.852 --> 53:53.474
+So the ratio between the size of atoms
+
+53:54.355 --> 54:01.219
+And the size of these pattern integrities is kind of, there's a certain, you know, that's what he's trying to get at.
+
+54:01.759 --> 54:12.306
+And this is the difference between biology and aperiodic crystals and chemistry and physics and periodic crystals, is this distance.
+
+54:13.286 --> 54:18.609
+And the distance between them is important to grasp.
+
+54:18.950 --> 54:20.771
+That's what he's trying to get you to understand.
+
+54:21.561 --> 54:26.305
+because the aperiodic crystal doesn't emerge at this scale.
+
+54:26.345 --> 54:28.026
+It emerges at this scale.
+
+54:28.066 --> 54:28.446
+You get it?
+
+54:28.606 --> 54:29.407
+Are you sort of getting it?
+
+54:31.075 --> 54:34.058
+It thus being settled that our question really aims at the ratio of two links.
+
+54:34.118 --> 54:54.976
+Okay, so I can imagine that many keen students of physics or chemistry may have deplored the fact that every one of our sense organs forming one or more less substantial part of our body, and hence in the view of the magnitude of the said ratio, being itself composed of innumerable atoms is much too coarse to be affected by the impact of a single atom.
+
+54:56.457 --> 54:57.698
+So what are we saying here?
+
+54:59.448 --> 55:04.193
+cannot see or feel or hear single atoms.
+
+55:04.273 --> 55:09.099
+Our hypotheses with regard to them differ widely from the immediate findings of our gross sense organs.
+
+55:09.119 --> 55:12.382
+It cannot be put in, put to the test of direct inspection.
+
+55:12.422 --> 55:20.692
+In other words, we can't use our senses, our vision, our taste, our smell, our hearing, our touch to probe the
+
+55:22.148 --> 55:30.652
+the qualities of these things, atoms at this size scale, and our brain doesn't hear individual atoms.
+
+55:31.573 --> 55:35.875
+We don't detect individual atoms or photons hitting our eyes.
+
+55:35.935 --> 55:37.376
+So there's where he is.
+
+55:39.002 --> 55:40.163
+Must that be so?
+
+55:41.164 --> 55:47.128
+Is there an intrinsic reason why our sensory organs can't detect a single atom?
+
+55:47.589 --> 55:48.509
+Why is that?
+
+55:49.110 --> 56:00.279
+How does a physicist need to understand that so that a physicist can breach this gap between their understanding of things at the size scale of physics and then move up to this
+
+56:01.257 --> 56:03.440
+this several orders of magnitude.
+
+56:03.560 --> 56:04.421
+Why must it be so?
+
+56:05.182 --> 56:16.877
+Can we trace this back to a state of affairs, to some kind of principle, first principle, in order to ascertain and to understand why nothing else is compatible with the very laws of nature?
+
+56:17.378 --> 56:24.803
+So in other words, you must have atoms this small and pattern integrities that are composed of atoms have to be this much bigger.
+
+56:25.343 --> 56:26.363
+Why is that?
+
+56:26.964 --> 56:32.127
+Now for this, for once, is a problem for which a physicist is able to clear up completely.
+
+56:32.187 --> 56:35.049
+The answer to all the queries is the affirmative.
+
+56:35.809 --> 56:38.811
+It is absolutely required.
+
+56:43.160 --> 56:44.501
+I like insulated cups.
+
+56:44.561 --> 56:51.306
+I'm also terrified of them because you can get boiling water inside of them and it doesn't cool off very quickly so I had to take that slow.
+
+56:54.188 --> 56:54.909
+So working
+
+56:56.004 --> 56:59.465
+The working of an organism requires exact physical laws.
+
+56:59.625 --> 57:09.108
+If it were not so, if we were organisms so sensitive that a single atom, or even a few atoms, could make a perceptible impression on our senses, heavens what life would be like.
+
+57:09.889 --> 57:25.694
+To stress one point, an organism of that kind would most certainly not be capable of developing the kind of orderly thought which, after passing through a long sequence of earlier stages, ultimately results in forming, among many other ideas, the idea of an atom.
+
+57:31.101 --> 57:31.541
+It's deep.
+
+57:34.664 --> 57:40.929
+Couldn't come up with the idea of an atom if we were sensitive enough to sense individual atoms.
+
+57:42.070 --> 57:50.136
+Even though we select this one point, the following considerations would essentially apply also to the functioning of organs other than the brain and the sensorial system.
+
+57:50.816 --> 57:56.381
+Nevertheless, the one and only thing of paramount interest to us and ourselves that we feel and think and perceive.
+
+57:59.011 --> 58:02.535
+in ourselves is that we feel and think and perceive.
+
+58:02.595 --> 58:12.707
+To the physiological process which is responsible for thought and sense, all the others play an auxiliary part, at least from the human point of view, if not from the purely objective biology.
+
+58:13.148 --> 58:16.251
+And so he's just now hinting at the idea that our ability to think
+
+58:17.012 --> 58:34.329
+And our consciousness and the no-sphere that results from that collective thinking together, swimming in schools of thought, makes us unique and is maybe the highest part of our evolution thus till now, if you listen to these people.
+
+58:34.809 --> 58:37.331
+And so moreover, it will greatly facilitate our task
+
+58:38.112 --> 58:46.999
+if we choose for the investigation the process which is closely accompanied by subjective events even though we are ignorant to the true nature of this close parallelism.
+
+58:48.482 --> 58:54.545
+Indeed, in my very view, it lies outside of the range of natural science and very probably human understanding altogether.
+
+58:55.125 --> 58:56.366
+So we're not going to figure everything out.
+
+58:56.386 --> 58:58.106
+We're not going to understand consciousness yet.
+
+58:58.146 --> 58:59.507
+I think that's what he's admitting here.
+
+59:00.167 --> 59:01.908
+We are thus faced with the following question.
+
+59:01.968 --> 59:17.695
+Why should an organ like our brain with the sensorial system attached to it of necessity consist of an enormous number of atoms in order that its physically changing state should be in close and intimate correspondence with a highly developed thought?
+
+59:22.242 --> 59:40.835
+On what grounds is the latter task of the said organ incompatible with being, as a whole or in some of its peripheral parts which interact directly with the environment, a mechanism sufficiently refined and sensitive to respond to and register the impact of a single atom from outside?
+
+59:42.130 --> 59:55.874
+Why should an organ like our brain, with the sensorial system attached to it, of necessity consist of an enormous number of atoms, in order that its physically changing state should be in close, intimate correspondence with a highly developed thought?
+
+59:56.454 --> 01:00:01.075
+Why do we need such an enormous number of atoms to reach consciousness?
+
+01:00:01.756 --> 01:00:06.537
+On what grounds is the latter task of the said organ incompatible with being,
+
+01:00:07.887 --> 01:00:16.452
+A mechanism sufficiently refined and sensitive to respond to and register the impact of a single atom from outside.
+
+01:00:19.554 --> 01:00:28.239
+On what grounds is the latter task of the said organ incompatible with being as a whole or in some of its peripheral parts which interact directly with the environment?
+
+01:00:28.860 --> 01:00:32.882
+So why can't the brain detect individual atoms?
+
+01:00:33.583 --> 01:00:37.345
+The reason for this is what we call thought itself an ordinary thing.
+
+01:00:38.682 --> 01:00:46.326
+is that what we call thought itself is an orderly thing, and it can only be applied to material, i.e.
+
+01:00:46.446 --> 01:00:50.348
+to perceptions or experiences which have a certain degree of orderliness.
+
+01:00:52.029 --> 01:00:53.329
+This has two consequences.
+
+01:00:53.389 --> 01:01:02.094
+First, a physical organization, to be in close correspondence with thought, as my brain is with my thought, must be very well-ordered organization.
+
+01:01:03.151 --> 01:01:10.096
+And that means that the events that happen within it must obey strict physical laws, or at least to a very high degree of accuracy.
+
+01:01:12.017 --> 01:01:25.947
+And so what he's trying to suggest is that something that's happening inside of his brain, in the end, although it is composed of so many atoms, it's still behaving very orderly in response to things in the environment that are orderly.
+
+01:01:27.830 --> 01:01:34.212
+And that is indeed what a lot of neuroscientists have described in different words, of course, what the brain does.
+
+01:01:34.272 --> 01:01:37.553
+It brings in information, tries to find patterns.
+
+01:01:37.593 --> 01:01:39.274
+It has to filter the noise out.
+
+01:01:39.834 --> 01:01:50.998
+It finds patterns and tries to organize behavior in response to those patterns to increase the likelihood that the pattern integrity will remain intact and go on.
+
+01:01:59.218 --> 01:02:11.710
+The physical impressions made upon the physically well-organized system by other bodies from the outside obviously correspond to the perception and experience of the corresponding thought.
+
+01:02:12.330 --> 01:02:36.794
+Forming its material as a vibe called it therefore the physical interactions between our systems and others must as a rule themselves Possess a certain degree of physical orderliness that is to say they must to obey strict physical laws to a certain degree of accuracy and so now he's gonna tell you why it is that we needed to be so many orders of magnitude larger than the than the atoms and
+
+01:02:38.285 --> 01:02:42.106
+physical laws rest on atomic statistics and are therefore only approximate.
+
+01:02:42.146 --> 01:02:58.809
+This is so important to understand because as a non-physicist, a non-chemist, but I used to teach physics in high school, I can remember being inadequate at expressing these ideas, knowing that there was something to express here.
+
+01:02:58.949 --> 01:03:05.771
+And this is just like, this is like Derek Rose's, you know, rookie season here.
+
+01:03:05.851 --> 01:03:07.171
+This is unbelievably,
+
+01:03:08.271 --> 01:03:09.452
+unbelievably perfect.
+
+01:03:10.212 --> 01:03:19.798
+And why could all this not be fulfilled in the case of an organism composed of a moderate number of atoms only and sensitive already to the impact of one or two atoms only?
+
+01:03:20.639 --> 01:03:35.989
+Because we know all atoms perform, all the time, a completely disorderly heat motion which, so to speak, opposes itself to their orderly behavior and does not allow the events that happen between small numbers of atoms to enroll themselves accordingly to any recognizable law.
+
+01:03:38.339 --> 01:03:53.935
+The atoms of the table are, if you could get down to the atoms, are all vibrating uncontrollably to reflect the amount of energy of heat that they have on the Kelvin scale from absolute zero where they're no longer moving to something above absolute zero where they are moving.
+
+01:03:54.816 --> 01:03:57.378
+And that is an unstoppable force.
+
+01:03:57.438 --> 01:04:02.982
+That's one of the foundational attributes of matter.
+
+01:04:03.743 --> 01:04:16.412
+And because we know all atoms to perform all the time a completely disorderly heat motion which so to speak opposes itself to their orderly behavior and does not allow events that happen between small number of atoms to enroll themselves accordingly into any recognizable law.
+
+01:04:16.632 --> 01:04:17.973
+Only in cooperation
+
+01:04:18.891 --> 01:04:32.695
+With an enormously large number of atoms, do statistical laws begin to operate and control the behavior of these assemblies with an accuracy increasing as the number of atoms involved increases?
+
+01:04:36.256 --> 01:04:42.138
+And so only when you have enough of an element do the properties of that element start to emerge.
+
+01:04:43.456 --> 01:04:48.038
+The metallic surface and all this stuff depends on there being an extraordinary number of atoms.
+
+01:04:48.939 --> 01:04:52.481
+And individual atoms do not possess these qualities.
+
+01:04:54.462 --> 01:05:02.566
+And so physics is an understanding of a statistical representation of matter.
+
+01:05:03.026 --> 01:05:12.051
+And there are a couple wonderful experiments to illustrate this in your mind that I think will absolutely expand the way you think about life and the way you think about chemistry and physics.
+
+01:05:12.887 --> 01:05:18.391
+It is in this way, it is in that way that the events acquire truly orderly features.
+
+01:05:18.451 --> 01:05:24.676
+All the physical and chemical laws that are known to play an important part of life of organisms are of this statistical kind.
+
+01:05:25.297 --> 01:05:35.184
+Any other kind of lawfulness and orderliness that might one think of as being perpetually disturbed and made inoperative by the unceasing heat motion of the atoms.
+
+01:05:36.245 --> 01:05:38.267
+And this is true for proteins too, right?
+
+01:05:39.027 --> 01:05:42.750
+That's why when they show us these models of these proteins, they're all shaking around and stuff.
+
+01:05:46.474 --> 01:05:54.576
+So the precision is based on a large number of atoms intervening, and this is the first example so that you can understand how it is that we know this.
+
+01:05:56.216 --> 01:06:13.501
+Let me try to illustrate this by a few examples, picked somewhat at random out of thousands, and possibly not just the best ones to appeal to a reader who is learning for the first time about the condition of these things, a condition which modern physics and chemistry is as fundamental as, say, the fact that organisms are composed of cells in biology, or as
+
+01:06:14.401 --> 01:06:19.503
+Newton's Law and Astronomy, or even as a series of integers 1, 2, 3, 4, 5 in Mathematics.
+
+01:06:20.244 --> 01:06:35.431
+An entire newcomer should not expect to obtain from the following few pages a full understanding and appreciation of the subject, which is associated with the illustrious names of Boltzmann and Gibbs and treated in textbooks under the name of Statistical Thermodynamics.
+
+01:06:35.931 --> 01:06:39.213
+But these two illustrations for the purpose of concept
+
+01:06:39.833 --> 01:06:49.378
+And for the purpose of getting your imagination to start to build the tool set that you need to understand these ideas, these ideas are smack on point.
+
+01:06:50.419 --> 01:06:59.444
+If you fill an oblong quartz tube with oxygen gas and put it into a magnetic field, you can find that the gas is magnetized.
+
+01:07:01.205 --> 01:07:02.005
+That's what this is here.
+
+01:07:06.499 --> 01:07:12.042
+The magnetization is due to the fact that the oxygen molecules are little magnets, and you know that.
+
+01:07:13.143 --> 01:07:18.326
+They can have, you know, dipoles, and they can actually be O2, so they can be
+
+01:07:19.807 --> 01:07:31.817
+covalently bonded and so then they definitely have a sort of orientation and they're sharing electrons so they could have a dipole moment and tend to orient themselves parallel to the field like a compass needle.
+
+01:07:32.437 --> 01:07:39.503
+But you must not think that they actually all turn parallel, for you double the field, you get double the magnetization in your oxygen body.
+
+01:07:40.424 --> 01:07:48.551
+And that proportionality goes on to extremely high field strengths, the magnetization increasing at a rate of the field you apply.
+
+01:07:49.983 --> 01:07:55.347
+This is a particularly clear example of a purely statistical law and phenomenon.
+
+01:07:56.207 --> 01:08:03.772
+The orientation of the field tends to produce is continually counteracted by the heat motion, which works for random orientation.
+
+01:08:05.033 --> 01:08:08.316
+The effect of this striving, striving,
+
+01:08:09.218 --> 01:08:29.880
+a word that is often used only to apply to life, but in this case is not, the striving for randomness versus the striving to be within the magnetic field and not opposing it, is actually only a small preference for acute over obtuse angles between the dipole axis and the field.
+
+01:08:31.317 --> 01:08:53.526
+Though the single atoms change their orientation incessantly, they produce on average, owing to their enormous number, a constant preponderance or percentage or proportion of the oxygen atoms, or in this case oxygen molecules, are in the orientation of the direction of the field or proportional to it.
+
+01:08:54.926 --> 01:08:58.468
+This ingenious explanation is due to French physicist Levin.
+
+01:08:59.673 --> 01:09:01.394
+And it can be checked in the following way.
+
+01:09:01.434 --> 01:09:22.787
+If you observed weak magnetization is really the outcome of rival tendencies, namely the magnetic field, which aims to combine all the molecules in parallel, and heat motion, which makes for random orientation, then it ought to be possible to increase the magnetization by weakening the heat motion, so by cooling the tube.
+
+01:09:26.587 --> 01:09:36.716
+And that is confirmed by experiment which gives the magnetization inversely proportional to the absolute temperature in quantitative agreement with the theory, which is actually Curie's law.
+
+01:09:37.416 --> 01:09:54.111
+Modern equipment even enables us by lowering the temperature to reduce the heat motion to such insignificance that the orientation tendency of the magnetic field can assert itself, if not completely, at least sufficiently to produce a substantial fraction of complete magnetization.
+
+01:09:55.051 --> 01:10:09.463
+And in this case, you no longer get the linear relationship, the proportional relationship between field strength and the field strength of the gas anymore at this extreme cold temperature approaching what is called saturation.
+
+01:10:09.503 --> 01:10:13.546
+This expectation is too quantitatively confirmed by the experiments.
+
+01:10:15.424 --> 01:10:28.589
+And so you see that this physical law and the magnetization, it's all an expression of statistical likelihood of any one of these countless molecules to be in an orientation.
+
+01:10:28.609 --> 01:10:32.851
+And then that average is just changing relative to the field strength.
+
+01:10:34.892 --> 01:10:42.035
+And so these are not really emergent properties so much as just the consequence of, again, so many
+
+01:10:43.991 --> 01:10:53.559
+atoms and the underlying truth that most of the significant number of the forces on these atoms are producing random motion.
+
+01:10:55.220 --> 01:11:01.885
+Notice that this behavior depends entirely on the large number of molecules which cooperate in producing the observable magnetization.
+
+01:11:01.945 --> 01:11:07.310
+Otherwise, the latter would not be constant at all, but would be fluctuating quite irregularly from one second to the next.
+
+01:11:08.211 --> 01:11:14.392
+Bear witness to the vicissitudes of the contest between heat motion and the field.
+
+01:11:16.514 --> 01:11:18.635
+Second example is Brownian motion.
+
+01:11:18.695 --> 01:11:21.397
+This is the kind of motion that you can even see under a microscope.
+
+01:11:22.097 --> 01:11:38.146
+If you fill the lower part of a closed glass vessel with fog consisting of minute droplets, you will find that the upper boundary of the fog gradually sinks with a well-defined velocity determined by the viscosity of the air and the size
+
+01:11:39.491 --> 01:11:41.112
+of the specific gravity of the droplets.
+
+01:11:41.152 --> 01:11:54.783
+But if you look at one of the droplets under a microscope, you find that it does not permanently sink with a constant velocity, but performs a very irregular movement, so-called Brownian movement, which corresponds to a regular sinking only on average.
+
+01:11:54.863 --> 01:11:55.944
+That's what that is there.
+
+01:12:02.048 --> 01:12:14.477
+Now, these droplets are not atoms, but they are sufficiently small and light not to be entirely imperceptible to the impact of a single molecule of those which hammer into their surface in perpetual impacts.
+
+01:12:15.118 --> 01:12:19.181
+They are thus knocked about and can only, on average, follow the influence of gravity.
+
+01:12:19.221 --> 01:12:27.307
+And in fact, their individual changes in motion, of course, are when random larger than average
+
+01:12:29.861 --> 01:12:38.488
+atoms are moving in kind of a cooperative way, and so then you get a movement in that direction, and then a movement in this direction, a movement in that direction, but most of the time you're not moving.
+
+01:12:41.611 --> 01:12:43.392
+Or some part of the time you're not moving.
+
+01:12:43.933 --> 01:12:50.959
+This example shows what funny and disorderly experience we should have if our sentences were perceptible to the impact of only a few molecules.
+
+01:12:51.707 --> 01:12:56.008
+There are bacteria and other organisms that are so small that they are strongly affected by this phenomenon.
+
+01:12:56.028 --> 01:12:59.549
+Their movements are determined by the thermic whims of the surrounding medium.
+
+01:12:59.569 --> 01:13:00.330
+They have no choice.
+
+01:13:01.170 --> 01:13:10.473
+If they had some locomotion of their own, they might nevertheless succeed in getting from one place to another, but with some difficulty, since the heat motion tosses them like a small boat in a rough sea.
+
+01:13:11.273 --> 01:13:14.494
+A phenomenon very much akin to Brownian motion is that of diffusion.
+
+01:13:15.356 --> 01:13:33.159
+Imagine a vessel filled with fluids, say water, and a small amount of some colored substances dissolves, say potassium permanganate, not in uniform concentration, but rather, as in figure four, where the dots indicate molecules of the dissolved substance and concentration diminishes from left to right.
+
+01:13:38.143 --> 01:13:51.848
+If you leave this system alone, a very slow process of diffusion sets in the permanganate spreading in the direction from left to right, that is, from places of higher concentration toward the place of lower concentration until it is equally distributed.
+
+01:13:52.348 --> 01:14:00.711
+The remarkable thing about this is it's rather simple and apparently not particularly interesting process that is in no way due, as one might think,
+
+01:14:01.587 --> 01:14:08.136
+to the tendency or force driving the permanganate molecules away from the crowded region into the less crowded one.
+
+01:14:08.956 --> 01:14:12.897
+like the population of a country spreading to those parts which has more elbow room.
+
+01:14:13.037 --> 01:14:17.498
+Nothing of the sort happens with our permanganate molecules.
+
+01:14:17.638 --> 01:14:22.699
+Each one of them behaves quite independently of all the others, which it very seldom meets.
+
+01:14:23.400 --> 01:14:33.042
+Every one of them, whether in a crowded region or an empty one, suffers the same fate of being continually knocked about by impacts of the water molecules and thereby gradually moving in
+
+01:14:33.638 --> 01:14:41.603
+moving on in an unpredictable direction, sometimes toward higher, sometimes toward lower concentrations, sometimes obliquely.
+
+01:14:42.344 --> 01:14:54.652
+The kind of motion it performs has often been compared with that of a blindfolded person on a large surface imbued with a certain desire of walking, but without any preference for any particular direction, and so changing his line continuously.
+
+01:14:56.311 --> 01:15:08.019
+that this random walk of the permanganate molecules, the same for all of them, should yet produce a regular flow towards a smaller concentration and ultimately make up the uniformity of distribution, is at first sight perplexing.
+
+01:15:09.320 --> 01:15:10.361
+But only at first sight.
+
+01:15:11.262 --> 01:15:22.470
+If you contemplate the figure four thin slices approximately constant concentration, the permanganate molecules, which in a given moment are constrained to a particular slice,
+
+01:15:25.382 --> 01:15:33.295
+A plane separating two neighboring slices will be crossed more by more molecules coming from the left than from the right.
+
+01:15:33.435 --> 01:15:39.205
+So what he's saying is that if we took this thing and we divided it vertically like this,
+
+01:15:40.071 --> 01:15:43.592
+than just because, let me see if I can get this thing.
+
+01:15:44.113 --> 01:16:02.259
+If we were to divide it vertically here and into slices like this, then because there, if we sliced it right here, there are more molecules on this side than on this side, then just by statistics, there will be less molecules going this way than are going this way, because there's more over here.
+
+01:16:02.299 --> 01:16:06.921
+And if they're all moving random, then more of them will randomly close this way, then they will go that way.
+
+01:16:07.768 --> 01:16:17.136
+And so what he's arguing is, is that just by random motion that you get this.
+
+01:16:17.837 --> 01:16:18.638
+That's where he is here.
+
+01:16:19.619 --> 01:16:31.670
+So, but precisely the consequence of this, a plane separating two neighboring slices will be crossed by more molecules coming from the left than from the opposite direction simply because the left there are more molecules engaged in a random walk than there are to the right.
+
+01:16:32.478 --> 01:16:38.562
+And as long as that is so, the balance will show up as a regular flow from left to right until a uniform distribution is reached.
+
+01:16:39.342 --> 01:16:54.911
+When these considerations are translated into mathematical language, the exact law of diffusion is reached in the form of a partial differential equation, which I shall not trouble the reader by explaining, though it is, meaning in ordinary language, is again simple enough.
+
+01:16:55.051 --> 01:16:57.973
+So this is the equation which describes this process.
+
+01:16:58.882 --> 01:17:05.964
+It's a differential equation, it needs calculus, but I mean, it's simple enough in terms of understanding what's happening there.
+
+01:17:06.785 --> 01:17:16.128
+The reason for mentioning the stern mathematical exact law here is to emphasize that its physical exactitude must nevertheless be challenged in every particular application.
+
+01:17:16.908 --> 01:17:20.309
+Being based on pure chance, its validity is only approximate.
+
+01:17:21.314 --> 01:17:28.464
+If it is, as a rule, a very good approximation, that is only due to the enormous number of molecules that cooperate in the phenomenon.
+
+01:17:28.484 --> 01:17:37.618
+The smaller their number, the larger the quite haphazard deviations we must expect, and they can be observed under favorable circumstances.
+
+01:17:38.817 --> 01:17:44.641
+The last example we shall give is closely akin to the second, but has particular interest.
+
+01:17:44.721 --> 01:18:01.094
+A light body suspended by long, thin fiber in equilibrium orientation is often used by physicists to measure weak forces which deflect it from a position of equilibrium, electric, magnetic, or gravitational forces being applied so as to twist it around its vertical axis.
+
+01:18:02.631 --> 01:18:06.176
+A light body must, of course, be chosen appropriately for the particular purpose.
+
+01:18:06.316 --> 01:18:12.644
+So again, this is just any random system, a light body suspended by a very, very, very, very, very tiny fiber.
+
+01:18:13.959 --> 01:18:24.725
+Continued effort to improve the accuracy of this very commonly used device, a torsional balance, has encountered a curious limit most interesting in itself.
+
+01:18:25.686 --> 01:18:38.834
+In choosing lighter and lighter bodies and thinner and longer fibers to make the balance susceptible to weaker and weaker forces, the limit was reached when the suspended body became noticeably susceptible to the impacts of heat motion
+
+01:18:39.594 --> 01:18:50.120
+of the surrounding molecules and began to perform an incessant regular dance about its equilibrium position, much like the trembling of the droplet in the second example.
+
+01:18:51.060 --> 01:18:57.083
+Though this behavior sets no absolute limit to the accuracy of measurements obtained with the balance, it sets a practical one.
+
+01:18:57.643 --> 01:19:06.108
+The uncontrollable effect of heat motion competes with the effect of the force to be measured and makes a single deflection observed insignificant.
+
+01:19:08.797 --> 01:19:18.965
+If you're trying to measure somebody's ability to blow out candles, but you're measuring that, you're trying to measure that in a thunderstorm, you're not going to get a very accurate measurement.
+
+01:19:20.326 --> 01:19:24.829
+And so you have to multiply the observations in order to eliminate the effect of Brownian motion.
+
+01:19:26.391 --> 01:19:27.811
+the movement of your instrument.
+
+01:19:28.231 --> 01:19:37.333
+This example is, I think, particularly illuminating in our present investigation, for our organs of sense, after all, are a kind of instrument.
+
+01:19:38.093 --> 01:19:41.734
+We can see how useless they would be if they became too sensitive.
+
+01:19:44.375 --> 01:19:46.075
+So much for examples for the present.
+
+01:19:46.095 --> 01:19:55.717
+I will merely add that there is not one law of physics or chemistry of those that are relevant within an organism or its interactions with its environment that I might not choose as an example.
+
+01:19:56.553 --> 01:20:03.599
+The detailed explanation might be more complicated, but the salient point would always be the same and thus the description would become monotonous.
+
+01:20:04.220 --> 01:20:07.202
+In other words, the point he's trying to make is scale.
+
+01:20:08.203 --> 01:20:12.987
+The difference between an angstrom and a meter is there for a reason.
+
+01:20:14.031 --> 01:20:27.043
+and that somewhere between that size scale difference is where these statistical properties emerge and physicists have started to make generalizations about how matter behaves.
+
+01:20:28.144 --> 01:20:35.591
+But only when we get to a certain statistical significance, a certain number of particles, do these laws emerge.
+
+01:20:38.135 --> 01:20:47.418
+But I should like to add one very important quantitative statement concerning the degree of inaccuracy to be expected in any physical law, the so-called square root of n law.
+
+01:20:47.638 --> 01:20:50.820
+And I will first illustrate it by a simple example and then generalize.
+
+01:20:53.460 --> 01:21:05.885
+If I tell you that a certain gas under a certain conditions of pressure and temperature has a certain density, and if I express this by saying that within a certain volume of a size relevant to some experiment, that there are under these conditions just n molecules of the gas,
+
+01:21:06.886 --> 01:21:12.068
+then you might be sure that if you could test my statement in a particular moment of time, you would find it inaccurate.
+
+01:21:12.108 --> 01:21:22.212
+The departure being of the order of the square root of n. Hence, if the number was 100, you would find an error of about 10 or 10%.
+
+01:21:26.559 --> 01:21:34.304
+If n was a million, he would likely find a departure of about 1,000, thus relative error of one-tenth of a percent.
+
+01:21:34.364 --> 01:21:37.606
+Now, roughly speaking, this statistical law is quite general.
+
+01:21:37.646 --> 01:21:48.753
+The laws of physics and chemistry are inaccurate within a probable relative error of the order of one over the square root of n, where n is the number of molecules that cooperate to bring about the law.
+
+01:21:51.223 --> 01:21:58.932
+to produce its validity within such regions of space or time that matters for some considerations and for a particular experiment.
+
+01:21:59.012 --> 01:22:08.182
+So again, you see from this again that an organism must have a comparatively gross structure in order to enjoy the benefit of fairly accurate laws.
+
+01:22:08.903 --> 01:22:25.017
+So in other words, an organism has to be a certain size difference from the size of an atom in order for the laws of how those atoms to behave to be sufficiently orderly enough to be of any benefit or of any foundation to a pattern integrity.
+
+01:22:26.979 --> 01:22:29.861
+For both its internal life and for its interplay with the external world.
+
+01:22:30.061 --> 01:22:34.325
+For otherwise, the number of cooperating particles would be too small, the law too inaccurate.
+
+01:22:35.728 --> 01:22:52.695
+The particularly exigent demand is the square root, for though a million is a reasonably large number, an accuracy of just one in a thousand is not overwhelmingly good, if a thing claims the dignity of being a law of nature.
+
+01:22:55.285 --> 01:23:14.183
+And so I hope that this is starting to spur some gears in your mind as a budding biologist to reorganize the way you think about the processes of life and where they are floating in relative to the laws of physics and chemistry.
+
+01:23:14.203 --> 01:23:17.206
+Because the laws of physics and chemistry exist at a certain
+
+01:23:18.087 --> 01:23:34.924
+threshold of statistical significance with the number of particles, and then it is several layers above that, orders of organization and size, where the emergent properties of pattern integrities that we call life emerge.
+
+01:23:36.726 --> 01:23:38.668
+And so it's not sufficient
+
+01:23:40.370 --> 01:23:48.097
+We don't have the way, as he said in the beginning, of the current understanding of physics and chemistry can't get us to be able to explain biology.
+
+01:23:48.117 --> 01:23:48.758
+It just can't.
+
+01:23:50.159 --> 01:24:06.654
+Because we're talking at, from a fundamental difference between periodic crystals and laws that emerge from, you know, just enough of these things versus biological phenomenon.
+
+01:24:13.792 --> 01:24:24.715
+And so this becomes, of course, very important when we talk about the hereditary mechanism, which is again, right, it's basically, it seems like it's chemical.
+
+01:24:25.835 --> 01:24:38.298
+Thus, we have come to the conclusion that an organism and all the biologically relevant processes that experiences must have an extremely many atomic structure and must be safeguarded against haphazard single atomic events attaining too much great importance.
+
+01:24:39.474 --> 01:24:53.085
+That, the naive physicist tells us, is essential so that the organism may, so to speak, have sufficiently accurate physical laws on which to draw for setting up its marvelously regular and well-ordered working.
+
+01:24:53.766 --> 01:25:01.572
+How do these conclusions reached, biologically speaking, a priori, fit with the actual biological facts?
+
+01:25:03.283 --> 01:25:06.924
+At first sight, one is inclined to think that the conclusions are little more than trivial.
+
+01:25:07.564 --> 01:25:26.028
+A biologist of say 30 years ago might have said that although it was quite suitable for a popular lecture to emphasize the importance in the organism as elsewhere of statistical physics, the point was in fact rather a rather familiar truism for naturally not only the body of an adult individual of any higher species but every single cell composing it.
+
+01:25:27.290 --> 01:25:51.528
+contains a cosmic number of single atoms of every kind and every particular physiological process that we observe either within a cell or within its interactions with the environment appears or appeared 30 years ago to involve such enormous numbers of atoms and single atomic processes that all the relevant laws of physics and physical chemistry would be safeguarded even under the very enacting demands of statistical physics
+
+01:25:52.088 --> 01:25:58.332
+with respect to large numbers, this demand I illustrated just now by the square root of n rule.
+
+01:25:58.773 --> 01:26:17.485
+Today we know that this opinion would have been a mistake, as we shall presently see incredibly small groups of atoms, much too small to display exact statistical laws, do play a dominant role in the very orderly and lawful events within an organism.
+
+01:26:18.390 --> 01:26:25.912
+They have control of the observable large-scale features which the organism acquires in the course of its development.
+
+01:26:25.932 --> 01:26:28.493
+They determine important characteristics of its function.
+
+01:26:29.213 --> 01:26:33.955
+And all this very sharp, very distinct biological laws are displayed.
+
+01:26:34.895 --> 01:26:42.918
+And this is a physicist from a couple decades ago who simply doesn't see what we can now see.
+
+01:26:44.638 --> 01:26:46.939
+And so I'm going to read that one more time, and then maybe
+
+01:26:48.046 --> 01:26:49.127
+Let me just look forward.
+
+01:26:49.167 --> 01:26:50.067
+Where did I go here?
+
+01:26:51.568 --> 01:26:57.192
+Yeah, I'm going to go through this little bit and then I'm going to wrap it up with that video.
+
+01:26:59.153 --> 01:27:04.297
+Today, as we know, this opinion would have been a mistake, as we shall presently see incredibly small groups of atoms
+
+01:27:05.146 --> 01:27:12.731
+much too small to play exact statistical laws and do play a dominating role in the very orderly and lawful events within an organism.
+
+01:27:12.751 --> 01:27:14.732
+They have control of the observable scales.
+
+01:27:15.153 --> 01:27:17.394
+So he's talking about genetic inheritance and DNA.
+
+01:27:17.414 --> 01:27:21.597
+I must begin by giving a brief summary of the situation in biology, more especially genetics.
+
+01:27:22.097 --> 01:27:26.200
+In other words, I have to summarize the present state of knowledge in a subject in which I'm not a master.
+
+01:27:27.981 --> 01:27:34.607
+This cannot be helped, and I apologize particularly to any biologist apology accepted for the dilettante character of my summary.
+
+01:27:34.667 --> 01:27:39.571
+On the other hand, I beg leave to put the prevailing ideas before you more or less dogmatically.
+
+01:27:39.632 --> 01:27:52.623
+A poor theoretical physicist could not be expected to produce anything like a competent survey of the experimental evidence, which consists of a large number of long and beautifully interwoven series of breeding experiments of truly unprecedented ingenuity, on the other hand, and of
+
+01:27:53.724 --> 01:27:58.687
+direct observations of the living cell conducted with all refinement of modern microscopy on the other.
+
+01:27:59.908 --> 01:28:02.150
+So there's two big problems with this.
+
+01:28:02.210 --> 01:28:09.694
+The first one is, and I'm just gonna say it very briefly, we can do another show about this or another class about this, but Mendel is basically a lie.
+
+01:28:10.915 --> 01:28:12.196
+And why is Mendel a lie?
+
+01:28:12.236 --> 01:28:19.361
+Because Mendel did not take pea plants with particular
+
+01:28:20.771 --> 01:28:27.516
+traits and then breed them to show us what dominance and recessive inheritance was.
+
+01:28:28.636 --> 01:28:47.169
+That's an incomplete description of what Mendel did because first what Mendel did was breed pea plants together until he had pea plants that produced exclusively the same traits in their offspring for generations.
+
+01:28:48.618 --> 01:29:09.743
+And then starting with those inbred selected strains with wrinkly seeds or smooth seeds, he then interbred those already artificially pure lines together to get the indication of dominant and recessive genes.
+
+01:29:10.788 --> 01:29:23.475
+It was already based on pre-selected, pre-interbred, not naturally pure, but artificially pure strains that he had himself created over years.
+
+01:29:28.998 --> 01:29:31.460
+And so Erwin Schrodinger himself is
+
+01:29:32.836 --> 01:29:47.811
+is inadequately read into what Mendel did and has read the poor assumption or the poor summary of Mendel's work that has taken root in Biology 101 all the way back then.
+
+01:29:51.275 --> 01:29:53.237
+And so let me use the word pattern.
+
+01:29:55.177 --> 01:30:03.343
+Let me use the word pattern of an organism in the sense which the biologist calls it the four-dimensional pattern.
+
+01:30:03.383 --> 01:30:05.284
+It's a pattern across time.
+
+01:30:07.566 --> 01:30:11.308
+That's what your dog is from a puppy until the time you bury her.
+
+01:30:11.749 --> 01:30:17.353
+It is a pattern integrity that stays integral over time.
+
+01:30:20.875 --> 01:30:23.657
+So I will definitely let you use the word pattern.
+
+01:30:28.720 --> 01:30:42.335
+Meaning not only the structure and functioning of that organism in the adult or any other particular stage, but of its whole ontogenic development from fertilized egg cell to the stage of maturity when the organism begins to reproduce itself.
+
+01:30:42.795 --> 01:30:49.603
+Now this whole four-dimensional pattern integrity is known to be determined by the structure of that one cell, the fertilized egg.
+
+01:30:51.010 --> 01:30:56.875
+Moreover, we know that it is essentially determined by the structure of only a small part of that cell, its nucleus.
+
+01:30:56.915 --> 01:31:04.160
+This nucleus in the ordinary resting state of the cell usually appears to be a network of chromatin distributed over the cell.
+
+01:31:04.200 --> 01:31:16.470
+The interesting thing is, I don't know if you're aware of this or not, but you can't take the DNA of any one of your cells and then put it into a generic cell and make you again.
+
+01:31:18.812 --> 01:31:19.192
+You can't.
+
+01:31:21.656 --> 01:31:22.176
+doesn't work.
+
+01:31:22.296 --> 01:31:24.598
+And I'm pretty sure you can't put it in an egg cell either.
+
+01:31:25.598 --> 01:31:36.264
+You can artificially take the nucleus out of one, put it in another, but you can't put just the DNA.
+
+01:31:36.444 --> 01:31:38.806
+We don't have the way of just putting the DNA in there.
+
+01:31:40.767 --> 01:31:47.971
+We don't even know what we've really removed from something when we move the contents of the nucleus from one place or another, but we have already been told
+
+01:31:48.632 --> 01:31:51.493
+that we have moved the DNA from one place to another.
+
+01:31:51.513 --> 01:31:56.995
+The DNA, nothing else, but the DNA carries this from one place to another.
+
+01:31:57.035 --> 01:32:06.278
+And already this physicist and the data and the observations upon which he's basing this model, of course, are already biased and already off.
+
+01:32:08.442 --> 01:32:25.665
+But they are biased and off in the way that gets us to this biology 101, where again, we're trying, he's trying to justify that there's no reason to think that eventually we won't be able to explain all that we see in the pattern integrities of life by the physical laws of physics and chemistry.
+
+01:32:25.705 --> 01:32:27.526
+There's no reason to doubt that.
+
+01:32:28.386 --> 01:32:30.246
+That's the fundamental message here.
+
+01:32:30.686 --> 01:32:34.427
+And that's why he describes this in this way.
+
+01:32:35.643 --> 01:32:51.358
+This nucleus in the ordinary resting state of the cell usually appears as a network of chromatin distributed over the cell, but in the vitally important processes of cell division, mitosis, and meiosis, it is seen to consist of a set of particles, usually fiber-shaped or rod-like, called the chromosomes, which number in 8 or 12 or in man 48.
+
+01:32:54.514 --> 01:33:00.959
+But I really ought to have written these illustrative numbers as 2 times 4, 4 times 6, or 2 times 24.
+
+01:33:01.500 --> 01:33:06.904
+And I ought to have spoken of two sets in order to use the expression in the customary meaning of the biologist.
+
+01:33:07.525 --> 01:33:13.830
+For those single chromosomes are sometimes clearly distinguished and individualized by size and shape, the two sets are almost entirely alike.
+
+01:33:15.211 --> 01:33:20.135
+As I shall see in a moment, one set comes from the mother, the other set from the father.
+
+01:33:21.331 --> 01:33:34.383
+It is these chromosomes or probably only an axial skeleton fiber of what we actually see under the microscope as a chromosome that contains some kind of code script for the entire pattern of the individual's future development of its functioning in a mature state.
+
+01:33:37.685 --> 01:33:40.468
+Every complete set of chromosomes contains the full code.
+
+01:33:41.229 --> 01:33:42.390
+This is, I don't think, correct.
+
+01:33:43.391 --> 01:33:48.573
+So there are, as a rule, two copies of the latter in the fertilized egg, which forms the earliest stage of the future individual.
+
+01:33:49.034 --> 01:34:10.644
+In calling the structure of the chromosome fibers a code script, we mean that the all-penetrating mind, once conceived by Laplace, to which every causal connection lay immediately open, could tell from their structure whether the egg would develop, under suitable conditions, into a black cock, or into a speckled hen, into a fly, or a maize plant, a rhododendron, a beetle, a mouse, or a woman.
+
+01:34:11.738 --> 01:34:21.041
+In other words, if we had an all-penetrating mind, an AI, a giant computer, an all-knowing machine, whatever, that we could feed the DNA into it and the DNA could be read.
+
+01:34:21.061 --> 01:34:26.603
+That's what he's saying here.
+
+01:34:28.083 --> 01:34:35.606
+To which we may add that the appearance of egg cells are often remarkably similar, but whatever's in the egg doesn't apparently matter, right?
+
+01:34:35.666 --> 01:34:36.346
+They don't care.
+
+01:34:37.227 --> 01:34:51.088
+They don't want to think about what tiny, indetectable, undetectable, as yet unmeasured components of the egg might be vital to the orchestration of the construction of a new pattern integrity.
+
+01:34:55.441 --> 01:35:12.032
+To which we might add that the similar appearances of the eggs, and even that when they are not, as in the case of comparatively gigantic eggs of reptiles and birds, the difference is not so much in the relevant structures as in the nutritive material, which in these cases is added for obvious reasons.
+
+01:35:12.612 --> 01:35:15.614
+But the term code script, of course, is too narrow.
+
+01:35:15.654 --> 01:35:20.358
+The chromosome structures are at the same time instrumental in bringing about the development they foreshadow.
+
+01:35:21.158 --> 01:35:23.559
+They are law, code, and executive power.
+
+01:35:23.679 --> 01:35:30.281
+Or to use another simile, they are an architect's plan and the builder's craft all in one.
+
+01:35:32.802 --> 01:35:33.982
+I just thought it was the plan.
+
+01:35:34.002 --> 01:35:36.123
+I mean, isn't that what the Human Genome Project told us?
+
+01:35:36.183 --> 01:35:36.923
+It's just the plan.
+
+01:35:36.983 --> 01:35:38.123
+It's just all the proteins.
+
+01:35:39.183 --> 01:35:42.524
+The lady from Moderna told us that we are just proteins.
+
+01:35:43.345 --> 01:35:44.245
+100 trillion proteins.
+
+01:35:45.273 --> 01:35:51.732
+And so we're just DNA, the codes for proteins, and then we just have to translate those proteins in the right order, and then here we are.
+
+01:35:57.239 --> 01:35:59.982
+So, how do chromosomes behave in ontogenesis?
+
+01:36:00.102 --> 01:36:03.184
+Ontogenesis being the development from single cell to multi-cell.
+
+01:36:03.745 --> 01:36:06.668
+The growth of an organism is affected by consecutive cell division.
+
+01:36:06.708 --> 01:36:08.690
+Such a cell division is called mitosis.
+
+01:36:08.730 --> 01:36:17.438
+It is, in fact, the life of a cell, not such a frequent event as one might expect, considering the enormous number of cells which our body is composed.
+
+01:36:18.138 --> 01:36:19.479
+In the beginning, growth is rapid.
+
+01:36:19.499 --> 01:36:25.443
+The egg divides into two daughter cells, which at the next step will produce a generation of four, then eight, 16, 32, 64, etc.
+
+01:36:26.003 --> 01:36:32.147
+The frequency of division will not remain exactly the same in all parts of the growing body, and that will break the regularity of these numbers.
+
+01:36:32.227 --> 01:36:47.418
+But from their rapid increase, we can infer by an easy computation that on average, as few as 50 or 60 successive divisions suffice to produce the number of cells in a grown man, or say, 10 times the number taking into account the exchange of cells during a lifetime.
+
+01:36:48.559 --> 01:36:58.575
+Hey body, cell of mine, on average only the 50th or 60th descendant of the egg that was I. I don't know how accurate that is, but it's an interesting thought experiment.
+
+01:37:00.290 --> 01:37:02.270
+In mitosis, every chromosome is duplicated.
+
+01:37:02.310 --> 01:37:04.171
+How do chromosomes behave in mitosis?
+
+01:37:04.211 --> 01:37:04.911
+They duplicate.
+
+01:37:05.171 --> 01:37:07.811
+Both sets, both copies of the code duplicate.
+
+01:37:07.831 --> 01:37:15.113
+The process has been extensively studied under the microscope and is of paramount interest, but too involved to describe here in detail.
+
+01:37:15.613 --> 01:37:23.914
+The salient points is that each of the two daughter cells gets a dowry of two further complete sets of chromosomes exactly similar to those of the parent cells.
+
+01:37:23.954 --> 01:37:28.395
+So all the body cells are exactly alike as regards to their chromosomal treasure.
+
+01:37:29.275 --> 01:37:37.193
+however little we understand the device we cannot think however little we understand the device we cannot
+
+01:37:38.231 --> 01:37:49.193
+I think that it must be in some way very relevant to the functioning of the organism that every single cell, even a less important one, should be in possession of a complete double copy of the code script.
+
+01:37:49.853 --> 01:37:59.055
+So this is one of the arguments about the genetics, the genetic of DNA being the genetic code is that it's in every cell of your body.
+
+01:37:59.595 --> 01:38:07.236
+Some time ago, we were told in the newspapers that in his African campaign, General Montgomery made a point of having every single soldier's army
+
+01:38:07.836 --> 01:38:10.097
+meticulously informed of all of his designs.
+
+01:38:10.177 --> 01:38:20.760
+If that is true, as it conceivably might be, considering the high intelligence and reliability of his troops, it provides an excellent analogy to our case, in which the corresponding fact certainly is literally true.
+
+01:38:23.040 --> 01:38:28.202
+The most surprising fact is the doubleness of the chromosome set maintained throughout the mitotic division.
+
+01:38:28.242 --> 01:38:35.704
+That is, the outstanding feature of the genetic mechanism is most strikingly revealed by the one and only departure from this rule, which we now have to discuss.
+
+01:38:39.093 --> 01:38:42.774
+Keep in mind, this is all just basically Biology 101 and talking about the genome.
+
+01:38:43.634 --> 01:38:46.535
+So I'm just using his book as Biology 101 instead of Campbell.
+
+01:38:48.736 --> 01:38:56.118
+Very soon, the link to the PDF is...
+
+01:38:59.309 --> 01:39:05.936
+Here, you can find the PDF at GingholmBiological.com slash stuff.
+
+01:39:06.117 --> 01:39:13.565
+And if you can't type that in, you go down to at GingholmBiological.com and scroll all the way to the bottom, and you'll see a little thing at the bottom that says stuff.
+
+01:39:13.605 --> 01:39:16.488
+And then you can click there and get that.
+
+01:39:17.609 --> 01:39:18.831
+That should have been this one.
+
+01:39:19.872 --> 01:39:20.032
+Yes.
+
+01:39:24.470 --> 01:39:35.455
+So, very soon after development, the individual is set in a group of cells as reserved for reducing a later stage in the so-called gametes, the sperm cells of the egg cells, as the case may be, needed for reproduction of the individual in maturity.
+
+01:39:35.515 --> 01:39:42.238
+Reserved means that they do not serve any other purposes in the meantime and suffer many fewer mitotic divisions.
+
+01:39:44.127 --> 01:39:51.614
+The exceptional or reductive division called meiosis is the one by which eventually on maturity the gametes are produced from these reserved cells.
+
+01:39:53.416 --> 01:40:00.221
+As a rule, only a short time before synagamy is to take place, so when they're supposed to combine again.
+
+01:40:00.341 --> 01:40:08.988
+In meiosis, the double chromosome set of the parent cell simply separates into two single sets, one of which goes to each of the two daughter cells, the gametes.
+
+01:40:09.048 --> 01:40:13.692
+In other words, the mitotic doubling of the chromosome does not take place in meiosis.
+
+01:40:14.372 --> 01:40:21.258
+The number remains constant, and thus every gamete receives only half, that is, only one copy of the code, not two.
+
+01:40:22.915 --> 01:40:26.196
+The cells with only one chromosome set are called haploid.
+
+01:40:27.136 --> 01:40:28.737
+Thus, the gametes are haploid.
+
+01:40:28.817 --> 01:40:31.018
+Ordinary body cells are diploid.
+
+01:40:31.758 --> 01:40:38.520
+Individuals with three, four, or generally speaking with many chromosome sets in all their body cells occur occasionally.
+
+01:40:38.580 --> 01:40:41.581
+The latter are then called triploid or tetraploid, polyploidy.
+
+01:40:43.479 --> 01:40:50.500
+In the act of syngamy, the male gamete and the female gamete, both haploid cells, coalesce to form a fertilized egg cell.
+
+01:40:50.540 --> 01:40:59.982
+Though not indispensable for our purposes, it is a real interest since it shows actually a fairly complete code script of the pattern is contained in every set of chromosomes.
+
+01:41:00.722 --> 01:41:05.223
+There are instances of meiosis not followed shortly by fertilization.
+
+01:41:05.243 --> 01:41:12.324
+A haploid cell undergoing numerous mitotic cell division results in building up of a complete haploid individual.
+
+01:41:13.174 --> 01:41:20.758
+This is the case in the male bee, the drone, which is produced by parenthenogenesis genetically.
+
+01:41:21.958 --> 01:41:26.160
+That is from non-fertilized and therefore haploid eggs of the queen.
+
+01:41:26.220 --> 01:41:27.501
+The drone has no father.
+
+01:41:28.021 --> 01:41:29.522
+All of its body cells are haploid.
+
+01:41:29.722 --> 01:41:33.264
+If you please, you may call it a grossly exaggerated spermatozoon.
+
+01:41:34.523 --> 01:41:39.548
+And actually, as everybody knows, to function as such happens to be its one and only task in life.
+
+01:41:39.588 --> 01:41:45.774
+However, that is perhaps a ludicrous point of view, for the case is not quite unique.
+
+01:41:46.555 --> 01:41:58.287
+There are families of plants in which the haploid gamete is produced by meiosis and is called a spore, in which case falls to the ground and, like a seed, develops into a true haploid plant comparable in size with the diploid plant.
+
+01:41:59.192 --> 01:42:02.376
+Figure 5 is a rough sketch of moss, well known in our forest.
+
+01:42:02.416 --> 01:42:06.682
+The leafy lower part is the haploid plant called the gametophyte.
+
+01:42:07.779 --> 01:42:19.247
+because its upper end develops sex organs and gametes by which mutual fertilization produce in the ordinary way the diploid plant, the bare stem with the capsule at the top.
+
+01:42:19.887 --> 01:42:24.290
+This is called the sporophyte because it produces by meiosis the spores at the capsule at the top.
+
+01:42:24.810 --> 01:42:30.034
+When the capsule opens, the spores fall to the ground and develop into a leafy stem, etc.
+
+01:42:30.074 --> 01:42:32.756
+The course of events is approximately called
+
+01:42:33.519 --> 01:42:36.201
+appropriately called the alternation of generations.
+
+01:42:36.241 --> 01:42:47.149
+This is what makes a lot of plants so very interesting and of course you can have diploidy and quadriploidy in plants too, so then you have multiple generations there.
+
+01:42:47.189 --> 01:42:56.375
+You may, if you choose, look upon the ordinary case man and animals in the same way, but the gametophyte is then, as a rule, a very short-lived unicellular generation.
+
+01:42:57.036 --> 01:43:02.560
+Spermatozoa or egg cell, as the case may be, our body conforms to that of the sporophyte.
+
+01:43:03.300 --> 01:43:08.634
+Our spores are the reserve cells from which this meiosis, the unicellular generation, springs.
+
+01:43:10.218 --> 01:43:11.481
+It's an interesting idea, right?
+
+01:43:13.516 --> 01:43:21.721
+So the outstanding relevance of reductive division and the important, really fateful process of reproduction of the individuals, not fertilization, but meiosis.
+
+01:43:21.941 --> 01:43:24.522
+One set of chromosomes is from the father, the other from the mother.
+
+01:43:25.223 --> 01:43:27.364
+Neither chance nor destiny can interfere that.
+
+01:43:27.484 --> 01:43:31.526
+Every man owes just half of his inheritance to his mother and half to his father.
+
+01:43:32.227 --> 01:43:35.729
+That one or the other strain seems to come
+
+01:43:37.850 --> 01:43:44.093
+Sorry, that one or the other strain seems often to prevail is due to other reasons, which we shall come to later.
+
+01:43:45.373 --> 01:43:49.375
+But when you trace the origin of your inheritance back to your grandparents, the case is different.
+
+01:43:49.395 --> 01:43:55.618
+Let me fix attention on my parental set of chromosomes, in particular on one of them, say number five.
+
+01:43:57.459 --> 01:44:04.302
+It is a faithful replica of either number five of my father received from his father or of the number five he received from his mother.
+
+01:44:05.458 --> 01:44:16.148
+The issue was decided by a 50-50 chance in meiosis taking place in my father's body in November of 1886 and producing the spermatozoa, which a few days later was to be effective at begetting me.
+
+01:44:17.105 --> 01:44:27.110
+exactly the same story could be repeated about chromosomes, my maternal set, and mutatis mutandis about every one of my maternal chromosomes.
+
+01:44:27.730 --> 01:44:42.778
+Moreover, all of the 48 issues are entirely independent, even if it were known that my parental chromosome number 5 came from my grandfather, Joseph Schrodinger, number 7 still chanced an equal chance of being also from him or from his wife, Marie.
+
+01:44:45.046 --> 01:44:47.268
+crossing over, location of properties.
+
+01:44:47.549 --> 01:45:04.106
+But, pure chance has been given even wider range in mixing the grandparental inheritance and offspring that would appear from the preceding description in which has been tacitly assumed or even explicitly stated that a particular chromosome as a whole was either from a grandfather or grandmother.
+
+01:45:04.907 --> 01:45:08.108
+In other words, that a single chromosomes are passed on undivided.
+
+01:45:08.148 --> 01:45:10.649
+The actual fact is that they are not, or not always.
+
+01:45:11.429 --> 01:45:28.093
+Before being separated in reductive division, one, say the one from the father's body, any two homologous chromosomes, the five from mom and dad, grandma and grandpa, come in close contact with each other, during which they sometimes exchange entire portions.
+
+01:45:29.134 --> 01:45:30.474
+This is called crossing over.
+
+01:45:32.148 --> 01:45:42.112
+Two properties situated on the prospective parts of that chromosome will be separated in the grandchild who will follow the grandfather in one of them and the grandmother in the other.
+
+01:45:42.192 --> 01:45:51.276
+And the act of crossing over being neither very rare nor very frequent has provided us with invaluable information regarding the location of certain properties on chromosomes.
+
+01:45:52.657 --> 01:46:03.303
+Full account we should have drawn on conceptions not introduced before the next chapter, but as that would take us beyond the range of this little book, let me indicate the salient points right away.
+
+01:46:03.883 --> 01:46:09.386
+If there were no crossing over, two properties for which the same chromosome was responsible would always be passed on together.
+
+01:46:10.026 --> 01:46:12.988
+No descendant receiving one of them without receiving the other as well.
+
+01:46:13.548 --> 01:46:20.072
+But two properties due to different chromosomes would either stand a 50-50 chance of being separated or would be invariably separated.
+
+01:46:20.802 --> 01:46:30.488
+being separated or would be invariably be separated, the latter when they are situated in homologous chromosomes of the same ancestor which never go together.
+
+01:46:33.650 --> 01:46:46.318
+These rules and chances are interfered with by crossing over, hence the probability of this event can be ascertained by registering carefully the percentage of composition of offspring in extended breeding experiments suitably laid out for the purpose.
+
+01:46:47.335 --> 01:46:54.041
+And so if we create an experimental system where we can track these traits, then we can see that crossing over occurs.
+
+01:46:54.441 --> 01:47:05.050
+And more importantly, we can see that the crossing over is less likely to occur the closer that these traits are on the chromosome, if they are
+
+01:47:05.868 --> 01:47:10.651
+near each other, then the odds of them being separated by crossing over is lower.
+
+01:47:10.911 --> 01:47:15.654
+And in breeding experiments, we can seem to see this process.
+
+01:47:15.674 --> 01:47:22.458
+So again, if we have enough numbers, we have enough examples, we can start to see laws emerge.
+
+01:47:23.239 --> 01:47:28.642
+But those laws don't necessarily apply to individual plants and individual breeding events.
+
+01:47:29.670 --> 01:47:40.679
+They only are available to us to characterize in that approximation when we breed enough plants with enough traits in enough way in enough uniform fashion for those laws to emerge.
+
+01:47:41.159 --> 01:47:57.252
+The question is, did people like Mendel or any of these other people sufficiently homogenize a genetic signal so that it no longer exhibited the signals and the attributes that they have when they are not so homogenized?
+
+01:47:58.660 --> 01:48:00.921
+And so now I'm getting kind of inaccurate.
+
+01:48:00.941 --> 01:48:03.602
+And if you're not following or you're coming in in the middle, it's going to be hard.
+
+01:48:04.603 --> 01:48:06.204
+But hopefully you're still following along.
+
+01:48:06.844 --> 01:48:08.565
+I feel this is really great for me too.
+
+01:48:09.145 --> 01:48:21.651
+In analyzing the statistics, one accepts the suggestive working hypothesis that the linkage between two properties situated on the same chromosome is less frequently broken by crossing over the nearer they are.
+
+01:48:22.810 --> 01:48:33.416
+for there is less chance of the point of exchange lying between them, whereas the properties located near the opposite ends of the chromosome are separated by crossing over.
+
+01:48:35.617 --> 01:48:39.439
+And much the same applies, recombination properties, homologous chromosome, the same.
+
+01:48:39.839 --> 01:48:46.203
+In this way, we may expect from the statistics of linkage, a sort of map of properties in every chromosome.
+
+01:48:46.223 --> 01:48:48.264
+And that's what we've done with flies, for example.
+
+01:48:49.616 --> 01:48:55.746
+They've used flies and breeding lots and lots of flies to find linkage maps.
+
+01:48:57.642 --> 01:49:04.446
+which can tell them and give them landmarks on the chromosome that can be associated with certain traits.
+
+01:49:05.086 --> 01:49:20.836
+And again, this is only possible with inbred, well understood fly lines with eye color and legs and this kind of thing that can be tracked and then pure genetic varieties of those interbred to follow the linkage map.
+
+01:49:21.676 --> 01:49:29.138
+Not saying that these experiments aren't good and haven't lended some understanding, but you need to see them in the context for which they are.
+
+01:49:29.198 --> 01:49:34.459
+They need to have the numbers of experiments in order for the law to be visible.
+
+01:49:35.119 --> 01:49:45.781
+But that law and the phenomenon in and of itself is not really an overwhelming process at the individual event level anymore.
+
+01:49:46.408 --> 01:49:54.932
+than at the individual time that you're watching the thing moving around, that that's not contributing to its sinking, you see?
+
+01:49:57.693 --> 01:50:11.280
+So with any group of linear map properties can be drawn upon which quantitative degree for the linkage about any two groups so that there is little doubt that they are actually located and located along a line as the rod-shaped chromosome suggests.
+
+01:50:12.222 --> 01:50:20.166
+Of course, the scheme of hereditary mechanism as drawn up here is still rather empty and colorless, even slightly naive, for we have not said what exactly understand a property.
+
+01:50:21.447 --> 01:50:32.232
+It seems neither adequate nor possible to dissect into discrete properties the pattern of a whole individual, which is essentially a unity, a whole, like the tapestry.
+
+01:50:33.453 --> 01:50:37.135
+It's kind of hard to explain the tapestry in the context of a few knots.
+
+01:50:39.272 --> 01:50:53.998
+Now that we are actually a state in any particular case is that a pair of ancestors were a certain, in a certain well-defined respect, and that that offspring follows in this respect, either one or the other, what we locate in the chromosome is the seed of this difference.
+
+01:50:54.038 --> 01:51:00.841
+We call it in technical language, a locus, or if we think of the hypothetical material structure underlying it, a gene.
+
+01:51:02.964 --> 01:51:06.645
+And so in other words, if they've sequenced you, they haven't really sequenced you.
+
+01:51:06.685 --> 01:51:21.470
+They've identified these things, either through a linkage analysis and a corresponding restriction enzyme map, that there are certain attributes of the organism that seem to correlate with the presence of this particular part of a chromosome.
+
+01:51:22.391 --> 01:51:32.334
+Not a sequence, not a set of amino acids that has been read and can be identified by the words, here lies the gene for eye color.
+
+01:51:34.417 --> 01:51:40.220
+But it is really a region of a crystal or a molecule or something.
+
+01:51:41.460 --> 01:51:42.020
+And that's it.
+
+01:51:44.942 --> 01:51:54.166
+And the difference is properties are actually discrete and will emerge in the next chapter when we have to speak of mutations in the dry scheme here that you've presented will, as I hope, acquire more life and color.
+
+01:51:55.711 --> 01:52:01.636
+We have just introduced the term gene for the hypothetical material carrier of a definite hereditary feature.
+
+01:52:01.656 --> 01:52:04.918
+We must now stress two points will be highly relevant to our investigation.
+
+01:52:04.938 --> 01:52:08.561
+The first is size or better the maximum size of such a carrier.
+
+01:52:08.581 --> 01:52:12.464
+In other words, how small a volume can we trace to the location?
+
+01:52:15.706 --> 01:52:21.811
+The second point will be the permanence of a gene to be inferred from the durability of the hereditary pattern.
+
+01:52:23.769 --> 01:52:25.771
+And so I think this is a good place to stop.
+
+01:52:26.412 --> 01:52:28.214
+This would be a protein.
+
+01:52:31.478 --> 01:52:35.122
+According to the people at Moderna, all the genes are proteins.
+
+01:52:36.864 --> 01:52:38.145
+We don't know any other genes.
+
+01:52:38.185 --> 01:52:39.447
+Genes code for proteins.
+
+01:52:39.487 --> 01:52:40.528
+We're made of proteins.
+
+01:52:42.625 --> 01:52:46.387
+And so all the other aspects that are encoded, right?
+
+01:52:46.487 --> 01:52:58.334
+Not just the architecture, not just the map of the building, but how the building is going to be built are also encoded in these chromosomes, also encoded in this DNA.
+
+01:52:58.914 --> 01:53:09.000
+But for everybody that works at the Human Genome Project, for everybody that's working for a genetic cause of autism, for everybody that's working for a genetic cause of all of these things,
+
+01:53:10.498 --> 01:53:23.524
+a genetic cause of a hereditary feature, they're looking for a protein and a point mutation in the protein because those are the easiest examples to sell nature papers on.
+
+01:53:24.045 --> 01:53:28.907
+Those are the easiest examples to sell a potential genetic cure for.
+
+01:53:32.109 --> 01:53:38.312
+But they in no way, shape, or form lend useful understanding how, as a whole,
+
+01:53:40.168 --> 01:53:43.250
+these pattern integrities are functioning across spacetime.
+
+01:53:43.810 --> 01:53:54.677
+Four-dimensional pattern is never going to be understood, no matter how many nanopore sequencers and how much better they get at it.
+
+01:53:55.717 --> 01:54:06.884
+No matter how cheap it gets to sequence these sequences, it's never going to allow us to understand how the tapestry as a whole is built,
+
+01:54:08.174 --> 01:54:10.496
+and how it is maintained and changes over time.
+
+01:54:13.458 --> 01:54:18.643
+And so we have been given this false sense of security by our biology 101 books.
+
+01:54:20.945 --> 01:54:21.205
+Whoops.
+
+01:54:23.672 --> 01:54:39.936
+where we're supposed to think that because we understand it down here at this level of genetics and genes and cells and we have all this technology and we can show you all these cartoons and tell you all these complicated parts that somehow we understand how the watch works.
+
+01:54:42.356 --> 01:54:42.977
+But we don't.
+
+01:54:44.137 --> 01:54:51.699
+We barely understand what parts are encoded here, never mind how the building is encoded.
+
+01:54:51.739 --> 01:54:53.239
+We don't know how that's done at all.
+
+01:54:54.212 --> 01:55:22.041
+And that is perhaps the other big message from this lecture is that not only are the emergent properties of physics and chemistry dependent on a certain threshold number of atoms, but the emergent properties of the four-dimensional patterns, the pattern integrities as Buckminster Fuller would call them, of pattern integrities that we call life are also dependent on being
+
+01:55:23.928 --> 01:55:50.693
+a certain existence distance away from, in size scale, these phenomenons so that they can be counted on as a regular set of physical laws upon which these pattern integrities can base their function and base their flourishing and extend their existence across space-time.
+
+01:55:53.208 --> 01:56:19.840
+And so my feeling here is that although this is a physicist attempting to rally biologists not to give up on the idea that chemistry and physics will eventually be able to explain everything, I think that these exact same words and these exact same beautiful thoughts can be used to worship the creator and to appreciate
+
+01:56:21.127 --> 01:56:27.149
+the absolute irreducible complexity of the sacred biology around us and see it for what it is.
+
+01:56:28.530 --> 01:56:46.976
+And then approach it with this humility that will allow us to probe it without insulting the Creator and probe it without encroaching on the intentions of the Creator, even though we can't possibly understand what those intentions are.
+
+01:56:47.036 --> 01:56:49.357
+We can only hope and pray that they will be revealed.
+
+01:56:52.563 --> 01:57:04.766
+It is the irreverent pursuit of the foundational understanding that he says we can eventually get to with physics and chemistry that is insulting to creation.
+
+01:57:04.826 --> 01:57:14.229
+That is, I think, essentially, it is irreverent to creation by assuming that.
+
+01:57:15.069 --> 01:57:29.848
+He doesn't mean it that way, he doesn't say it that way, he might not even hear it that way because he may have read a lot of these books too and think that he's contributing to the idea of man and his future and you know getting everybody around to the idea that we got to take control of our evolution.
+
+01:57:30.529 --> 01:57:33.113
+I have no doubt that he's thinking in this same way as well.
+
+01:57:34.550 --> 01:57:43.238
+So again, if you don't mind or you need to, don't forget that you can download the stuff that we're talking about and going to continue to talk about here.
+
+01:57:43.979 --> 01:57:47.842
+You can download Understanding Living Systems and you can start reading that book.
+
+01:57:47.882 --> 01:58:00.754
+Tomorrow, I guess, we'll watch a video with Dennis and listen to his take on biology and on genetics because I think that's a good introduction and make sure I'm humble enough to say that these aren't all my ideas.
+
+01:58:01.935 --> 01:58:11.705
+an attempt at synthesizing this book with this book and with this book and with this book right here and with this book.
+
+01:58:12.606 --> 01:58:15.989
+I really think that we are going to be the first
+
+01:58:17.254 --> 01:58:30.933
+Biology 101 class to really start at the philosophical right place so that you can approach with a humility and a grasp of what the irreducible complexity is and
+
+01:58:32.154 --> 01:58:41.201
+And also a reasonable grasp, I think, on conceptually what physics and chemistry really are was already what this lecture really was.
+
+01:58:41.241 --> 01:58:42.342
+I think it was a really good one.
+
+01:58:42.943 --> 01:58:45.445
+Even if it was a little broken up, it was a good exercise for me.
+
+01:58:45.465 --> 01:58:47.807
+And again, this is the first iteration of this course.
+
+01:58:48.327 --> 01:58:54.332
+The next time we start out at day one again, this course is going to be so incredible.
+
+01:58:55.813 --> 01:58:57.354
+I'm sure I can charge for it.
+
+01:58:58.515 --> 01:59:00.857
+Ladies and gentlemen, I won't, but I'm sure I could.
+
+01:59:02.659 --> 01:59:25.290
+These people have been leading us astray by agreeing, creating illusion of consensus about details that don't matter, about questions that don't matter, about mysteries that don't need solving, all because they wanted to seed a narrative with the biologically expected outcomes for transfection across the huge population to a wide variety of proteins, even no proteins.
+
+01:59:29.008 --> 01:59:34.931
+The latest iteration of this weaponized piles of money consensus is this rescue the Republic thing.
+
+01:59:35.431 --> 01:59:37.633
+They will admit that processed food is bad.
+
+01:59:37.673 --> 01:59:46.437
+They're going to admit the environment is polluted, that cosmetics are toxic, that the old vaccine schedule wasn't tested, that COVID shots were bad.
+
+01:59:47.097 --> 01:59:49.979
+They're going to admit that they're going to try and fix all of these agencies.
+
+01:59:49.999 --> 01:59:51.960
+We don't want to get rid of the FDA or the CDC.
+
+01:59:51.980 --> 01:59:55.722
+We just want to fix it, put good people in there like Jay Bhattacharya or
+
+01:59:56.460 --> 02:00:01.083
+or Robert Malone, and they will promise to fix all of these with science.
+
+02:00:01.603 --> 02:00:08.288
+Don't forget, you know, at the start of the pandemic, just go look at who all of these heads were.
+
+02:00:09.669 --> 02:00:12.551
+Look at all the advisors were, they were all big pharma people.
+
+02:00:13.912 --> 02:00:21.697
+Donald Trump didn't appoint anyone different, just different swamp creatures, not the same swamp creatures as Obama, but just different ones.
+
+02:00:22.625 --> 02:00:25.430
+And so these people are not risking anything, I don't think.
+
+02:00:25.490 --> 02:00:28.916
+And if they're going to risk anything, we are either going to have to make it.
+
+02:00:31.016 --> 02:00:38.398
+advantageous and appealing for them to risk something, or we're going to have to force them to take these stands that we want them to take.
+
+02:00:39.018 --> 02:00:55.301
+And we're gonna force them to admit what they were doing in 2019 and before, so that we can see that they aren't just innocent people who are minding their own business, just trying to live life to its fullest and do their best.
+
+02:00:56.121 --> 02:00:57.942
+These were people that were already
+
+02:00:59.414 --> 02:01:09.280
+being set up, being put in place, being recruited to take part in this military exercise to convince our children that a pandemic happened.
+
+02:01:10.860 --> 02:01:13.582
+And unfortunately, they want to blame the American military.
+
+02:01:13.622 --> 02:01:15.263
+They want to blame the American government.
+
+02:01:15.283 --> 02:01:24.068
+They want to do it as awkwardly as possible so that Americans aren't organized under any set of ideas on how to fix this.
+
+02:01:25.182 --> 02:01:30.766
+that Americans will argue about what part of their government is responsible for it, or what part of our government is good.
+
+02:01:31.206 --> 02:01:34.348
+The American military takes orders from the executive branch.
+
+02:01:35.109 --> 02:01:42.454
+The American military is under direct command of the Joint Chiefs of Staff and the President of the United States.
+
+02:01:43.455 --> 02:01:51.741
+So blaming the American military, whether you like it or not, is blaming the executive branch in Health and Human Services that declared the emergency under which the DOD operated.
+
+02:01:52.521 --> 02:01:53.762
+There's no other way to look at it.
+
+02:01:55.117 --> 02:01:56.978
+The laws were created by Congress.
+
+02:01:57.578 --> 02:02:01.059
+The laws that the DOD operated under were created by Congress.
+
+02:02:01.079 --> 02:02:02.260
+There's no other way to see it.
+
+02:02:02.900 --> 02:02:05.061
+They were approved by the executive branch.
+
+02:02:06.001 --> 02:02:08.502
+So blaming the patriots in the U.S.
+
+02:02:08.562 --> 02:02:17.005
+military that have given their lives and their careers to the belief in the American system is part of the controlled demolition.
+
+02:02:20.080 --> 02:02:21.661
+That's why Meryl Nass says it.
+
+02:02:21.761 --> 02:02:32.050
+That's why Sasha Latupova and Meryl Nass and Robert Malone were on stage in Stockholm at the beginning of 2023 together on world tour.
+
+02:02:34.472 --> 02:02:47.123
+Blaming the American military, not the State Department, not Health and Human Services, not Gavi, not weaponized piles of money that have stock in all of these pharmaceutical companies with the capability of making these products, none of that.
+
+02:02:48.680 --> 02:02:51.022
+But the idea is to control demolish America.
+
+02:02:51.042 --> 02:03:00.491
+And the way that they're going to do it is convince us that the old vaccine schedule is bad, that the old FDA was bad, that the old CDC was bad, but the new one will be good.
+
+02:03:01.032 --> 02:03:03.774
+The new one that Bobby Kennedy heads up will be good.
+
+02:03:04.355 --> 02:03:08.138
+The new vaccine schedule that Bobby Kennedy gets tested will be good.
+
+02:03:08.759 --> 02:03:11.842
+And we know that this is true because Steve Kirsch said it last week.
+
+02:03:15.014 --> 02:03:20.697
+And he said, that's why Bobby says he's not anti-vax, because he wants to test the schedule.
+
+02:03:21.317 --> 02:03:23.258
+He wants tested vaccines.
+
+02:03:25.019 --> 02:03:25.319
+Listen.
+
+02:03:25.659 --> 02:03:30.982
+If they're safe and effective, you should go get yours, because that's not what the news media should be doing.
+
+02:03:31.302 --> 02:03:42.308
+They should be reporting on what's actually happening and pointing out to people that side effects do occur, and that they should always, before getting any medical intervention, understand the risks and the benefits.
+
+02:03:42.728 --> 02:03:55.254
+Now, for all vaccines, it turns out that the, except in extremely rare cases, like, you know, maybe this one might have been a case, but I really don't think so.
+
+02:03:56.334 --> 02:04:04.858
+In pretty much every case I know about, the benefits of vaccination never outweigh the risks, and people should always be refusing vaccination.
+
+02:04:04.878 --> 02:04:07.479
+We've been telling people that for a long time.
+
+02:04:07.499 --> 02:04:10.621
+Okay, so you do agree that nobody should ever take another vaccine.
+
+02:04:12.242 --> 02:04:16.865
+No, people should not take any of the vaccines that are currently approved.
+
+02:04:17.246 --> 02:04:22.830
+There may be a time, Stu, in five years from now, that they actually have a safe vaccine.
+
+02:04:22.950 --> 02:04:23.350
+No, there won't.
+
+02:04:23.451 --> 02:04:24.631
+We can't rule that out.
+
+02:04:24.932 --> 02:04:27.574
+And that's why Bobby Kennedy says he's not anti-vax.
+
+02:04:27.834 --> 02:04:32.437
+That's why Bobby Kennedy says he's not anti-vax, because we can't rule that out.
+
+02:04:32.477 --> 02:04:34.399
+There may be good vaccines in the future.
+
+02:04:38.257 --> 02:05:05.175
+And that's why none of these people, none of these experts with a huge, you know, resume in virology or recombinant DNA or vaccine technology or whatever, like Robert Malone and Merrill Nass and, you know, the bioweapons expert or Jessica Rose, the virologist, computational biologist, immunologist, or any of these other people will not discuss any of these things, even though they've discussed them with me in 2021 and beyond.
+
+02:05:05.895 --> 02:05:07.637
+Even though I was on the book,
+
+02:05:08.537 --> 02:05:14.201
+the book team for a year, even though all the people that wrote that book understand these things and have talked to me about them.
+
+02:05:14.681 --> 02:05:27.330
+They will all ignore them because they are covering up a operation that took advantage of a known increase in all cause mortality, sweeped a few extra together with murder and lies.
+
+02:05:27.410 --> 02:05:29.191
+Maybe that was the military operation.
+
+02:05:29.831 --> 02:05:37.497
+And they use supplementary oxygen and opioid crisis and a lot of other things to convince us that something went endemic, something novel.
+
+02:05:38.416 --> 02:05:40.857
+that was released from a laboratory went endemic.
+
+02:05:40.897 --> 02:05:53.664
+And that's why the life expectancy in America has gone down and why all these old people have died and all this excess death is there is because of this endemic new virus that they knew would go endemic and yada, yada, yada.
+
+02:05:53.704 --> 02:05:56.265
+And that's no differentiatable from a background.
+
+02:05:56.305 --> 02:05:58.146
+That's the lie that they are telling you.
+
+02:05:58.966 --> 02:06:02.468
+That is the molecular biological explanation for this, that
+
+02:06:03.297 --> 02:06:07.345
+begs the question of why did they seed all these ideas then?
+
+02:06:07.385 --> 02:06:11.312
+Well, they seeded these ideas because they expect it to happen over the next few years.
+
+02:06:13.109 --> 02:06:18.412
+as they continue to roll out transfection in old people, they expect these things to happen.
+
+02:06:18.452 --> 02:06:34.402
+More cardiac arrests, more strokes, more clots, more autoimmune disease, more allergies, more stroking out, more neurological diseases, more everything, more Alzheimer's, more cancer.
+
+02:06:34.582 --> 02:06:40.105
+Everything is expected when you start transfecting this old population that if they all live
+
+02:06:40.782 --> 02:06:47.465
+To be the ripe old age of 90, all of these Western countries will be bankrupted by the medical costs of these old people.
+
+02:06:48.745 --> 02:06:52.247
+And all of these Western countries, and even China, has known that this was coming.
+
+02:06:52.687 --> 02:06:53.747
+They have prepared for it.
+
+02:06:53.787 --> 02:07:04.932
+They've taken advantage of it in order to seed a narrative that we're supposed to teach our kids, which is that the mystery virus, whatever it was, coming from a laboratory or a bat cave is responsible for killing millions of people.
+
+02:07:04.972 --> 02:07:05.812
+Let's not talk about 2020.
+
+02:07:06.873 --> 02:07:09.794
+Let's just make sure that everybody knows that the COVID shots are bad.
+
+02:07:13.194 --> 02:07:18.638
+Of course, there's lots of things that they told us about AIDS that have a more plausible biological explanation.
+
+02:07:18.698 --> 02:07:26.983
+A lot of things they told us about the previous vaccine schedule and MMR or some component of the vaccine schedule and genetic vulnerabilities.
+
+02:07:27.023 --> 02:07:28.164
+There's a better explanation.
+
+02:07:28.744 --> 02:07:32.487
+Also for coronavirus and for the pandemic, there's a better explanation.
+
+02:07:33.467 --> 02:07:36.288
+And all of these explanations are better biologically.
+
+02:07:36.568 --> 02:07:38.409
+They're also better with parsimony.
+
+02:07:38.929 --> 02:07:46.211
+And they also take into account many more of the disparate, supposedly incongruent observations in biology in the past.
+
+02:07:47.391 --> 02:07:49.432
+We are going to build this biology.
+
+02:07:49.472 --> 02:07:52.953
+We are going to build the biology that edifies all of these explanations.
+
+02:07:53.673 --> 02:07:59.582
+And by Christmas time, you are all gonna be able to send your friends to this list, this course list.
+
+02:07:59.642 --> 02:08:01.865
+It's only gonna be about eight days long.
+
+02:08:02.546 --> 02:08:04.309
+This is not one of those days, right?
+
+02:08:04.329 --> 02:08:05.771
+We are building the course right now.
+
+02:08:05.811 --> 02:08:06.913
+There's gonna be a summary.
+
+02:08:08.027 --> 02:08:14.509
+of the first maybe four days of this course in one hour and a half, and then the next four days in another hour and a half.
+
+02:08:14.549 --> 02:08:21.871
+And that eight days of coursework, eight hours of coursework, can be on eight substack articles, and we can be done with this.
+
+02:08:22.011 --> 02:08:35.474
+And everybody can understand the illusion of virology, the illusion of biologics in a pharmaceutical company, and the illusion that placebo could create, and the illusion that the genetic
+
+02:08:36.503 --> 02:08:44.526
+model, the oversimplification of the genetic model of life created by the Human Genome Project can be dispelled.
+
+02:08:44.606 --> 02:08:53.489
+And we can teach our children, our high school kids, and our budding scientists a true appreciation for the irreducible complexity that is our biology.
+
+02:08:53.529 --> 02:08:54.709
+That's the goal here.
+
+02:08:55.150 --> 02:08:56.370
+We need a new consensus.
+
+02:08:57.270 --> 02:08:58.231
+I hope you'll help me get it.
+
+02:08:58.551 --> 02:09:00.851
+And I will see you this afternoon after lunch.
+
+02:09:01.212 --> 02:09:01.952
+It's wow.
+
+02:09:03.080 --> 02:09:07.045
+I'm gonna have to be quick, and I'm gonna have to be less talkative.
+
+02:09:08.126 --> 02:09:11.230
+Maybe at 1.30 or maybe at 13.13, I'm not sure.
+
+02:09:11.270 --> 02:09:16.216
+We'll be doing the class number four of Matt Briggs.
+
+02:09:16.857 --> 02:09:20.201
+And maybe I'm just gonna watch and talk very little, because my throat's already very tired.
+
+02:09:20.621 --> 02:09:21.603
+Thanks very much for joining me.
+
+02:09:21.643 --> 02:09:22.544
+I'll see you in a few minutes.
+
