@@ -2,6 +2,7 @@
 
 ## Streams
 - https://rumble.com/v5iy5t9-dr-sucharit-bhakdi-talks-with-dr-jj-couey.html
+- https://stream.gigaohm.bio/w/i9u7S2mrf8djPddeL1CN3K
 
 _Note: A diarized version of this transcript is also in this folder (\*.diarize.vtt). Diaraization just means that the speakers are identified. Some speakers (e.g. SPEAKER_01) may be replaced by actual names, but not all. Humans may submit or request corrections overtime and they may eventually get updated._
 
