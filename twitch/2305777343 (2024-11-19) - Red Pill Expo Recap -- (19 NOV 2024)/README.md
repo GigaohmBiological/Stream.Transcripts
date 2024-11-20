@@ -3,4 +3,6 @@
 ## Streams
 - https://twitch.tv/videos/2305777343
 - https://stream.gigaohm.bio/w/7ka8dRFYubaGu1jRdUtm6C
+- https://rumble.com/v5qyhmb-gigaohm-biological-high-resistance-low-noise-information-brief.html
+
 
