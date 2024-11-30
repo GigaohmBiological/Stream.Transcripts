@@ -2,4 +2,4 @@
 
 ## Streams
 - https://twitch.tv/videos/2138836025
-
+- https://rumble.com/v4tjqa8-gigaohm-biological-high-resistance-low-noise-information-brief.html
