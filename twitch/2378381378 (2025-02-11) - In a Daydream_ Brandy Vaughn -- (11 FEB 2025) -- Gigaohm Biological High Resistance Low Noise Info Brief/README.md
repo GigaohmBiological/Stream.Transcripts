@@ -1,4 +1,4 @@
-# In a Daydream: Brandy Vaughn -- (11 FEB 2025) -- Gigaohm Biological High Resistance Low Noise Info Brief -- Gigaohm Biological High Resistance Low Noise Information Brief
+# In a Daydream: Brandy Vaughn -- (11 FEB 2025) -- Gigaohm Biological High Resistance Low Noise Info Brief
 
 ## Streams
 - https://twitch.tv/videos/2378381378

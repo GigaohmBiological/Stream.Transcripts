@@ -1,4 +1,4 @@
-# Team Worst Case Scenario WINS? -- (14 FEB 2025) -- Gigaohm Biological High Resistance Low Noise Info Brief -- Gigaohm Biological High Resistance Low Noise Information Brief
+# Everyone Gets a Timeline -- (14 FEB 2025) -- Gigaohm Biological High Resistance Low Noise Information Brief
 
 ## Streams
 - https://twitch.tv/videos/2381098792

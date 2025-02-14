@@ -1,4 +1,4 @@
-# Darkhorse Ended -- (4 FEB 2025) -- Gigaohm Biological High Resistance Low Noise Info Brief -- Gigaohm Biological High Resistance Low Noise Information Brief
+# Darkhorse Ended -- (4 FEB 2025) -- Gigaohm Biological High Resistance Low Noise Info Brief
 
 ## Streams
 - https://twitch.tv/videos/2372347008
