@@ -1,4 +1,4 @@
-# The Mom of Child #4 Callous Disregard_ -- (24 APR 2025) -- Gigaohm Biological High Resistance Low Noise Information Brief
+# The Mom of Child #4 Callous Disregard? -- (24 APR 2025) -- Gigaohm Biological High Resistance Low Noise Information Brief
 
 ## Streams
 - https://twitch.tv/videos/2441502474
