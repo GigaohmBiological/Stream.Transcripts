@@ -42,6 +42,7 @@ for ((i = 0; i < ${#folders[@]}; i++)); do
         echo "Generating stream link: $url"
         printf -v contents "${contents}- $url\n"
     done
+    printf -v contents "${contents}\n## Links extracted from Twitch chat"
 
     echo "${contents}" > "${base}/README.md"
 done
