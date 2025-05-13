@@ -8,7 +8,10 @@ The purpose of this repo is to place AI generate captions in one location for ea
 ## Organization
 
 All transcripts will be
-- [twitch](twitch) - from http://twitch.tv/gigaohmbiological
+- [twitch](twitch) - from https://twitch.tv/gigaohmbiological
+    - Due to legacy reasons, streams are still organized around Twitch IDs, but the captionsi for more recent streams may be generated from other sources.
+        - Peertube - from https://stream.gigaohm.bio
+        - Rumble - from https://rumble.com/user/GigaohmBiological
 - [youtube](youtube) - from [JC on a Bike (channel)](https://www.youtube.com/@JConabike)
 - [guest.speaking](guest.speaking) - from various
 
