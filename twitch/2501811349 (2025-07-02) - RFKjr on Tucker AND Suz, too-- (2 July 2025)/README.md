@@ -8,6 +8,6 @@
 ## Links extracted from Twitch chat
 - https://drreinerfuellmich.substack.com/p/new-statement-from-reiner
 - https://www.drtrozzi.news/i/167280246/truth-is-the-door-that-opens-everything
-- https://www.google.com/search?q=transfection&oq=transfection&gs_lcrp=EgZjaHJvbWUyDAgAEEUYORixAxiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCTYxODFqMGoxNagCCLACAfEF0DNSikrNXKs&sourceid=chrome&ie=UTF-8
+- [https://www.google.com/search?q=transfection&oq=transfection&gs_lcrp=EgZjaHJvbWUyDAgAEEUYORixAxiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCTYxODFqMGoxNagCCLACAfEF0DNSikrNXKs&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=transfection&oq=transfection&ie=UTF-8)
 - https://wereyouinformed.com/
 - https://sci-hub.st/
