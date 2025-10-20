@@ -6,7 +6,7 @@
 - https://rumble.com/v6w9qq6-gigaohm-biological-high-resistance-low-noise-information-brief.html
 
 ## Links extracted from Twitch chat
-- https://youtu.be/3ITiPY8Evs8?si=lw3iFJLLhBQRmDXp. 
+- [https://youtu.be/3ITiPY8Evs8?si=lw3iFJLLhBQRmDXp.](https://youtu.be/3ITiPY8Evs8) 
 - https://nonprofitquest.com/pennsylvania-nonprofit
 - https://www.peta.org.uk/blog/covid19-research/
 - [https://open.substack.com/pub/lagatapolitica/p/no-sasha-susan-wojcicki-filed-a-police?utm_source=share&utm_medium=android&r=rgdly](https://open.substack.com/pub/lagatapolitica/p/no-sasha-susan-wojcicki-filed-a-police)

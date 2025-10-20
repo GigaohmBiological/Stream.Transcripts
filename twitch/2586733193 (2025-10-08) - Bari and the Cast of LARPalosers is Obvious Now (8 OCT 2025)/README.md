@@ -6,10 +6,10 @@
 - https://rumble.com/v701wsm-gigaohm-biological-high-resistance-low-noise-information-brief.html
 
 ## Links extracted from Twitch chat
-- https://youtu.be/o_UfHmpbHWE?si=9nxvSjt6dviLDe0q
-- https://youtu.be/7RR5XZv0zEk?si=q6MBp_vCzTvHIpag
-- https://youtu.be/V83JR2IoI8k?si=SMMI8PThGXTOdXmb
+- [https://youtu.be/o_UfHmpbHWE?si=9nxvSjt6dviLDe0q](https://youtu.be/o_UfHmpbHWE)
+- [https://youtu.be/7RR5XZv0zEk?si=q6MBp_vCzTvHIpag](https://youtu.be/7RR5XZv0zEk)
+- [https://youtu.be/V83JR2IoI8k?si=SMMI8PThGXTOdXmb](https://youtu.be/V83JR2IoI8k)
 - https://insidemedicine.substack.com/p/fact-check-bill-maher-bari-weiss-22-01-26
-- https://youtu.be/dhNWC8D2urc?si=LvRpIJbJ4aIrIyfC
-- https://youtu.be/IMOy9SsUQ7U?si=MfPiALK4bCy4mAQ3
+- [https://youtu.be/dhNWC8D2urc?si=LvRpIJbJ4aIrIyfC](https://youtu.be/dhNWC8D2urc)
+- [https://youtu.be/IMOy9SsUQ7U?si=MfPiALK4bCy4mAQ3](https://youtu.be/IMOy9SsUQ7U)
 - https://x.com/WHO/status/1602991915808456705

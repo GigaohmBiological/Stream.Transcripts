@@ -6,6 +6,6 @@
 - https://rumble.com/v6zbc1q-gigaohm-biological-high-resistance-low-noise-information-brief.html
 
 ## Links extracted from Twitch chat
-- https://www.facebook.com/share/g/1AQtrij1Zv/?mibextid=wwXIfr
-- https://www.facebook.com/share/g/1AQtrij1Zv/?mibextid=wwXIfr
+- [https://www.facebook.com/share/g/1AQtrij1Zv/?mibextid=wwXIfr](https://www.facebook.com/share/g/1AQtrij1Zv/)
+- [https://www.facebook.com/share/g/1AQtrij1Zv/?mibextid=wwXIfr](https://www.facebook.com/share/g/1AQtrij1Zv/)
 - https://www.youtube.com/@JamarlThomas

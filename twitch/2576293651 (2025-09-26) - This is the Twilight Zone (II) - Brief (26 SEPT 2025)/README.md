@@ -6,7 +6,7 @@
 - https://rumble.com/v6zi5bc-gigaohm-biological-high-resistance-low-noise-information-brief.html
 
 ## Links extracted from Twitch chat
-- https://youtu.be/eeTnog5RRQo?si=bHNVBICXLPx-7aOw. 
+- [https://youtu.be/eeTnog5RRQo?si=bHNVBICXLPx-7aOw.](https://youtu.be/eeTnog5RRQo)
 - https://www.bitchute.com/channel/2LZGkGWnOzuy
 - [https://youtu.be/R_WsloddwrY?si=452eytV24W46ci_a](https://youtu.be/R_WsloddwrY)
 - https://rumble.com/v2oucfq-ep2-the-mask.html
