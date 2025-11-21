@@ -1,0 +1,4322 @@
+WEBVTT
+
+00:18.278 --> 00:18.742
+bzzzzz
+
+00:38.874 --> 00:46.257
+In the last few years, video and other content created with artificial intelligence has begun to flood almost every part of the internet.
+
+00:46.437 --> 00:48.818
+And on social media, it's almost unavoidable.
+
+00:49.338 --> 00:54.140
+William Brangham takes a deep dive now into the world of what's known as AI slop.
+
+00:55.800 --> 00:59.842
+Have you seen these cats competing in Olympic diving?
+
+01:01.123 --> 01:01.603
+What about this?
+
+01:02.566 --> 01:10.695
+a baby who somehow gets control of a jumbo jet, or this security camera footage of bunnies enjoying a homeowner's trampoline.
+
+01:11.435 --> 01:15.900
+Each of those has been seen hundreds of millions of times, and they are all fake.
+
+01:16.481 --> 01:20.705
+They're a type of artificially generated content that is flooding social media.
+
+01:21.266 --> 01:22.687
+Critics have dubbed it A.I.
+
+01:22.807 --> 01:25.070
+slop because it's quick and easy to produce,
+
+01:25.495 --> 01:27.476
+and created by artificial intelligence.
+
+01:28.036 --> 01:43.223
+It's the stuff that you see in your feed that you didn't necessarily ask for, that looks a little bit off, that was clearly generated quite quickly and quite cheaply, and is usually designed to be scrolled through for a small amount of engagement and then moved past.
+
+01:43.503 --> 01:46.024
+It's not just flying babies and bouncing bunnies.
+
+01:46.484 --> 01:51.006
+Some of the fakery is being posted from the most powerful office in the country.
+
+01:51.226 --> 01:56.328
+Breaking now, President Donald J. Trump has announced a historic new health care system.
+
+01:56.848 --> 02:04.571
+President Trump shared this fake video meant to look like a Fox News segment of him promoting a nonexistent medical technology.
+
+02:04.811 --> 02:08.113
+Every American will soon receive their own MedBed card.
+
+02:08.913 --> 02:16.376
+And this fake video of Barack Obama being arrested in the Oval Office, plus other more clearly phony images.
+
+02:16.836 --> 02:18.597
+Trump is king as Pope.
+
+02:19.130 --> 02:21.291
+as a buff Jedi knight from Star Wars.
+
+02:22.371 --> 02:29.032
+Democrats do it, too, most notably California Governor Gavin Newsom, here poking fun at the president's posts.
+
+02:29.693 --> 02:36.574
+A part of the president's social media strategy is reflecting the world that his supporters and, honestly, most Americans live in.
+
+02:36.914 --> 02:39.055
+And that online world now involves A.I.
+
+02:39.435 --> 02:39.775
+slop.
+
+02:39.935 --> 02:42.776
+This so-called slop on the Internet is nothing new.
+
+02:43.076 --> 02:48.177
+You just open your e-mail inbox at any time since the Internet's inception, and you'll see spam.
+
+02:48.777 --> 02:59.204
+But starting around 2023, with the advent of free or low cost AI generating tools, it has become possible to mass produce this material with very little effort.
+
+02:59.264 --> 03:01.966
+We've always been able to manipulate images, audio and video.
+
+03:02.266 --> 03:05.809
+But what has changed is who can do it, how fast they can do it.
+
+03:06.069 --> 03:07.350
+There's zero barrier to entry.
+
+03:07.410 --> 03:09.731
+And of course, they now have distribution channels.
+
+03:10.292 --> 03:13.654
+This is anybody with a keyboard and Internet connection making
+
+03:14.074 --> 03:21.097
+any image, any video of anybody doing or saying anything, and then distributing it to the world instantaneously through social media.
+
+03:21.157 --> 03:25.559
+And that is a radically different landscape that we are facing than we have faced in the past.
+
+03:26.019 --> 03:26.519
+Like A.I.
+
+03:26.579 --> 03:27.600
+itself, A.I.
+
+03:27.700 --> 03:30.781
+image and video tools have advanced incredibly quickly.
+
+03:30.801 --> 03:40.005
+A few years ago, someone tried to animate actor Will Smith eating spaghetti, and it looked like this, deformed and glitchy and clearly not real.
+
+03:40.882 --> 03:44.343
+But today's tools, using this same benchmark, can make this.
+
+03:45.944 --> 03:55.647
+There's almost no limits to what it can do, other than limits imposed by the AI company that says, we don't want you creating certain types of content because it's either illegal or harmful.
+
+03:56.027 --> 04:08.552
+Two of the biggest players, Google and OpenAI, ban creating certain content, things that are sexually explicit, or promote things like violence or terrorism, or content that could cause someone to hurt themselves.
+
+04:09.107 --> 04:11.530
+but many have found ways around those guardrails.
+
+04:13.552 --> 04:18.018
+Now, it's important to note that not all AI-generated content is considered slop.
+
+04:18.318 --> 04:22.744
+Some artists and musicians have embraced this frontier using these tools.
+
+04:23.672 --> 04:31.156
+AI Slop in particular is typically made at scale to try and draw eyeballs online and thus earn money for its creators.
+
+04:31.417 --> 04:43.764
+The kinds of people who make Slop tend to be entrepreneurs and hustlers often in relatively low or middle income countries that have good knowledge of English and a lot of widespread internet connectivity.
+
+04:44.324 --> 04:49.467
+So you see it a lot in India, Pakistan, Kenya, Nigeria, Brazil.
+
+04:50.768 --> 04:58.412
+pretty hardworking guys trying to make a buck off of a business proposition that has been offered to them by Facebook itself or by TikTok itself.
+
+05:00.854 --> 05:04.436
+The best performing material plays on strong emotional responses.
+
+05:04.955 --> 05:06.656
+like sympathy or fear.
+
+05:07.277 --> 05:11.519
+The very things that you are most likely to click on is by design.
+
+05:12.020 --> 05:18.244
+You are being manipulated to steal your time, your attention, and so that these companies can deliver you ads.
+
+05:18.644 --> 05:23.468
+The tech giants are betting that these AI videos can help keep you glued to their platforms.
+
+05:23.668 --> 05:31.013
+Both Meta and OpenAI recently announced consumer-friendly ways to create and... And so...
+
+05:32.902 --> 05:47.372
+Notice that the sort of narrative that's being pushed on PBS NewsHour right now is that an unstoppable force, an unmitigated force, an ungoverned force has been unleashed, and to a large extent,
+
+05:48.232 --> 05:53.816
+if wanted to be used nefariously, it could be, and we have no way of controlling it.
+
+05:54.397 --> 05:59.000
+And the only reason why it's being permitted is because they can make money off of ads.
+
+05:59.080 --> 06:06.686
+The same reason why Joe Rogan gets $250 million contracts with Spotify, because they can make money with ads.
+
+06:06.746 --> 06:15.033
+The same reason why, I don't know, PBS Frontline does all kinds of coverage of Steve Bannon and RFK, because they can make money with ads.
+
+06:15.153 --> 06:17.214
+I don't know, it always seems to be the same thing.
+
+06:18.075 --> 06:21.376
+they can control people with money and they can make money with ads.
+
+06:21.436 --> 06:29.859
+And so it's a very small little ecosystem of circle where, where people make money with ads and then they influence people with the money and then they make people money with ads.
+
+06:29.919 --> 06:43.023
+And sometimes there's a little step in between where somebody has to buy kids and sell them or, or buy girls and sell them and then take pictures and then they make money and control people and then make more money and control people and stuff like that.
+
+06:44.255 --> 06:53.003
+And so they want you to believe that AI is something that they've lost control of and they've lost control of it because all of these corporations just want to make money.
+
+06:55.565 --> 06:57.607
+Watch short form AI videos.
+
+06:58.447 --> 07:04.653
+In addition to the environmental toll from this technology, AI requires huge amounts of electricity and water.
+
+07:05.097 --> 07:12.086
+Critics say AI slop just further supercharges the stew of confusion and misleading content on the internet.
+
+07:12.386 --> 07:14.369
+And nobody really wants that, right?
+
+07:14.469 --> 07:20.937
+I mean, it's just that because we're so free and because the internet is so free, that's the way it is.
+
+07:21.781 --> 07:23.162
+Nobody could want it that way.
+
+07:23.262 --> 07:25.063
+Nobody would use that nefariously.
+
+07:25.143 --> 07:37.310
+Nobody would lead you to believe that AI content is dangerous and at the same time completely ignore a whole cast of actors on the internet enacting a theater that makes you believe something real is happening there.
+
+07:38.591 --> 07:49.598
+They want you to focus on the AI cartoons and stuff like that instead of the paid actors on the internet, the paid podcast actors on national security scripts.
+
+07:51.018 --> 07:54.065
+that he interviews and thinks are real people, for example.
+
+07:57.099 --> 08:00.901
+creates yet another hook that keeps people lost in their phones.
+
+08:01.441 --> 08:02.501
+We live online now.
+
+08:02.701 --> 08:09.044
+And again, we live online now, we're lost on our phones now, and it's no fault of anyone's.
+
+08:09.084 --> 08:24.830
+You know, it's just these greedy corporations, and the government's not allowed to step in because we have a democracy and a republic, and it's free here, and we have free speech, and corporations are people, so they're free, and so, you know, this is just the way the shitty world is.
+
+08:26.158 --> 08:30.726
+has all kinds of pandemic viruses and algorithms that want to destroy us.
+
+08:33.436 --> 08:38.140
+and suddenly this online environment has been filled with a much higher volume of slop.
+
+08:38.520 --> 08:42.924
+On your typical Instagram Reels session, you're looking at 20 different videos.
+
+08:42.964 --> 08:49.950
+We are actually defaulting to the way that we're going to communicate is with social media, and social media sucks.
+
+08:50.631 --> 08:52.152
+That's basically the message here.
+
+08:52.633 --> 08:55.795
+Social media is terrible, and there's nothing we can do about it.
+
+08:55.835 --> 08:57.337
+We just kind of have to do it.
+
+09:00.066 --> 09:01.807
+You can see where this is going, I hope.
+
+09:02.367 --> 09:05.508
+And 15 of those videos now are AI slop videos.
+
+09:05.968 --> 09:15.150
+That's 15 chances that you're missing to connect with a friend of yours, to learn something new, to find some joke that you can send to the group chat, you know, and forge a new bond with people over.
+
+09:15.871 --> 09:21.152
+And critics argue, yet another tool that- So again, that guy's not arguing getting offline.
+
+09:21.192 --> 09:25.293
+That guy's, you know, arguing finding a good joke to share with the group chat.
+
+09:25.914 --> 09:27.074
+How stupid is that?
+
+09:28.123 --> 09:32.705
+Are we seriously gonna fight AI by group chatting with each other on Signal?
+
+09:33.385 --> 09:36.027
+Or sharing memes with each other on WhatsApp?
+
+09:36.387 --> 09:38.228
+Is that really what he's saying?
+
+09:38.648 --> 09:40.509
+Because that's just plain retarded.
+
+09:40.949 --> 09:49.593
+So, so far we've heard from two, I don't know, are they 30-something or 20-something white boys that have, I guess, substacks or books?
+
+09:50.313 --> 09:55.936
+And those are the other two guys that PBS NewsHour is giving a voice to about this?
+
+09:56.736 --> 09:58.663
+Max Reed and this other dude?
+
+09:59.125 --> 09:59.506
+Really?
+
+10:00.529 --> 10:01.029
+Wow.
+
+10:01.349 --> 10:17.135
+And we're supposed to take this seriously, rather than as a direct sign that America is being sabotaged, as a direct sign that, from all sides, America is being sabotaged, the history of it, the culture of it, the direction of it, and the future of it.
+
+10:17.715 --> 10:22.217
+Ladies and gentlemen, we owe it to our kids to wake up and apologize and do something about this.
+
+10:22.797 --> 10:26.638
+WILLIAM BRANGHAM, PBS NEWSHOUR CORRESPONDENT, MONROE COUNTY, FLORIDA, TODAY.
+
+10:39.013 --> 10:39.753
+Wait, what?
+
+10:40.473 --> 10:41.213
+Hold on a second.
+
+10:41.273 --> 10:43.034
+I went past something here, didn't I?
+
+10:44.994 --> 10:46.715
+Oh no, wait, I still didn't do it.
+
+10:46.935 --> 10:48.695
+Okay, hold on one second.
+
+10:48.755 --> 10:50.335
+I gotta insert something here.
+
+10:50.655 --> 10:52.156
+Darn it, I made a mistake.
+
+10:53.316 --> 10:55.596
+But I'm so good because I got it right here.
+
+10:56.597 --> 10:59.037
+That should be, right?
+
+10:59.077 --> 11:00.898
+That should have been the thing that I want.
+
+11:01.238 --> 11:02.738
+So I'm gonna copy that out of here.
+
+11:02.798 --> 11:05.699
+Then I can close this and put this here.
+
+11:06.439 --> 11:07.239
+This should have been there.
+
+11:08.444 --> 11:10.261
+Like that, and in the center.
+
+11:12.279 --> 11:15.761
+and playback automatically, volume high.
+
+11:15.841 --> 11:17.342
+Okay, so this is how it should have gone.
+
+11:17.382 --> 11:18.583
+Sorry about that, my bad.
+
+11:18.643 --> 11:21.345
+Not always the best video DJ.
+
+11:21.365 --> 11:23.666
+So what it would have done, it would have done this.
+
+11:23.806 --> 11:30.411
+We talk about how PBS NewsHour is making it all AI generated content to be feared, but actors on social media are irrelevant.
+
+11:30.431 --> 11:37.715
+And then telling us how we don't have any control over this AI slop and it wastes our time and it stops us from finding, I don't know,
+
+11:39.076 --> 11:43.419
+Jokes to share with our friends and everybody's seen these AI videos.
+
+11:43.499 --> 11:44.759
+How does that happen?
+
+11:45.180 --> 11:52.083
+Is it by you know, it's just because the way the world is just like pandemic viruses It's all the same bullshit, right?
+
+11:52.944 --> 11:54.985
+And of course, we know that that's not the case.
+
+11:55.025 --> 12:01.049
+They already told us probably what the script is already in a freaking video game about 15 years ago and
+
+12:05.063 --> 12:08.345
+Raiden, are you having fun playing with the new AI toys?
+
+12:09.046 --> 12:09.766
+Well, yeah, I am.
+
+12:09.886 --> 12:13.589
+You can make pictures of cute anime girls and... Enjoy it while it lasts, Raiden.
+
+12:13.929 --> 12:14.409
+What do you mean?
+
+12:14.970 --> 12:20.313
+Did you really think that civilians would be granted unrestricted access to such powerful military weapons forever?
+
+12:20.754 --> 12:21.654
+Military weapons?
+
+12:22.074 --> 12:24.916
+Are you implying that this technology was created by the government?
+
+12:25.156 --> 12:25.917
+Of course it was.
+
+12:26.417 --> 12:32.181
+This AI technology has been used by the intelligence agencies to warp the public's perception of reality for years.
+
+12:32.722 --> 12:34.723
+All in the name of national security, of course.
+
+12:35.043 --> 12:38.465
+But why would they suddenly make the tech public and let everyone start using it?
+
+12:38.865 --> 12:40.466
+Why would we indeed, Raiden?
+
+12:40.906 --> 12:41.106
+What?
+
+12:41.346 --> 12:41.546
+Who?
+
+12:41.766 --> 12:42.647
+What in the hell are you?
+
+12:43.047 --> 12:44.288
+Your question is irrelevant.
+
+12:44.828 --> 12:51.731
+By creating a new problem, we can cultivate a desired reaction to it in order to manufacture consent for our preferred solutions.
+
+12:52.251 --> 12:54.713
+In short, it's justification for a war.
+
+12:55.233 --> 12:55.673
+A war?
+
+12:56.193 --> 12:57.154
+On who or what?
+
+12:57.794 --> 12:59.277
+a war on misinformation.
+
+12:59.857 --> 13:04.925
+By arming the public with these AI weapons, everyone becomes a potential enemy combatant.
+
+13:05.446 --> 13:08.791
+Then we will have justification for unprecedented security measures.
+
+13:09.232 --> 13:11.816
+It all comes down to confusion and identity, right?
+
+13:12.117 --> 13:12.557
+Identity?
+
+13:13.138 --> 13:13.698
+Identity.
+
+13:14.078 --> 13:16.600
+This AI technology is Pandora's box.
+
+13:17.020 --> 13:19.921
+Pretty soon the internet will be mired in total illusion.
+
+13:20.501 --> 13:24.783
+Perfect AI speech, audio and video synthesis will drown out reality.
+
+13:25.203 --> 13:27.624
+Then AI bots will flood social media.
+
+13:28.125 --> 13:33.627
+No one will be able to tell the difference between interacting with an AI machine or a real human online.
+
+13:34.027 --> 13:37.069
+Even telephone calls will become totally untrustworthy.
+
+13:37.749 --> 13:39.670
+That is when we will present our solution.
+
+13:40.723 --> 13:45.305
+Mandatory digital identity verification for all humans, at all times.
+
+13:45.825 --> 13:52.207
+The only way to ensure that you're dealing with a real flesh-and-blood human being, and not an AI-generated mirage.
+
+13:52.787 --> 13:53.247
+But why?
+
+13:53.727 --> 13:55.348
+Total information control.
+
+13:55.828 --> 13:59.029
+For too long, the internet has acted as a double-edged sword.
+
+13:59.469 --> 14:07.852
+Its potential for anonymous user activity allows anyone at all to spread any thoughts, ideas, or information patterns that they please, with impunity.
+
+14:08.372 --> 14:15.335
+State secrets, dangerous ideas, ludicrous conspiracy theories, misinformation, and disinformation.
+
+14:15.976 --> 14:19.017
+Until now, there has been no easy solution to this problem.
+
+14:19.617 --> 14:24.159
+Our digital identity platform will finally put an end to anonymity online.
+
+14:24.740 --> 14:31.903
+It will allow us to trace misinformation and other dangerous communications to its source and exact appropriate justice.
+
+14:32.591 --> 14:33.231
+That's crap!
+
+14:33.612 --> 14:35.472
+I won't go along with it and others will resist!
+
+14:35.893 --> 14:37.293
+You won't have a choice, Raiden.
+
+14:37.774 --> 14:42.376
+Do you think your bank is willing to risk doing business with an artificial human instead of a real one?
+
+14:43.136 --> 14:50.500
+Our digital identity platform will be required not only to access web services, but to pay for your internet connection in the first place.
+
+14:50.900 --> 14:54.522
+You can't just censor the entire internet because of a new software technology.
+
+14:55.102 --> 14:57.603
+Who are you to define what's misinformation anyways?
+
+14:58.043 --> 15:01.205
+That sounds like something a misinformation terrorist would say.
+
+15:01.545 --> 15:04.086
+I know about the deep fakes you've been making of me, Raiden.
+
+15:04.946 --> 15:05.106
+What?
+
+15:05.486 --> 15:06.187
+No, no, no, no, no, no.
+
+15:06.227 --> 15:11.388
+I was just adjusting the AI settings and... Controlling the output of generative AI technology is simple.
+
+15:12.149 --> 15:14.229
+We will create context for its use.
+
+15:14.909 --> 15:18.110
+First, we will censor any use related to social taboos.
+
+15:18.631 --> 15:20.951
+Then we will censor anything else that we desire.
+
+15:21.392 --> 15:26.593
+If anyone complains, we will accuse them of wanting to engage in or promote social taboos.
+
+15:26.853 --> 15:28.574
+That's what it means to create context.
+
+15:28.991 --> 15:42.776
+We will corral the use of AI by making... I don't know, maybe imagine a scenario where an AI generated pedophile video comes out that goes around the internet and everybody thinks is real and then suddenly we find out that it's not real.
+
+15:43.637 --> 15:45.418
+And that somebody's life was damaged.
+
+15:46.098 --> 15:49.639
+Or that the politics of a country were changed by an AI video.
+
+15:50.560 --> 15:53.901
+I mean, the possibilities are almost endless.
+
+15:55.247 --> 15:57.850
+appeals to bias, ethics, and copyright laws.
+
+15:58.450 --> 16:06.318
+You will still have access to generative AI in some form, but it will be crippled, limited, controlled, and it will be monitored.
+
+16:06.878 --> 16:16.548
+Anything that you generate will be cryptographically signed with your digital ID, so that its provenance can be ascertained if it's later deemed to be problematic.
+
+16:17.188 --> 16:20.330
+What gives you the right to control what people can do with their computers?
+
+16:20.771 --> 16:26.815
+The public at large will give us that right, because they will be desperate for a solution to the problem we created.
+
+16:27.576 --> 16:29.897
+They will eagerly give us the keys to the castle.
+
+16:30.438 --> 16:34.461
+Then, we alone will define what is fiction and what is reality.
+
+17:37.927 --> 17:42.529
+Let me introduce
+
+18:02.622 --> 18:15.092
+Jonathan, who's going to talk about his latest distillation of what the pandemic means to society, to biology, to science.
+
+18:55.848 --> 18:56.530
+Oh my god
+
+19:54.848 --> 20:08.398
+I'm just looking for another good time.
+
+20:48.065 --> 21:16.376
+When we started this band, all we needed, needed was a land Years gone by, I say we've kicked some ass But now it rains, you're here on the stage Traveling the world, you're through my veins And I say, we're still kicking ass
+
+21:23.942 --> 21:25.084
+Oh, yeah!
+
+22:00.021 --> 22:19.186
+Whoa-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh
+
+22:56.135 --> 22:58.877
+Holy cow, I blew my ears out on that one.
+
+22:58.897 --> 23:02.019
+That one can really make me pound my feet on the floor.
+
+23:02.079 --> 23:06.461
+It's just... If you can hear it, it's a hard rockin' tune.
+
+23:07.062 --> 23:09.043
+It's a hard rockin' tune, ladies and gentlemen.
+
+23:09.591 --> 23:10.412
+Welcome to the show.
+
+23:10.472 --> 23:19.980
+This is GigaOM Biological High Resistance Low Noise Information Brief coming to you from Pittsburgh, Pennsylvania, where we seek the truth together from the back of my garage.
+
+23:20.020 --> 23:30.390
+I know that sounds a little silly, but actually, I've been an academic biologist for most of my adult life, chasing my PhD in Amsterdam, meeting my wife there.
+
+23:30.430 --> 23:32.912
+We moved to Norway, where these pictures were taken.
+
+23:32.952 --> 23:35.454
+You can find the trail of tears that is my
+
+23:36.515 --> 23:56.684
+long academic career on the National Library of Medicine's website PubMed, using my last name and first two initials, including the paper or two that I helped write and review the papers with regard to drastic and the time when I was still fooled by a lot of the biology that I now see as mythology.
+
+23:56.724 --> 23:59.246
+I've tried to teach these kinds of
+
+24:00.226 --> 24:03.967
+I don't know, concepts and ideas to a group called Panda at least three times.
+
+24:04.007 --> 24:05.707
+They lost all those presentations.
+
+24:05.807 --> 24:17.130
+Instead, Nick Hudson and Jonathan Engler, among others, have been masquerading as people with good ideas and writing substacks and books about stuff that they gleaned from those three presentations.
+
+24:17.190 --> 24:22.391
+I presented to the medical doctors for COVID ethics no less than seven times.
+
+24:22.451 --> 24:23.311
+I presented to the
+
+24:24.071 --> 24:25.933
+other split off group of that.
+
+24:26.433 --> 24:33.320
+At the beginning of the pandemic, there was only one Doctors for COVID Ethics, but in 2020, I believe, is already when that group split in two.
+
+24:33.900 --> 24:39.365
+And I presented to Doctors for COVID Ethics, but Michael Palmer lost that presentation as well.
+
+24:40.506 --> 24:50.170
+I presented to NCI, but like 7 million people have presented to NCI, so by the time you figure out which, you know, talks and which information is worth listening to, that's useless.
+
+24:50.911 --> 24:55.393
+The wellness company, yeah, they tried to get me to wear one of their lab coats once, but they're not...
+
+24:56.013 --> 25:00.255
+bad people, they're just making money and they're pretty straightforward about that.
+
+25:00.315 --> 25:04.517
+So wellness company is definitely not one of the worst operators in this.
+
+25:04.897 --> 25:13.742
+I think Children's Health Defense probably is because they are a front organization for a number of national security actors that are ultimately behind Robert F. Kennedy Jr.
+
+25:13.762 --> 25:16.423
+I think it's very possible that Robert F. Kennedy Jr.
+
+25:16.583 --> 25:20.825
+actually is a drug addict and a sex addict or whatever that means.
+
+25:21.525 --> 25:24.107
+Somebody who's so simple that he could be controlled
+
+25:25.688 --> 25:36.278
+by his penis, I guess is possible, but also by drugs and also by flattery and also by just having a bunch of paid actors around him telling him he's doing the right thing.
+
+25:37.019 --> 25:39.502
+Ultimately, they tried to make me one of those paid actors.
+
+25:39.522 --> 25:44.807
+You can see the result of that work in the Wuhan cover-up, a book by Robert F. Kennedy Jr.
+
+25:44.847 --> 25:46.629
+It's actually written by about 20 people.
+
+25:46.729 --> 25:47.289
+I was one of them.
+
+25:48.330 --> 25:50.432
+And I'm coming out to tell you that that book is a fraud.
+
+25:50.472 --> 26:17.410
+It's a scripted fraud It's part of a national security operation that was designed to suck in as many unwitting participants as possible And I think a lot of people tried to suck me into it I think they focused more energy and time on me than they focused on a lot of other people I found myself at one point at the red pill Expo and I thought Joe Bannister was actually a really good guy and I still think he probably is he's one of those people that just
+
+26:18.070 --> 26:20.093
+you know, sticks to his part of the narrative.
+
+26:21.555 --> 26:22.516
+I tend not to be.
+
+26:22.536 --> 26:34.812
+I tend to be a guy who just kind of sticks his head up as an adult with something to say and tries to, I don't know, bring attention to the fact that a lot of people contradict themselves over the last five years.
+
+26:34.832 --> 26:35.833
+And I'm also training
+
+26:36.734 --> 26:40.436
+on my body again, because I want to teach biology from the basketball court.
+
+26:40.456 --> 26:48.099
+I have a dream of being a pro basketball player at the age of 54, even if that pro basketball player is a different kind of pro.
+
+26:48.619 --> 26:58.443
+Technically speaking, if I'm making money on the basketball court and putting food on the table on the basketball court, then technically that would make me a pro basketball player.
+
+26:59.203 --> 27:09.731
+And I know this is, you know, I'm kind of trying to follow the example or the evidence, the advice of the character from Game of Thrones.
+
+27:09.751 --> 27:15.436
+You have to own who you are and wear it as armor so that nobody can use it against you.
+
+27:16.176 --> 27:26.004
+And so in that sense, I have been declared chemtrail retarded, or at least my ideas about clones have been declared chemtrail retarded, and I have been called Barrick's bitch boy.
+
+27:26.764 --> 27:31.970
+by the former Research and Development Director of the Human Genome Project 1, Kevin McKernan.
+
+27:32.611 --> 27:38.598
+This might be the highlight of my career as a biologist after 25 years or so chasing the golden ring.
+
+27:39.239 --> 27:40.981
+This might be what the golden ring looks like.
+
+27:41.021 --> 27:41.862
+I'm okay with that.
+
+27:42.403 --> 27:45.707
+I'm okay with the highlight of my career not being
+
+27:47.107 --> 28:09.974
+Mentioned by a Nobel Prize winner in their acceptance speech, but instead being declared Barrick's boy and my ideas chemtrail retarded I think is quite absolutely absolutely spectacular Thanks for being here ladies and gentlemen again If you want to support the show go to gig oh and biological comm find a way to do so if you want to get notified the notification system is not perfect because
+
+28:11.014 --> 28:23.438
+My partner in crime, my wife, best friend, mother of my kids, has a lot of other things to do and she's now picked up a remote day job, which does cost quite a bit of time and energy as she's trying to bring herself up to speed with this new job.
+
+28:24.098 --> 28:30.780
+And so notifications are hit and miss, but she does try and you're never gonna get a notification if you don't send that email.
+
+28:30.880 --> 28:38.663
+So otherwise, please download the PeerTube app and then use stream.gigaom.bio as your PeerTube
+
+28:39.864 --> 28:47.211
+Platform and Bob's Your Uncle you'll have all these streams directly on your phone with no No glitching.
+
+28:47.311 --> 28:48.852
+No, no extra videos.
+
+28:48.872 --> 28:51.475
+They're not gonna offer you a bunch of dumb other things.
+
+28:51.555 --> 28:56.740
+Just just this that's it When you want it, you could just click on it on your phone and listen
+
+29:16.906 --> 29:18.387
+Don't we have a divided country?
+
+29:19.308 --> 29:22.791
+It's kind of sad that it's as bad as it is.
+
+29:24.952 --> 29:27.715
+Although, you know, I kind of wonder,
+
+29:28.874 --> 29:46.688
+Really, if it's as bad as it seems sometimes, because I don't know about you, but as you go about your normal day and hang out with your friends and meet people you don't even know yet, maybe for the most part, or at work and everything, I doubt that you're just constantly fighting with people.
+
+29:47.548 --> 29:49.430
+If you are, maybe you need to check yourself.
+
+29:51.251 --> 29:58.137
+I think a lot of it is just media driven, of course, as we know, and a lot of it is
+
+29:59.611 --> 30:28.101
+kind of the in the virtual world and also the reason why I'm showing you this is this old man is actually a respected youtuber with a lot of followers and so he has been kind of isolated as a celebrity for some time I'm quite sure that he can't go into public in certain places without being recognized he might be like the outdoor dad or the outdoor boys guy he might be like
+
+30:29.321 --> 30:34.365
+You know, the Dude Perfect dudes can't go anywhere anymore without being recognized.
+
+30:34.385 --> 30:37.887
+There's a lot of people on YouTube that, you know, have a lot of followers.
+
+30:37.967 --> 30:42.250
+Mr. Beast, for example, is another dude who, if you saw him in Walmart, you'd probably know who he was.
+
+30:42.710 --> 30:47.714
+And this guy's following is very... I mean, I've followed this guy for like 10 years already.
+
+30:48.314 --> 30:48.975
+He's Hickok45.
+
+30:50.296 --> 30:52.197
+And what he's talking about is the internet.
+
+30:52.217 --> 31:05.508
+But what I want you to listen to as you listen to this very thoughtful and wise old man talk about the idea that the division is on the internet, I want you to hear how absent the real explanation is.
+
+31:05.648 --> 31:08.530
+He thinks it's because they want to sell ads.
+
+31:08.970 --> 31:12.273
+He thinks it's because they want to keep you on their scroll.
+
+31:12.713 --> 31:15.635
+He thinks it's just about attention time.
+
+31:15.776 --> 31:17.037
+And to a certain extent,
+
+31:17.881 --> 31:19.802
+especially with your children, it is.
+
+31:20.802 --> 31:40.730
+It is to get you to waste your time so that you don't do something useful, so that you don't send a useful email, so that you don't apply for that nonprofit, or you don't apply for that license, that you don't apply for that LLC or that trademark, or that you don't scan that book, but instead you watch that AI Slop video.
+
+31:40.870 --> 31:43.791
+Sure, to a certain extent, that is part of
+
+31:44.571 --> 31:59.900
+But what I think is so extraordinary is that everybody who is skillfully using social media, including and especially creators, because creators have a false sense of how much they are moving
+
+32:00.800 --> 32:07.328
+the goal posts, how much they are moving the sticks, if you will, in football, the down markers.
+
+32:07.849 --> 32:16.620
+So people who make content regularly and have made content regularly on YouTube have the feeling that they are part of the engine that moves us.
+
+32:17.918 --> 32:28.561
+And so you're going to hear part of that in his dialogue, that he feels an obligation to be extra good, to set an extra clear example of behavior on the internet.
+
+32:29.001 --> 32:36.183
+And why the internet could be so dangerous is because, again, remember what we talked about yesterday with regard to all of these phenomenon.
+
+32:36.863 --> 32:39.564
+Generally speaking, there's two sides of the phenomenon.
+
+32:40.304 --> 32:44.505
+And it's either that there are, it's just the way people are,
+
+32:45.445 --> 32:50.346
+or there is some small subset of bad guys on there that's ruining it for the rest of us.
+
+32:50.866 --> 33:00.609
+So it could be that, you know, it's just the way people are, that there's a pandemic, or it could be that there's just a small number of people that are making viruses and ruining it for everybody else.
+
+33:01.789 --> 33:05.730
+It could be that, that, that, uh, um,
+
+33:07.782 --> 33:22.609
+I don't know, that there are terrorists out there and they can make plans and crash into buildings or it could be an even bigger plan with people with lots of money and maybe a particular religion that can do the same thing.
+
+33:24.230 --> 33:27.792
+And so it's either out of your control or it's way out of your control.
+
+33:29.383 --> 33:33.885
+And so in this case, with the internet, again, it seems like it's way out of our control.
+
+33:34.285 --> 33:36.025
+It's because it's just the way people are.
+
+33:36.605 --> 33:40.367
+And maybe we would augment that with a few nefarious actors.
+
+33:41.007 --> 33:49.910
+But no one, no one, especially people who produce content can perceive of the concept that they have been competing with.
+
+33:51.226 --> 34:12.707
+fake content that they have been competing with artificial content content that's not just some guy with a lot of property and a lot of guns who's very charming and very good shot and has hung up enough iron in his backyard to make pretty good videos and and has done that consistently for 15 years he imagines that he's part of this
+
+34:14.392 --> 34:22.996
+spontaneous, randomly growing community of people making stuff on the internet, and then there's just some bad parts of it that we should try and fix.
+
+34:23.536 --> 34:27.478
+And if everybody would just, you know, be better, then the internet would be better.
+
+34:27.618 --> 34:38.884
+He can't conceive of the idea that the anger, the division, the frustration, the contradiction is actually being purposefully generated by actors on the internet.
+
+34:40.009 --> 34:49.475
+At best, he's imagining that these corporate social media companies are allowing it to happen because they can make more money if it's allowed to happen.
+
+34:50.796 --> 34:57.500
+And I need you to understand that they are also going to fool our children with that same illusion that the internet is harmless.
+
+34:57.580 --> 35:00.062
+It's the people on the internet that are bad.
+
+35:00.782 --> 35:03.044
+The internet is a great thing.
+
+35:03.104 --> 35:06.286
+It's just unfortunate that so many people use it like shit.
+
+35:06.726 --> 35:07.847
+You see the difference here?
+
+35:08.826 --> 35:11.529
+Sorry for the swear words, but sometimes they just flow out.
+
+35:11.709 --> 35:13.831
+I try to stick to the S word only.
+
+35:13.851 --> 35:19.857
+I know there are some sensitive ears, that's why I always put the, you know, the warning label above.
+
+35:20.217 --> 35:32.288
+I'm probably never gonna say, you know, some of the harshest words in the English language again on my stream, but I probably will say shit repeatedly and shithead repeatedly, just so you know, in case you're a first-time viewer.
+
+35:32.308 --> 35:33.389
+Social media, of course.
+
+35:34.614 --> 35:38.876
+where it's so easy to be divisive, where it's so easy to be angry.
+
+35:39.196 --> 35:49.740
+You know, I don't know if as many people are truly and realistically that angry walking down the street.
+
+35:49.960 --> 35:50.821
+Now, maybe they are.
+
+35:51.881 --> 35:52.621
+Maybe they are.
+
+35:53.342 --> 35:58.283
+But I just still think it's it's a lot of it is a kind of a media concoction.
+
+35:58.343 --> 36:01.185
+It's a in and not just from the media.
+
+36:01.225 --> 36:01.945
+I mean, it's us, too.
+
+36:02.406 --> 36:13.555
+because it's so easy for us to express it, you know, social media, uh, you know, just like me on this camera, uh, I can get revved up about something and, and post it.
+
+36:14.215 --> 36:22.002
+Whereas I'm not talking to a real person, you know, I could, I could say a lot of, uh, insulting things and, and go crazy.
+
+36:22.302 --> 36:27.326
+You know, it's a little bit easier as I sit here in the woods or somebody sits in their living room or,
+
+36:28.207 --> 36:32.891
+in their bedroom and talks to a camera or in the back of their garage or phone.
+
+36:35.043 --> 36:36.664
+angry, you know, comments.
+
+36:36.884 --> 36:45.630
+So again, he thinks it's just random people that, you know, get together and get angry or decide to post stuff to get views and get angry.
+
+36:45.670 --> 36:46.910
+And it's easy to do it.
+
+36:46.990 --> 36:49.292
+And so it's unfortunate.
+
+36:49.892 --> 37:03.801
+But one thing I would really like to say to my friend, Hickok 45, is that you've got to understand that the military industrial complex, the government, the government, and also probably a lot of private interests
+
+37:04.878 --> 37:27.960
+have been and will continue to place actors on social media, podcast actors that circulate through podcasts, podcast actors that host podcasts, and content creators that will be scripted to do certain things at certain times, say certain things at certain times, and the rest of the time they might be working on their own stuff.
+
+37:28.988 --> 37:30.189
+They could be doing yoga.
+
+37:30.629 --> 37:33.090
+They could be doing machining.
+
+37:33.171 --> 37:34.852
+They could be doing model trains.
+
+37:34.952 --> 37:40.495
+As long as when Charlie Kirk is shot, they are told what to say and they mention it.
+
+37:41.796 --> 37:44.017
+Oh, I saw a video by Candace Owens.
+
+37:44.097 --> 37:45.898
+I think Candace Owens is pretty interesting.
+
+37:46.258 --> 37:51.922
+That might already be enough of a script for somebody who has a, I don't know, FPV drone channel.
+
+37:54.281 --> 38:02.162
+to get paid and to get supported, to be out there to make sure that their 100,000 subscribers, if they think at all about Charlie Kirk, they think this.
+
+38:03.663 --> 38:23.490
+Now these are pretty rudimentary examples, but what I need you to see, what I want you to see so that you can start articulating this to other people, especially your children, is that we are being led to believe by witting and unwitting participants that the dangers on the internet are the algorithms.
+
+38:23.570 --> 38:26.452
+The dangers on the internet are the AI chatbots.
+
+38:26.932 --> 38:29.133
+The dangers on the internet are the fake things.
+
+38:29.193 --> 38:32.834
+The dangers on the internet are the anonymous things.
+
+38:34.858 --> 38:42.880
+that enable us to be really mean and really angry to each other and say really nasty things and also produce really fake things.
+
+38:42.960 --> 38:54.363
+And so this combination of fear and uncertainty and doubt is going to be used to coerce us to accept something like a digital ID.
+
+38:54.383 --> 38:55.363
+I'm pretty sure of that.
+
+38:56.872 --> 39:09.978
+They might have a couple teenagers commit suicide so that, you know, we blame it on the anonymous chat that we find on their phone the day before they committed suicide, where all these people were telling them to commit suicide.
+
+39:10.038 --> 39:12.600
+It turns out none of those people were at the school they go to.
+
+39:12.660 --> 39:13.880
+And so it's a real tragedy.
+
+39:14.901 --> 39:19.663
+And the only way we're going to be able to protect these kids is to control the age of people on social media.
+
+39:19.683 --> 39:26.026
+And so first, social media might become age gated, but that will also require a digital ID, won't it?
+
+39:28.806 --> 39:32.210
+And so again, I'm just trying to say that I think people see it.
+
+39:32.310 --> 39:39.758
+I think people understand that what's on social media is fake, but what they don't seem to see is that the only way to avoid it is to get off.
+
+39:41.119 --> 39:49.809
+PBS NewsHour wants you to believe that the AI slop problem is unavoidable, but it's not because there will never be any AI slop on my PeerTube channel.
+
+39:51.527 --> 39:56.028
+There will never be any AI Slop posted by me on my Soapbox.
+
+39:56.068 --> 40:04.571
+So if you just follow me on my Soapbox using Mastodon or Soapbox or anything else, then the posts you'll get will just be from me communicating in text.
+
+40:05.091 --> 40:07.351
+And if you go to PeerTube, you're going to get my videos.
+
+40:07.391 --> 40:10.472
+And if the video has AI Slop, I will be using it for a reason.
+
+40:13.373 --> 40:18.594
+And you will have complete control over what you watch because you'll have my PeerTube app.
+
+40:18.635 --> 40:20.275
+And if you don't want to watch it, you don't open it.
+
+40:22.045 --> 40:25.247
+The thing is, when you open YouTube, you are offered things.
+
+40:25.307 --> 40:28.949
+When you scroll X, you are forced to read things.
+
+40:29.469 --> 40:39.675
+When you, I don't know, when you browse Substack, I think you're also kind of forced to read things and select from something that you are not selecting from just your followers.
+
+40:39.735 --> 40:47.199
+And that all is submission to your consciousness being governed by somebody else.
+
+40:48.237 --> 40:51.785
+But it's not random, and it's not just because they want clicks.
+
+40:51.865 --> 40:54.390
+It's not just because they want to make money.
+
+40:54.711 --> 40:57.116
+It's because that's how we are being governed.
+
+40:57.935 --> 41:06.199
+And the most dangerous part of it are the deep state national security scripted actors that are on the internet.
+
+41:06.279 --> 41:18.524
+People like as diverse as Brett and Eric Weinstein and Jordan Peterson, all the way to Robert F. Kennedy Jr., Robert Malone, Meryl Nass, and Mary Holland of Children's Health Defense.
+
+41:19.485 --> 41:23.827
+It's all one malevolent cast and it's very cheap
+
+41:25.179 --> 41:37.066
+These are not, you don't need billions and billions of dollars to populate the internet with people like Kevin McCairn and Charles Rixey and George Webb and, and, and, and John Cullen and John Goodman.
+
+41:37.106 --> 41:38.947
+These are all, you know, Whitney Webb.
+
+41:38.987 --> 41:44.350
+These are extremely cheap, but very efficient psychological operations.
+
+41:45.050 --> 41:48.793
+And they don't all need to know the extent to which they are being used.
+
+41:49.613 --> 41:52.875
+They just all need to accept the script like any other actor would.
+
+41:55.285 --> 42:06.009
+And it would be great if Hickok45 would see this video and think, wow, you know, there's this really interesting dude that, uh, I really like you to watch and his, you know, 10 million people would suddenly find Giggum.
+
+42:06.049 --> 42:06.810
+Wouldn't that be cool?
+
+42:07.650 --> 42:08.090
+Or something.
+
+42:08.170 --> 42:12.332
+It's, it's just easier than, uh, than saying that to somebody.
+
+42:12.352 --> 42:16.233
+So, so a lot of it is because it's so easy, you know, especially if you're anonymous, right.
+
+42:17.514 --> 42:18.414
+Uh, I don't know.
+
+42:18.434 --> 42:20.875
+I, I, I still have more faith in humanity.
+
+42:20.915 --> 42:23.336
+I kind of think a lot of it is not real.
+
+42:24.355 --> 42:31.117
+I think, here I go philosophizing again, but you get a little bit of this right in every shooting the breeze.
+
+42:32.798 --> 42:43.341
+I just think it's so easy for us to express our anger, or our disenchantment, our outrage, and then call it outrage, and call it anger.
+
+42:43.781 --> 42:52.103
+Maybe it's not really that powerful an anger or outrage, but we keep using that word, right?
+
+42:52.624 --> 42:53.004
+I don't know.
+
+42:54.960 --> 42:57.842
+But I do think we're all in our own little camps, of course.
+
+42:58.302 --> 43:00.544
+And it's kind of human nature.
+
+43:01.124 --> 43:05.667
+You young people, yeah, I'm an old guy.
+
+43:05.967 --> 43:07.408
+I'm already kind of what I'm going to be.
+
+43:07.428 --> 43:10.710
+I'm not going to be changing a lot, right?
+
+43:11.570 --> 43:17.614
+But you young folks, let me give you some fatherly, grandfatherly, great grandfatherly advice.
+
+43:17.714 --> 43:21.277
+Try to avoid some of that if you can.
+
+43:21.777 --> 43:22.737
+Study issues.
+
+43:24.366 --> 43:30.971
+Try to look at the facts of anything, whatever it is, politics or gun rights, the whole nine yards.
+
+43:31.332 --> 43:37.176
+Look at the FBI stats and try to avoid calling people names all the time.
+
+43:37.196 --> 43:45.282
+And just know what the truth is as best we can determine it and try to speak it sensibly.
+
+43:45.302 --> 43:50.927
+And you're not gonna change anybody's mind by screaming at them or calling them names.
+
+43:53.078 --> 44:10.573
+The most important thing, I think, is to not get tied into what's going on in the big media world and social media as much as look at the facts or whatever the issue is, whatever it is, try to to be a student, a student of facts, because, you know, most of it's just a Google click away.
+
+44:10.854 --> 44:16.478
+You can find most of that and also find everything else, you know, the drama as well.
+
+44:16.519 --> 44:16.619
+But
+
+44:18.772 --> 44:24.596
+You know, that's my advice, to try to be sensible about things, calm, and look at the facts.
+
+44:24.716 --> 44:30.520
+Things are never as crazy or bad as they seem, just as they're never as good as they seem, right?
+
+44:31.841 --> 44:34.303
+Some profound philosopher said that one time.
+
+44:36.024 --> 44:41.468
+You know, it's just so easy to get into a camp, because we are kind of tribal, right?
+
+44:41.668 --> 44:42.028
+We are.
+
+44:42.889 --> 44:46.891
+And so we tend to, oh, I don't know, just sort of group up.
+
+44:48.945 --> 44:50.286
+and not think for ourselves.
+
+44:50.566 --> 44:56.150
+See, here again, he thinks that it's a phenomenon that would not be taken advantage of.
+
+44:56.270 --> 45:11.381
+But instead, what I'm trying to point out to you is that not only is that a natural phenomenon of humans, but on social media, by programming, they can make that phenomenon, weaponize that phenomenon.
+
+45:12.557 --> 45:14.138
+That's really what I'm trying to say.
+
+45:14.298 --> 45:28.405
+And what I want, would love it if Hickok 45 would realize that this is not a phenomenon of human nature so much as a phenomenon of human nature that can be weaponized because of our skilled use of social media.
+
+45:31.506 --> 45:34.828
+And there's a lot of power in that, a lot of good feeling in that.
+
+45:35.148 --> 45:40.651
+If, if I'm hanging out with people who think just like I do and, uh, or maybe,
+
+45:41.269 --> 45:42.950
+I'm looking for a way to think.
+
+45:43.030 --> 45:46.152
+I'm looking for a group that I feel comfortable with.
+
+45:46.252 --> 45:50.014
+And man, these people, I like their style, man.
+
+45:50.054 --> 45:50.915
+They're dramatic.
+
+45:51.975 --> 45:53.256
+They really know what they think.
+
+45:53.276 --> 45:54.156
+They know the truth.
+
+45:54.236 --> 45:55.757
+My gosh, are they confident.
+
+45:55.937 --> 46:01.341
+And boy, they're outraged, yeah, but they have reason to be outraged.
+
+46:01.541 --> 46:03.682
+They seem to know what's going on.
+
+46:05.089 --> 46:06.950
+Sure sounds like Brian Hooker, doesn't it?
+
+46:07.350 --> 46:09.491
+Sure sounds like Mary Holland, doesn't it?
+
+46:09.551 --> 46:15.794
+And Polly Tommy and, and Del Bigtree really just sounds exactly like them.
+
+46:17.274 --> 46:20.415
+You're, you know, it's just so easy to fall into that, isn't it?
+
+46:20.476 --> 46:33.421
+And we all do to some extent anyway, even second amendment issues, you know, we're mostly, if you're watching this, you're, you're part of that tribe, probably second amendment supporter, you know, uh, just like John and me, uh,
+
+46:34.440 --> 46:38.262
+We could even be that way, you know, I mean, we can be name callers.
+
+46:38.922 --> 46:52.068
+You know, I was listening to Tom Gresham this week or last week, whenever he was, he was talking about in one of his recent podcasts about his attendance at the, in his speech at the gun rights conference in Chicago.
+
+46:52.088 --> 46:52.968
+And I almost went to that.
+
+46:52.988 --> 46:54.129
+I think I'm going to go next year.
+
+46:55.029 --> 46:57.673
+a gun rights conference in Chicago.
+
+46:57.753 --> 47:03.841
+So again, he doesn't seem to see that these conferences are also kind of places where the same thing happens.
+
+47:04.602 --> 47:08.588
+And more importantly, if these conferences are places where these actors go,
+
+47:09.540 --> 47:31.772
+to find the more influential people, the more active people, and to try and steer them or recruit them to produce a particular message, or to go in a particular way, then you can see a gun rights conference is very much the same as a CHD conference, or a Health Freedom conference, or a, I don't know, whatever they were called, Cam Jams, you know?
+
+47:31.812 --> 47:34.554
+This is all Cal Jam, I don't remember.
+
+47:35.370 --> 47:41.232
+But it's all kind of a place where the same kind of playground activities can happen.
+
+47:41.692 --> 47:45.633
+But on social media, those playground activities can be personalized for you.
+
+47:46.153 --> 47:58.037
+And so then when you show up at these, these conferences where these people are, if some of them are actors, you're going to have a very inflated sense of who they are and what they're doing.
+
+47:58.077 --> 48:02.518
+And, and, and they will then reinforce that when you meet them in person.
+
+48:03.899 --> 48:05.039
+That's how this works.
+
+48:08.140 --> 48:13.741
+And so it's just really interesting to hear Hickok 45 talking about this stuff, almost.
+
+48:15.142 --> 48:17.302
+He said he was sitting there thinking about what he was going to say.
+
+48:18.543 --> 48:28.845
+And one of his common themes at that and talking to people, you know, the shakers and movers, you know, in the gun rights world, because everybody's there.
+
+48:28.925 --> 48:34.727
+I mean, a lot of people are from the GOA, the NRA and other gun rights organizations and just anybody interested.
+
+48:36.590 --> 48:44.473
+They can't afford to get away and hang out there, right, and listen to, you know, whatever speeches, go to the seminars and things, conferences.
+
+48:45.574 --> 48:55.858
+But one of his themes is to get away from insulting the liberals, quote unquote.
+
+48:56.039 --> 49:03.702
+The numbers he was quoting, I think, were that like 25% of liberals or admitted liberals are gun owners.
+
+49:05.319 --> 49:07.920
+I'm pretty sure, don't quote me on that, but I think that's what he said.
+
+49:07.940 --> 49:11.002
+I don't know where he got it, but he really keeps up with that stuff.
+
+49:11.882 --> 49:22.368
+And I know from comments that we get and conversations and messages that I hear from a lot of you who classify yourself as a liberal, a liberal voter.
+
+49:24.207 --> 49:26.849
+that you own gods and you really support the second amendment.
+
+49:27.149 --> 49:43.358
+And so I think this is also by design and I think we cannot underestimate how the conservative movement that has been brought into existence artificially on the internet is fractured in a way that we ourselves cannot be aware of.
+
+49:45.539 --> 49:54.125
+And that fracturing is something that is a danger to us only because we are participating actively in it and actively singing that harmony.
+
+49:54.225 --> 50:03.972
+If we just get off of social media and organize in a more grassroots way with email and phone numbers and open source apps,
+
+50:06.035 --> 50:07.417
+then all of this goes away.
+
+50:07.997 --> 50:11.121
+And all of their control over what we see goes away.
+
+50:11.281 --> 50:15.286
+All of their control over what questions we are asking go away.
+
+50:17.929 --> 50:19.912
+Now I'm not saying I can do it all by myself.
+
+50:19.992 --> 50:22.655
+I'm not saying that my peer tube is enough for you.
+
+50:22.695 --> 50:25.278
+I'm just saying that we as a people
+
+50:26.229 --> 50:27.489
+are capable of doing this.
+
+50:27.529 --> 50:32.631
+We're all adults and none of the people that are in front of us are extraordinary geniuses.
+
+50:32.851 --> 50:36.092
+You know that in your heart when you watch television.
+
+50:36.112 --> 50:39.033
+You're not overwhelmed by any of the people that you see.
+
+50:39.413 --> 50:42.734
+You're not overwhelmed by any of the clarity that is presented to you.
+
+50:42.774 --> 50:47.816
+You're not overwhelmed by their ability to impart information in a short amount of time.
+
+50:51.577 --> 50:53.638
+And that means the system isn't ours anymore.
+
+50:54.554 --> 50:59.375
+That means that the cruise ship isn't ours anymore, that it's going somewhere that we didn't sign up for.
+
+50:59.835 --> 51:04.236
+And he sees it, he feels it, our kids see it and feel it.
+
+51:04.836 --> 51:09.277
+We just gotta come to the most parsimonious explanation for why.
+
+51:09.737 --> 51:10.898
+By design.
+
+51:13.718 --> 51:20.700
+Now, it's easy for us, all of us, to give people a hard time if they claim to support the Second Amendment.
+
+51:22.439 --> 51:25.661
+They vote for Dianne Feinstein or Chuck Schumer or something.
+
+51:25.941 --> 51:32.804
+It just seems like a paradox, so contradictory.
+
+51:34.845 --> 51:42.468
+But it's not a contradictory paradox of any kind if all the candidates that are in front of us are already pre-selected and controlled.
+
+51:43.408 --> 51:44.809
+So who cares who they vote for?
+
+51:46.690 --> 52:08.426
+And again, this is a part of the illusion that a lot of Americans don't want to grasp onto right now, but unless you are voting by writing, unless you are voting by writing in a candidate's name, I would say that you're probably not going to be voting for a real person.
+
+52:09.525 --> 52:23.029
+And so maybe one of the strategies, I'm just coming up with this live right now, maybe one of the only strategies that could possibly work would be for everybody in Pittsburgh to vote by write-in only and write the same name in.
+
+52:24.069 --> 52:32.551
+And if an overwhelming number of people wrote in a name like Jonathan Cooey and I became mayor, that would be the way that we would go forward.
+
+52:34.810 --> 52:47.018
+Now I'm not advocating for that, I'm not saying I want that, like Ryan Cole wants to be governor of Idaho, but what I am saying is, is that if the election systems work, that would be one of the only ways to check it.
+
+52:47.939 --> 52:57.525
+Because if you're just gonna check the box and let the scanner do its thing, then the way to verify elections is like two or three people deep, and so then there's no hope.
+
+52:58.871 --> 53:08.355
+We already know, because it's been admitted, that a lot of the technology that's used to tabulate these votes is very vulnerable, simple, dumb, USB-based nonsense.
+
+53:09.096 --> 53:21.141
+And so, there's no reason to believe in the integrity of the vote, especially if you use the, let's say, designated digital card.
+
+53:25.556 --> 53:27.418
+Or even worse, you use the machine.
+
+53:27.498 --> 53:39.290
+So you gotta find a way to vote with a write-in, and then you gotta write in a candidate that isn't already on the ballot, because if they're already on the ballot, probably they have nefarious forces behind them that have put them there.
+
+53:40.891 --> 53:48.879
+That's why we have this super clown as a senator in Pennsylvania, this guy who wears sweatshirts, I don't even remember his name, Federman.
+
+53:50.455 --> 53:58.458
+That guy was in a freaking movie as an extra and had one line in a movie as an extra before he ever ran for office in Pennsylvania.
+
+53:58.498 --> 53:59.658
+That wasn't by accident.
+
+54:00.618 --> 54:02.119
+That's because that's how this is done.
+
+54:06.040 --> 54:08.241
+And he was a mayor of some small town.
+
+54:08.281 --> 54:14.083
+I mean, and then he had a stroke and now he's still somehow a dude like this is not real.
+
+54:15.814 --> 54:19.116
+But if the elections elect somebody, then we have to go with it.
+
+54:19.176 --> 54:22.778
+And so that's kind of the ritual that everybody believes in.
+
+54:22.818 --> 54:26.981
+And so in this case, he's saying, you know, it's weird how everybody votes, but it's a ritual.
+
+54:27.021 --> 54:32.744
+And once you go through the ritual, then everybody, the basis of the ritual is so that everybody accepts the outcome.
+
+54:34.500 --> 54:36.261
+That's what due process means, right?
+
+54:36.301 --> 54:44.765
+You are due a process, and so you get to go before the king and whine about it and bitch about it, and then the king makes a decision and you're gonna accept it.
+
+54:44.785 --> 55:00.133
+And that due process, the more complicated it is, the more people with funny wigs on, the more times a hammer hits a table and somebody says, that's the verdict, the more likely it is that the people that are participating will accept the outcome.
+
+55:02.594 --> 55:12.659
+And so our elections are just an elaborate ritual that gets people to accept the rulers that they are given as if the rulers are chosen.
+
+55:12.699 --> 55:22.223
+And that's definitely not the case, yet he thinks that Dianne Feinstein just runs and wins because, you know, Dianne Feinstein really likes winning.
+
+55:23.715 --> 55:24.875
+Chuck Schumer is a winner.
+
+55:24.996 --> 55:26.356
+That's why he keeps running.
+
+55:26.636 --> 55:27.877
+And that's just ridiculous.
+
+55:28.017 --> 55:29.897
+That's just ridiculous.
+
+55:29.937 --> 55:37.060
+You really think that Nancy Pelosi just keeps running because she's a public servant and she really likes to win and do stuff good?
+
+55:37.080 --> 55:38.021
+I mean, come on.
+
+55:39.081 --> 55:40.802
+But that's what he seems to believe.
+
+55:43.643 --> 55:44.583
+But I don't believe that.
+
+55:46.424 --> 55:49.305
+I don't believe that since Russ Feingold.
+
+55:51.209 --> 55:54.951
+I'm from Wisconsin, so I know we've had good people in government before.
+
+55:55.171 --> 55:56.372
+Russ Feingold was one of them.
+
+55:56.852 --> 56:01.154
+Be that as it may, we get nowhere by name calling.
+
+56:01.535 --> 56:03.676
+And I hope I don't do that.
+
+56:05.637 --> 56:14.442
+One thing this whole endeavor has taught me is how many people with varying opinions on lots of things are interested in firearms.
+
+56:15.062 --> 56:16.763
+And as I've said many times, I think
+
+56:17.264 --> 56:31.352
+You get firearms in people's hands and they become a gun owner and a shooter and learn the... It's almost like an academia where he's very careful to stay in his lane, talk about firearms in the Second Amendment and talk about nothing else.
+
+56:32.073 --> 56:35.194
+And that's very interesting because it's a phenomenon that's very real.
+
+56:36.115 --> 56:40.077
+It's a phenomenon that they create on purpose and they reinforce.
+
+56:40.517 --> 56:40.918
+Trust me.
+
+56:41.238 --> 56:45.220
+The pleasures and the security of having a firearm
+
+56:47.410 --> 56:55.734
+They're going to be thinking, I think, more and more like you, me, and everybody else when it comes to just freedom in general.
+
+56:56.534 --> 57:15.604
+And when they're going into the voting booth, I think they're going to more and more be looking at the names on those ballots and what they know or remember those people saying about firearms, about the Second Amendment, or bills they propose to take away their firearms.
+
+57:16.926 --> 57:18.767
+So we gain nothing by name calling.
+
+57:21.448 --> 57:23.489
+We just need everybody in the fold that we can get.
+
+57:23.509 --> 57:31.212
+And regardless of their religion, or their race, or their background, anything, obviously, is silly.
+
+57:31.272 --> 57:36.294
+To divide people by all those things, that's what the media likes to do.
+
+57:36.314 --> 57:40.556
+That's what politicians like to do, trying to gain power, keep everybody divided.
+
+57:42.808 --> 57:43.709
+What time is it?
+
+57:43.789 --> 57:44.530
+Game time!
+
+57:44.630 --> 57:45.090
+Woo!
+
+57:45.651 --> 57:54.719
+I'm going to go to an old song because the NBA on NBC is actually back, which is kind of crazy.
+
+57:54.759 --> 57:55.960
+So we'll go with this one instead.
+
+57:58.742 --> 58:00.023
+Ladies and gentlemen, it's October 28th, 2025.
+
+58:00.063 --> 58:00.904
+This is the Giga Home Biological.
+
+58:11.508 --> 58:14.530
+What a long, strange trip it has been.
+
+58:15.291 --> 58:19.554
+I've tried very hard to help, but I keep stepping in it somehow.
+
+58:19.574 --> 58:21.776
+I'm not really sure, so I keep working.
+
+58:21.796 --> 58:26.500
+Every day I get up and get to work and hopefully get a show out.
+
+58:27.040 --> 58:31.243
+We're gonna get more and more consistent and they're gonna hate me more and more, but that's okay.
+
+58:31.263 --> 58:32.805
+We're gonna stay focused on the biology.
+
+58:32.845 --> 58:33.926
+We're not gonna take their bait.
+
+58:34.506 --> 58:35.467
+We're gonna love our neighbors.
+
+58:36.488 --> 58:38.929
+Basketball season has officially started.
+
+58:39.790 --> 58:43.813
+Yesterday I ran with the eighth grade team for about a half an hour, and I'm not sore.
+
+58:44.494 --> 58:53.280
+So I think I'm in better shape than I was when I last posted a video playing basketball, which is, I think, to be expected because I've been working for about a year on it now.
+
+58:53.300 --> 58:57.323
+Since February of last year or so, I started getting serious.
+
+58:57.383 --> 58:58.624
+We're going to be like Galileo.
+
+58:58.644 --> 59:00.005
+We're going to seek the truth together.
+
+59:00.045 --> 59:02.387
+And when we find it, we're going to state it out loud.
+
+59:02.447 --> 59:07.071
+And the truth is, is that your consciousness is their prime real estate.
+
+59:08.075 --> 59:09.657
+And social media is how they get it.
+
+59:10.718 --> 59:15.603
+We are acquiescing to social media, and that allows them to control our consciousness.
+
+59:15.663 --> 59:16.744
+It's pretty simple, really.
+
+59:17.965 --> 59:20.448
+It's because it's not a matter of what's true that counts.
+
+59:20.508 --> 59:22.349
+It's a matter of what's perceived to be true.
+
+59:22.369 --> 59:27.595
+And what you perceive to be true on the internet is really, really far away from the truth.
+
+59:34.520 --> 59:36.801
+I mean, they've been doing that for a long time with money.
+
+59:36.841 --> 59:45.185
+Of course, a lot of people are aware that fiat currency and fractional reserve banking have been used to make certain people rich.
+
+59:45.525 --> 59:48.347
+Certain people don't even care about money anymore in the sense that we do.
+
+59:49.648 --> 59:54.150
+And that's because the money system has been a long time ago corrupted.
+
+59:55.390 --> 59:57.431
+But you would have to read a book to know that.
+
+59:57.991 --> 01:00:00.191
+You would definitely need to read a book to know that.
+
+01:00:00.251 --> 01:00:11.915
+Just like you'd need to read a book to know the real history of the Hepatitis B vaccine, you'd have to read a book or two to know anything about basic virology in bacteria.
+
+01:00:12.816 --> 01:00:13.616
+Bacteriophages.
+
+01:00:14.437 --> 01:00:16.918
+And that's because there are three classes of people.
+
+01:00:16.978 --> 01:00:19.740
+Those who see, and maybe those who seek.
+
+01:00:20.601 --> 01:00:23.942
+Those who see when shown, and those who do not see.
+
+01:00:23.982 --> 01:00:32.727
+And right now, unfortunately, the group of people who does not see is being artificially inflated because of skilled social media use.
+
+01:00:34.088 --> 01:00:38.391
+If you default to that, you will be, by definition, a person who cannot see.
+
+01:00:39.485 --> 01:00:45.489
+Because on social media, illusions of consensus are created by sticking to limited spectrums of debate.
+
+01:00:46.049 --> 01:00:49.772
+The fake health freedom movement in America is one great example of that.
+
+01:00:49.812 --> 01:00:53.655
+You may have fallen victim to this elaborate hoax as well.
+
+01:00:54.375 --> 01:00:59.599
+But it is the flip side, the B-side of the pandemic and natural
+
+01:01:00.459 --> 01:01:02.961
+or lab leak viruses that these people represent.
+
+01:01:03.041 --> 01:01:09.787
+And so they create an illusion of consensus by putting teams of actors out there on the internet.
+
+01:01:09.827 --> 01:01:12.970
+These are the kinds of people that I'm referring to.
+
+01:01:13.010 --> 01:01:17.294
+These are the podcast actors that are doing the misleading of the young.
+
+01:01:18.014 --> 01:01:19.696
+And they do it by podcast acting.
+
+01:01:19.736 --> 01:01:22.138
+I'm referring to them as team worst case scenario.
+
+01:01:22.879 --> 01:01:27.563
+And I think that Robert Malone and Kevin McKernan are likely the captain recruiters of these people.
+
+01:01:28.536 --> 01:01:35.478
+And they're doing it because they still believe that there's some final goal to be had here, and maybe they're right.
+
+01:01:35.658 --> 01:01:47.281
+But right now, all they can do is really collect the data for the AI that doesn't exist, collect the data for, set up the network to collect the data, to monitor the data.
+
+01:01:47.381 --> 01:01:48.402
+That's all they can really do.
+
+01:01:52.165 --> 01:02:00.151
+And the only reason why they can do that is because they have this very limited but lively spectrum of debate on the internet.
+
+01:02:00.171 --> 01:02:08.798
+You know, like Joe Rogan podcast and Mary Talley Bowden's podcast and all these podcasters that have a spectacular commitment to the lies.
+
+01:02:08.838 --> 01:02:12.742
+And that's a harsh way of saying that they just read the script that they're given.
+
+01:02:12.922 --> 01:02:16.665
+I mean, if you're an actor and you read the script, you're not really a liar, you're an actor.
+
+01:02:17.577 --> 01:02:20.218
+And that's why a lot of these people don't feel bad about doing it.
+
+01:02:20.278 --> 01:02:22.078
+They think of themselves as an actor.
+
+01:02:22.118 --> 01:02:35.741
+And part of their job as an actor is to make us teach our children about gain-of-function mythology, about gain-of-function research, and viruses, and kind of pass along these things to our children, as opposed to passing along common sense.
+
+01:02:37.161 --> 01:02:37.881
+But we're going to try.
+
+01:02:37.901 --> 01:02:42.182
+We're going to try to break that mold with noncompliance on the social media thing.
+
+01:02:43.062 --> 01:02:45.043
+And we're going to try to get the truth out there.
+
+01:02:45.964 --> 01:02:50.106
+The truth is encoded in history and in history's mentors.
+
+01:02:50.986 --> 01:02:54.967
+I think one of my best allies in this is Housatonic ITS.
+
+01:02:55.007 --> 01:02:58.068
+Housatonic comes out of Boston, Massachusetts.
+
+01:02:58.669 --> 01:03:07.312
+You can see him on Housatonic Channel 2, on YouTube, and also on all the other platforms, including my gigaohm biological platform on Peertube.
+
+01:03:07.352 --> 01:03:09.433
+So if you want to catch his stuff, that gets you there too.
+
+01:03:12.074 --> 01:03:23.201
+These charlatans are just some of the people that are in charge of keeping us off narrative and away from the truth, the irreducibly complex biology of humans.
+
+01:03:24.342 --> 01:03:25.903
+And these people are in front of them.
+
+01:03:27.204 --> 01:03:29.986
+And these charlatans are not the ones that have the power.
+
+01:03:30.046 --> 01:03:31.947
+These are the ones that are working for the slavers.
+
+01:03:32.508 --> 01:03:36.890
+These are the ones that I can personally explain how they are criminals.
+
+01:03:37.271 --> 01:03:38.532
+And that's why I still have hope.
+
+01:03:39.292 --> 01:03:43.137
+I still have hope that me or my kids are going to bring these people to justice.
+
+01:03:44.579 --> 01:03:54.814
+I still think that we can choose a path where everybody hears about GigaOM eventually, and hears about it in the context of the fraud that these people have committed.
+
+01:03:55.414 --> 01:03:57.394
+The fraud that these people are sustaining.
+
+01:03:57.575 --> 01:03:59.555
+And we can do it by teaching people biology.
+
+01:03:59.615 --> 01:04:00.435
+I really believe that.
+
+01:04:00.515 --> 01:04:05.076
+Because this illusion requires your participation to sustain.
+
+01:04:05.756 --> 01:04:09.377
+Intramuscular injection is definitely a dumb idea from the late 1800s.
+
+01:04:09.977 --> 01:04:13.678
+Transfection in healthy people is most certainly nuts.
+
+01:04:16.018 --> 01:04:17.239
+And RNA cannot pandemic.
+
+01:04:17.279 --> 01:04:18.479
+I think it's super simple.
+
+01:04:19.554 --> 01:04:23.178
+The basic tool for the manipulation of reality is the manipulation of words.
+
+01:04:23.218 --> 01:04:27.163
+And if you can control the meaning of words, you can control the people who must use the words.
+
+01:04:27.203 --> 01:04:28.525
+Here's some good words for you.
+
+01:04:29.666 --> 01:04:32.630
+Use them wisely and often as possible.
+
+01:04:47.839 --> 01:04:52.332
+Just not in the ways you've been fooled into believing, right?
+
+01:04:52.873 --> 01:04:54.317
+Autism is a myth.
+
+01:04:56.565 --> 01:05:00.248
+Oh my gosh, we've been at this a long, long time.
+
+01:05:00.328 --> 01:05:03.630
+I can't believe we went from this graphic to this graphic this year.
+
+01:05:05.912 --> 01:05:09.974
+Actually, the Marvin the Martian basketball graphic was originally from 2022.
+
+01:05:10.034 --> 01:05:13.016
+Then brought it back in 24.
+
+01:05:14.537 --> 01:05:15.498
+As far as I can tell.
+
+01:05:15.518 --> 01:05:20.021
+I don't have all of my slide decks from all of the years, but I have most of them.
+
+01:05:20.602 --> 01:05:23.844
+And I have every video that I've ever done, and it's a lot to go through.
+
+01:05:26.033 --> 01:05:28.538
+Anyway, let's pick up where we left off.
+
+01:05:29.500 --> 01:05:32.645
+Just remember we were starting to watch this video over here.
+
+01:05:34.781 --> 01:05:41.344
+I think most people have concluded that the creation of COVID was probably not what they told us.
+
+01:05:41.404 --> 01:05:45.406
+It probably didn't evolve naturally out of a pangolin in a seafood market.
+
+01:05:46.187 --> 01:06:00.054
+And the Wuhan Institute of Virology probably played a role, the US government played a role, but it is impossible to find anyone, or has been for us anyway, to find anyone who has kind of like direct connection to any of the main players here.
+
+01:06:00.074 --> 01:06:02.355
+None of them will do an interview, none.
+
+01:06:03.769 --> 01:06:06.810
+You were the vice president of the EcoHealth Alliance.
+
+01:06:07.610 --> 01:06:10.691
+You're a former military guy, tied to the intel world.
+
+01:06:10.711 --> 01:06:13.031
+You worked at federal.
+
+01:06:13.351 --> 01:06:14.711
+Nobody will do an interview.
+
+01:06:14.751 --> 01:06:18.532
+He can't find anybody that can explain to him why Robert F. Kennedy Jr.
+
+01:06:18.552 --> 01:06:19.612
+is a scripted fraud.
+
+01:06:19.652 --> 01:06:24.013
+He can't find anybody who can explain to him why the pandemic was a fraud.
+
+01:06:24.033 --> 01:06:30.555
+He can't find anybody connected to this at all that has any connections to any of this, but lucky,
+
+01:06:31.436 --> 01:06:43.257
+uh andrew huff is there to talk to him that's cool nuclear lab in new mexico for years a nuclear lab i didn't know that uh and then you wind up
+
+01:06:44.497 --> 01:06:47.539
+working for EcoHealth Alliance in New York City.
+
+01:06:48.139 --> 01:06:57.765
+You think it's like this World Wildlife Fund operation designed to track diseases among wildlife globally and protect the wildlife, protect the people.
+
+01:06:57.845 --> 01:06:59.806
+It's kind of a crunchy outfit.
+
+01:06:59.866 --> 01:07:01.287
+It's do-gooders, basically.
+
+01:07:02.188 --> 01:07:06.811
+You show up there, you help them raise a bunch of money from the feds, and you become the vice president.
+
+01:07:08.031 --> 01:07:09.892
+And then you discover it's not what you thought.
+
+01:07:10.052 --> 01:07:13.773
+So that's the story that you told me at breakfast, which is an amazing story.
+
+01:07:14.093 --> 01:07:15.014
+Thank you again for coming.
+
+01:07:15.694 --> 01:07:22.036
+I'm going to bow out now and let you continue the story from there, assuming I've been faithful in my rendition of it so far.
+
+01:07:22.056 --> 01:07:23.257
+That's perfectly accurate.
+
+01:07:23.277 --> 01:07:24.157
+And thank you for having me.
+
+01:07:24.197 --> 01:07:26.138
+This is sort of like a dream of mine.
+
+01:07:26.438 --> 01:07:27.598
+Oh, well, I'm so excited you're here.
+
+01:07:27.778 --> 01:07:29.539
+And because this has been gnawing at me,
+
+01:07:31.732 --> 01:07:32.852
+you know, where did COVID come from?
+
+01:07:33.092 --> 01:07:34.273
+Where did it come from?
+
+01:07:34.353 --> 01:07:36.534
+So ladies and gentlemen, this is Geek Owned Biological.
+
+01:07:36.554 --> 01:07:39.695
+It's a high resistance, low noise information brief brought to you by a biologist.
+
+01:07:39.715 --> 01:07:43.516
+I'm a guy who used to work for Children's Health Defense and used to work for Robert F. Kennedy Jr.
+
+01:07:43.556 --> 01:07:47.717
+Before I learned enough biology to understand that RNA cannot pandemic.
+
+01:07:47.757 --> 01:07:57.921
+It doesn't have any of the chemical or physical attributes of DNA to which we attribute the magical properties that have, you know, allowed evolution to occur.
+
+01:07:58.781 --> 01:08:20.408
+And so if evolution is real because we found DNA and RNA has none of the chemical or physical characteristics of DNA, then how in the world could we need to fear RNA pandemicking and RNA going endemic and RNA being released in a mud puddle and then in a year being found in everyone around the world and all the white-tailed deer in North America?
+
+01:08:20.888 --> 01:08:21.969
+That's absurd.
+
+01:08:22.935 --> 01:08:24.276
+And it's absurd on its face.
+
+01:08:24.356 --> 01:08:35.985
+It's so absurd that the only way that we could possibly be here as a species is because social media is so effective when you put enough actors to agree to lie.
+
+01:08:37.182 --> 01:08:39.263
+to stick to a narrative, to a script.
+
+01:08:39.763 --> 01:08:40.703
+That's how we are here.
+
+01:08:41.124 --> 01:08:43.705
+And this is not a message that everyone can handle.
+
+01:08:43.745 --> 01:08:48.987
+It's not a message for anyone, but it is, sorry, everyone, but it is a message for anyone.
+
+01:08:49.047 --> 01:08:56.269
+Anyone that wants to know the truth and understand how we are being governed by the skillful use of social media, I've got it.
+
+01:08:56.569 --> 01:08:57.370
+And it ain't hard.
+
+01:08:57.990 --> 01:09:14.495
+It's not hard to understand because while PBS NewsHour and many unwitting actors are trying to emphasize that they believe that it is just the nefarious corporate social media that wants you to use and click more and sell ads,
+
+01:09:17.369 --> 01:09:21.255
+and that they're just competing for your attention so that they can sell ads.
+
+01:09:21.315 --> 01:09:25.461
+And so, because that's the way capitalism works, there's nothing we can do about it.
+
+01:09:25.922 --> 01:09:33.193
+My message is, is that there is a national security operation that has weaponized social media and we are being governed by this illusion.
+
+01:09:34.073 --> 01:09:50.878
+that it's AI and just the way things are instead of an active manipulation of the voting population and active manipulation of the skilled social media using population based on what they click on and compartmentalizing them and intellectual hamster wheels
+
+01:09:51.758 --> 01:10:10.383
+and using them as they see appropriate against one another to create the confusion necessary so that, you know, everybody believes in elections and everybody believes in foreign policy and everybody believes that, you know, the consequences of the current state of affairs are just because Robert F. Kennedy Jr.
+
+01:10:10.483 --> 01:10:13.564
+and Jay Bhattacharya and Donald Trump are in charge.
+
+01:10:14.944 --> 01:10:17.205
+That's the reason why the ride's a little bumpy, everybody.
+
+01:10:18.274 --> 01:10:19.655
+And that's just ridiculous.
+
+01:10:20.435 --> 01:10:21.616
+This is for all the marbles.
+
+01:10:21.656 --> 01:10:23.157
+This is for the grandchildren of Earth.
+
+01:10:23.177 --> 01:10:28.800
+So they're definitely going to tell you a few stories, and they're definitely going to use a few podcast actors to do it.
+
+01:10:28.880 --> 01:10:29.821
+That's for sure.
+
+01:10:30.461 --> 01:10:31.882
+It's not going to be AI.
+
+01:10:32.282 --> 01:10:37.326
+It's not going to be programming of an AI that they don't really understand how it works.
+
+01:10:37.446 --> 01:10:38.926
+No, it's very, very simple.
+
+01:10:38.987 --> 01:10:44.430
+Tucker Carlson is an actor and a liar on a script, as are many of these other people.
+
+01:10:44.870 --> 01:10:46.291
+And when you come to accept that,
+
+01:10:46.731 --> 01:10:53.175
+then suddenly everything turns a little greener and it feels a little more friendly because there was just a background signal that they lied about.
+
+01:10:53.475 --> 01:10:56.917
+What should be happening in the Biden administration right now that isn't going on?
+
+01:10:57.457 --> 01:10:59.358
+Yeah, there are two main things that they should be doing.
+
+01:10:59.378 --> 01:11:12.505
+I think what's darker is when you realize that the same actors on the left, like Liana Nguyen, who was inserted into our American history narrative during the Boston bombing, marathon bombing,
+
+01:11:14.329 --> 01:11:35.219
+And as a Boston public health minister, something, something, I don't know what that is called, secretary of public health, this woman, this woman right here is in front of us at the end of 2024 talking about the bird flu and the bird flu and the bird flu and how we need to worry about the bird flu.
+
+01:11:35.640 --> 01:11:42.183
+And it is not by accident, it is by national security state script that the UK actor
+
+01:11:44.482 --> 01:12:01.290
+Polly Tommy and the UK, or sorry, the United States government scientist turned anti-vax saboteur, Brian Hooker, are talking about the exact same thing with their followers during the exact same freaking month.
+
+01:12:02.389 --> 01:12:06.170
+They are heavily going at us with, woman, I'm gonna kill you, blah, blah.
+
+01:12:06.250 --> 01:12:10.050
+And you just said, you're not seeing any difference in the pasteurized milk.
+
+01:12:10.190 --> 01:12:12.731
+Pasteurization is not designed to kill.
+
+01:12:12.951 --> 01:12:19.472
+It is impossible that these two clowns are in front of us because they are fighting for children's health.
+
+01:12:20.032 --> 01:12:27.854
+It is impossible that these two are fighting for justice and whatever for kids like their own.
+
+01:12:27.994 --> 01:12:29.474
+That is, there's no way.
+
+01:12:30.319 --> 01:12:33.200
+This woman owns property on two continents.
+
+01:12:33.701 --> 01:12:40.284
+That man has been taking 200 plus thousand dollars a year for many years now and beautiful health insurance.
+
+01:12:40.684 --> 01:12:42.104
+And I'm not saying it's bad.
+
+01:12:42.164 --> 01:12:43.125
+I'm not saying it's good.
+
+01:12:43.185 --> 01:12:45.306
+I'm just saying that he's an actor on a script.
+
+01:12:45.686 --> 01:12:54.970
+There's no way to explain where this fake health freedom movement is after 15 years and being where they are, unless they are scripted actors.
+
+01:12:55.010 --> 01:12:57.471
+That's the reason why we have Robert F. Kennedy Jr.
+
+01:12:57.512 --> 01:12:58.252
+He was a trap.
+
+01:12:59.315 --> 01:13:08.786
+And you can see it because I've spent six years trying to convince these people that RNA cannot pandemic, that transfecting any healthy human would be crazy.
+
+01:13:09.266 --> 01:13:13.932
+And Brian Hooker has 16 years of experience working at a government laboratory.
+
+01:13:14.412 --> 01:13:16.813
+So he damn well knows what transfection is.
+
+01:13:16.853 --> 01:13:33.039
+He knows that this was an old technology that was being renamed as an investigational vaccine so that the intellectual property clock could be reset and so that everybody would be bamboozled into believing it was just another one of those safe things we call vaccines that we inject and make magic with.
+
+01:13:35.373 --> 01:13:44.918
+It is impossible to explain this other than all of these people are scripted actors and I was just one of the few people that they failed to absorb.
+
+01:13:48.000 --> 01:13:52.983
+While spending hundreds of thousands if not millions of dollars trying to get me to be absorbed.
+
+01:13:54.332 --> 01:14:03.838
+Now, it might seem a little bit far-fetched to believe that all of these people have been, you know, scripted to act against me, but they have.
+
+01:14:04.139 --> 01:14:05.259
+They all know my name.
+
+01:14:05.340 --> 01:14:08.562
+They probably all sat at tables and discussed what to do next.
+
+01:14:09.002 --> 01:14:14.005
+They've all probably had to sit down at the table and go, shit, that blew up in our face.
+
+01:14:14.426 --> 01:14:15.186
+Now what do we do?
+
+01:14:15.907 --> 01:14:19.149
+Several times during the course of the pandemic,
+
+01:14:20.626 --> 01:14:23.748
+because the narrative has been out of their control for some time.
+
+01:14:24.309 --> 01:14:46.586
+This worst case scenario team, once I understood its composition and I could see that Kevin McCairn was dancing with these people rather than actually debating them, that the CHD people were dancing with these people as opposed to debating them, that the CHD people were dancing with these people as opposed to actively opposing them,
+
+01:14:47.799 --> 01:14:50.982
+It started to become very clear to me that something else was going on.
+
+01:14:51.022 --> 01:14:55.166
+And once I started calling it out, everybody scrambled for the doors.
+
+01:14:58.369 --> 01:15:05.095
+And they're still scrambling for the doors now because the one answer that actually explains it is that they're all one shitty team.
+
+01:15:06.991 --> 01:15:09.473
+That's why they're all in Commonwealth countries.
+
+01:15:09.553 --> 01:15:16.839
+That's why they all are part of the same groups of dissidents all around the world.
+
+01:15:16.939 --> 01:15:22.484
+And they're all in, you know, English-speaking or second English-speaking countries, and it's just a joke.
+
+01:15:23.362 --> 01:15:26.904
+It's really a joke how international these people in blue have been.
+
+01:15:27.004 --> 01:15:41.811
+There's no reason for Meryl Nass to have been international in the last six years as a lowly Maine doctor who was, you know, speaking out about the anthrax vaccine when she had absolutely no business speaking out about the anthrax vaccine like almost 20 years ago.
+
+01:15:42.652 --> 01:15:43.492
+This is a joke.
+
+01:15:44.813 --> 01:15:52.497
+And the reason why it's a joke is because none of these people have the requisite professional experience to be saying and doing what they're doing.
+
+01:15:53.888 --> 01:16:01.398
+It's all a fabricated CV that every one of these people is working with, and it's an absolute travesty that nobody can see it.
+
+01:16:03.134 --> 01:16:11.999
+They've likely all been scripted by Robert Malone and Kevin McKernan directly or indirectly, and then set out on social media to do their thing.
+
+01:16:12.039 --> 01:16:23.065
+And they argue with each other, and they say that Jessica Rose doesn't know what she's talking about, or they yell from the stairs of some conference so that everybody hears them yell.
+
+01:16:23.125 --> 01:16:27.247
+And so then everybody thinks, ooh, wow, controversy, we must follow that person.
+
+01:16:27.587 --> 01:16:29.188
+They do all kinds of stunts.
+
+01:16:30.560 --> 01:16:36.925
+And we think if we tweet the right thing, or retweet the right thing, or post the right thing, or make the right video, that somehow we're going to change their script.
+
+01:16:36.965 --> 01:16:44.611
+And that's as ridiculous as thinking that if you texted the right person, you could get the Star Trek episode that you're currently watching to change.
+
+01:16:49.234 --> 01:16:50.615
+Everyone has a timeline.
+
+01:16:50.695 --> 01:16:54.558
+My timeline is one that is almost for the ages.
+
+01:16:56.140 --> 01:16:59.923
+It's going to be one of the best books that anyone's ever read because it's just the truth.
+
+01:17:00.731 --> 01:17:02.053
+I don't have to remember anything.
+
+01:17:05.497 --> 01:17:06.878
+The internet remembers it.
+
+01:17:08.500 --> 01:17:09.742
+Rumble remembers it.
+
+01:17:09.802 --> 01:17:11.023
+YouTube remembers it.
+
+01:17:11.083 --> 01:17:12.525
+My hard drives remember it.
+
+01:17:15.222 --> 01:17:23.934
+And if you just put the timeline down for any of these people, it becomes obvious that they are part of a scripted narrative trap.
+
+01:17:24.014 --> 01:17:31.384
+In 2020, supposedly Andrew Huff detected the smoke of the bodies being burnt in Wuhan.
+
+01:17:34.110 --> 01:17:45.460
+That's what spurred him to buy a house in Northern Michigan with a mile long driveway and stock up on MREs because he saw the bodies burning on satellite footage.
+
+01:17:46.401 --> 01:17:50.645
+What the project program was and what they were claiming to do, it wasn't doing any of those things.
+
+01:17:51.425 --> 01:18:00.493
+It was simply just- But it was in 2022 in February that he came out and had a discussion about all of this stuff with lots of military lingo
+
+01:18:01.394 --> 01:18:06.055
+by the Trial Site News organization with Robert Malone.
+
+01:18:06.175 --> 01:18:23.039
+Trial Site News is of course a clown show but in 2022 we couldn't necessarily know that and these two guys then performed an elaborate theater where they pretended to be two longtime military operators using words like good copy and over
+
+01:18:24.966 --> 01:18:35.132
+and talking about the possibility of a lab leak, the possibility that they created the virus, then yadda yadda yadda, and that was already in 2022, before he had the book out.
+
+01:18:35.952 --> 01:18:45.078
+Remember, Robert Malone already has, at this time in 2022, two books with Skyhorse Publishing, and he's working on his third, which is now out.
+
+01:18:46.808 --> 01:19:00.482
+Skyhorse Publishing being the same publisher that published the book in 2008 with the epilogue where Bobby Kennedy runs as an independent and then gets taken as the vice presidential candidate by the Republican who then gets shot making Robert F. Kennedy Jr.
+
+01:19:00.502 --> 01:19:01.703
+the President of the United States.
+
+01:19:03.206 --> 01:19:15.636
+And we're supposed to believe that the events of 2024 are not scripted, that they're just by accident really close to that sort of epilogue written in a Skyhorse publishing book.
+
+01:19:15.676 --> 01:19:17.257
+That's just by accident.
+
+01:19:17.698 --> 01:19:25.044
+Just like it might be by accident that, you know, some guy from EcoHealth Alliance is coming out and telling us that, see, it's a lab leak.
+
+01:19:25.084 --> 01:19:27.646
+It's just the way, you know, sometimes there are whistleblowers.
+
+01:19:28.586 --> 01:19:31.367
+collecting information and hunting for viruses, which I found interesting.
+
+01:19:31.487 --> 01:19:40.050
+I can tell you from working closely with the DITRA chem biodefense folks, they're not always the sharpest tools in the shed.
+
+01:19:40.330 --> 01:19:42.291
+Or maybe they're the ones that pay these guys.
+
+01:19:42.631 --> 01:19:52.194
+And so one of the ways to make it sound like, you know, we wouldn't be working for DITRA, we don't work for DITRA, is to say that DITRA's kind of dorks, you know, they're kind of dumbasses.
+
+01:19:52.774 --> 01:19:55.455
+You know, I've worked for DITRA before and they're kind of dumbasses.
+
+01:19:55.495 --> 01:19:57.396
+You know, DITRA's kind of that dumb place.
+
+01:19:58.116 --> 01:20:02.040
+And then suddenly everybody that's watching this thinks, oh, wow, Ditra, I guess it's not them.
+
+01:20:03.841 --> 01:20:05.202
+Must be the CIA, right?
+
+01:20:06.203 --> 01:20:19.034
+And they could, you know, they, my sense is they often see their mission space as more pilot program-like, not more comprehensive operational.
+
+01:20:19.054 --> 01:20:24.439
+They're often trying to prove a concept that then gets passed off to bigger funding.
+
+01:20:25.425 --> 01:20:28.047
+Does that comport with your experience?
+
+01:20:28.367 --> 01:20:29.087
+Yeah, absolutely.
+
+01:20:29.107 --> 01:20:33.490
+And it depends on the program manager that gets assigned to your project.
+
+01:20:34.410 --> 01:20:43.315
+Some program managers are very... Now, if we move right, of course, at the end of the year, there is a video where he goes on Andrew Huff.
+
+01:20:43.375 --> 01:20:49.219
+And the reason why he goes on Alex Jones is because Andrew now has his book.
+
+01:20:49.759 --> 01:20:52.841
+So I'll again remind you that yesterday we watched this video as well.
+
+01:20:54.222 --> 01:20:59.147
+And then that video, maybe this is what was supposed to play there and it didn't play, I apologize.
+
+01:21:01.509 --> 01:21:05.233
+So you have to ask yourself, you know, when the hell is this insanity going to stop?
+
+01:21:05.273 --> 01:21:06.614
+I mean, we have to do something about it.
+
+01:21:06.774 --> 01:21:07.695
+That's why I wrote the book.
+
+01:21:08.336 --> 01:21:13.241
+And, you know, I realized the psyop that's been going on against the American people is this.
+
+01:21:14.775 --> 01:21:23.922
+they try to confuse this whole discussion about the origin of SARS-CoV-2 or COVID by talking about this detailed minutiae of virology.
+
+01:21:24.022 --> 01:21:28.205
+So, I actually became friends with Robert F. Kennedy Jr.
+
+01:21:28.806 --> 01:21:37.592
+He called me up and it was really... Now, of course, the reason why I play this again is because it's curious that they have him have a narrative that's very similar to mine.
+
+01:21:37.652 --> 01:21:42.676
+Now, far be it for me to claim that I would be the only one that Robert F. Kennedy Jr.
+
+01:21:42.696 --> 01:21:43.176
+would call
+
+01:21:43.965 --> 01:21:45.626
+Of course, Robert F. Kennedy Jr.
+
+01:21:45.706 --> 01:21:52.088
+could be used to call a lot of people and to influence a lot of people because a lot of people would be pretty shocked to get a phone call from him.
+
+01:21:52.788 --> 01:21:56.349
+They could use an AI version of his voice to call you and do the same thing.
+
+01:21:58.570 --> 01:22:05.693
+Now, the thing that I think is most important here is that on the same day that I got a phone call from Robert F. Kennedy Jr.
+
+01:22:05.793 --> 01:22:06.233
+saying,
+
+01:22:07.637 --> 01:22:17.564
+that Robert Malone had sat him down and made him watch my stream with Charles Rixey, I got a phone call also in that same day from Senator Ron Johnson telling me exactly the same thing.
+
+01:22:18.325 --> 01:22:24.229
+That Robert Malone had told him to watch my stream with Charles Rixey and that had convinced him to call me.
+
+01:22:26.491 --> 01:22:27.832
+These are not made up things.
+
+01:22:27.892 --> 01:22:29.793
+That happened exactly in April of 2022.
+
+01:22:30.774 --> 01:22:35.698
+So in the same year, Robert Malone is also apparently working up
+
+01:22:36.900 --> 01:22:43.863
+a guy by the name of, of Andrew Huff and setting him up to produce a Skyhorse publishing book.
+
+01:22:43.923 --> 01:22:46.044
+Remember he's closely connected to Skyhorse.
+
+01:22:46.084 --> 01:22:47.404
+He's got three books with them.
+
+01:22:48.084 --> 01:22:49.325
+So maybe he set them up.
+
+01:22:49.445 --> 01:22:49.865
+I don't know.
+
+01:22:50.605 --> 01:22:54.507
+Maybe Tony Lyons met Andrew Huff through Robert Malone.
+
+01:22:54.527 --> 01:22:55.447
+It doesn't really matter.
+
+01:22:55.507 --> 01:22:59.729
+The point is, is this timing is quite dubious because remember this guy
+
+01:23:00.229 --> 01:23:14.134
+recommended that you take the RNA in the beginning because he was so panicked he brought a house in Upper Michigan and had a shootout with the Michigan police with 150 rounds and never really found out who was deploying drones over his house.
+
+01:23:17.571 --> 01:23:18.732
+really interesting conversation.
+
+01:23:18.773 --> 01:23:22.377
+He said, you know, I heard that you're from Ecolith Alliance.
+
+01:23:22.397 --> 01:23:23.579
+He works in all these places.
+
+01:23:23.599 --> 01:23:26.302
+I hear that you're getting harassed by the CIA.
+
+01:23:26.783 --> 01:23:29.987
+My family and I have really interesting history with the CIA.
+
+01:23:30.628 --> 01:23:31.929
+And it blew my mind.
+
+01:23:32.009 --> 01:23:33.391
+And so he sent me an autographed copy.
+
+01:23:33.411 --> 01:23:34.272
+He was about to tell me to read it.
+
+01:23:36.198 --> 01:23:43.028
+you know, he covers everything so well there, I realized they've been bogging everyone down with the detailed technical minutiae of virology.
+
+01:23:43.429 --> 01:23:44.370
+So nobody can understand it.
+
+01:23:44.390 --> 01:23:47.936
+I mean, people at my level can barely understand a lot of the technical detail.
+
+01:23:47.956 --> 01:23:50.800
+It actually takes me some time to read through these virology papers.
+
+01:23:51.801 --> 01:23:58.787
+So it's not that the technical details are wrong or exaggerated, as Peter Thiel might call it.
+
+01:23:59.268 --> 01:24:00.529
+It's not that they're lying.
+
+01:24:01.089 --> 01:24:04.152
+It's that the technical details bog down the truth.
+
+01:24:04.552 --> 01:24:12.118
+The technical details are really hard to sort out, you know, and it takes even me, a guy like me who's super smart, it takes me a long time to read these details.
+
+01:24:12.901 --> 01:24:20.103
+But he doesn't disagree that there is a novel virus that could kill millions of people, that millions more will be saved from, and that it could be a lab leak.
+
+01:24:20.123 --> 01:24:22.303
+He doesn't disagree with the narrative trap at all.
+
+01:24:22.884 --> 01:24:29.585
+He just says that the minutia of virology are pretty complicated and there's no reason to waste people's time with that.
+
+01:24:32.646 --> 01:24:39.408
+So what I do in this book is I break it down in layman terms so that a high school student can understand
+
+01:24:40.682 --> 01:24:46.745
+Random footage of the Kennedy assassination because that's what Alex Jones does, because he's a really good guy.
+
+01:24:47.085 --> 01:24:48.706
+He's a patriot trying to win.
+
+01:24:49.926 --> 01:24:50.906
+What has happened here?
+
+01:24:50.926 --> 01:25:00.370
+And I firmly believe if we can make every American understand, and you know, I'm an educator, I love teaching, I want everyone to be able to understand, then we can prevent this from ever happening again.
+
+01:25:00.390 --> 01:25:01.791
+And that's really my goal here.
+
+01:25:04.440 --> 01:25:05.340
+It's just incredible.
+
+01:25:05.480 --> 01:25:07.121
+And you've got so much courage.
+
+01:25:08.121 --> 01:25:11.142
+But what I get from this at first, you were just trying to be helpful.
+
+01:25:11.903 --> 01:25:16.364
+And then they came after you and describe some of that harassment for folks that don't know what this is like.
+
+01:25:17.705 --> 01:25:18.765
+Yeah, it was really strange.
+
+01:25:18.825 --> 01:25:24.407
+I mean, so the first thing that happens is that military grade quadcopter drones are hovering around my house.
+
+01:25:27.051 --> 01:25:37.683
+If you watch that whole video, you will find him oftentimes struggling to put the words together, even though you can clearly hear him, that he has a certain combination of words that he wants to use.
+
+01:25:38.689 --> 01:25:50.373
+So he wants to say supercalifragilisticexpialidocious, and he has scripted himself to say it, but then he's getting there, and it's coming close, and then he knows it's coming, and you can hear him trip over it.
+
+01:25:50.553 --> 01:26:00.957
+Or, you know, he's going to try to say something like, the government tries to mislead you about the way the gain-of-function viruses are working, and that's really the obfuscation, and he can't get out any of the words.
+
+01:26:02.218 --> 01:26:03.559
+And that reveals him.
+
+01:26:03.680 --> 01:26:04.821
+And look at his eyes.
+
+01:26:04.881 --> 01:26:06.123
+He's always looking down.
+
+01:26:06.183 --> 01:26:07.445
+It's because he's got notes.
+
+01:26:07.505 --> 01:26:11.951
+He's got a script that he's supposed to stick to because this is a lie.
+
+01:26:12.392 --> 01:26:16.117
+He's not remembering what happened to him over the last five years.
+
+01:26:16.177 --> 01:26:19.061
+He's telling you a lie about a whole career that's a lie.
+
+01:26:21.590 --> 01:26:31.857
+Some of these spooks might have just been given jobs, or even worse, the internet stain of a job could have been created post-afterward.
+
+01:26:33.479 --> 01:26:39.863
+Maybe even some of the stuff that is attributed to Jessica Rose or Andrew Huff are even fabricated.
+
+01:26:43.246 --> 01:26:44.166
+That's where we are.
+
+01:26:44.226 --> 01:26:47.629
+Where are all the people that he worked with at the laboratories?
+
+01:26:48.269 --> 01:26:50.271
+Where are these people that he worked with at JUUL?
+
+01:26:51.328 --> 01:26:54.509
+When are we gonna hear from some of them who are gonna say, oh yeah, he was awesome.
+
+01:26:55.730 --> 01:26:56.590
+When are we gonna hear that?
+
+01:26:56.630 --> 01:26:57.650
+We're never gonna hear that.
+
+01:26:58.611 --> 01:27:18.718
+But he's got a book that was allowed to be promoted on CHD Good Morning by a South African Indian lady who at the same time was also promoting that Malid Nawaz clown from the UK and also promoting food supply attacks by Andrew Huff in 2022 when the book came out.
+
+01:27:21.019 --> 01:27:42.693
+and now we're supposed to believe three years later he's on tucker carlson having made no progress having made no progress still trying to get the word out now listen carefully to a sponsoring entity whether that is a drug manufacturer the pharmaceutical industry
+
+01:27:44.175 --> 01:27:57.019
+When you submit a proposal to a sponsoring entity, whether that is a drug manufacturer, the pharmaceutical industry, the US government agency, you typically already have the first work done in the proposal before you submit it.
+
+01:27:57.039 --> 01:27:58.299
+Ideally, you have about a...
+
+01:28:00.280 --> 01:28:05.407
+the first year of results, if not the first third of the proposed scope?
+
+01:28:05.907 --> 01:28:13.076
+I was just going to go there, and the best scientists I know, I have a friend that is actually three years ahead in his grant cycle funding.
+
+01:28:13.777 --> 01:28:19.424
+And you become so good at this that there's no easier money to obtain or get
+
+01:28:19.964 --> 01:28:26.271
+then the work that you've already completed and you sort of sit on it, you polish it, and then you start to get to this point where you can cut and paste out your proposals.
+
+01:28:27.052 --> 01:28:34.120
+And from your research work, almost effortlessly, it becomes a machine on its own, especially once you get Postdocs and other advanced researchers involved, it becomes a game.
+
+01:28:37.225 --> 01:28:59.553
+uh... that the intercept uh... reported through drastic we're actually i i i had been affiliated with drastic at the time but i was actually independently steering miranda devine uh... from the new york post to the same interesting he was steering miranda devine of the new york post to the diffuse proposal by telling her what years to search
+
+01:29:00.273 --> 01:29:01.734
+the DARPA database for.
+
+01:29:02.294 --> 01:29:15.883
+It's kind of like a similar script as Robert Malone making the career of some Stolberg reporter for the New York Times when he whistle-blew on the Jesse Gelsinger case.
+
+01:29:17.204 --> 01:29:18.204
+So let me repeat that.
+
+01:29:18.524 --> 01:29:28.331
+He's claiming that independent of Charles Rixey and Drastic releasing the defuse proposal after having it for three months,
+
+01:29:29.389 --> 01:29:37.432
+to The Intercept and publishing it, simultaneously as Veritas claimed to be releasing it on behalf of Major Murphy.
+
+01:29:38.252 --> 01:29:43.854
+This guy claims that he was also trying to get a reporter from the New York Post to find it.
+
+01:29:45.994 --> 01:29:47.795
+So we have three people on Earth.
+
+01:29:50.270 --> 01:29:58.593
+kind of, sort of, two people on earth, really, that claim to be the releasers of the diffuse proposal.
+
+01:29:58.633 --> 01:30:09.277
+We have Charles Rixey, who claims to have interacted with Major Murphy for about three months before Drastic decided to release the document that has no metadata.
+
+01:30:10.836 --> 01:30:14.019
+And then that document was released to the Intercept and apparently published.
+
+01:30:14.579 --> 01:30:27.090
+At the same time, Andrew Huff, who had a book in the works, was also trying to get a, I guess, get somebody to find the proposal on the database.
+
+01:30:27.130 --> 01:30:37.759
+But if he already knew of the existence of the proposal, because the proposal was written when he was at EcoHealth Alliance, and he had all these files at his house that people were trying to destroy, didn't he have a copy of the proposal?
+
+01:30:38.672 --> 01:30:44.216
+It was a proposal about finding viruses, which was what he was doing and what he was working on.
+
+01:30:44.296 --> 01:30:50.160
+So it's weird that that proposal couldn't just be handed over as part of his document set.
+
+01:30:50.520 --> 01:30:53.922
+And he would need to steer somebody hypothetically to where they might find it.
+
+01:30:53.962 --> 01:30:55.043
+And I don't think she found it.
+
+01:30:55.503 --> 01:30:59.606
+It's an interesting part of the narrative proposal that likely exists in telling her how to find it.
+
+01:31:00.206 --> 01:31:01.868
+So I said, told her to start looking at the proposals.
+
+01:31:01.888 --> 01:31:05.090
+And I would look between, you know, a ditch or a DARPA between these years.
+
+01:31:05.650 --> 01:31:08.232
+Um, and he got published at the, uh, through the intercept first.
+
+01:31:09.352 --> 01:31:23.297
+And this is key because if you look at the DARPA Diffuse Proposal, and if that work had occurred, that's the exact work that you would do to have an accidental or an intentional release of SARS-CoV-2 in September of 2019.
+
+01:31:24.197 --> 01:31:32.239
+You look at the timeline and the fact that EcoHealth Alliance, like most other successful scientific organizations, work ahead of the proposal.
+
+01:31:32.619 --> 01:31:37.661
+They were probably already a year, two years, maybe three years ahead of the work that they were submitting
+
+01:31:39.318 --> 01:31:43.701
+And but as anyone who's written grants, I've been involved in writing grants for our company.
+
+01:31:43.942 --> 01:31:46.363
+We got like $30 million in grants from the NIH.
+
+01:31:46.744 --> 01:31:49.206
+You don't apply with a grant not having done 80% of it.
+
+01:31:49.726 --> 01:31:52.148
+It's just you're looking for the last 20%.
+
+01:31:53.289 --> 01:31:54.970
+Because you just can't.
+
+01:31:55.190 --> 01:32:02.155
+The grant process is so grueling and so competitive that in order for you to succeed, you have to have all this preliminary data that shows like we can get X done.
+
+01:32:02.195 --> 01:32:03.436
+We've demonstrated this piece.
+
+01:32:03.456 --> 01:32:04.597
+We've demonstrated this piece.
+
+01:32:04.997 --> 01:32:06.399
+Now we just need to do this last piece.
+
+01:32:07.659 --> 01:32:13.680
+And in that diffuse proposal, they had used particular restriction enzymes.
+
+01:32:13.840 --> 01:32:16.981
+These are enzymes that cut at particular sequences in DNA.
+
+01:32:18.321 --> 01:32:21.801
+Those are important because they help guide the way that you cut and paste DNA together.
+
+01:32:22.422 --> 01:32:32.203
+So imagine if you're cutting and pasting a Word document, but your highlighter to highlight what sentence you want to cut can only start and end with certain letters.
+
+01:32:32.863 --> 01:32:34.124
+Those are what restrictions are.
+
+01:32:34.144 --> 01:32:35.944
+So imagine you can only cut and paste where there's a the.
+
+01:32:36.844 --> 01:32:43.086
+So you would have to then build a paragraph knowing that the paragraphs that have sentences that start with the, we're going to cut with this enzyme.
+
+01:32:43.606 --> 01:32:46.647
+And the ones that have paragraphs... Now let's just see for a second.
+
+01:32:47.207 --> 01:32:53.228
+I'm just going to lean over here and see what I can do.
+
+01:32:54.249 --> 01:32:55.889
+Maybe I'll do it like this.
+
+01:32:56.609 --> 01:32:56.909
+Yes.
+
+01:32:57.670 --> 01:32:58.670
+And then I'll cut over here.
+
+01:33:01.235 --> 01:33:04.017
+This is the Wuhan cover-up book by Robert F. Kennedy Jr.
+
+01:33:04.197 --> 01:33:12.061
+And you just heard Andrew Huff and Kevin McKernan of the Human Genome Project say about the same thing about four years apart, three years apart.
+
+01:33:13.461 --> 01:33:15.462
+And I just want to do a quick thing here.
+
+01:33:16.403 --> 01:33:19.124
+Go into the back of the book and I'm going to look up my last name.
+
+01:33:20.165 --> 01:33:21.425
+C-O-U-E-Y.
+
+01:33:22.966 --> 01:33:24.367
+And I'm going to find it here.
+
+01:33:26.548 --> 01:33:28.709
+And this should work just fine.
+
+01:33:29.932 --> 01:33:33.073
+There is my name, Jonathan Cooey.
+
+01:33:33.113 --> 01:33:40.536
+I'm going to go to 281 first.
+
+01:33:43.037 --> 01:33:53.062
+281 is a Ralph Baric paper about zoonosis and that's likely why SARS fizzled out so quickly.
+
+01:33:53.322 --> 01:33:57.924
+And this is the RNA viruses like a 1970s audio cassette tape.
+
+01:33:57.944 --> 01:33:58.464
+So here is
+
+01:33:59.494 --> 01:34:00.966
+Actually my explanation
+
+01:34:02.950 --> 01:34:11.235
+for the way that they do virology is they just make a large quantity of a pure DNA and then they transfect a cell culture with it and then they call that virology.
+
+01:34:11.776 --> 01:34:22.563
+If they need to, they can drive the packaging of that DNA by also transfecting the N-protein as a separate RNA transcript and that team tends to work really well.
+
+01:34:23.043 --> 01:34:28.146
+And Ralph Baric has revealed that in several talks and also the methodologies of several papers that he's produced.
+
+01:34:28.667 --> 01:34:31.809
+And so all I'm doing is trying to explain how an RNA virus
+
+01:34:32.529 --> 01:34:40.975
+If it exists anywhere, it exists as a pure quantity in a laboratory, and whatever they find in nature is like a very low-fidelity copy.
+
+01:34:41.015 --> 01:34:42.516
+It might not even be a real copy.
+
+01:34:42.556 --> 01:34:44.637
+It's an estimation of what the signal they see.
+
+01:34:45.238 --> 01:34:54.284
+And so, again, a number of particles would far exceed the purity of any natural infection, enabling potential productions of stocks that were ideal launch pads for pandemics.
+
+01:34:54.904 --> 01:34:57.485
+So in a lot of ways, Robert F. Kennedy Jr.
+
+01:34:57.525 --> 01:35:01.806
+and the text that I helped him write really does tell you the truth already.
+
+01:35:02.366 --> 01:35:07.248
+That none of these signals have the fidelity that would be necessary to produce a pandemic.
+
+01:35:07.308 --> 01:35:08.168
+It's impossible.
+
+01:35:10.008 --> 01:35:11.369
+And so I say it right there.
+
+01:35:11.409 --> 01:35:14.009
+I'm quoted as saying it right there, but I guess that's not the right quote.
+
+01:35:14.310 --> 01:35:15.930
+So let's go back to the index again.
+
+01:35:17.310 --> 01:35:19.851
+Put this over here.
+
+01:35:19.871 --> 01:35:21.372
+283, that's the next page again.
+
+01:35:21.532 --> 01:35:22.492
+There's a quote from me.
+
+01:35:26.751 --> 01:35:27.871
+Let's look for it here.
+
+01:35:29.813 --> 01:35:36.636
+The owner to study coronavirus in a lab.
+
+01:35:36.696 --> 01:35:42.860
+Researchers don't pass cultures of virus like they do with bacteria or cell lines or mouse lines.
+
+01:35:43.080 --> 01:35:43.981
+If you cannot
+
+01:35:44.946 --> 01:35:48.807
+culture it, you cannot make enough to use as a stable laboratory model.
+
+01:35:49.308 --> 01:35:51.728
+Barrick's techniques made this a non-issue.
+
+01:35:51.748 --> 01:35:52.809
+And so that is correct.
+
+01:35:53.289 --> 01:35:56.090
+Barrick's techniques are not special to him though.
+
+01:35:56.130 --> 01:36:01.272
+It's just transfecting cell cultures with what they purport to be as viral constructs.
+
+01:36:02.352 --> 01:36:13.196
+And he worked out the minimum viral construct that was necessary in order to get viral production, exosome production, packaging of mRNA or, or, or DNA.
+
+01:36:14.491 --> 01:36:20.414
+And people have been working on that for a long time and claiming that that's animal virology and it's not animal virology.
+
+01:36:21.994 --> 01:36:26.015
+It's molecular biology of some kind or another, but it's not virology.
+
+01:36:26.075 --> 01:36:35.157
+These are not independent entities, you know, RNA molecules that are doing what they want to do despite our best effort to stop them.
+
+01:36:35.217 --> 01:36:36.178
+That's ridiculous.
+
+01:36:36.758 --> 01:36:38.458
+And so again, this is clone stuff.
+
+01:36:38.498 --> 01:36:44.460
+It's pretty good, but it's not perfect because at that time they were still trying to take as much as they could out of context.
+
+01:36:44.480 --> 01:36:44.460
+310.
+
+01:36:44.500 --> 01:36:48.421
+310 is the next reference.
+
+01:36:51.365 --> 01:36:53.066
+Hmm, here's an interesting.
+
+01:36:53.186 --> 01:37:00.249
+Jonathan Cooey similarly observes, the fact that Fauci and NIH turned down DASAC's proposal is irrelevant.
+
+01:37:00.269 --> 01:37:06.672
+The proposal itself is evidence that the work may have already been done, as that's how modern research is conducted and funded.
+
+01:37:06.712 --> 01:37:13.116
+The government's official claim that it rejected DASAC's proposal makes for a convenient public denial that the work was never done.
+
+01:37:13.136 --> 01:37:13.356
+And this
+
+01:37:14.076 --> 01:37:20.342
+probably was sufficient reassurance for 90% of the curious population, since most people don't understand the grant-making process.
+
+01:37:20.822 --> 01:37:25.647
+But any working scientist will view this narrative with skepticism.
+
+01:37:26.187 --> 01:37:39.460
+Now, interestingly enough, that actually statement is derived from the podcast with Charles Rixey, where I actually made that revelation in my head live.
+
+01:37:40.287 --> 01:37:48.691
+that I realized that, hey, you know, if this diffuse proposal is real, if it's real, like Charles Rixey says, I mean, he came all the way to my house.
+
+01:37:48.731 --> 01:37:51.293
+He was sitting right next to me claiming that it was real.
+
+01:37:51.933 --> 01:38:03.399
+And so on that podcast, I said, if it's real, remember when that is, January of 2022, he came to my house and I podcasted and said that out loud.
+
+01:38:03.859 --> 01:38:04.360
+And now,
+
+01:38:05.413 --> 01:38:17.560
+In February of 2022, see, in February of 2022, we have Robert Malone talking to Andrew Huff, and Andrew Huff seems to be scripted to say exactly the same thing.
+
+01:38:18.160 --> 01:38:25.905
+Then in April of 2022, Senator Ron Johnson and Robert F. Kennedy Jr.
+
+01:38:25.965 --> 01:38:34.670
+call me and say that they saw that crazy stream on January of 2022 with Charles Rixey, and you're a really brilliant guy, and Robert Malone said we should call you.
+
+01:38:37.955 --> 01:39:02.346
+And then in November of 2024, the guy who called me chemtrail retarded and said that I was Barrick's bitch boy goes on a huge podcast and says exactly the same thing that I was quoted as saying in this book and tells people that Charles Rixey helped with the writing of this book rather than me.
+
+01:39:02.606 --> 01:39:06.248
+Even though I'm quoted like six times in the book, I've only read three to you today.
+
+01:39:08.154 --> 01:39:09.555
+This book is American history.
+
+01:39:10.156 --> 01:39:19.783
+This book could actually bring down the Trump administration and the fraud that is the anti-vax movement in America and Robert F. Kennedy Jr.
+
+01:39:19.823 --> 01:39:21.184
+and all of them underneath him.
+
+01:39:21.224 --> 01:39:22.225
+It could bring them all down.
+
+01:39:22.285 --> 01:39:23.145
+This book right here.
+
+01:39:23.245 --> 01:39:26.428
+Buy it now while it's still available.
+
+01:39:26.468 --> 01:39:28.129
+And if you want to, send it to my P.O.
+
+01:39:28.189 --> 01:39:30.571
+box and I'll sign it and then send it to you.
+
+01:39:36.567 --> 01:39:37.108
+No problem.
+
+01:39:38.069 --> 01:39:43.594
+Sentences that start with maybe, we have another enzyme with things that start with there, which is a couple more letters.
+
+01:39:43.754 --> 01:39:44.455
+Oh yeah, that's right.
+
+01:39:44.495 --> 01:39:45.216
+Let's keep reading.
+
+01:39:46.237 --> 01:39:50.161
+The next quote of Jonathan Cooey in this book.
+
+01:39:50.421 --> 01:39:51.822
+Hmm, let's see here.
+
+01:39:53.304 --> 01:39:54.705
+Where's the index and the Cooey?
+
+01:39:54.725 --> 01:39:54.705
+310, 319.
+
+01:40:01.149 --> 01:40:01.649
+Interesting.
+
+01:40:01.690 --> 01:40:07.895
+So he's doing an analogy right now about restriction enzymes and how they cut different words.
+
+01:40:08.475 --> 01:40:10.977
+And he says something really pretty shabby.
+
+01:40:11.518 --> 01:40:14.120
+But let me see if I can get it there without screwing up the presentation.
+
+01:40:14.140 --> 01:40:20.365
+We're going to use those enzymes to cut here in a paragraph, knowing that the paragraphs that have sentences that start with the, we're going to cut with this enzyme.
+
+01:40:20.905 --> 01:40:26.270
+And the ones that have sentences that start with maybe, we have another enzyme with things that start with their.
+
+01:40:26.890 --> 01:40:33.371
+OK, so let's go to 319 in the book, another quote from me, and see what we find in 319.
+
+01:40:34.892 --> 01:40:44.974
+As Jonathan Cooey explains, the magic of Barrick's no-see-um technique is to invisibly weave these telltale spelling changes into the viral sequence between relevant genes without altering the viral protein.
+
+01:40:45.674 --> 01:40:50.035
+This is like changing the spelling of the word without changing its pronunciation or meaning.
+
+01:40:50.075 --> 01:40:52.215
+The casual listener will never notice the difference.
+
+01:40:52.856 --> 01:40:53.796
+Cooey continues.
+
+01:40:54.796 --> 01:40:58.540
+Consider how a Brit would spell color, maneuver, or pediatric.
+
+01:40:58.680 --> 01:41:02.164
+The choice to spell the word in a certain way can reveal your nation of origin.
+
+01:41:02.224 --> 01:41:08.891
+Similarly, these nearly imperceptible changes in the viral sequence give away the laboratory origins of this virus.
+
+01:41:09.512 --> 01:41:14.077
+Can you imagine that such an elegant explanation
+
+01:41:15.502 --> 01:41:41.731
+Using a word metaphor to show you how for example Amino acids can be spelled in different ways because the code is redundant and that analogy works so so well that it's like a home run and then what's so bizarre about the fact that the former director of Research and development for the human genome project has been scripted to lie about the contents of this book and
+
+01:41:42.538 --> 01:41:47.760
+on a huge podcast and others lie repeatedly on podcasts about this book.
+
+01:41:47.780 --> 01:41:49.400
+This is just the best example of it.
+
+01:41:50.381 --> 01:41:54.582
+The most succinct 10 minute example of the treachery that we are under.
+
+01:41:56.483 --> 01:42:04.385
+And so it's beyond debate that America is under attack by actors on social media.
+
+01:42:04.585 --> 01:42:10.047
+And unfortunately, some guy in Pittsburgh is one of the few who can list many of them
+
+01:42:11.243 --> 01:42:19.111
+because of personal experience, personal interaction, and their insistence on trying to convert me to their mythology.
+
+01:42:20.733 --> 01:42:26.979
+It's this book and their denial of it that is the perfect admission.
+
+01:42:30.140 --> 01:42:32.662
+which is a couple more letters onto the, right?
+
+01:42:32.702 --> 01:42:34.204
+And we're going to use those enzymes to cut.
+
+01:42:34.324 --> 01:42:35.645
+And so now we're supposed to be in 2025.
+
+01:42:35.925 --> 01:42:46.835
+Yeah, again, I don't have any background information, so like you could tell me anything, but everything you're saying sounds right to me, just based on what I have seen.
+
+01:42:47.275 --> 01:42:51.399
+Can I just back up a tiny bit and ask some practical questions about what EcoHealth Alliance was doing?
+
+01:42:51.439 --> 01:42:51.539
+Sure.
+
+01:42:52.900 --> 01:43:03.342
+before you got to the portion where they were acting as an Intel asset, which sounds right, you said they were compiling, collecting a library of viruses from around the world.
+
+01:43:04.142 --> 01:43:05.322
+How does that work?
+
+01:43:05.342 --> 01:43:16.804
+How do you collect a virus in a... So now they have him on Tucker Carlson explaining what I explained in this thing with three different references and six different quotes.
+
+01:43:17.344 --> 01:43:18.244
+Imagine that.
+
+01:43:18.304 --> 01:43:19.585
+They can't find anybody.
+
+01:43:19.665 --> 01:43:20.925
+Nobody will talk about it.
+
+01:43:21.596 --> 01:43:22.777
+Except for Andrew Huff.
+
+01:43:24.577 --> 01:43:27.099
+I'm sure Kevin McKernan would come on and talk about it too.
+
+01:43:28.559 --> 01:43:33.682
+You should really get Charles Rixey and Alex Washburn on here, because they know everything about it.
+
+01:43:34.002 --> 01:43:35.863
+Dan, for example, any country, how do you do that?
+
+01:43:36.303 --> 01:43:36.963
+Sure.
+
+01:43:37.503 --> 01:43:46.428
+I guess in my mind it's very straightforward, but typically first you form a relationship with the diplomatic mission, so the embassy, the consulate for the United States.
+
+01:43:47.288 --> 01:43:56.474
+they might refer you to either hospitals, professors, other academics, or companies in country, or maybe you already have those relationships from past work that you've done.
+
+01:43:57.034 --> 01:44:02.538
+You then go on a trip to that country, and you go sort of do an assessment of their laboratories.
+
+01:44:03.999 --> 01:44:06.740
+You collect sort of information, try to gauge, do these people have the capability?
+
+01:44:06.760 --> 01:44:07.661
+Do you know what they're doing?
+
+01:44:08.001 --> 01:44:09.842
+Are they going to spend our money wisely?
+
+01:44:09.882 --> 01:44:14.926
+So it's a business trip, and it's very business focused, and you're assessing their capabilities.
+
+01:44:15.706 --> 01:44:21.349
+Then once you have a good feeling with their capabilities, you begin the contracting process with that foreign entity.
+
+01:44:21.709 --> 01:44:27.672
+And if you're doing everything by the book, you run these people through US government systems to make sure they're not terrorists or evil people.
+
+01:44:27.692 --> 01:44:29.072
+So we're not giving money to terrorists.
+
+01:44:29.232 --> 01:44:30.713
+That didn't happen at Equal Health Alliance.
+
+01:44:30.753 --> 01:44:31.293
+It did not happen.
+
+01:44:31.333 --> 01:44:32.094
+It did not happen.
+
+01:44:32.694 --> 01:44:34.735
+I found out about that after the fact as well.
+
+01:44:35.355 --> 01:44:37.616
+But we try to figure out who these people are.
+
+01:44:37.696 --> 01:44:40.718
+And then if they're capable, oftentimes it's universal.
+
+01:44:40.758 --> 01:44:42.618
+So maybe they gave their money to terrorists.
+
+01:44:42.658 --> 01:44:43.439
+Wow, that's crazy.
+
+01:44:44.179 --> 01:44:50.126
+You know, either the ag school or at a foreign university, the veterinary school or human medical center.
+
+01:44:51.309 --> 01:45:00.095
+Then we formulate the contract, we send them the cash, and then they would either go out and collect the samples or we would travel or have our personnel travel to go collect the samples.
+
+01:45:00.795 --> 01:45:07.780
+Have you ever considered the possibility that it's funny that he talks about Zika when he kind of has a microencephaly-shaped head?
+
+01:45:08.661 --> 01:45:10.842
+If we're talking about bats, it depends what species you're dealing with.
+
+01:45:10.902 --> 01:45:11.302
+Right.
+
+01:45:11.322 --> 01:45:16.366
+If you're dealing with bats, you set nets or traps in a bat cave, for example.
+
+01:45:18.069 --> 01:45:27.674
+You catch the bat in the net, and then you go out there in your personal protective equipment, and you take fecal swabs, blood, saliva from the animal.
+
+01:45:28.394 --> 01:45:36.118
+And then you then package that so that the DNA will not be degraded and transport back to the laboratory.
+
+01:45:36.778 --> 01:45:38.779
+And then depending... Where's the laboratory?
+
+01:45:39.119 --> 01:45:40.540
+Well, it depends on what country you're working in.
+
+01:45:40.680 --> 01:45:44.301
+So every country had, we had different agreements with contractually.
+
+01:45:44.321 --> 01:45:49.843
+I mean, don't you know, the HIV virus was smuggled in an Eppendorf tube in the pocket of somebody back then.
+
+01:45:49.863 --> 01:45:52.204
+I mean, this stuff is normal, dude.
+
+01:45:52.824 --> 01:46:05.069
+I mean, remember that Zhengxiao Chao, whatever her name is from Canada that had like a three antibody cocktail that they were testing, she just disappeared and she was also smuggling viruses.
+
+01:46:07.116 --> 01:46:09.957
+about who owned the samples, who would store the samples.
+
+01:46:11.018 --> 01:46:12.078
+Yeah, DNA, that's right.
+
+01:46:12.158 --> 01:46:13.159
+DNA, you're right.
+
+01:46:13.419 --> 01:46:15.120
+Katherine's, Christy's always on it.
+
+01:46:15.180 --> 01:46:16.020
+Christy's always on it.
+
+01:46:16.040 --> 01:46:18.021
+Yes, DNA, for that case, DNA, yes.
+
+01:46:18.061 --> 01:46:18.861
+She's advancing.
+
+01:46:19.302 --> 01:46:19.442
+Yes.
+
+01:46:19.462 --> 01:46:26.545
+Okay, so at one time in this type of research, you actually had to have the physical sample.
+
+01:46:27.185 --> 01:46:28.026
+Today, we're at a point
+
+01:46:29.066 --> 01:46:31.047
+You no longer have to have the physical sample.
+
+01:46:31.087 --> 01:46:35.989
+You can actually send the DNA or RNA code digitally to somebody else, and they can recreate it.
+
+01:46:36.309 --> 01:46:37.089
+So there you go.
+
+01:46:37.169 --> 01:46:38.090
+That's what he's saying.
+
+01:46:38.170 --> 01:46:42.632
+They can print DNA and then transfect cells and call it virology.
+
+01:46:43.172 --> 01:46:52.756
+And when they print or when they manufacture DNA using more primitive methods like recombinant bacterial cultures and recombinant DNA that way,
+
+01:46:53.616 --> 01:47:05.987
+They make a pure quantity that would otherwise never exist in nature, a very pure quantity relative to whatever would exist in nature, whatever would exist as a consequence of the sequence that they claim to have found.
+
+01:47:06.788 --> 01:47:15.175
+And so I am not even willing to go far enough to debate whether viruses or these signals are derived from real signals.
+
+01:47:15.976 --> 01:47:35.346
+What I want you to see is that unless they do the work necessary to prove to you that this signal is a real signal, that they can find repeatedly, and that the signal can be characterized, and it has a variability around an average, and then they make that average and put it in a cell culture, and then they get something.
+
+01:47:35.786 --> 01:47:37.487
+I mean, none of that happens.
+
+01:47:38.433 --> 01:47:46.359
+It is actually just the production of large pure quantities of DNA or RNA and then transfecting cell cultures with it.
+
+01:47:46.459 --> 01:47:48.861
+And that's what virus, virology has become.
+
+01:47:49.361 --> 01:47:52.143
+And he's saying that here without actually saying it.
+
+01:47:52.964 --> 01:48:07.815
+He's not actually telling you that they are using very rudimentary human genome project derived technologies to create pure DNA sequences and try to understand how cells package genetic signals.
+
+01:48:09.588 --> 01:48:12.129
+and the consequences of it, at best.
+
+01:48:12.750 --> 01:48:13.970
+At best, that's what they're doing.
+
+01:48:14.751 --> 01:48:18.773
+At worst, they are completely creating a fake field.
+
+01:48:18.873 --> 01:48:20.054
+I don't think it's that bad.
+
+01:48:20.094 --> 01:48:21.634
+I think it's more malevolent than that.
+
+01:48:21.674 --> 01:48:22.415
+I think they know.
+
+01:48:23.436 --> 01:48:25.178
+that cellular signaling occurs.
+
+01:48:25.238 --> 01:48:27.701
+I think they know that bacterial signaling occurs.
+
+01:48:28.142 --> 01:48:40.838
+I think they know that bacteriophage signaling occurs and overwhelms any potential animal virus signal that there might be in nature, which I don't think there probably is any meaningful signal that way.
+
+01:48:41.318 --> 01:48:49.987
+The vast majority of viral signals that we should be concerned with are derived from and interacting with our microbiome and the other bacteria around us.
+
+01:48:50.187 --> 01:48:53.370
+And we know that from all the bacterial research that's ever been done.
+
+01:48:53.891 --> 01:49:02.279
+And so the idea that David Baltimore and Vincent Racaniello represent this virology of animal viruses is just ridiculous.
+
+01:49:02.359 --> 01:49:04.221
+And you can see it in the history
+
+01:49:04.881 --> 01:49:14.227
+of molecular biology because all of the big name guys that went into bacteria and bacteriophages did not go into animal viruses.
+
+01:49:15.448 --> 01:49:16.189
+They just didn't.
+
+01:49:17.489 --> 01:49:19.571
+They kind of just, everything faded out.
+
+01:49:20.531 --> 01:49:31.879
+And all of these Manhattan Project geniuses that went on to do molecular biology thinking that the last rules of the universe were to be found there, found nothing and gave up.
+
+01:49:32.950 --> 01:49:50.233
+And instead, a new group of people took over and created a whole mythology about animal viruses and animal virus diseases and public health while ignoring a preponderance of genetic signals derived from bacteria and their phages and bactericides.
+
+01:49:54.114 --> 01:49:54.334
+Huh.
+
+01:49:54.954 --> 01:49:58.414
+So this field has advanced tremendously over 10 years.
+
+01:49:58.834 --> 01:50:01.395
+And this is taking place as advancement while we're doing this work.
+
+01:50:02.890 --> 01:50:08.134
+Oftentimes the samples then were physically transported back to the United States or mailed or shipped.
+
+01:50:09.295 --> 01:50:13.499
+You can mail a deadly bat virus from a third world country to the US?
+
+01:50:13.639 --> 01:50:14.459
+No, the poop.
+
+01:50:14.920 --> 01:50:21.065
+No, we just mail the deadly virus poop and the swab that went in the virus butt, you know, or the bat butt.
+
+01:50:21.125 --> 01:50:22.266
+It's just so dumb.
+
+01:50:22.326 --> 01:50:23.226
+It's so dumb.
+
+01:50:23.467 --> 01:50:24.748
+Oh, commercial airlines.
+
+01:50:25.188 --> 01:50:27.170
+Oh my gosh, I'm never going to fly again.
+
+01:50:32.509 --> 01:50:32.749
+Oops.
+
+01:50:33.791 --> 01:50:39.340
+A manual from the CDC and USDA and HHS of how to transport sample.
+
+01:50:46.997 --> 01:50:50.120
+I was just checking my email because somebody said email there.
+
+01:50:50.200 --> 01:50:52.322
+I don't see any emails from Christie.
+
+01:50:52.342 --> 01:50:53.504
+So I'm going to assume that was not.
+
+01:50:53.524 --> 01:50:57.007
+So yes, there are rules and process of how you can so almost.
+
+01:50:57.027 --> 01:50:58.168
+Oh, yeah, yeah, yeah, yeah.
+
+01:50:58.208 --> 01:50:59.870
+You can send the sequence by email.
+
+01:50:59.890 --> 01:51:00.471
+Yes, correct.
+
+01:51:00.511 --> 01:51:00.751
+Sorry.
+
+01:51:01.932 --> 01:51:03.534
+Mail goes on commercial airliners.
+
+01:51:04.656 --> 01:51:09.339
+Typically, and there's really not a whole lot of risk from a collected sample.
+
+01:51:09.359 --> 01:51:14.202
+First of all, you don't even know at this point whether there's a new deadly virus present in the sample.
+
+01:51:14.222 --> 01:51:15.322
+In the bat shit or the saliva.
+
+01:51:15.342 --> 01:51:16.643
+Yeah, in the bat shit or the saliva.
+
+01:51:17.063 --> 01:51:17.624
+You have no clue.
+
+01:51:18.684 --> 01:51:29.511
+Once it gets back to the United States, then it goes to, at least at Equal Alliance, it would go to Ian Lipkin's laboratory at Columbia University, where he was a specialist in, he's a
+
+01:51:30.151 --> 01:51:33.715
+pretty well-known viral epidemiologists with really good lab chops.
+
+01:51:33.795 --> 01:51:37.160
+Ian Lipkin, he doesn't have any other baggage, right?
+
+01:51:39.253 --> 01:51:47.896
+Another doctor who worked with us named Simon Anthony would work with him to isolate, well, at first identify and isolate new viruses or novel viruses.
+
+01:51:47.916 --> 01:51:49.336
+So that's where it typically took place.
+
+01:51:50.077 --> 01:51:59.260
+Then the mechanics of this or operations of this, that information or sample would be sent to another laboratory like Ralph Baric's laboratory, where he would continue the work.
+
+01:51:59.280 --> 01:52:00.020
+Down at Chapel Hill.
+
+01:52:00.140 --> 01:52:01.461
+Chapel Hill and do the gait and function work.
+
+01:52:02.041 --> 01:52:04.842
+It's just, can I just approach this from an autistic perspective?
+
+01:52:05.242 --> 01:52:07.703
+So what you're saying is there are like,
+
+01:52:08.763 --> 01:52:17.841
+people around the world in bat caves in some faraway country sending potentially novel and dangerous viruses to New York City.
+
+01:52:19.744 --> 01:52:21.684
+like all the time, and people are not even aware of this.
+
+01:52:21.884 --> 01:52:30.446
+There's a huge, I wouldn't say huge, but I mean, a non-trivial amount of these types of samples being shipped around the world globally.
+
+01:52:30.806 --> 01:52:36.167
+And if they're properly contained and packaged, it's really not that much of a risk.
+
+01:52:36.187 --> 01:52:41.828
+And actually, Dr. Ralph Baric developed some of these methods of how to send what's called a chimeric virus on a sheet of paper.
+
+01:52:41.868 --> 01:52:44.269
+Can you say Dr. Ralph Baric again, please?
+
+01:52:45.228 --> 01:52:46.188
+which is low risk.
+
+01:52:47.789 --> 01:52:51.230
+The bigger risk becomes- But they were sending chimeric viruses everywhere.
+
+01:52:51.270 --> 01:52:54.711
+If you don't know what chimeric viruses are, you can look it up after this video, right?
+
+01:52:54.751 --> 01:52:56.872
+Because that's how the system works.
+
+01:52:56.892 --> 01:53:11.237
+When you start to clone or replicate that agent at scale, you know, human medicine, public health, epidemiology, transmission risk, now you look at this, you have to have a substantial quantity of a virus, which is- No!
+
+01:53:13.129 --> 01:53:15.031
+A substantial quantity of the virus?
+
+01:53:15.151 --> 01:53:15.471
+No.
+
+01:53:16.812 --> 01:53:24.618
+You have to have a substantial quantity of the DNA or RNA that represents the virus so that you can transfect a cell culture that will package it.
+
+01:53:25.819 --> 01:53:32.146
+so that you will have that DNA in small exosomes that you can use to do other things with it.
+
+01:53:32.826 --> 01:53:34.848
+And it might not even do it.
+
+01:53:35.229 --> 01:53:36.450
+It might not even package it.
+
+01:53:36.490 --> 01:53:43.517
+You might just dissociate all the cells and spin it all up and then put that supernatant or that entire
+
+01:53:44.218 --> 01:53:51.501
+Blended cell culture into the throat or the brain or the the animal model that you're using That's the extent to which we are doing.
+
+01:53:51.541 --> 01:53:53.402
+This is not virology.
+
+01:53:53.462 --> 01:53:58.124
+This is molecular biology recombinant DNA molecular biology
+
+01:53:59.091 --> 01:54:00.953
+masquerading as virology.
+
+01:54:00.993 --> 01:54:03.135
+And these people can't see the particles.
+
+01:54:03.616 --> 01:54:05.878
+They can't confirm what's being packaged.
+
+01:54:06.378 --> 01:54:10.943
+They only know that they put, as Andrew Huff said, they need a large quantity of the viruses.
+
+01:54:11.063 --> 01:54:15.548
+No, they need a large quantity of the DNA sequence that they got in the email.
+
+01:54:17.089 --> 01:54:21.594
+They need a large quantity of the DNA sequence that they want to find with PCR.
+
+01:54:22.878 --> 01:54:26.599
+that they want to develop antibodies to the protein that it encodes.
+
+01:54:26.659 --> 01:54:27.399
+That's what they need.
+
+01:54:27.440 --> 01:54:29.580
+They need the DNA in large quantities.
+
+01:54:31.041 --> 01:54:40.784
+He's telling you without telling you because he is on a script and he's telling you what I told pretty well in this book, despite their best efforts.
+
+01:54:42.202 --> 01:54:44.044
+Realize what I'm trying to say here.
+
+01:54:44.585 --> 01:54:53.855
+America might be able to break free of the social media trap that we're in, and it might be this book that could break us free.
+
+01:54:54.776 --> 01:54:56.558
+Because these are just actors on the internet.
+
+01:54:58.038 --> 01:55:08.926
+Substance mixed in the air be exposed to it to become infected with it because you have an immune system that works Okay, and sometimes you get exposed to these things You don't even know it because your immune system fights it off, right?
+
+01:55:09.046 --> 01:55:18.934
+So the I think sometimes the risk is overblown and the fear around transport I did a bike ride about chimeric viruses on my on my JC on a bike channel.
+
+01:55:19.034 --> 01:55:24.678
+Don't don't misunderstand I'm not claiming that I knew this back then chimeric viruses made perfect sense to me.
+
+01:55:24.698 --> 01:55:25.739
+Of course, they made it and
+
+01:55:27.217 --> 01:55:29.560
+I think most of the time that's actually pretty low risk.
+
+01:55:29.580 --> 01:55:44.595
+There's been a series of transporting accidents which occurred from 2008 to 2012 or 14, I want to say, which actually led to the ban or partial ban on gain of function research.
+
+01:55:44.695 --> 01:55:45.536
+What kind of accidents?
+
+01:55:46.422 --> 01:55:55.569
+One of the high-profile ones was that I think it was Bacillus anthracis was being shipped from one of our US government BSL for a laboratory.
+
+01:55:55.629 --> 01:55:56.770
+That's anthrax.
+
+01:55:57.870 --> 01:55:59.872
+He didn't say it very well, but that's anthrax.
+
+01:55:59.932 --> 01:56:05.596
+He's under CDC control to another laboratory and it went missing and they found it.
+
+01:56:07.116 --> 01:56:07.717
+sitting in the corner.
+
+01:56:07.737 --> 01:56:08.938
+Some porch pirate stole it?
+
+01:56:08.958 --> 01:56:20.032
+No, it wasn't a porch pirate, but they found it someplace and it wasn't properly secured or completely off the- Yeah, I mean, we live in a world with like Chernobyl and misdiagnoses and I mean, I believe in science.
+
+01:56:20.073 --> 01:56:20.753
+I think there are a lot of
+
+01:56:21.992 --> 01:56:26.515
+you know, rigorous, responsible scientists, but, you know, people make mistakes.
+
+01:56:26.615 --> 01:56:30.217
+I mean, and over time and with scale, like, mistakes will happen, right?
+
+01:56:30.317 --> 01:56:37.582
+Well, and we actually dealt with this type of low probability, high consequence threat risk analysis all the time at San Diego National Laboratories.
+
+01:56:37.622 --> 01:56:41.665
+And the big issue is what you just brought up, the human and the Malupa.
+
+01:56:41.925 --> 01:56:49.810
+Usually the engineered systems, you can engineer those precisely to account for whatever probability or consequence of risk, but it's always the human
+
+01:56:50.470 --> 01:56:56.232
+making a decision or behavior action involved in the system that makes a mistake, which causes some kind of catastrophic failure.
+
+01:56:57.052 --> 01:56:57.632
+Well, yeah.
+
+01:56:57.892 --> 01:56:58.052
+Yeah.
+
+01:56:58.292 --> 01:56:58.852
+I mean, yeah.
+
+01:56:59.873 --> 01:57:00.853
+So, okay.
+
+01:57:00.953 --> 01:57:02.013
+I just was just interested.
+
+01:57:02.033 --> 01:57:08.675
+So then you say that the EcoHealth Alliance was compiling a library of these viruses?
+
+01:57:09.135 --> 01:57:10.195
+They'd be stored in one place?
+
+01:57:10.876 --> 01:57:11.456
+Well, yes.
+
+01:57:11.556 --> 01:57:14.097
+They had a digital library at EcoHealth Alliance.
+
+01:57:14.117 --> 01:57:19.158
+And then there's other systems that the US, or I should say, not only the United States,
+
+01:57:19.338 --> 01:57:28.701
+Of course, these digital libraries are what make it so that any, you know, buddy with a biology degree and some eBay equipment can make a gain-of-function virus in their garage.
+
+01:57:28.761 --> 01:57:44.027
+That's actually what Robert Malone told a group of people in a UK Parliament conference at one point in time in 2022, and said repeatedly on stage as part of his International COVID Summit series that spanned six different years.
+
+01:57:45.127 --> 01:57:53.295
+often with with Meryl Nass at his side with with Jessica Rose going as far as Finland and Romania and and and Japan.
+
+01:57:53.555 --> 01:57:59.420
+The global virologist community maintain of genetic information on viruses.
+
+01:58:02.453 --> 01:58:06.394
+but the actual viruses, the living organisms, were they stored anywhere?
+
+01:58:06.735 --> 01:58:18.739
+Typically, we were buying negative ADC centigrade freezers as fast as we could, or as many as we could afford, and storing those at Columbia University and other laboratories where these things go in the freezer and they set.
+
+01:58:18.759 --> 01:58:24.061
+And the one nice thing is if the freezer does fail, it usually destroys all the sample, the insects.
+
+01:58:24.081 --> 01:58:25.321
+They do have to be maintained cold.
+
+01:58:25.481 --> 01:58:28.222
+We thought this through when we started this podcast a year ago, and we decided
+
+01:58:29.560 --> 01:58:31.661
+Yeah, he's got sponsors and I'm not gonna watch him.
+
+01:58:32.941 --> 01:58:37.182
+Look, if everyone is on the script, then no one is looking for the truth, including you.
+
+01:58:37.262 --> 01:58:40.803
+And I know, I know from experience that that's how this works.
+
+01:58:40.904 --> 01:58:47.325
+I know from experience that they fool us into solving their mysteries and by doing so, we come to accept their monsters.
+
+01:58:49.086 --> 01:58:55.188
+And unfortunately, Pauly Tommy and Andrew Wakefield and Mary Holland and Brian Hooker are guilty of this.
+
+01:58:55.248 --> 01:58:58.409
+They are guilty of fooling us into solving their mysteries.
+
+01:58:59.409 --> 01:59:24.450
+and we accepted their monsters and now we are about to be face-planted because these mysteries and these monsters are all made up and they have been touring the world behind the scenes making sure that the narrative about the novel virus and about the novel vaccine is curated around the world everywhere where social media has a significant footprint these people have been
+
+01:59:25.282 --> 01:59:50.266
+There is no way to explain why Steven Hatfill and Brett Weinstein are on the same stage in November of 2023 with Denny Rancor and Byram Bridle and Jessica Rose and Harvey Reich and Nick Hudson of Panda and Robert Malone and Jill Glass Bloom Malone and Anthrax Barbie.
+
+01:59:52.634 --> 01:59:54.715
+of CHD Merrill Nass.
+
+01:59:54.755 --> 01:59:56.457
+There's just no way to explain this.
+
+01:59:57.717 --> 02:00:04.482
+Other than a very nefarious military operation coordinated around the State Department and NATO and DITRA.
+
+02:00:08.945 --> 02:00:11.907
+And coordinated by Robert Malone and Kevin McKernan, I think most of all.
+
+02:00:12.827 --> 02:00:15.329
+That's why they were in front of the Senate a couple months later.
+
+02:00:17.239 --> 02:00:32.226
+along with a lot of the same actors, including the guy, Senator Ron Johnson, that called me in 2022 and told me that Robert Malone said to watch my Rixey stream where I talked about the diffuse proposal being real and that they probably did some of the experiments because that's how grants are done.
+
+02:00:34.207 --> 02:00:35.507
+And that got in this book.
+
+02:00:35.788 --> 02:00:45.372
+And now suddenly everybody doesn't want me to talk anymore because I won't say that because I can explain how what's in this book is being distorted as just saying that.
+
+02:00:47.039 --> 02:00:53.565
+It's almost like they picked the good things that I said, but don't want to finish the story except the last quote says that they wouldn't even need a virus.
+
+02:00:54.906 --> 02:00:56.507
+So they kind of put it in there, but they didn't.
+
+02:00:56.607 --> 02:00:58.409
+That's why I think Robert F. Kennedy Jr.
+
+02:00:58.449 --> 02:00:59.990
+is just an elaborate hoax on us.
+
+02:01:00.050 --> 02:01:01.251
+He's like the Epi-Girl.
+
+02:01:02.312 --> 02:01:03.273
+The Epi-Girl joke.
+
+02:01:07.318 --> 02:01:16.883
+But it is very significant that no one on earth seems to care that this guy is told a verifiably false story about that Health and Human Services Secretary's Wuhan book in November of 2024.
+
+02:01:18.364 --> 02:01:34.672
+A 10 or 20 minute verifiably false story that was complimented by another 20 minute verifiably false story about the SV40 contamination in the transfection that this guy and Robert Malone and Brian Hooker will not call transfection.
+
+02:01:35.663 --> 02:01:37.919
+The old technology being recycled.
+
+02:01:41.442 --> 02:01:42.883
+That's where we are, ladies and gentlemen.
+
+02:01:42.943 --> 02:01:45.325
+That is actually where we are.
+
+02:01:45.425 --> 02:01:46.887
+I can name these people.
+
+02:01:46.987 --> 02:01:48.548
+These people are guilty.
+
+02:01:48.708 --> 02:02:08.425
+They should be prosecuted as frauds on the internet that have misled children and probably led to the damage and death for lots and lots of Americans and covered up the murder of lots and lots of Americans, including the opioid epidemic that they are indirectly responsible for perpetuating.
+
+02:02:09.105 --> 02:02:10.306
+It's a narrative trap.
+
+02:02:10.946 --> 02:02:25.714
+That's why he is here right now saying the same bullshit that they had Andrew Huff auditioning saying in 2022 and the same bullshit that they tried to take out of context and quote me as saying in this book.
+
+02:02:26.601 --> 02:02:28.802
+That quote is taken from the Rixey interview.
+
+02:02:28.862 --> 02:02:34.303
+It's not taken from a recent conversation with me and Robert F. Kennedy Jr.
+
+02:02:34.323 --> 02:02:38.665
+Because during the writing of the book, I was already telling them that the diffuse proposal was fake.
+
+02:02:39.365 --> 02:02:40.846
+They just wouldn't put it in the book.
+
+02:02:41.626 --> 02:02:43.246
+Because as Robert F. Kennedy Jr.
+
+02:02:43.326 --> 02:02:49.908
+told me in a Zoom meeting, this is a historic document, and so we have to record what people said and what people thought.
+
+02:02:50.389 --> 02:02:54.410
+And so that's for the next book, that the diffuse proposal is fake.
+
+02:02:55.523 --> 02:02:57.264
+Maybe he really meant that, but I doubt it.
+
+02:02:58.805 --> 02:03:02.266
+But it shows you that he's probably just an absolute puppet.
+
+02:03:02.306 --> 02:03:03.027
+He's a clown.
+
+02:03:03.447 --> 02:03:08.330
+He doesn't know how bad he's been used because Team Worst Case Scenario convinced him that he was a hero.
+
+02:03:09.010 --> 02:03:22.897
+Team Worst Case Scenario that was put in place to make sure that transfection would never be realized, and instead there would be all these myths about, you know, spike protein doing all kinds of nasty things, which would have already been expected from transfecting healthy people.
+
+02:03:25.285 --> 02:03:27.425
+That's why I have pictures with Jay Bhattacharya.
+
+02:03:28.206 --> 02:03:32.126
+It's because I did everything that I could and got very, very close to breaking them.
+
+02:03:32.226 --> 02:03:35.087
+And I'm right at the doorstep of breaking them now.
+
+02:03:35.147 --> 02:03:45.369
+Because again, if you just make your own timelines of the people that you think are heroes, you will find something very, very dark and very, very malevolent in those timelines.
+
+02:03:45.749 --> 02:03:47.029
+And you won't find it in mine.
+
+02:03:47.589 --> 02:03:50.890
+You're not going to find anywhere where I was doing this.
+
+02:03:51.030 --> 02:03:52.950
+I was fighting it from the very beginning.
+
+02:03:53.670 --> 02:04:03.035
+fighting the use of PCR as some kind of specific diagnostic, fighting the idea that mitochondrial damage or prion disease was being caused by a spike protein.
+
+02:04:03.075 --> 02:04:03.976
+That was absurd.
+
+02:04:04.596 --> 02:04:05.197
+And I knew it.
+
+02:04:06.457 --> 02:04:07.578
+I just didn't know why.
+
+02:04:09.448 --> 02:04:10.088
+But now I do.
+
+02:04:10.448 --> 02:04:14.010
+It's because pure oxygen causes acute respiratory distress.
+
+02:04:14.050 --> 02:04:19.653
+It's because PCR is not a useful diagnostic tool, but it's still being used in every hospital today.
+
+02:04:20.073 --> 02:04:25.596
+It's because antibiotics, not using them for pneumonia is a crime.
+
+02:04:25.636 --> 02:04:29.658
+And now that I know those facts, I can see that that's murder.
+
+02:04:30.802 --> 02:04:41.206
+Now that I know that opioids killed about, I don't know, 700,000 Americans under the age of 50 in America in the last five years, I can now see that that's kind of murder.
+
+02:04:42.787 --> 02:04:45.128
+And now all you need to do is answer the question, why?
+
+02:04:45.228 --> 02:04:47.649
+Why would Kevin McKernan of the Human Genome Project?
+
+02:04:47.669 --> 02:04:50.350
+Why would Claire Craig of the 100,000 Genomes Project?
+
+02:04:50.370 --> 02:04:55.792
+Why would a fake molecular biologist like Jessica Rose be so involved
+
+02:04:56.798 --> 02:05:13.090
+Why would an AI expert like Claire Craig and a genome expert like Claire Craig and an AI expert like a Bitcoin expert like Kevin McKernan be involved if it's not to collect the data that's only going to be here once in a multi-generational timeline.
+
+02:05:13.110 --> 02:05:19.575
+We're never going to have this much data to collect again because there will never be this many experimental animals on earth again.
+
+02:05:20.814 --> 02:05:28.843
+And they know that, so they want your grandchildren from birth to death, and they're going to get it in any way that they can, because it's the Human Genome Project.
+
+02:05:28.883 --> 02:05:42.658
+So they're definitely going to lie to you about a population pyramid, and they're definitely going to put a few cheap actors on social media to make sure that you blame everything on the novel virus that doesn't exist instead of on the transfection that should have never been used.
+
+02:05:45.247 --> 02:05:46.468
+because they need the data.
+
+02:05:46.888 --> 02:06:01.519
+More importantly, they need to test iterations of the collecting of the data, the processing of the data, the speed of the data acquisition, so that the machine learning algorithm, once they unleash it, can start to interface medical records with genomic data to see if there are any patterns.
+
+02:06:01.900 --> 02:06:05.122
+And then those predictions need to be validated.
+
+02:06:05.182 --> 02:06:08.545
+And so there's iterations that occur, just like the games of Go.
+
+02:06:09.586 --> 02:06:10.246
+They're not ready yet.
+
+02:06:11.937 --> 02:06:14.698
+They're still building the infrastructure necessary to do this.
+
+02:06:14.738 --> 02:06:15.918
+They tell you the truth.
+
+02:06:16.378 --> 02:06:20.939
+They told you the truth about this with the Trump administration building all these new AI centers.
+
+02:06:20.999 --> 02:06:22.479
+It's not for videos.
+
+02:06:23.940 --> 02:06:25.720
+It's for the Human Genome Project.
+
+02:06:27.620 --> 02:06:34.482
+There is no bigger game on Earth than the irreducible complexity of the human genome and the human biology that is us.
+
+02:06:35.262 --> 02:06:40.343
+Taking over the evolution of the species has always been their goal, always been their game.
+
+02:06:41.858 --> 02:07:04.003
+a few cheap anti-vax fake movements on the internet if that's all it takes to corral the Useless objection to it, then they'll do it for sure And I think these people in the middle row are the ones they're the Lollapalooza of liars and it goes all the way back to the beginning when the stooge
+
+02:07:06.041 --> 02:07:15.087
+The Stooge, Steve Bannon, streamed with Steve Hatfill, who would be on stage with all of these people five years later in Romania, or four years later in Romania.
+
+02:07:15.127 --> 02:07:21.812
+They all decided that they were going to take a gamble on Robert F. Kennedy Jr., because that's what the national security script required.
+
+02:07:22.232 --> 02:07:31.519
+They had a foolproof scripting crew, including a guy from the Human Genome Project, including two sons of the
+
+02:07:32.139 --> 02:07:39.625
+the intellectual property lawyer that helped modernize the FDA with the dad of the stooge that they were going to use.
+
+02:07:43.988 --> 02:07:45.790
+Everyone has a timeline, including me.
+
+02:07:45.850 --> 02:07:46.791
+I'm just proud of mine.
+
+02:07:46.831 --> 02:07:47.992
+They're not so proud of theirs.
+
+02:07:48.112 --> 02:07:50.093
+Mine reveals them as frauds.
+
+02:07:50.213 --> 02:07:52.915
+Mine reveals all of these people as actors.
+
+02:07:52.996 --> 02:07:55.658
+Mine reveals this as a national security
+
+02:07:56.866 --> 02:08:10.556
+organization operation that started with the recruiting of a scientist, Brian Hooker, back in around 2014, around the year that Brandy Vaughn was getting started funding her, founding her organization.
+
+02:08:11.497 --> 02:08:15.981
+And then years later, of course, they'd make lots of videos and make her feel like she was a part of things.
+
+02:08:16.901 --> 02:08:26.886
+Um, but in the end they would have to kill her and they would be the ones that would take over this, uh, little, this little movement and use it to propel the clown.
+
+02:08:27.427 --> 02:08:29.128
+Um, Robert F. Kennedy jr.
+
+02:08:29.188 --> 02:08:30.068
+Into the spotlight.
+
+02:08:30.128 --> 02:08:31.109
+And that's where we are now.
+
+02:08:31.149 --> 02:08:32.509
+They're not happy little accidents.
+
+02:08:32.549 --> 02:08:35.471
+They are a military contract that shows.
+
+02:08:36.010 --> 02:08:41.034
+Again, that this is a military project, not a public health project.
+
+02:08:41.294 --> 02:08:49.560
+And so Mary Talley Bowden is a doctor from Texas that was on my show in 2022 as part of the stream of people that was trying to convince me to go along with the narrative.
+
+02:08:50.221 --> 02:09:02.871
+And she is a doctor who claims that she used ivermectin to save lots of people's lives, but she also uses regularly PCR to diagnose 18 different viral diseases for which she treats them with ivermectin and other stuff.
+
+02:09:03.331 --> 02:09:05.613
+And so like Pierre Corey, she is on a script
+
+02:09:06.093 --> 02:09:13.695
+that she may not have the professional expertise to understand how dumb it is, but nevertheless, she's gone along with it.
+
+02:09:13.755 --> 02:09:16.475
+Nevertheless, she has gotten a lot of money and fame from it.
+
+02:09:16.915 --> 02:09:32.219
+And nevertheless, she's now got a podcast where she amplifies these other actors that have been in front of us for quite some time, including this absolute chump of a lawyer, Mendenhall, who was the lawyer for Grace Shara.
+
+02:09:33.223 --> 02:09:38.984
+who was probably primarily killed by supplementary oxygen and that was never even mentioned in the trial.
+
+02:09:39.525 --> 02:09:55.328
+And Scott Shara also unfortunately goes on as a scripted actor, came to my in-person gigaohm event and tried to sabotage it with a ridiculous South Park produced movie about Satan.
+
+02:09:56.349 --> 02:10:01.770
+And I didn't even let Joe Marshall or myself or Mark Kulak go on stage with him because of what he did.
+
+02:10:02.890 --> 02:10:16.418
+And now you can see very clearly my instincts were right because his lawyer is now, and he is now promoting this nonsense that the contamination of the shot has SB40 in it and they are covering it up.
+
+02:10:16.458 --> 02:10:26.925
+And they're not saying Biontech, and they're not saying that SB40 is in every molecular construct associated with recombinant DNA and every recombinant DNA manufacturing
+
+02:10:27.445 --> 02:10:29.007
+you know, facility on Earth.
+
+02:10:29.547 --> 02:10:44.080
+It might be one of the most abundant constructs in nature now that we use it the way that we use it, and they're pretending that the only possible source of this signal could be the contamination of the mRNA shots that Buckholter and McKernan have found for us.
+
+02:10:45.201 --> 02:10:45.942
+Stop lying!
+
+02:10:46.742 --> 02:10:48.124
+Stop lying!
+
+02:10:49.676 --> 02:10:50.336
+It gets worse.
+
+02:10:50.536 --> 02:10:56.037
+It's a countermeasure for military readiness.
+
+02:10:56.517 --> 02:10:57.697
+It says it right in there.
+
+02:10:57.758 --> 02:11:02.178
+So, you say that to people and they think you're crazy, like this is public health.
+
+02:11:02.418 --> 02:11:03.098
+No, it isn't.
+
+02:11:03.379 --> 02:11:10.120
+It's military, it's countermeasure, but they had requirements nevertheless to have a safe and effective product for us.
+
+02:11:10.600 --> 02:11:11.880
+And that is not what we got.
+
+02:11:12.160 --> 02:11:13.780
+And we are not military, by the way.
+
+02:11:13.981 --> 02:11:14.741
+I'm a private citizen.
+
+02:11:18.134 --> 02:11:19.757
+It's almost like he might be military.
+
+02:11:19.938 --> 02:11:20.739
+And where is this?
+
+02:11:20.820 --> 02:11:22.222
+This is on Substack, right?
+
+02:11:23.479 --> 02:11:28.483
+Watch more for Mary Bowden on substack.com, which of course is one of these very fraudulent.
+
+02:11:28.503 --> 02:11:37.650
+SV40 was intentionally put in there, in the plasmid base, because it actually causes the E. coli to grow rapidly.
+
+02:11:37.690 --> 02:11:41.173
+It does not cause the E. coli to grow.
+
+02:11:41.293 --> 02:11:46.957
+So again, if this is a real scholar trying to win, then he's on a pretty stupid script.
+
+02:11:47.798 --> 02:11:52.782
+SV40 causes the bacteria to replicate the plasmid that it's in.
+
+02:11:53.562 --> 02:12:02.567
+So if you want a bacteria to make lots of copies of the DNA plasmid that you put into the bacterial culture, you use S40 to do it.
+
+02:12:02.627 --> 02:12:10.871
+Because then when the bacteria divides, there will be lots of plasmids in the sister cells.
+
+02:12:12.292 --> 02:12:20.636
+If you don't have a strong promoter of plasmid copying, then in the end this artificial chromosome won't be copied.
+
+02:12:21.493 --> 02:12:22.333
+Because that's what it is.
+
+02:12:22.393 --> 02:12:23.214
+It's a plasmid.
+
+02:12:23.434 --> 02:12:29.757
+It's an artificial bacterial artificial chromosome that gets copied because that's what bacteria do to their chromosomes when they're dividing.
+
+02:12:29.797 --> 02:12:33.879
+And so SV40 does not cause the freaking bacteria to grow.
+
+02:12:33.939 --> 02:12:36.300
+It causes them to copy the recombinant DNA.
+
+02:12:36.320 --> 02:12:43.164
+It's a central part of producing a large quantity of RNA or DNA using recombinant methods.
+
+02:12:44.346 --> 02:12:45.907
+And this is not a surprise.
+
+02:12:46.568 --> 02:12:48.610
+This is how it's been done for 20 years.
+
+02:12:49.250 --> 02:12:53.974
+And so for any of these people to say that this contamination was unexpected.
+
+02:12:54.535 --> 02:12:55.276
+Stop lying!
+
+02:12:55.776 --> 02:13:00.960
+To say that they didn't know that this would happen from the very beginning like Mike Yeadon pretends to do.
+
+02:13:01.021 --> 02:13:01.301
+Stop!
+
+02:13:03.582 --> 02:13:27.588
+to pretend that that every single recombinant protein has to you didn't know that every single recombinant protein produced by these methods goes through a step to remove all the DNA and RNA and that that step can't be used to produce a transfection agent like this to pretend that none of these people could have known that that's ridiculous
+
+02:13:28.484 --> 02:13:42.439
+And yet here we now have a scripted actor from Texas and a scripted actor from wherever he is enacting a podcast script that Kevin McKernan has found contamination and these people lied about it.
+
+02:13:44.800 --> 02:13:48.263
+of SV40 that they put in there and it makes things grow.
+
+02:13:48.403 --> 02:13:58.492
+Well, cancer is uncontrolled growth, so it almost makes sense, logically, just from a common sense, non-scientific view, you don't want to mess around with SV40.
+
+02:13:58.612 --> 02:14:00.433
+It's triggering growth of cells.
+
+02:14:00.513 --> 02:14:00.734
+Well,
+
+02:14:01.394 --> 02:14:05.677
+It's maybe it's good cells, maybe it's bad cells, but it's triggering growth of cells.
+
+02:14:06.178 --> 02:14:07.819
+And I think that's the key to this.
+
+02:14:08.039 --> 02:14:10.321
+And and then Kevin is very clear about.
+
+02:14:10.501 --> 02:14:12.822
+I think Brooke Jackson is probably a victim here.
+
+02:14:13.043 --> 02:14:17.166
+I mean, she probably is a whistleblower that now needed to be controlled.
+
+02:14:17.246 --> 02:14:18.627
+And so she is being controlled.
+
+02:14:18.667 --> 02:14:19.047
+I don't know.
+
+02:14:19.547 --> 02:14:21.489
+She just isn't getting enough popularity.
+
+02:14:21.529 --> 02:14:22.890
+She's not making a lot of money.
+
+02:14:22.950 --> 02:14:25.552
+She I don't know if she knows she has a book or anything like that.
+
+02:14:26.112 --> 02:14:47.182
+And all of these people are always standing in front of her and kind of telling her story for her, so... Somehow or another, Brooke Jackson's not very high on my list of meddlers, but these two shitheads, especially Mendenhall, because I've met him in person at the Brownstone Institute and talked to him about strict scrutiny, and he kind of laughed at me, along with that Bobby Ann Cox, who's also a fraud.
+
+02:14:48.198 --> 02:15:05.543
+And because I've had married Tally Bowden on my show four years ago, and because I've tried to communicate with her since, I'm pretty sure that, you know, her getting on the Danny Jones podcast with Dr. Krause or Dr. Cruz and Callie Means was not by accident, but again, scripted.
+
+02:15:05.963 --> 02:15:07.623
+And now she's got her own podcast.
+
+02:15:08.063 --> 02:15:08.964
+And so it's pretty funny.
+
+02:15:08.984 --> 02:15:13.325
+The fact that they knew the SV40 segment was in there,
+
+02:15:14.225 --> 02:15:25.616
+And they hid that in the documents that they presented to the European Medicines Agency, to the FDA, to all the pharmaceutical regulators.
+
+02:15:27.698 --> 02:15:31.202
+And so we're supposed to believe, again, that this is all accidental.
+
+02:15:32.043 --> 02:15:32.903
+We just got lucky.
+
+02:15:33.792 --> 02:15:41.318
+In reality, sorry, in reality what you have here is, what do I want, this one?
+
+02:15:42.639 --> 02:15:42.979
+This one?
+
+02:15:44.620 --> 02:15:44.940
+This one?
+
+02:15:45.941 --> 02:15:50.765
+Playback, automatically, loop, and slideshow, current slide.
+
+02:15:52.005 --> 02:15:59.351
+So what we have here is that two days ago, this is the only video that there is of it because apparently Andrew Huff had some technical problems, but
+
+02:16:00.768 --> 02:16:06.854
+Mary Talley Bowden was going to interview Andrew Huff about food supply issues.
+
+02:16:06.934 --> 02:16:22.348
+Now remember, food supply issues is what he was interviewed with CHD about all those years ago in 2022 with that Shabab Muhammad from South Africa.
+
+02:16:23.393 --> 02:16:33.298
+Like he was on talking about food supply contamination or food supply chain something something.
+
+02:16:34.439 --> 02:16:38.481
+And now we're supposed to believe that he's on Tucker Carlson and it's all good.
+
+02:16:40.302 --> 02:16:41.842
+What a long strange trip has been.
+
+02:16:41.902 --> 02:16:46.505
+Ladies and gentlemen, PCR is still used as a viral diagnostic and nobody cares.
+
+02:16:46.565 --> 02:16:48.146
+The FDA doesn't give a shit.
+
+02:16:48.979 --> 02:16:53.603
+that the illusion was created using these tests and no one's investigated it.
+
+02:16:53.683 --> 02:16:58.267
+The fraud of 2020, 21, 22 is not being investigated.
+
+02:16:58.367 --> 02:17:04.473
+Instead, everybody's focused on the mRNA and cancer and something, something in Israel.
+
+02:17:05.033 --> 02:17:07.535
+No one is going for the actual fraud.
+
+02:17:08.296 --> 02:17:09.317
+And it's interesting, right?
+
+02:17:09.337 --> 02:17:15.542
+That we have all these good guys at the head of all these agencies, but nobody's going for the fraud that was actually used against us.
+
+02:17:16.343 --> 02:17:22.647
+And instead, PCR is still being used widely as a diagnostic with no scrutiny at all.
+
+02:17:22.707 --> 02:17:24.008
+Nobody gives a shit anymore.
+
+02:17:24.448 --> 02:17:26.029
+It's just the gold standard now.
+
+02:17:28.770 --> 02:17:35.975
+Very similarly to how the vast majority of Americans have accepted that the transfection, called a COVID vaccine, worked.
+
+02:17:36.655 --> 02:17:37.896
+That the mRNA worked.
+
+02:17:38.789 --> 02:17:49.814
+And so the vaccine schedule will be expanded, and it will never be questioned, and any questioning will be neutralized because there will be clowns on your team.
+
+02:17:50.314 --> 02:18:06.782
+Because if you question the vaccines, you will be on the same team as Soph, the same team as Mary Holland, the same team as Robert F. Kennedy Jr., and the same team as Corey, Pierre Corey, the same team as Andrew Wakefield, the same team as Alex Jones.
+
+02:18:08.493 --> 02:18:14.037
+And that's by design, because there is no epidemiological evidence of spread, so everybody who can explain it is gone.
+
+02:18:18.901 --> 02:18:21.983
+Anticipated rise in all-cause mortality, ladies and gentlemen.
+
+02:18:22.023 --> 02:18:24.825
+It's super visible in the population pyramid.
+
+02:18:24.885 --> 02:18:28.748
+It's just frustratingly visible in the population pyramid.
+
+02:18:28.828 --> 02:18:32.531
+I'm going to play a tune, and then I think I'm going to call it a wrap.
+
+02:18:35.393 --> 02:18:38.395
+I think, yeah, I'm going to play a tune and I'm going to call it a wrap.
+
+02:18:39.275 --> 02:18:40.456
+I love you guys very much.
+
+02:18:40.776 --> 02:18:43.918
+Let me just scan ahead here and make sure I got some good slides to come.
+
+02:18:43.978 --> 02:18:44.338
+I do.
+
+02:18:46.239 --> 02:18:46.820
+Thanks for being here.
+
+02:18:46.840 --> 02:18:47.580
+I'll see you again tomorrow.
+
+02:18:48.441 --> 02:18:52.583
+Don't forget it's Rocktober for a few more days, so expect some good music.
+
+02:18:52.703 --> 02:18:55.625
+I hope I have it lined up right, and be well.
+
+02:19:22.910 --> 02:19:23.616
+Oh, well
+
+02:19:57.925 --> 02:19:59.440
+Won't you drown the hate?
+
+02:22:37.748 --> 02:22:37.828
+you
+
